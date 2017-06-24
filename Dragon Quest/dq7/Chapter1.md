@@ -573,7 +573,7 @@ Vocation EXP Level Limit: 8
 ### Available Items
 
 * Estard Town
-  * *Wholly Holy Water* - Pike's House
+  * **Wholly Holy Water** - Pike's House
 * Rainbow Mines
   * Antidotal Herb - Barrel
   * 13G - Barrel
@@ -880,7 +880,7 @@ Net: 718 G
 
 ### Available Items
 
-* *Prism Dew* - Blue Shrine Teleport
+* **Prism Dew** - Blue Shrine Teleport
 * 420G - Near Teleportal Location
 * Mini Medal - Return Little Blue Button from Inn Sign to boy in NE corner
 * Magic Water - NW Corner Pot
@@ -1448,88 +1448,88 @@ Sellable: 1640G
     <th>Effects</th>
   </tr>
   <tr>
-    <th>Stone Fangs</th>
-    <th>340G</th>
-    <th>12</th>
-    <th>3</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
+    <td>Stone Fangs</td>
+    <td>340G</td>
+    <td>12</td>
+    <td>3</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr>
-    <th>Giant Mallet</th>
-    <th>410G</th>
-    <th>14</th>
-    <th>-5</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
+    <td>Giant Mallet</td>
+    <td>410G</td>
+    <td>14</td>
+    <td>-5</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
   </tr>
   <tr>
-    <th>Boomerang</th>
-    <th>650G</th>
-    <th>15</th>
-    <th>5</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>This winged weapon can be used to attack all enemies at once</th>
+    <td>Boomerang</td>
+    <td>650G</td>
+    <td>15</td>
+    <td>5</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>This winged weapon can be used to attack all enemies at once</td>
   </tr>
   <tr>
-    <th>Stone Axe</th>
-    <th>810G</th>
-    <th>19</th>
-    <th>4</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>+</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
+    <td>Stone Axe</td>
+    <td>810G</td>
+    <td>19</td>
+    <td>4</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
   </tr>
   <tr>
-    <th>Iron Lance</th>
-    <th>1000G</th>
-    <th>23</th>
-    <th>8</th>
-    <th>+</th>
-    <th>-</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>-</th>
+    <td>Iron Lance</td>
+    <td>1000G</td>
+    <td>23</td>
+    <td>8</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
   </tr>
 </table>
 
 <table>
   <tr>
-      <th colspan="11">Past: Frobisher Armour Shop</th>
+      <th colspan="11">Past: Frobisher Armour Shop</td>
   </tr>
   <tr>
-    <th>Item</th>
-    <th>Cost</th>
-    <th>DEF</th>
-    <th>Style</th>
-    <th>He</th>
-    <th>Ma</th>
-    <th>Ki</th>
-    <th>Ru</th>
-    <th>Me</th>
-    <th>Ai</th>
-    <th>Effects</th>
+    <td>Item</td>
+    <td>Cost</td>
+    <td>DEF</td>
+    <td>Style</td>
+    <td>He</td>
+    <td>Ma</td>
+    <td>Ki</td>
+    <td>Ru</td>
+    <td>Me</td>
+    <td>Ai</td>
+    <td>Effects</td>
   </tr>
   <tr>
     <td>Scale Armour</td>
