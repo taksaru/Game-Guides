@@ -2,10 +2,6 @@
 
 ## Present: Pilchard Bay
 
-Max Equip: 40G
-
-* 1 Pot Lid
-
 ### Available Items
 
 * 3G - Barrel Next to House
@@ -24,6 +20,10 @@ Max Equip: 40G
 * Cypress Stick - Ship Hold Chest
 * 15G - Ship Hold Pot
 * Chimaera Wing - Ship Kitchen Pot
+
+### Max Equip: 40G
+
+* 1 Pot Lid               40G
 
 ### Stores
 
@@ -257,20 +257,20 @@ Max Equip: 40G
 
 Vocation EXP Level Limit: 5
 
-Max Equip: 870G
+### Max Equip: 870G
 
-* 2 Copper Swords
-* 2 Leather Armours
-* 1 Leather Shield
+* 2 Copper Swords         440G
+* 2 Leather Armours       140G
+* 1 Leather Shield        70G
 
-Sellable: 102 G
+### Sellable: 102 G
 
 * 2 Cypress Stick         10 G
 * 3 Plain Clothes         45 G
 * 1 Rags                  12 G
 * 1 Wayfarer's Clothes    35 G
 
-Net: 768G
+#### Net: 768G
 
 ### Available Items
 
@@ -422,17 +422,6 @@ Vocation EXP Level Limit: 7
 
 ## Present: Ballymolloy
 
-Max Equip: 410 G
-
-* Giant Mallet            410 G
-
-Sellable Items: 115 G
-
-* 1 Cypress Stick         5 G
-* 1 Copper Sword          110 G
-
-Net: 295 G
-
 ### Available Items
 
 * Shoreside Shrine
@@ -445,6 +434,17 @@ Net: 295 G
   * 25G - Outside Stable Pot
   * Leather Hat - Next to Tower Closet
   * Antidotal Herb - Tower 3F Pot
+
+### Max Equip: 410 G
+
+* Giant Mallet            410 G
+
+### Sellable Items: 115 G
+
+* 1 Cypress Stick         5 G
+* 1 Copper Sword          110 G
+
+#### Net: 295 G
 
 ### Stores
 
@@ -581,26 +581,9 @@ Vocation EXP Level Limit: 8
 * Estard Castle
   * Seed of Agility - Pot next to Fragment beneath Balcony
 
-
 ## Past: Emberdale
 
 Vocation EXP Level Limit: 9
-
-Max Equip: 1700 G
-
-* 1 Scale Shield
-* 1 Leather Dress
-* 1 Thorn Whip
-* 1 Pointy Hat
-
-Sellable: 244 G
-
-* Wayfarer's Clothes      35 G
-* Bronze Knife            75 G
-* 2 Leather Hats          64 G
-* 2 Leather Shields       70 G
-
-Net: 1456G
 
 ### Available Items
 
@@ -611,6 +594,22 @@ Net: 1456G
 * Magic Water - NE Corner Pot
 * Antidotal Herb - North House Barrel
 * Pointy Hat - North House Drawer
+
+### Max Equip: 1700 G
+
+* 1 Scale Shield          180G
+* 1 Leather Dress         680G
+* 1 Thorn Whip            770G
+* 1 Pointy Hat            70G
+
+### Sellable: 244 G
+
+* Wayfarer's Clothes      35 G
+* Bronze Knife            75 G
+* 2 Leather Hats          64 G
+* 2 Leather Shields       70 G
+
+#### Net: 1456G
 
 ### Stores
 
@@ -863,21 +862,6 @@ Net: 1456G
 
 ## Present: Emberdale
 
-Max Equip: 1140 G
-
-* 2 Scale Armour
-* 2 Hardwood Headgear
-
-Sellable: 422 G
-
-* 1 Copper Sword          110 G
-* 2 Leather Armours       180 G
-* 2 Pointy Hats           70 G
-* 1 Boxer Shorts          50 G
-* 1 Rags                  12 G
-
-Net: 718 G
-
 ### Available Items
 
 * **Prism Dew** - Blue Shrine Teleport
@@ -887,7 +871,142 @@ Net: 718 G
 * Antidotal Herb - E House Pot
 * Boxer Shorts - Well Drawer
 * 7G - Gaffer's House Barrel
-* Rags - Gaffer's House Upper
+* Rags - Gaffer's House Upper Drawer
+
+### Max Equip: 1140 G
+
+* 2 Scale Armour      
+* 2 Hardwood Headgear
+
+### Sellable: 422 G
+
+* 1 Copper Sword          110 G
+* 2 Leather Armours       180 G
+* 2 Pointy Hats           70 G
+* 1 Boxer Shorts          50 G
+* 1 Rags                  12 G
+
+#### Net: 718G
+
+### Stores
+
+<table>
+  <tr>
+      <th colspan="12">Emberdale Weapon and Armour Shop</th>
+  </tr>
+  <tr>
+    <th>Item</th>
+    <th>Cost</th>
+    <th>ATK</th>
+    <th>DEF</th>
+    <th>Style</th>
+    <th>He</th>
+    <th>Ma</th>
+    <th>Ki</th>
+    <th>Ru</th>
+    <th>Me</th>
+    <th>Ai</th>
+    <th>Effects</th>
+  </tr>
+  <tr>
+    <td>Giant Mallet</td>
+    <td>410G</td>
+    <td>14</td>
+    <td>-</td>
+    <td>-5</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Thorn Whip</td>
+    <td>770G</td>
+    <td>18</td>
+    <td>-</td>
+    <td>7</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>This wicked whip can attack a whole group of enemies at once</td>
+  </tr>
+  <tr>
+    <td>Scale Armour</td>
+    <td>450G</td>
+    <td>-</td>
+    <td>15</td>
+    <td>9</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Leather Dress</td>
+    <td>680G</td>
+    <td>-</td>
+    <td>17</td>
+    <td>15</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Leather Shield</td>
+    <td>70G</td>
+    <td>-</td>
+    <td>4</td>
+    <td>2</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Scale Shield</td>
+    <td>180G</td>
+    <td>-</td>
+    <td>7</td>
+    <td>4</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Hardwood Headgear</td>
+    <td>120G</td>
+    <td>-</td>
+    <td>6</td>
+    <td>-15</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+</table>
 
 ## Present: Burnmount
 
@@ -927,6 +1046,8 @@ Vocation EXP Level Limit: 9
 * Mini Medal - Bar Barrel
 
 ## Past: L'Arca
+
+Vocation EXP Limit: 11
 
 ### Available Items
 
@@ -1148,6 +1269,8 @@ Vocation EXP Level Limit: 9
 
 ## Past: Grotta del Sigillo
 
+Vocation EXP Limit: 12
+
 ### Available Items
 
 * Kitty Shield - Over the bridge N of L'Arca E side
@@ -1156,22 +1279,7 @@ Vocation EXP Level Limit: 9
 
 ## Present: L'Arca
 
-Max Equip: 1850 G
-
-* 1 Leather Kilt          310 G
-* 1 Kitty Shield          310 G
-* 3 Turbans               1230 G
-
-Sellable: 425 G
-
-* 2 Plain Clothes         30 G
-* Pot Lid                 10 G
-* Copper Sword            110 G
-* Bone Stake              55 G
-* 2 Hairbands             100 G
-* 2 Hardwoord Headwears   120 G
-
-## Available Items
+### Available Items
 
 * Medicinal Herb - Back Item Shop Pot
 * Plain Clothes - Upper Item Shop Drawer
@@ -1179,6 +1287,23 @@ Sellable: 425 G
 * 5G - NW House Pot
 * 30G - Shed Barrel
 * Seed of Resilience - Mayor's House Pot
+
+### Max Equip: 1850 G
+
+* 1 Leather Kilt          310 G
+* 1 Kitty Shield          310 G
+* 3 Turbans               1230 G
+
+### Sellable: 435 G
+
+* 2 Plain Clothes         30 G
+* Pot Lid                 20 G
+* Copper Sword            110 G
+* Bone Stake              55 G
+* 2 Hairbands             100 G
+* 2 Hardwoord Headwears   120 G
+
+#### Net: 1415 G
 
 ### Stores
 
@@ -1386,6 +1511,8 @@ Sellable: 425 G
 
 ## Present: Grotta del Sigillo
 
+Vocation EXP Limit: 12
+
 ### Available Items
 
 * 15G - Dock N of L'Arca BArrel
@@ -1397,36 +1524,38 @@ Sellable: 425 G
 
 ## Past: Frobisher
 
-Max Equip: 8390G
+Vocation EXP Limit: 13
+
+### Available Items
+
+* 930G - NE of Portal
+* Mini Medal - SE Building Barrel
+* 10G - North Entrance Pot
+* Leather Armour - North Entrance Chest
+* Medicinal Herb - Entrance West of Inn Barrel
+* 15G - Entrance West of Inn Barrel
+* Seed of Strength - Entrance West of Inn Barrel
+* 3G - Barrel Across River
+
+### Max Equip: 7240G
 
 * 2 Iron Lances           2000G
 * 1 Stone Axe             810G
 * 2 Shell Armours         1760G
-* 2 Bronze Shields        940G
+* 1 Bronze Shield         470G
 * 2 Iron Helmets          2200G
-* 1 Leather Dress         680G
 
-Sellable: 1640G
+### Sellable: 1605G
 
 * 1 Leather Armour        90G
 * 1 Divine Dagger         100G
 * 2 Scale Armours         450G
 * 2 Scale Shields         180G
 * 2 Turbans               410G
-* 1 Wayfarer's Clothes    35G
 * 1 Giant Mallet          205G
 * 1 Stone Fangs           170G
 
-### Available Items
-
-* 930G - NE of Portal
-* Mini Medal - SE Building Barrel
-* 10G - North Entrance Barrel
-* Leather Armour - North Entrance Chest
-* Medicinal Herb - Entrance West of Inn Barrel
-* 15G - Entrance West of Inn Barrel
-* Seed of Strenght - Entrance West of Inn Barrel
-* 3G - Barrel Across River
+#### Net: 5635G
 
 ### Stores
 
@@ -1657,6 +1786,8 @@ Sellable: 1640G
 
 ## Past: Faraday Castle
 
+Vocation EXP Limit: 13
+
 ### Available Items
 
 * Leather Shield - E Tower Drawer
@@ -1668,6 +1799,8 @@ Sellable: 1640G
 
 ## Past: Institute of Automatry
 
+Vocation EXP Limit: 13
+
 ### Available Items
 
 * 2G - Outside Barrel
@@ -1677,11 +1810,64 @@ Sellable: 1640G
 
 ## Past: Automaton Stronghold
 
+Vocation EXP Level Limit: 14
+
 ### Available Items
 
-
+* 250G - 1F Chest
+* Iron Shield - B2 Chest
+* Seed of Strength - B2 Chest
+* 100G - Pot Next to Fragment
+* Poison Moth Knife - Reward from King
+* 1200G - W Tower - Promptly Wallop
 
 ## Present: Frobisher
+
+### Available Items
+
+* Automaton Stronghold
+  * Seed of Strength - 1F Chest
+  * Mini Medal - S B2 Chest
+  * Iron Claws - Past Fragment Location
+* Frobisher
+  * 3G - SE Guardhouse Barrel
+  * 21G - SW Entrance Barrel
+  * Mini Medal - SW Entrance Chest
+  * 210G - N Entrance Chest
+* Faraday Castle
+  * Scale Armour - E Tower Closet
+  * Noble Garb - King's Chamber Drawer
+  * 2G - W Tower Barrel
+  * 8G - E Tower Pot
+  * Mini Medal - Kitchen Barrel
+  * 5G - Basement Pot
+  * Medicinal Herb - Basement Barrel
+* Institute of Automatry
+  * Seed of Resilience - E of Institute
+  * Hairband - Left Drawer
+
+### Max Equip: 2070G
+
+* 1 Chain Mail            1050G
+* 1 Iron Shield           920G
+
+Sellable: 2395G
+
+* 1 Thorn whip            385G
+* 1 Stone Axe             405G
+* 1 Shell Armour          225G
+* 1 Bronze Shield         235G
+* 2 Scale Armour          880G
+* 1 Shellmet              125G
+* 1 Hairband              50G
+* 1 Leather Shield        35G
+* 1 Bone Stake            55G
+
+Net: -325G
+
+### Recruitment
+
+* Goyldon: Emberdale Bar
 
 ### Stores
 
@@ -1920,6 +2106,38 @@ Sellable: 1640G
 
 ## Past: Greenthumb Gardens
 
+Vocation EXP Limit: 15
+
+### Available Items
+
+* Garish Garb - Tower 1F Closet
+* 25G - Tower Kitchen Barrel
+* Hardwood Headgear - Shed Basement Closet
+* Wayfarer's Clothes - Inn 2F Closet
+* Mini Medal - Item Shop Back Chest
+* Bunny Ears - W House Closet
+* 3G - NW House Pot
+
+### Max Equip: 7250G
+
+* 2 Edged Boomerangs      4600G
+* 1 Leather Whip          1300G
+* 2 Bronze Armours        1350G
+
+### Sellable: 3185G
+
+* 1 Leather Kilt          155G
+* 1 Hardwood Headgear     60G
+* 1 Wayfarer's Clothes    35G
+* 1 Bunny Ears            375G
+* 1 Iron Lance            500G
+* 1 Chain Mail            525G
+* 1 Poison Moth Knife     475G
+* 1 Noble Garb            600G
+* 1 Iron Claws            460G
+
+#### Net: 3015G
+
 ### Stores
 
 <table>
@@ -2071,7 +2289,31 @@ Sellable: 1640G
   </tr>
 </table>
 
+## Past: Grody Grotto
+
+Vocation EXP Limit: 16
+
+### Available Items
+
+* 300G - Far E of Grody Grotto
+* 50G - Boss Chest
+* Mini Medal - Boss Chest
+
 ## Present: Wilted Heart
+
+### Available Items
+
+* 3G - SW House Pot
+* 250G - N House Chest
+* Slime Earrings - N House Chest
+* Garter - N House 2F Drawer
+* 5G - N House 3F Pot
+* Mini Medal - Path Shack Pot
+* 100G - Path Under Bridge
+* Horse Manure - Path Cave Pot
+* Pointy Hat - Path Cave Drawer
+* Fur Hood - Covenant Drawer
+* Seed of Resilience - Covenant Pot
 
 ### Stores
 
@@ -2176,3 +2418,52 @@ Sellable: 1640G
     <td>-</td>
   </tr>
 </table>
+
+## Present: La Maison Grodie
+
+### Available Items
+
+* Seed of Life - Behind La Maison Grodie
+* Mini Medal - Bar Barrel
+
+### Recruitment
+
+* Axel - Frobisher Inn
+
+## Past: Roamer Encampment
+
+Vocation EXP Limit: 17
+
+### Available Items
+
+* 13G - NW Pot
+* 20G - NW Tent
+* Mini Medal - NW Tent
+* Leather Hat - NE Tent
+* 5G - Main Tent
+* Seed of Resilience - Main Tent
+* Magic Water - East Cliff
+* Seed of Agility - Second Campsite Pot
+
+## Past: Poolside Cave
+
+Vocation EXP Limit: 17
+
+### Available Items
+
+* Mini Medal - B1 Chest
+* Poison Moth Knife - B1 Chest
+* Seed of Agility - B2 Chest
+* Fur Cape - B2
+* 5G - Junction Chest
+* 15G - E Junction Chest
+* 20G - E Junction Chest
+* Medicinal Herb, E,W Junction Chest
+* 3G - E,W Junction Chest
+* Seed of Wisdom - E,W Junction Chest
+* Magic Water - E,W,W Junction Chest
+* Seed of Magic - E,W Junction Chest
+* Prayer Ring - Glowing Bridges, South of Stairs
+* Mini Medal - After Drain Chest
+* 15G - After Drain Chest
+* Seed of Resilience - After Drain Chest
