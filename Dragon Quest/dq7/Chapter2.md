@@ -1,6 +1,52 @@
 # Chapter 2
 
+## Present: Dig Site
+
+### Available Items
+
+* Lucida Shard - North of Grotta del Sigillo
+* 17G - Tent Barrel
+* Mini Medal - Well Closet
+
 ## Past: Pilgrim's Rest
+
+Vocation EXP Limit: 19
+
+### Available Items
+
+* 3G - Item Shop Pot
+* Seed of Agility - Inn Pot
+* Strength Ring - W of Alltrades Abbey
+
+### Max Equip: *7200T*/1750G
+
+*Italics if Casino grinding*
+**Bold if not**
+
+* *2 Trailblazing Bandanas 200T*
+* *2 Magic Vestments       2000T*
+* *1 Bottlenose Buckler    5000T*
+* **1 Fur Cape              900G**
+* **1 Slime Earrings        850G**
+
+### Sellable: *7252G*/5117G
+
+* 1 Iron Lance            500G
+* *1 Iron Shield           460G*
+* *1 Slime Earrings        425G*
+* 1 Iron Shield           460G
+* 1 Fur Cape              450G
+* *1 Garish Garb           1250G*
+* 1 Garter                1650G
+* 1 Leather Hat           32G
+* 1 Pointy Hat            35G
+* 1 Fur Hood              250G
+* 1 Poison Moth Knife     475G
+* 1 Leather Dress         340G
+* 1 Bronze Armour         675G
+* 1 Lucida Shard          250G
+
+#### Net: *-7252G*/-4167
 
 ### Stores
 
@@ -299,6 +345,48 @@
 
 ## Past: Pilgrim's Perdition
 
+### Available Items
+
+* Bone Stake - Pot
+* Horse Manure - Pot
+* Medicinal Herb - S House Pot
+* Yggdrasil Leaf - Weapon Shop Chest
+* Antidotal Herb - Weapon Shop Pot
+* Seed of Life - Weapon Shop Upstairs Barrel
+* Pointy Hat - Weapon Shop Upstairs Closet
+* Medicinal Herb - Outside Inn Barrel
+* **Thief's Key (VIP)** - Item Shop (470G)
+* 3G - Bar Back Barrel
+* Antidotal Herb - Bar Basement Barrel
+* 5G - Bar Basement Pot
+* Mini Medal - Church Barrel
+* 20G - Near W Bar Pot
+* Medicinal Herb - Near W Bar Pot
+* Medicinal Herb - W Bar Barrel
+* Horse Manure - W Bar Barrel
+* Mini Medal - W Bar Counter Pot
+* 30G - Nava's Pot
+
+### Max Equip: *7200G*/11500G
+
+*Italics if Casino grinding*
+**Bold if not**
+
+* 1 Snooze Stick          4200G
+* **1 Dancer's Costume      1500G**
+* 1 Iron Cuirass          2000G
+* 1 Silver Platter        1000G
+* **1 Steel Broadsword      2800G**
+
+### Sellable: *1480G*/2630G
+
+* 1 Leather Whip          650G
+* 1 Kitty Shield          155G
+* 1 Bronze Armour         675G
+* **1 Edged Boomerang       1150G**
+
+#### Net: *5720G*/8870G
+
 ### Stores
 
 <table>
@@ -533,6 +621,18 @@
 
 ## Past: Precipice
 
+Vocation EXP Limit: 20
+
+### Available Items
+
+* Mini Medal - Wall between N Graves
+* Medicinal Herb - Item Shop Pot
+* Antidotal Herb - Cave Barrel
+* Leather Armour - Hill House Drawer
+* Mini Medal - Well Closet
+* Pointy Hat - Church Drawer
+* 35G - Church Pot
+
 ### Stores
 
 <table>
@@ -601,7 +701,82 @@
   </tr>
 </table>
 
+## Past: Dungeon of Descent
+
+Vocation EXP Limit: 20
+
+### Available Items
+
+* Seed of Resilience - Maze B2
+* Chain Sickle - Maze B2
+* Mini Medal - Maze B2
+* Horse Manure - NW Cell Pot
+* Seed of Strength - NE Cell Pot
+* Seed of Magic - SW Cell Pot
+* Iron Shield - S Chest
+* 50G - Pot W of NE Bed
+* Yggdrasil Leaf - S of NE Bed
+* Mini Medal - W Cell Pot
+
+## Past: Tunnel to the Abbey
+
+Vocation EXP Limit: 20
+
+### Available Items
+
+* Antidotal Herb - SW Pot
+* Medicinal Herb - SW Pot
+* 15G - SE Barrel
+* Seed of Resilience - NE Chest
+* Mini Medal - NE Chest
+* Seed of Strength - LLL Pot
+* 100G - LLL Pot
+* Horse Manure - LLL Pot
+* Horse Manure - LLL Pot
+* Yggdrasil Leaf - LBL Chest
+* Seed of Agility - Chest up stairs
+* Kitty Shield - Chest up stairs
+* 350G - Grassy Area Chest
+* 200G - NE Chest
+
 ## Past: Allblades Arena
+
+Vocation EXP Limit: 20
+
+### Available Items
+
+* Antidotal Herb - Church Pot
+* 50G - Church Pot
+* Scale Armour - N Room Closet
+* Medicinal Herb - SW of Arena
+
+### Max Equip: 12800G
+
+*Italics if Casino grinding*
+**Bold if not**
+
+* 1 Steel Fangs           4200G
+* 1 Chain Whip            2500G
+* 1 Iron Armour           3300G
+* 2 Pirate's Hat          2800G
+
+### Sellable: 7125G
+
+* 1 Edged Boomerang       1150G
+* 1 Kitty Shield          155G
+* 1 Slime Earrings        425G
+* 1 Bone Stake            55G
+* 2 Pointy Hat            70G
+* 1 Leather Armour        90G
+* 1 Chain Sickle          850G
+* 1 Iron Shield           460G
+* 1 Plain Clothes         15G
+* 1 Turban                205G
+* 1 Iron Cuirass          1000G
+* 1 Snooze Stick          2100G
+* 1 Iron Helmet           550G
+
+#### Net: 5675G
 
 ### Stores
 
@@ -724,6 +899,23 @@
 </table>
 
 ## Past: Alltrades Abbey
+
+### Available Items
+
+* Abbey
+  * Leather Hat - Upstairs Drawer
+  * 50G - NW Basement Pot
+  * Prayer Ring - NE Basement Chest
+  * 130G - NE Basement Chest
+  * Seed of Strength - NW Basement Chest
+  * Seed of Magic - SW Basement Chest
+  * Mini Medal - SW Basement Chest
+  * Seed of Life - SE Basement Chest
+* Pilgrim's Perdition
+  * Seed of Strength - Bank Chest
+* Pilgrim's Rest
+  * Iron Shield - Locked Chest
+  * Bunny Tail - Locked Chest
 
 ### Stores
 
@@ -931,7 +1123,21 @@
   </tr>
 </table>
 
+## Treasure Hunt: Thief's Key
+
+* Past
+  * 500G - Greenthumb Gardens Burdock's Room
+* Present
+  * Seed of Life - Wilted Heart Path
+
 ## Present: Pilgrim's Rest
+
+### Available Items
+
+* Magic Water - Locked Chest
+* Iron Mask - Locked Chest
+* Seed of Resilience - Shop Pot
+* 3G - Bar Barrel
 
 ### Stores
 
@@ -1025,7 +1231,45 @@
   </tr>
 </table>
 
+### Recruitment
+
+* Zeppelina - Casino Dancer
+
 ## Present: Alltrades Abbey
+
+### Available Items
+
+* Silk Robe - Upstairs Drawer
+* 5G - Barrel near Fragment
+* Mini Medal - NW Basement Pot
+
+### Max Equip: *19800G*/21800G
+
+*Italics if Casino grinding*
+**Bold if not**
+
+* 1 Staff of Antimagic    6800G
+* 2 Iron Axes             8000G
+* **1 White Shield          2000G**
+* 1 Full Plate Armour     5000G
+
+### Sellable: *10952G*/11412G
+
+* 1 Chain Whip            1250G
+* 1 Scale Armour          225G
+* 1 Pirate's Hat          1400G
+* 1 Steel Broadsword      1400G
+* 1 Steel Fangs           2100G
+* 1 Leather Hat           32G
+* 1 Prayer Ring           1500G
+* 1 Bunny Tail            135G
+* 1 Iron Shield           460G
+* **1 Iron Shield           460G**
+* 1 Silk Robe             300G
+* 1 Silver Platter        500G
+* 1 Iron Armour           1650G
+
+#### Net: *8848G*/10388G
 
 ### Stores
 
@@ -1254,7 +1498,50 @@
   </tr>
 </table>
 
+## Present: Bandit's Base
+
+### Available Items
+
+* Captain's Coat - S of Ruins
+* Plain Clothes - Closet
+* Horse Manure - Barrel
+* Iron Shield - Cell Chest
+* Iron Lance - Cell Chest
+
 ## Present: La Bravoure
+
+### Available Items
+
+* Magic Water - E of La Bravoure
+* Captain's Coat - Inn Closet
+* 6G - Centre House Pot
+* 7G - Centre House Upstairs Pot
+* Wayfarer's Clothes - W House Closet
+* Mini Medal - Treasure Room Chest
+* Dieamend - Treasure Room Chest
+* Holy Water - Treasure Room Pot
+* Healslime Heart - Treasure Room Pot
+* Medicinal Herb - Treasure Room Barrel
+
+### Max Equip: 8800G
+
+*Italics if Casino grinding*
+**Bold if not**
+
+* 1 Tortoise Shell        3800G
+* 1 Magic Shield          5000G
+
+### Sellable: *5075G*/3525G
+
+* *1 Magic Vestment        2000G*
+* **1 Fur Cape              450G**
+* 1 Iron Lance            500G
+* 1 Iron Shield           460G
+* 1 Plain Clothes         15G
+* 2 Captain's Coats       4200G
+* 1 Wayfarer's Clothes    35G
+
+#### Net: *3725G*/5275G
 
 ### Stores
 
@@ -1376,7 +1663,31 @@
   </tr>
 </table>
 
+### Recruitment
+
+* Drake - Inn Guard
+
+## Present: the Haven
+
+### Available Items
+
+* Mini Medal - Bar Barrel
+* Shellmet - E House Closet
+* Mini Medal - NE Pot
+* Garish Garb - N House Closet
+* Leather Dress - N House Closet
+
 ## Past: Al-Balad
+
+Vocation EXP Limit: 21
+
+### Available Items
+
+* Silk Robe - Temple B1 NW Closet
+* Seed of Resilience - Item Shop Barrel
+* 7G - W House Pot
+* Antidotal Herb - N House Pot
+* Medicinal Herb - Food Store Pot
 
 ### Stores
 
@@ -1470,7 +1781,40 @@
   </tr>
 </table>
 
+## Past: Likeness of Great Evil
+
+Vocation EXP Limit: 22
+
+### Available Items
+
+* Yggdrasil Leaf - S of Likeness
+* Seed of Strength - N Pot
+* Seed of Resilience - N Pot
+* Agility Ring - Treasure Room
+* 350G - Treasure Room
+* Mini Medal - Treasure Room
+* Silver Cuirass - Above Treasure Room Chest
+* Leather Whip - Al-Balad Treasure Room
+
+## Present: Dig Site
+
+* Mini Medal - 
+
+## Present: Greta's Cottage
+
+### Available Items
+
+* Pretty Betsy - Kitchen Barrel
+* Silk Robe - Upstairs Drawer
+* Seed of Agility - 
+
 ## Present: Temple Palace
+
+### Available Items
+
+* Silver Tiara - NW Closet
+* Noble Garb - NW Closet
+* Silk Bustier - NW Closet
 
 ### Stores
 
@@ -1625,6 +1969,16 @@
 
 ## Present: Al-Balad
 
+### Available Items
+
+* Medicinal Herb - SW House Barrel
+* Dancer's Costume - SW House Upstairs Closet
+* Mini Medal - Barrel Behind Shop
+* 15G - 
+* Seed of Magic - Chief's House Pot
+* Pilchard Crackers - Chief's House Kitchen Pot
+* Chimaera Heart - S of Continent
+
 ### Stores
 
 <table>
@@ -1717,7 +2071,26 @@
   </tr>
 </table>
 
+## Past: Temple Palace
+
+### Available Items
+
+* Gold Bracer - Treasury
+* Mini Medal - Treasury
+* 210G - Treasury
+
 ## Past: Grondal
+
+Vocation EXP Limit: 23
+
+### Available Items
+
+* Magic Water - W of Island
+* 3G - Right Building Barrel
+* Plain Clothes - E House Drawer
+* Leather Hat - Mayor's House Drawer
+* Mini Medal - Mayor's Kitchen Pot
+* Staff of Salvation - Roots of Ygg after Saving Town
 
 ### Stores
 
@@ -1841,6 +2214,19 @@
 
 ## Present: Grondal
 
+### Available Items
+
+* Wayfarer's Clothes - Inn Drawer
+* Mini Medal - Inn Upstairs Closet
+* 13G - E House Barrel
+* Mini Medal - Well Drawer
+* Fur Hood - Well Drawer
+* Scholars Specs - Mansion Basement
+* Seed of Wisdom - Mansion Basement
+* 50G - Maid
+* 5G - NW Dresser
+* Top Hat - NE Room
+
 ### Stores
 
 <table>
@@ -1961,7 +2347,32 @@
   </tr>
 </table>
 
+### Recruitment
+
+* Neville - Al-Balad Pot
+* Neil - Grondal Inn
+
 ## Past: El Ciclo
+
+Vocation EXP Limit: 24
+
+### Available Items
+
+* Medicinal Herb - Equipment Shop Pot
+* Top Hat - NW House Dresser
+* Holy Water - S House Pot
+* Medicinal Herb - S House Pot
+* Medicinal Herb - S House Pot
+* Dieament - S House Chest
+* 15G - Bar Barrel
+* Seed of Magic - Bar Barrel
+* Pointy Hat - Inn Drawer
+* Wayfarer's Clothes - Inn Closet
+* 6G - Bridge Pot
+* Leather Hat - Well Closet
+* Pointy Hat - Bridge Building Drawer
+* Silver Cuirass - Overworld around Studio
+* Seed of Wisdom - Studio Pot
 
 ### Stores
 
@@ -2203,7 +2614,24 @@
   </tr>
 </table>
 
+## Past: Inside the Time Frame
+
+### Available Items
+
+* Agility Ring - 
+* Seed of Agility - 
+* Mini Medal - 
+* 350G - 
+* Magic Water - 
+* 200G - 
+
 ## Past: Greenthumb Gardens (2)
+
+Vocation EXP Limit: 24
+
+### Available Items
+
+* Pirate's Hat - NE of town
 
 ### Stores
 
@@ -2358,6 +2786,20 @@
 
 ## Past: Wilted Heart (2)
 
+Vocation EXP Limit: 24
+
+### Available Items
+
+* Seed of Agility - Left House Pot
+* Mini Medal - Mansion
+* Silver Tiara - Mansion
+* Seed of Strength - Mansion 3F
+* Seed of Resilience - Mansion 3F
+* Mini Medal - Below Path Bridge
+* Strength Ring - Path Cave Chest
+* Silk Robe - Convent Upstairs Drawer
+* 5G - Convent Upstairs Pot
+
 ### Stores
 
 <table>
@@ -2419,6 +2861,20 @@
 </table>
 
 ## Present: El Ciclo
+
+### Available Items
+
+* Chimaera Wing - Behind Church BArrel
+* 5G - S house Barrel
+* Medicinal Herb - S House Basement Pot
+* Medicinal Herb - S House Basement Pot
+* Holy Water - S House Basement Pot
+* Seed of Wisdom - Scholar
+* Garish Garb - NW House Drawer
+* Pretty Betsy - Inn Barrel
+* Trailblazing Bandana - Inn Downstairs Drawer
+* Pretty Betsy - Inn 2F Closet
+* Seed of Magic - E of Bridge
 
 ### Stores
 
@@ -2675,6 +3131,13 @@
 
 ## Present: El Magnifico Puente de Pomposo
 
+### Available Items
+
+* Mini Medal - Well Closet
+* Scholar's Specs - Well Closet
+* Pretty Betsy - Barrel/Pot
+* Glass Slippers - Greta
+
 ### Stores
 
 <table>
@@ -2852,7 +3315,30 @@
   </tr>
 </table>
 
+## Present: El Monumento de Pomposo
+
+Vocation EXP Limit: 26
+
+### Available Items
+
+* Bow Tie - 
+* Seed or Resilience - 
+* Silk Tuxedo - 
+* Seed of Wisdom - 
+* Mini Medal - 
+
 ## Past: Hardlypool
+
+Vocation EXP Limit: 26
+
+### Available Items
+
+* 400G - E of Teleportal
+* 20G - NW House Barrel
+* Medicinal Herb - W House Pot
+* Mini Medal - NE House Upstairs Drawer
+* Moonwort Bulb - 
+* Mini Medal - 
 
 ### Stores
 
@@ -2888,6 +3374,15 @@
 </table>
 
 ## Past: Split-on Sea
+
+Vocation EXP Limit: 26
+
+### Available Items
+
+* Mini Medal - Inn Barrel
+* Antidotal Herb - Barrel S of Inn
+* Leather Hat - House S of Inn Closet
+* Seed of Life - Shed Barrel
 
 ### Stores
 
@@ -3086,6 +3581,14 @@
 </table>
 
 ## Past: Wetlock
+
+Vocation EXP Limit: 26
+
+### Available Items
+
+* 30G - Pot by Equipment Shop
+* Iron Lance - Equipment Shop Back
+* Seed of Strength - Tower Basement BArrel
 
 ### Stores
 
@@ -3350,6 +3853,25 @@
 
 ## Past: Highendreigh Tower
 
+Vocation EXP Limit: 27
+
+### Available Items
+
+* Seed of Magic - 
+* 3G - 
+* Tangleweb - 
+* Horse Manure - 
+* Prayer Ring - 
+* Mini Medal - 
+* Seed of Agility - 
+* Mini Medal - 
+* Walking Corpse Heart - 
+* Mini Medal - 
+* Moonwort Bulb - 
+* Rippled Rapier - 
+* Yggdrasil Leaf - 
+* Seed of Life - 
+
 ### Stores
 
 <table>
@@ -3436,7 +3958,213 @@
   </tr>
 </table>
 
+## Past: Hardlypool Tunnel
+
+Vocation EXP Limit: 27
+
+### Available Items
+
+* Berserker Heat - 
+* Captain's Heart - 
+
+## Present: La Bravoure
+
+### Available Items
+
+* Tombes des Hero Inconnus
+  * Seed of Life - Pot
+* Palazzo di Bulgio
+  * 120G - Kitchen Barrel
+  * Tortoise Shell - 
+  * Bow Tie - 
+  * Mini Medal - 
+  * **Magic Key(VIP)** - 
+  * Top Hat - 
+
+## King Maximo's Mansion
+
+<table>
+  <tr>
+      <th colspan="12">Mini Medal Trade-ins</th>
+  </tr>
+  <tr>
+    <th>Item</th>
+    <th>Medals</th>
+    <th>ATK</th>
+    <th>DEF</th>
+    <th>Style</th>
+    <th>He</th>
+    <th>Ma</th>
+    <th>Ki</th>
+    <th>Ru</th>
+    <th>Me</th>
+    <th>Ai</th>
+    <th>Effects</th>
+  </tr>
+  <tr>
+    <td>Poison Needle</td>
+    <td>45</td>
+    <td>1</td>
+    <td>-</td>
+    <td>15</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+    <td>A venomous barb which can inflict a critical hit (instant death). Will always deal 1 point of damage.</td>
+  </tr>
+  <tr>
+    <td>Staff of Divine Wrath</td>
+    <td>50</td>
+    <td>35</td>
+    <td>-</td>
+    <td>20</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>Has the same effect as Swoosh when used in battle</td>
+  </tr>
+  <tr>
+    <td>Kamikazee Bracer</td>
+    <td>58</td>
+    <td>-</td>
+    <td>10</td>
+    <td>7</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>Rousing wristwear that may just save the day in times of need!</td>
+  </tr>
+  <tr>
+    <td>Miracle Sword</td>
+    <td>65</td>
+    <td>100</td>
+    <td>-</td>
+    <td>38</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>After a regular attack, regain 1/4 of damage inflicted as HP</td>
+  </tr>
+  <tr>
+    <td>Enclosure Plan</td>
+    <td>75</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Sage's Stone</td>
+    <td>83</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Infinite use, this restores some of each party member's HP (50-60) in battle</td>
+  </tr>
+  <tr>
+    <td>Mysterious Fragment</td>
+    <td>85</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Metal King Shield</td>
+    <td>90</td>
+    <td>-</td>
+    <td>70</td>
+    <td>40</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>Mitigates 30 points of damage from Frizz, Sizz and Bang-based spells as well as fire and ice-based breath attacks</td>
+  </tr>
+  <tr>
+    <td>Glombolero</td>
+    <td>95</td>
+    <td>-</td>
+    <td>40</td>
+    <td>-50</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>This curious garment sometimes absorbs MP from enemy spells</td>
+  </tr>
+  <tr>
+    <td>Gringham Whip</td>
+    <td>105</td>
+    <td>145</td>
+    <td>-</td>
+    <td>57</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>This wicked whip can attack a whole group of enemies at once</td>
+  </tr>
+  <tr>
+    <td>Platinum King Heart</td>
+    <td>110</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Holding it, one can almost imagine life as a monster...</td>
+  </tr>
+</table>
+
 ## Present: Wetlock
+
+### Available Items
+
+* Trailblazing Bandana - Island Near Q Island
+* Serial Quiller Hat - NE of Wetlock
+* Seed of Wisdom - E of Equipment Shop Pot
+* Gold Bracer - NE of Highendreigh Tower
 
 ### Stores
 
@@ -3738,183 +4466,49 @@
   </tr>
 </table>
 
-## King Maximo's Mansion
+## Present: Highendreigh Tower
 
-<table>
-  <tr>
-      <th colspan="12">Mini Medal Trade-ins</th>
-  </tr>
-  <tr>
-    <th>Item</th>
-    <th>Medals</th>
-    <th>ATK</th>
-    <th>DEF</th>
-    <th>Style</th>
-    <th>He</th>
-    <th>Ma</th>
-    <th>Ki</th>
-    <th>Ru</th>
-    <th>Me</th>
-    <th>Ai</th>
-    <th>Effects</th>
-  </tr>
-  <tr>
-    <td>Poison Needle</td>
-    <td>45</td>
-    <td>1</td>
-    <td>-</td>
-    <td>15</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-    <td>+</td>
-    <td>+</td>
-    <td>-</td>
-    <td>A venomous barb which can inflict a critical hit (instant death). Will always deal 1 point of damage.</td>
-  </tr>
-  <tr>
-    <td>Staff of Divine Wrath</td>
-    <td>50</td>
-    <td>35</td>
-    <td>-</td>
-    <td>20</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-    <td>Has the same effect as Swoosh when used in battle</td>
-  </tr>
-  <tr>
-    <td>Kamikazee Bracer</td>
-    <td>58</td>
-    <td>-</td>
-    <td>10</td>
-    <td>7</td>
-    <td>+</td>
-    <td>+</td>
-    <td>+</td>
-    <td>+</td>
-    <td>+</td>
-    <td>+</td>
-    <td>Rousing wristwear that may just save the day in times of need!</td>
-  </tr>
-  <tr>
-    <td>Miracle Sword</td>
-    <td>65</td>
-    <td>100</td>
-    <td>-</td>
-    <td>38</td>
-    <td>+</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-    <td>+</td>
-    <td>+</td>
-    <td>After a regular attack, regain 1/4 of damage inflicted as HP</td>
-  </tr>
-  <tr>
-    <td>Enclosure Plan</td>
-    <td>75</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Sage's Stone</td>
-    <td>83</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Infinite use, this restores some of each party member's HP (50-60) in battle</td>
-  </tr>
-  <tr>
-    <td>Mysterious Fragment</td>
-    <td>85</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Metal King Shield</td>
-    <td>90</td>
-    <td>-</td>
-    <td>70</td>
-    <td>40</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>+</td>
-    <td>+</td>
-    <td>+</td>
-    <td>Mitigates 30 points of damage from Frizz, Sizz and Bang-based spells as well as fire and ice-based breath attacks</td>
-  </tr>
-  <tr>
-    <td>Glombolero</td>
-    <td>95</td>
-    <td>-</td>
-    <td>40</td>
-    <td>-50</td>
-    <td>+</td>
-    <td>+</td>
-    <td>-</td>
-    <td>+</td>
-    <td>+</td>
-    <td>+</td>
-    <td>This curious garment sometimes absorbs MP from enemy spells</td>
-  </tr>
-  <tr>
-    <td>Gringham Whip</td>
-    <td>105</td>
-    <td>145</td>
-    <td>-</td>
-    <td>57</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>+</td>
-    <td>+</td>
-    <td>This wicked whip can attack a whole group of enemies at once</td>
-  </tr>
-  <tr>
-    <td>Platinum King Heart</td>
-    <td>110</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Holding it, one can almost imagine life as a monster...</td>
-  </tr>
-</table>
+### Available Items
+
+* Mini Medal - 
+* Horse Manure - 
+* 50G - 
+* Slime Heart - 
+* Mini Medal - 
+* Seed of Life - 
+
+## Present: Sunken Citadel
+
+### Available Items
+
+* Mini Medal - Behind NE House
+* Ruby of Protection - 
+* Pilchard Pie - 
+* Seed of Magic - 
+* Mini Medal - 
+
+## Present: The Tallest Tower
+
+### Available Items
+
+* Mercury's Bandana - 
+* 370G - 
+* Mini Medal - 
 
 ## Past: Nottagen
+
+Vocation EXP Limit: 30
+
+### Available Items
+
+* Medicinal Herb - 
+* Pointy Hat - 
+* Iron Mask - 
+* Iron Axe - 
+* Hairband - 
+* Holy Water - 
+* Seed of Resilience - 
+* Mini Medal - 
 
 ### Stores
 
@@ -4060,84 +4654,41 @@
   </tr>
 </table>
 
+## Past: Tower of Sulkk
+
+Vocation EXP Limit: 30
+
+### Available Items
+
+* Bottlenose Buckler - 
+* Mini Medal - 
+* 120G - 
+* Dream Blade - 
+* Magic Water - 
+
 ## Present: Nottagen
+
+### Available Items
+
+* Drake Slime Heart - E of Teleportal Location
+* Holy Water - Well Closet
+* Mini Medal - Well Closet
+
+## Past: Nottagen Cavern
+
+Vocation EXP Limit: 31
+
+### Available Items
+
+* Steel Broadsword - 
+* 630G - 
+* Hate Mail - 
 
 ### Stores
 
 <table>
   <tr>
-      <th colspan="11">Present: Nottagen Weapon Shop</th>
-  </tr>
-  <tr>
-    <th>Item</th>
-    <th>Cost</th>
-    <th>ATK</th>
-    <th>Style</th>
-    <th>He</th>
-    <th>Ma</th>
-    <th>Ki</th>
-    <th>Ru</th>
-    <th>Me</th>
-    <th>Ai</th>
-    <th>Effects</th>
-  </tr>
-  <tr>
-    <td>Fire Claws</td>
-    <td>7700G</td>
-    <td>53</td>
-    <td>21</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Deals an additonal Frizz-based hit after the first. Has the same effect as Frizzle when used in battle</td>
-  </tr>
-  <tr>
-    <td>Saw Blade</td>
-    <td>8800G</td>
-    <td>54</td>
-    <td>-2</td>
-    <td>+</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Icicle Dirk</td>
-    <td>9000G</td>
-    <td>62</td>
-    <td>31</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Deals an additional Crack-based hit after the first. Has the same effect as Crackle when used in battle</td>
-  </tr>
-  <tr>
-    <td>War Hammer</td>
-    <td>12000G</td>
-    <td>64</td>
-    <td>19</td>
-    <td>+</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-      <th colspan="11">Present: Nottage Armour Shop</th>
+      <th colspan="11">Past: Nottagen Armour Shop</th>
   </tr>
   <tr>
     <th>Item</th>
@@ -4232,7 +4783,290 @@
   </tr>
 </table>
 
+## Past: Nottagen
+
+### Stores
+
+<table>
+  <tr>
+      <th colspan="11">Past: Nottagen Weapon Shop</th>
+  </tr>
+  <tr>
+    <th>Item</th>
+    <th>Cost</th>
+    <th>ATK</th>
+    <th>Style</th>
+    <th>He</th>
+    <th>Ma</th>
+    <th>Ki</th>
+    <th>Ru</th>
+    <th>Me</th>
+    <th>Ai</th>
+    <th>Effects</th>
+  </tr>
+  <tr>
+    <td>Fire Claws</td>
+    <td>7700G</td>
+    <td>53</td>
+    <td>21</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Deals an additonal Frizz-based hit after the first. Has the same effect as Frizzle when used in battle</td>
+  </tr>
+  <tr>
+    <td>Saw Blade</td>
+    <td>8800G</td>
+    <td>54</td>
+    <td>-2</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Icicle Dirk</td>
+    <td>9000G</td>
+    <td>62</td>
+    <td>31</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Deals an additional Crack-based hit after the first. Has the same effect as Crackle when used in battle</td>
+  </tr>
+  <tr>
+    <td>War Hammer</td>
+    <td>12000G</td>
+    <td>64</td>
+    <td>19</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+</table>
+
+## Present: Nottagen
+
+### Available Items
+
+* Fishnet Stockings - 
+* Wayfarer's Clothes - 
+* 550G - 
+* Copper Sword - 
+* Leather Dress - 
+* Silk Tuxedo - 
+
+### Stores
+
+<table>
+  <tr>
+      <th colspan="11">Present: Nottagen Armour Shop</th>
+  </tr>
+  <tr>
+    <th>Item</th>
+    <th>Cost</th>
+    <th>DEF</th>
+    <th>Style</th>
+    <th>He</th>
+    <th>Ma</th>
+    <th>Ki</th>
+    <th>Ru</th>
+    <th>Me</th>
+    <th>Ai</th>
+    <th>Effects</th>
+  </tr>
+  <tr>
+    <td>Legerdemantle</td>
+    <td>4200G</td>
+    <td>37</td>
+    <td>10</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>Mitigates 15 points of damage from Frizz, Sizz and Bang-based spells</td>
+  </tr>
+  <tr>
+    <td>Silver Mail</td>
+    <td>9100G</td>
+    <td>43</td>
+    <td>40</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>Mitigates 20 points of damage from Frizz, Sizz, Bang and Crack-based spells</td>
+  </tr>
+  <tr>
+    <td>Heavy Armour</td>
+    <td>9500G</td>
+    <td>50</td>
+    <td>-30</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>Mitigates 20 points of damage from fire and ice-based breath attacks</td>
+  </tr>
+  <tr>
+    <td>Dragon Shield</td>
+    <td>7100G</td>
+    <td>26</td>
+    <td>25</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>Mitigates 15 points of damage from fire and ice-based breath attacks</td>
+  </tr>
+  <tr>
+    <td>Tempest Shield</td>
+    <td>11000G</td>
+    <td>32</td>
+    <td>18</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>Has the same effect as Poof when used in battle</td>
+  </tr>
+  <tr>
+    <td>Iron Mask</td>
+    <td>3500G</td>
+    <td>22</td>
+    <td>-10</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+      <th colspan="11">Present: Nottagen Weapon Shop</th>
+  </tr>
+  <tr>
+    <th>Item</th>
+    <th>Cost</th>
+    <th>ATK</th>
+    <th>Style</th>
+    <th>He</th>
+    <th>Ma</th>
+    <th>Ki</th>
+    <th>Ru</th>
+    <th>Me</th>
+    <th>Ai</th>
+    <th>Effects</th>
+  </tr>
+  <tr>
+    <td>Fire Claws</td>
+    <td>7700G</td>
+    <td>53</td>
+    <td>21</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Deals an additonal Frizz-based hit after the first. Has the same effect as Frizzle when used in battle</td>
+  </tr>
+  <tr>
+    <td>Saw Blade</td>
+    <td>8800G</td>
+    <td>54</td>
+    <td>-2</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Icicle Dirk</td>
+    <td>9000G</td>
+    <td>62</td>
+    <td>31</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Deals an additional Crack-based hit after the first. Has the same effect as Crackle when used in battle</td>
+  </tr>
+  <tr>
+    <td>War Hammer</td>
+    <td>12000G</td>
+    <td>64</td>
+    <td>19</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+</table>
+
+## Present: Pillar of Sulkk
+
+Vocation EXP Limit: 30
+
+### Available Items
+
+* Mini Medal - 
+* Lips Heart - 
+* 280G - 
+
+### Recruitment
+
+* Mac - The Likeness of the Great Spirit Priest
+
 ## Past: Providence
+
+Vocation EXP Limit: 29
+
+### Available Items
+
+* Seed of Strength - 
+* Steel Broadsword - 
+* Magic Water - 
+* Mini Medal - 
+* 6G -
+* Leather Armour - 
+* 37G - 
+
 
 ### Stores
 
@@ -4456,7 +5290,31 @@
   </tr>
 </table>
 
+## Past: Mountaintop Tunnel
+
+Vocation EXP Limit: 30
+
+### Available Items
+
+* Kingfuchsia Heart - 
+* 530G - 
+* Holy Water - 
+* Platinum Sword - 
+* Moonwort Bulb - 
+* Seed of Life - 
+
 ## Present: Providence
+
+### Available Items
+
+* Malevolantern Heart - 
+* Mini Medal - 
+* Iron Mask - 
+* 340G - 
+* Plain Clothes - 
+* Medicinal Herb - 
+* Seed of Life - 
+* Horse Manure - 
 
 ### Stores
 
@@ -4667,7 +5525,20 @@
   </tr>
 </table>
 
+## Present: Mountaintop Tunnel
+
+### Available Items
+
+* Lips Heart - 
+* Mini Medal - 
+
+### Recruitment
+
+* Mick - Tower Basement
+
 ## Past: Rucker Castle
+
+Vocation EXP Limit: 31
 
 ### Stores
 
@@ -4808,6 +5679,20 @@
 </table>
 
 ## Past: Hubble
+
+### Available Items
+
+* 5G -
+* Magic Shield - 
+* Magic Water - 
+* Seed of Magic - 
+* Bow Tie - 
+* Pointy Hat - 
+* 310G - 
+* Cloak of Evasion - 
+* Seed of Magic - 
+* 250G - 
+* Seed of Strength - 
 
 ### Stores
 
@@ -5021,6 +5906,13 @@
 
 ## Past: Grand Conjuratorium
 
+### Available Items
+
+* Magic Water - 
+* Seed of Magic - 
+* Mini Medal - 
+* 6G - 
+
 ### Stores
 
 <table>
@@ -5133,7 +6025,34 @@
   </tr>
 </table>
 
+## Past: Falls Hollow
+
+Vocation EXP Limit: 31
+
+### Available Items
+
+* Medicinal Herb - 
+
+## Past: Hubble
+
+### Available Items
+
+* Mini Medal - 
+* Lightning Staff - 
+
 ## Present: Hubble
+
+### Available Items
+
+* Diamend - N of Teleportal
+* Silk Robe - 
+* Mini Medal - B of Inn Barrel
+* Pointy Hat - NE House Dresser
+* Mini Medal - Well Drawer
+* Party Dress - 
+* Seed of Resilience - 
+* Mini Medal - 
+* Seed of Magic - 
 
 ### Stores
 
@@ -5372,7 +6291,31 @@
   </tr>
 </table>
 
+## Present: Roamer Encampment
+
+### Available Items
+
+* Seed of Life - 
+* Medicinal Herb - 
+* Meaty Treat - 
+* Mini Medal - 
+* Seed of Life - 
+
 ## Past: Aeolus Vale
+
+Vocation EXP Limit: 33
+
+### Available Items
+
+* Flametang Boomerang - SE down Peninsula
+* 210G - Inn Chest
+* Mini Medal - 
+* 20G - 
+* Pot Lid - 
+* Boomerang - 
+* Meaty Treat - 
+* Ruby of Protection - SE of Aeolus Vale
+* 20G - 
 
 ### Stores
 
@@ -5601,6 +6544,290 @@
   </tr>
 </table>
 
+## Past: Custodian's Camp
+
+### Available Items
+
+* Seed of Resilience - 
+
+## Past: Sullied Sanctum
+
+*From here on there is no Vocation EXP Limit*
+
+### Available Items
+
+* Magic Water - 
+* Mini Medal - 
+* Lightning Staff - 
+* Yggdrasil Leaf - 
+
+## Past: Sanctum of Cirrus
+
+### Available Items
+
+* Seed of Life - 
+* Mini Medal - 
+* 350G - 
+* Chimaera Heart - 
+* Seed of Resilience - 
+* Mercury's Bandana - 
+* Prayer Ring - Statue after Boss
+
+## Present: Aeolus Vale
+
+### Available Items
+
+* Rockbomb Heart - N Path of Aeolus Vale
+* 540G - Inn Chest
+* 320G - Armour Shop Chest
+* Silver Platter - Armour Shop Chest
+* Garish Garb - Armour Shop Chest
+* 10G - Weapon Shop Chest
+* Seed of Life - Weapon Shop Chest
+
+### Stores
+
+<table>
+  <tr>
+      <th colspan="11">Present: Aeolus Vale Weapon Shop</th>
+  </tr>
+  <tr>
+    <th>Item</th>
+    <th>Cost</th>
+    <th>ATK</th>
+    <th>Style</th>
+    <th>He</th>
+    <th>Ma</th>
+    <th>Ki</th>
+    <th>Ru</th>
+    <th>Me</th>
+    <th>Ai</th>
+    <th>Effects</th>
+  </tr>
+  <tr>
+    <td>Dragontail Whip</td>
+    <td>7500G</td>
+    <td>52</td>
+    <td>33</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>This wicked whip can attack a whole group of enemies at once</td>
+  </tr>
+  <tr>
+    <td>Fire Claws</td>
+    <td>7700G</td>
+    <td>53</td>
+    <td>21</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Deals an additional frizz-based hit after the first(damage roughly half of original). Has the same effect as Frizzle when used in battle</td>
+  </tr>
+  <tr>
+    <td>Faerie Foil</td>
+    <td>8500G</td>
+    <td>58</td>
+    <td>30</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>Has the same effect as Buff when used in battle</td>
+  </tr>
+  <tr>
+    <td>War hammer</td>
+    <td>12000G</td>
+    <td>64</td>
+    <td>19</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Flametang Boomerang</td>
+    <td>13000G</td>
+    <td>65</td>
+    <td>25</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>This winged weapon can be used to attack all enemies at once</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+      <th colspan="11">Present: Aeolus Vale Armour Shop</th>
+  </tr>
+  <tr>
+    <th>Item</th>
+    <th>Cost</th>
+    <th>DEF</th>
+    <th>Style</th>
+    <th>He</th>
+    <th>Ma</th>
+    <th>Ki</th>
+    <th>Ru</th>
+    <th>Me</th>
+    <th>Ai</th>
+    <th>Effects</th>
+  </tr>
+  <tr>
+    <td>Magical Skirt</td>
+    <td>8700G</td>
+    <td>45</td>
+    <td>35</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>Mitigates 30 points of damage from Frizz, Sizz, Bang, Whoosh and Crack-based spells</td>
+  </tr>
+  <tr>
+    <td>Magic Armour</td>
+    <td>11000G</td>
+    <td>47</td>
+    <td>38</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>Mitigates 15 points of damage from Frizz, Sizz, Band and Crack-based spells</td>
+  </tr>
+  <tr>
+    <td>Enchanted Armour</td>
+    <td>12000G</td>
+    <td>55</td>
+    <td>35</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>Mitigates 20 points of damage from Frizz, Sizz, Bang and Crack-based spells</td>
+  </tr>
+  <tr>
+    <td>Angel's Robe</td>
+    <td>11000G</td>
+    <td>55</td>
+    <td>55</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>Ethereal Attire that increases resistance to sudden-death attacks</td>
+  </tr>
+  <tr>
+    <td>White Shield</td>
+    <td>2000G</td>
+    <td>16</td>
+    <td>15</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Magic Shield</td>
+    <td>5000G</td>
+    <td>18</td>
+    <td>21</td>
+    <td>+</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>Mitigates 10 points of damage from Frizz, Sizz and Bang-based spells</td>
+  </tr>
+  <tr>
+    <td>Tempest Shield</td>
+    <td>11000G</td>
+    <td>32</td>
+    <td>18</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>Has the same effect as Poof when used in battle</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+      <th colspan="3">Present: Aeolus Vale Item Shop</th>
+  </tr>
+  <tr>
+    <th>Item</th>
+    <th>Cost</th>
+    <th>Effects</th>
+  </tr>
+  <tr>
+    <td>Medicinal Herb</td>
+    <td>8G</td>
+    <td>Restores 30-40HP to one target</td>
+  </tr>
+  <tr>
+    <td>Antidotal Herb</td>
+    <td>10G</td>
+    <td>Cures Poison for one character</td>
+  </tr>
+  <tr>
+    <td>Moonwort Bulb</td>
+    <td>30G</td>
+    <td>Cures Sleep and Paralysis for one character</td>
+  </tr>
+  <tr>
+    <td>Chimaera Wing</td>
+    <td>25G</td>
+    <td>Can be used to return to any previously visited location</td>
+  </tr>
+</table>
+
+## Present: Sanctum of Cirrus
+
+### Available Items
+
+* Mini Medal - 
+* Meaty Treat - 
+* Seed of Life - 
+* Mini Medal - 
+* Yggdrasil Dew - 
+
+## Present: Divine Shrine
+
+### Available Items
+
+* Vestment of Virtue
+
 ## Past: Vogograd
 
 ### Stores
@@ -5710,6 +6937,10 @@
 </table>
 
 ## Present: Vogograd
+
+### Available Items
+
+* Mini Medal - 
 
 ### Stores
 
@@ -5831,7 +7062,154 @@
   </tr>
 </table>
 
+## Present: Mount Gora
+
+### Available ITems
+
+* Seed of Strength - 
+* Mini Medal - 
+* Meaty Treat - 
+* 650G - 
+* Seed of Magic - 
+* Notso Macho Heart - E Past Mount Gora
+
+## Present: Vogograd
+
+### Available Items
+
+* Seed of Magic - 
+* Meaty Treat - 
+* 5 Mini Medals - Leftmost Grave
+* Seed of Resilience - 
+* Bunny ears - 
+
+### Stores
+
+<table>
+  <tr>
+      <th colspan="12">Present: Vogograd Local Shop</th>
+  </tr>
+  <tr>
+    <th>Item</th>
+    <th>Cost</th>
+    <th>ATK</th>
+    <th>DEF</th>
+    <th>Style</th>
+    <th>He</th>
+    <th>Ma</th>
+    <th>Ki</th>
+    <th>Ru</th>
+    <th>Me</th>
+    <th>Ai</th>
+    <th>Effects</th>
+  </tr>
+  <tr>
+    <td>Medicinal Herb</td>
+    <td>8G</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Restores 30-40HP to one target</td>
+  </tr>
+  <tr>
+    <td>Antidotal Herb</td>
+    <td>10G</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>Cures Poison for one character</td>
+  </tr>
+  <tr>
+    <td>Siren Sword</td>
+    <td>9800G</td>
+    <td>70</td>
+    <td>-</td>
+    <td>51</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>This baffling blade sometimes causes confusion in enemies</td>
+  </tr>
+  <tr>
+    <td>War hammer</td>
+    <td>12000G</td>
+    <td>64</td>
+    <td>-</td>
+    <td>19</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Flametang Boomerang</td>
+    <td>13000G</td>
+    <td>65</td>
+    <td>-</td>
+    <td>25</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>This winged weapon can be used to attack all enemies at once</td>
+  </tr>
+  <tr>
+    <td>Dragon Mail</td>
+    <td>15000G</td>
+    <td>-</td>
+    <td>60</td>
+    <td>37</td>
+    <td>+</td>
+    <td>-</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>Mitigates 15 points of damage from fire-based attacks</td>
+  </tr>
+  <tr>
+    <td>White Shield</td>
+    <td>2000G</td>
+    <td>-</td>
+    <td>16</td>
+    <td>15</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+    <td>-</td>
+    <td>+</td>
+    <td>+</td>
+    <td>-</td>
+  </tr>
+</table>
+
 ## Present: Mountain Mart
+
+### Available Items
+
+* Yggdrasil Dew - E of Mountain Mart 
+
+### Stores
 
 <table>
   <tr>
@@ -5990,6 +7368,12 @@
 
 ## Past: Buccanham Palace
 
+### Available Items
+
+* Prayer Ring - N after Bridge
+* Captain's Coat - Inn 2F Closet
+* Mini Medal - 
+
 ### Stores
 
 <table>
@@ -6120,6 +7504,15 @@
   </tr>
 </table>
 
+## Past: Den of Dwarves
+
+### Available Items
+
+* Mini Medal - 
+* Yggdrasil Dew - 
+* Pillager's Helmet - 
+* Seed of Strength - 
+
 <table>
   <tr>
       <th colspan="11">Past: Buccanham Palace Armour Shop</th>
@@ -6217,7 +7610,30 @@
   </tr>
 </table>
 
-## Present: Buccanham Palace Weapon Shop
+## Past: Beacon
+
+
+### Available Items
+
+* Seed of Life - 
+* Trailblazing Bandana - 
+* Hate Mail - 
+* Magic Water - 
+* Mini Medal - 
+* Sea Serpent Sabre - 
+
+
+
+## Present: Buccanham Palace
+
+### Available Items
+
+* Seed of Life - 
+* Trailblazing Bandana - 
+* Hate Mail - 
+* Magic Water - 
+* Mini Medal - 
+
 
 ### Stores
 
