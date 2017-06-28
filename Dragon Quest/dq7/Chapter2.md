@@ -1523,25 +1523,43 @@ Vocation EXP Limit: 20
 * Healslime Heart - Treasure Room Pot
 * Medicinal Herb - Treasure Room Barrel
 
-### Max Equip: 8800G
-
-*Italics if Casino grinding*
-**Bold if not**
-
-* 1 Tortoise Shell        3800G
-* 1 Magic Shield          5000G
-
-### Sellable: *5075G*/3525G
-
-* *1 Magic Vestment        2000G*
-* **1 Fur Cape              450G**
-* 1 Iron Lance            500G
-* 1 Iron Shield           460G
-* 1 Plain Clothes         15G
-* 2 Captain's Coats       4200G
-* 1 Wayfarer's Clothes    35G
-
-#### Net: *3725G*/5275G
+<table>
+  <tr>
+      <th colspan="6">Max Equip</th>
+  </tr>
+  <tr>
+    <th>Character</th>
+    <th>Weapon</th>
+    <th>Chest</th>
+    <th>Shield</th>
+    <th>Head</th>
+    <th>Accessories</th>
+  </tr>
+  <tr>
+    <td>Hero</td>
+    <td>Iron Axe</td>
+    <td>Captain's Coat</td>
+    <td>Bottlenose Buckler</td>
+    <td>Iron Mask</td>
+    <td>Trailblazing Bandana</td>
+  </tr>
+  <tr>
+    <td>Maribel</td>
+    <td>Staff of Antimagic</td>
+    <td>Magic Vestment</td>
+    <td>Magic Shield</td>
+    <td>Bunny Ears</td>
+    <td>Prayer Ring</td>
+  </tr>
+  <tr>
+    <td>Ruff</td>
+    <td>Iron Axe</td>
+    <td>Tortoise Shell</td>
+    <td>Kitty Shield</td>
+    <td>Pirate's Hat</td>
+    <td>Strength Ring</td>
+  </tr>
+</table>
 
 ### Stores
 
@@ -1793,12 +1811,12 @@ Vocation EXP Limit: 22
 * Agility Ring - Treasure Room
 * 350G - Treasure Room
 * Mini Medal - Treasure Room
-* Silver Cuirass - Above Treasure Room Chest
+* Silver Cuirass(Equip to Hero) - Above Treasure Room Chest
 * Leather Whip - Al-Balad Treasure Room
 
 ## Present: Dig Site
 
-* Mini Medal - 
+* Mini Medal - Dig Site N Pot
 
 ## Present: Greta's Cottage
 
@@ -1806,15 +1824,54 @@ Vocation EXP Limit: 22
 
 * Pretty Betsy - Kitchen Barrel
 * Silk Robe - Upstairs Drawer
-* Seed of Agility - 
 
 ## Present: Temple Palace
 
 ### Available Items
 
+* Seed of Agility - NW of Palace 
 * Silver Tiara - NW Closet
 * Noble Garb - NW Closet
 * Silk Bustier - NW Closet
+
+<table>
+  <tr>
+      <th colspan="6">Max Equip</th>
+  </tr>
+  <tr>
+    <th>Character</th>
+    <th>Weapon</th>
+    <th>Chest</th>
+    <th>Shield</th>
+    <th>Head</th>
+    <th>Accessories</th>
+  </tr>
+  <tr>
+    <td>Hero</td>
+    <td>Iron Axe</td>
+    <td>Silver Cuirass</td>
+    <td>Bottlenose Buckler</td>
+    <td>Iron Mask</td>
+    <td>Trailblazing Bandana</td>
+  </tr>
+  <tr>
+    <td>Maribel</td>
+    <td>Staff of Antimagic</td>
+    <td>Silk Bustier</td>
+    <td>Magic Shield</td>
+    <td>Bunny Ears</td>
+    <td>Prayer Ring</td>
+  </tr>
+  <tr>
+    <td>Ruff</td>
+    <td>Iron Axe</td>
+    <td>Tortoise Shell</td>
+    <td>Kitty Shield</td>
+    <td>Pirate's Hat</td>
+    <td>Strength Ring</td>
+  </tr>
+</table>
+
 
 ### Stores
 
@@ -1974,7 +2031,8 @@ Vocation EXP Limit: 22
 * Medicinal Herb - SW House Barrel
 * Dancer's Costume - SW House Upstairs Closet
 * Mini Medal - Barrel Behind Shop
-* 15G - 
+* Seed of Life - Middle E House Pot
+* 15G - Outside Chief's House Pot
 * Seed of Magic - Chief's House Pot
 * Pilchard Crackers - Chief's House Kitchen Pot
 * Chimaera Heart - S of Continent
@@ -2085,8 +2143,8 @@ Vocation EXP Limit: 23
 
 ### Available Items
 
-* Magic Water - W of Island
-* 3G - Right Building Barrel
+* Magic Water - W of Yggdrasil
+* 3G - SW House Barrel
 * Plain Clothes - E House Drawer
 * Leather Hat - Mayor's House Drawer
 * Mini Medal - Mayor's Kitchen Pot
@@ -7621,19 +7679,26 @@ Vocation EXP Limit: 33
 * Magic Water - 
 * Mini Medal - 
 * Sea Serpent Sabre - 
-
-
+* Buccanham Palace Storeroom
+  * Meaty Treat - Pot
+  * Jawtoise Heart - Chest
+  * Watermaul Wand - Chest
 
 ## Present: Buccanham Palace
 
 ### Available Items
 
-* Seed of Life - 
-* Trailblazing Bandana - 
-* Hate Mail - 
-* Magic Water - 
+* Golem Heart - 
 * Mini Medal - 
-
+* Pilchard Crackers - 
+* Medicinal Herb - 
+* Antidotal Herb - 
+* Yggdrasil Dew - 
+* Seed of Life - 
+* Medicinal Herb - 
+* Mini Medal - 
+* Seed of Magic - 
+* Magic Water - 
 
 ### Stores
 
@@ -7875,8 +7940,6 @@ Vocation EXP Limit: 33
   </tr>
 </table>
 
-### Buccanham Palace Casino
-
 <table>
   <tr>
       <th colspan="12">Present: Buccanham Palace Casion Trade-In</th>
@@ -7981,7 +8044,28 @@ Vocation EXP Limit: 33
   </tr>
 </table>
 
+## Present: Den of Dwarves
+
+### Available Items
+
+* 30G - 
+* Meaty Treat - 
+* 120G - 
+* Mini Medal - 
+
 ## Present: Dinky Dell
+
+### Available Items
+
+* Pilchard Pie - 
+* 16G - 
+* Horse Manure - 
+* 50G - 
+* Seed of Strength - 
+* Pink Pearl - 
+* Smart Suit - 
+* Seed of Magic - 
+* Yggdrasil Leaf - S of Altar of Arrival
 
 ### Stores
 
@@ -8101,7 +8185,16 @@ Vocation EXP Limit: 33
   </tr>
 </table>
 
+### Recruitment
+
+* Kuistian - Aeolus Vale Church
+* Quaynan - Providence Bridge
+
 ## Present: Divine Shrine
+
+### Available Items
+
+* Mini Medal - 
 
 ### Stores
 
@@ -8290,3 +8383,9 @@ Vocation EXP Limit: 33
     <td>Can be used to return to any previously visited location</td>
   </tr>
 </table>
+
+## Present: Dig Site
+
+### Available Items
+
+* Mini Medal - 

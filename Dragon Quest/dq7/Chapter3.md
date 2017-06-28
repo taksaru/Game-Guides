@@ -1,6 +1,37 @@
 # Chapter 3
 
+## Present: Cathedral of Life
+
+### Available Items
+
+* Holy Water - 
+* Mini Medal - 
+* Seed of Life - 
+* Silk Bustier - 
+* Haywire Helm - 
+* Seed of Life - 
+* Seed of Strength - 
+
+## Present: Estard
+
+### Available Items
+
+* Mini Medal - 
+* Mini Medal - 
+* Seed of Strength - 
+* Kingsblade - 
+* Platinum Shield - 
+* Yggdrasil Leaf - 
+
 ## Present: Burnmount
+
+### Available Items
+
+* Magma Staff - 
+* Mini Medal - 
+* Seed of Strength - 
+* Yggdrasil Dew - 
+* Fire Amulet - Boss Fight Reward
 
 ### Stores
 
@@ -123,6 +154,18 @@
 </table>
 
 ## Present: Sea Dragon
+
+### Available Items 
+
+* Pirate's Hat - 
+* Captain's Coat - 
+* Captain's Coat - 
+* Mini Medal - 
+* Seed of Strength - 
+* Mini Medal - 
+* 20G - 
+* Turban - 
+* Pilchard Crackers - 
 
 ### Stores
 
@@ -545,9 +588,69 @@
   </tr>
 </table>
 
-## Present: Haven
+## Present: Aeolus Vale
 
-### Haven Casion
+### Available Items
+
+* Silver Tiara - 
+* 7G - 
+
+## Present: Ventus Tower
+
+### Available Items
+
+* Mini Medal - 
+* Miracle Sword - 
+* Edged Boomerang - 
+* Mercury's Bandana
+* 1200G - 
+* Seed of Resilience - 
+* Seed of Agility - 
+
+## Present: Villa Priores
+
+### Available Items
+
+* Mini Medal - 
+* Seed of Agility - 
+
+## Present: Multipleximus Maximus
+
+### Available Items
+
+* Shimmering Dress - 
+* Mini Medal - 
+* Agility Ring - 
+* Cirrus Surplice - 
+* Hermes' Hat - 
+* Air Amulet - 
+
+## Present: Hidden Pyramid
+
+* Mimic Heart - 
+* Earth Amulet - 
+* Prayer Ring - 
+* Magic Water
+
+### Recruitment
+
+* Goolio - Buccanham Lighthouse
+
+## Present: The Haven
+
+### Available Items
+
+* Water Amulet - Sea Dragon
+* Mini Medal - Bar Barrel
+* Mini Medal - NE Pot
+* Mini Medal - N House Closet
+* Mini Medal - E House Pot
+* Orichalcum Fangs - E House
+* Royal Mail - E House
+* Malevolantern Heart - E House
+* Demon Spear - Sunken Citadel Gracos V
+
+### Haven Casino
 
 <table>
   <tr>
@@ -652,3 +755,40 @@
     <td>Changes Maribel's appearance. This naughty little number is sure to turn heads wherever you go</td>
   </tr>
 </table>
+
+## Present: Cathedral of Blight
+
+### Available Items
+
+* Mini Medal - 
+* Beastly Priest Heart - 
+* Mini Medal - 
+* 1250G - 
+* Yggdrasil Leaf - 
+* Mini Medal - 
+* Shield of Shame - 
+
+### Water Amulet Path
+
+#### Available Items
+
+* Okeanos Sword - 
+
+### Earth Amulet Path
+
+#### Available Items
+
+* Gaia Armour - 
+* Mini Medal - 
+
+### Air Amulet Path
+
+#### Available Items
+
+* Aeras Shield - 
+
+### Fire Amulet Path
+
+#### Available Items
+
+* Pyros Helm
