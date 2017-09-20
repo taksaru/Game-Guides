@@ -72,7 +72,7 @@
 | Leather Hat          |  65G |  3  | * | * | * | * | * | * | A popular hat made of leather |
 
 ### Weapon Shop
-
+C
 | Item          | Cost | ATK | H | Y | J | A | M | R | Effect |
 | ------------- | :--: | :-: | - | - | - | - | - | - | ------ |
 | Cypress Stick | 10G  |  4  | * | - | - | - | - | - | A simple wooden stick carved from a strudy cypress branch |
