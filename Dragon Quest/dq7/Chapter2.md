@@ -18,36 +18,6 @@ Vocation EXP Limit: 19
 * Seed of Agility - Inn Pot
 * Strength Ring - W of Alltrades Abbey
 
-### Max Equip: *7200T*/1750G
-
-*Italics if Casino grinding*
-**Bold if not**
-
-* *2 Trailblazing Bandanas 200T*
-* *2 Magic Vestments       2000T*
-* *1 Bottlenose Buckler    5000T*
-* **1 Fur Cape              900G**
-* **1 Slime Earrings        850G**
-
-### Sellable: *7252G*/5117G
-
-* 1 Iron Lance            500G
-* *1 Iron Shield           460G*
-* *1 Slime Earrings        425G*
-* 1 Iron Shield           460G
-* 1 Fur Cape              450G
-* *1 Garish Garb           1250G*
-* 1 Garter                1650G
-* 1 Leather Hat           32G
-* 1 Pointy Hat            35G
-* 1 Fur Hood              250G
-* 1 Poison Moth Knife     475G
-* 1 Leather Dress         340G
-* 1 Bronze Armour         675G
-* 1 Lucida Shard          250G
-
-#### Net: *-7252G*/-4167
-
 ### Stores
 
 <table>
@@ -366,26 +336,6 @@ Vocation EXP Limit: 19
 * Horse Manure - W Bar Barrel
 * Mini Medal - W Bar Counter Pot
 * 30G - Nava's Pot
-
-### Max Equip: *7200G*/11500G
-
-*Italics if Casino grinding*
-**Bold if not**
-
-* 1 Snooze Stick          4200G
-* **1 Dancer's Costume      1500G**
-* 1 Iron Cuirass          2000G
-* 1 Silver Platter        1000G
-* **1 Steel Broadsword      2800G**
-
-### Sellable: *1480G*/2630G
-
-* 1 Leather Whip          650G
-* 1 Kitty Shield          155G
-* 1 Bronze Armour         675G
-* **1 Edged Boomerang       1150G**
-
-#### Net: *5720G*/8870G
 
 ### Stores
 
@@ -749,34 +699,6 @@ Vocation EXP Limit: 20
 * 50G - Church Pot
 * Scale Armour - N Room Closet
 * Medicinal Herb - SW of Arena
-
-### Max Equip: 12800G
-
-*Italics if Casino grinding*
-**Bold if not**
-
-* 1 Steel Fangs           4200G
-* 1 Chain Whip            2500G
-* 1 Iron Armour           3300G
-* 2 Pirate's Hat          2800G
-
-### Sellable: 7125G
-
-* 1 Edged Boomerang       1150G
-* 1 Kitty Shield          155G
-* 1 Slime Earrings        425G
-* 1 Bone Stake            55G
-* 2 Pointy Hat            70G
-* 1 Leather Armour        90G
-* 1 Chain Sickle          850G
-* 1 Iron Shield           460G
-* 1 Plain Clothes         15G
-* 1 Turban                205G
-* 1 Iron Cuirass          1000G
-* 1 Snooze Stick          2100G
-* 1 Iron Helmet           550G
-
-#### Net: 5675G
 
 ### Stores
 
@@ -1243,34 +1165,6 @@ Vocation EXP Limit: 20
 * 5G - Barrel near Fragment
 * Mini Medal - NW Basement Pot
 
-### Max Equip: *19800G*/21800G
-
-*Italics if Casino grinding*
-**Bold if not**
-
-* 1 Staff of Antimagic    6800G
-* 2 Iron Axes             8000G
-* **1 White Shield          2000G**
-* 1 Full Plate Armour     5000G
-
-### Sellable: *10952G*/11412G
-
-* 1 Chain Whip            1250G
-* 1 Scale Armour          225G
-* 1 Pirate's Hat          1400G
-* 1 Steel Broadsword      1400G
-* 1 Steel Fangs           2100G
-* 1 Leather Hat           32G
-* 1 Prayer Ring           1500G
-* 1 Bunny Tail            135G
-* 1 Iron Shield           460G
-* **1 Iron Shield           460G**
-* 1 Silk Robe             300G
-* 1 Silver Platter        500G
-* 1 Iron Armour           1650G
-
-#### Net: *8848G*/10388G
-
 ### Stores
 
 <table>
@@ -1522,44 +1416,6 @@ Vocation EXP Limit: 20
 * Holy Water - Treasure Room Pot
 * Healslime Heart - Treasure Room Pot
 * Medicinal Herb - Treasure Room Barrel
-
-<table>
-  <tr>
-      <th colspan="6">Max Equip</th>
-  </tr>
-  <tr>
-    <th>Character</th>
-    <th>Weapon</th>
-    <th>Chest</th>
-    <th>Shield</th>
-    <th>Head</th>
-    <th>Accessories</th>
-  </tr>
-  <tr>
-    <td>Hero</td>
-    <td>Iron Axe</td>
-    <td>Captain's Coat</td>
-    <td>Bottlenose Buckler</td>
-    <td>Iron Mask</td>
-    <td>Trailblazing Bandana</td>
-  </tr>
-  <tr>
-    <td>Maribel</td>
-    <td>Staff of Antimagic</td>
-    <td>Magic Vestment</td>
-    <td>Magic Shield</td>
-    <td>Bunny Ears</td>
-    <td>Prayer Ring</td>
-  </tr>
-  <tr>
-    <td>Ruff</td>
-    <td>Iron Axe</td>
-    <td>Tortoise Shell</td>
-    <td>Kitty Shield</td>
-    <td>Pirate's Hat</td>
-    <td>Strength Ring</td>
-  </tr>
-</table>
 
 ### Stores
 
@@ -1829,48 +1685,10 @@ Vocation EXP Limit: 22
 
 ### Available Items
 
-* Seed of Agility - NW of Palace 
+* Seed of Agility - NW of Palace
 * Silver Tiara - NW Closet
 * Noble Garb - NW Closet
 * Silk Bustier - NW Closet
-
-<table>
-  <tr>
-      <th colspan="6">Max Equip</th>
-  </tr>
-  <tr>
-    <th>Character</th>
-    <th>Weapon</th>
-    <th>Chest</th>
-    <th>Shield</th>
-    <th>Head</th>
-    <th>Accessories</th>
-  </tr>
-  <tr>
-    <td>Hero</td>
-    <td>Iron Axe</td>
-    <td>Silver Cuirass</td>
-    <td>Bottlenose Buckler</td>
-    <td>Iron Mask</td>
-    <td>Trailblazing Bandana</td>
-  </tr>
-  <tr>
-    <td>Maribel</td>
-    <td>Staff of Antimagic</td>
-    <td>Silk Bustier</td>
-    <td>Magic Shield</td>
-    <td>Bunny Ears</td>
-    <td>Prayer Ring</td>
-  </tr>
-  <tr>
-    <td>Ruff</td>
-    <td>Iron Axe</td>
-    <td>Tortoise Shell</td>
-    <td>Kitty Shield</td>
-    <td>Pirate's Hat</td>
-    <td>Strength Ring</td>
-  </tr>
-</table>
 
 ### Stores
 
@@ -2690,44 +2508,6 @@ Vocation EXP Limit: 24
 
 * Pirate's Hat - E of Grody Grotto
 
-<table>
-  <tr>
-      <th colspan="6">Max Equip</th>
-  </tr>
-  <tr>
-    <th>Character</th>
-    <th>Weapon</th>
-    <th>Chest</th>
-    <th>Shield</th>
-    <th>Head</th>
-    <th>Accessories</th>
-  </tr>
-  <tr>
-    <td>Hero</td>
-    <td>Cautery sword</td>
-    <td>Silver Cuirass</td>
-    <td>Bottlenose Buckler</td>
-    <td>Iron Mask</td>
-    <td>Trailblazing Bandana</td>
-  </tr>
-  <tr>
-    <td>Maribel</td>
-    <td>Staff of Antimagic</td>
-    <td>Silk Bustier</td>
-    <td>Magic Shield</td>
-    <td>Bunny Ears</td>
-    <td>Prayer Ring</td>
-  </tr>
-  <tr>
-    <td>Ruff</td>
-    <td>Knuckledusters</td>
-    <td>Tortoise Shell</td>
-    <td>Kitty Shield</td>
-    <td>Pirate's Hat</td>
-    <td>Strength Ring</td>
-  </tr>
-</table>
-
 ### Stores
 
 <table>
@@ -3418,7 +3198,7 @@ Vocation EXP Limit: 26
 
 * Bow Tie - Past Electric Hazard
 * Seed or Resilience - 2F SE
-* Silk Tuxedo - 3F N 
+* Silk Tuxedo - 3F N
 * Seed of Wisdom - Treasure Room
 * Mini Medal - Treasure Room
 
@@ -3684,44 +3464,6 @@ Vocation EXP Limit: 26
 * 30G - Pot by Equipment Shop
 * Iron Lance - Equipment Shop Back
 * Seed of Strength - Tower Basement Barrel
-
-<table>
-  <tr>
-      <th colspan="6">Max Equip</th>
-  </tr>
-  <tr>
-    <th>Character</th>
-    <th>Weapon</th>
-    <th>Chest</th>
-    <th>Shield</th>
-    <th>Head</th>
-    <th>Accessories</th>
-  </tr>
-  <tr>
-    <td>Hero</td>
-    <td>Dragontail Whip</td>
-    <td>Pillager's Platemail</td>
-    <td>Bottlenose Buckler</td>
-    <td>Pillager's Helmet</td>
-    <td>Trailblazing Bandana</td>
-  </tr>
-  <tr>
-    <td>Maribel</td>
-    <td>Morning Star</td>
-    <td>Magical Skirt</td>
-    <td>Magic Shield</td>
-    <td>Bunny Ears</td>
-    <td>Prayer Ring</td>
-  </tr>
-  <tr>
-    <td>Ruff</td>
-    <td>Fire Claws</td>
-    <td>Tortoise Shell</td>
-    <td>Kitty Shield</td>
-    <td>Pillager's Helmet</td>
-    <td>Strength Ring</td>
-  </tr>
-</table>
 
 ### Stores
 
@@ -3995,44 +3737,6 @@ Vocation EXP Limit: 27
 * Tangleweb - 3F NW Barrel
 * Horse Manure - 3F N Pot
 * Prayer Ring - Old Man Riffer
-
-<table>
-  <tr>
-      <th colspan="6">Max Equip</th>
-  </tr>
-  <tr>
-    <th>Character</th>
-    <th>Weapon</th>
-    <th>Chest</th>
-    <th>Shield</th>
-    <th>Head</th>
-    <th>Accessories</th>
-  </tr>
-  <tr>
-    <td>Hero</td>
-    <td>Faerie Foil</td>
-    <td>Pillager's Platemail</td>
-    <td>Bottlenose Buckler</td>
-    <td>Pillager's Helmet</td>
-    <td>Trailblazing Bandana</td>
-  </tr>
-  <tr>
-    <td>Maribel</td>
-    <td>Morning Star</td>
-    <td>Magical Skirt</td>
-    <td>Magic Shield</td>
-    <td>Bunny Ears</td>
-    <td>Prayer Ring</td>
-  </tr>
-  <tr>
-    <td>Ruff</td>
-    <td>Fire Claws</td>
-    <td>Tortoise Shell</td>
-    <td>Kitty Shield</td>
-    <td>Pillager's Helmet</td>
-    <td>Strength Ring</td>
-  </tr>
-</table>
 
 ### Stores
 
@@ -4341,44 +4045,6 @@ Vocation EXP Limit: 27
 * Serial Quiller Hat - NE of Wetlock
 * Seed of Wisdom - E of Equipment Shop Pot
 * Gold Bracer - NE of Highendreigh Tower
-
-<table>
-  <tr>
-      <th colspan="6">Max Equip</th>
-  </tr>
-  <tr>
-    <th>Character</th>
-    <th>Weapon</th>
-    <th>Chest</th>
-    <th>Shield</th>
-    <th>Head</th>
-    <th>Accessories</th>
-  </tr>
-  <tr>
-    <td>Hero</td>
-    <td>Faerie Foil</td>
-    <td>Silver Mail</td>
-    <td>Bottlenose Buckler</td>
-    <td>Pillager's Helmet</td>
-    <td>Trailblazing Bandana</td>
-  </tr>
-  <tr>
-    <td>Maribel</td>
-    <td>Lunar Fan</td>
-    <td>Magical Skirt</td>
-    <td>Magic Shield</td>
-    <td>Bunny Ears</td>
-    <td>Prayer Ring</td>
-  </tr>
-  <tr>
-    <td>Ruff</td>
-    <td>Fire Claws</td>
-    <td>Tortoise Shell</td>
-    <td>Kitty Shield</td>
-    <td>Pillager's Helmet</td>
-    <td>Strength Ring</td>
-  </tr>
-</table>
 
 ### Stores
 
@@ -4885,52 +4551,6 @@ Vocation EXP Limit: 30
 * Dream Blade - Level 3 NW Chest
 * Magic Water - Level 4 NW Chest
 
-<table>
-  <tr>
-      <th colspan="6">Max Equip</th>
-  </tr>
-  <tr>
-    <th>Character</th>
-    <th>Weapon</th>
-    <th>Chest</th>
-    <th>Shield</th>
-    <th>Head</th>
-    <th>Accessories</th>
-  </tr>
-  <tr>
-    <td>Hero</td>
-    <td>Faerie Foil</td>
-    <td>Heavy Armour</td>
-    <td>Bottlenose Buckler</td>
-    <td>Pillager's Helmet</td>
-    <td>Trailblazing Bandana</td>
-  </tr>
-  <tr>
-    <td>Maribel</td>
-    <td>Lunar Fan</td>
-    <td>Magical Skirt</td>
-    <td>Magic Shield</td>
-    <td>Bunny Ears</td>
-    <td>Prayer Ring</td>
-  </tr>
-  <tr>
-    <td>Ruff</td>
-    <td>Fire Claws</td>
-    <td>Heavy Armour</td>
-    <td>Kitty Shield</td>
-    <td>Pillager's Helmet</td>
-    <td>Strength Ring</td>
-  </tr>
-  <tr>
-    <td>Mervyn</td>
-    <td>Dream Blade</td>
-    <td>Heavy Armour</td>
-    <td>Bronze Shield</td>
-    <td>Pirate's Hat</td>
-    <td>Mercury's Bandana</td>
-  </tr>
-</table>
-
 ## Present: Nottagen
 
 ### Available Items
@@ -5202,52 +4822,6 @@ Vocation EXP Limit: 31
     <td>-</td>
     <td>+</td>
     <td>-</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-      <th colspan="6">Max Equip</th>
-  </tr>
-  <tr>
-    <th>Character</th>
-    <th>Weapon</th>
-    <th>Chest</th>
-    <th>Shield</th>
-    <th>Head</th>
-    <th>Accessories</th>
-  </tr>
-  <tr>
-    <td>Hero</td>
-    <td>Warhammer</td>
-    <td>Heavy Armour</td>
-    <td>Tempest Shield</td>
-    <td>Pillager's Helmet</td>
-    <td>Trailblazing Bandana</td>
-  </tr>
-  <tr>
-    <td>Maribel</td>
-    <td>Lunar Fan</td>
-    <td>Magical Skirt</td>
-    <td>Magic Shield</td>
-    <td>Bunny Ears</td>
-    <td>Prayer Ring</td>
-  </tr>
-  <tr>
-    <td>Ruff</td>
-    <td>Icicle Dirk</td>
-    <td>Heavy Armour</td>
-    <td>Kitty Shield</td>
-    <td>Pillager's Helmet</td>
-    <td>Strength Ring</td>
-  </tr>
-  <tr>
-    <td>Mervyn</td>
-    <td>Dream Blade</td>
-    <td>Heavy Armour</td>
-    <td>Bronze Shield</td>
-    <td>Pirate's Hat</td>
-    <td>Mercury's Bandana</td>
   </tr>
 </table>
 
@@ -5746,6 +5320,16 @@ Vocation EXP Limit: 30
 * Lips Heart - E Path Chest
 * Mini Medal - Church Basement
 
+## Present: Roamer Encampment
+
+### Available Items
+
+* Seed of Life - Pots by NW Tent
+* Medicinal Herb - NW Tent Chest
+* Meaty Treat - S Tent Pot
+* Mini Medal - S Pot
+* Seed of Life - Main Tent Chest
+
 ## Past: Rucker Castle
 
 Vocation EXP Limit: 31
@@ -6118,60 +5702,14 @@ Vocation EXP Limit: 31
   </tr>
 </table>
 
-<table>
-  <tr>
-      <th colspan="6">Max Equip</th>
-  </tr>
-  <tr>
-    <th>Character</th>
-    <th>Weapon</th>
-    <th>Chest</th>
-    <th>Shield</th>
-    <th>Head</th>
-    <th>Accessories</th>
-  </tr>
-  <tr>
-    <td>Hero</td>
-    <td>Warhammer</td>
-    <td>Heavy Armour</td>
-    <td>Tempest Shield</td>
-    <td>Pillager's Helmet</td>
-    <td>Trailblazing Bandana</td>
-  </tr>
-  <tr>
-    <td>Maribel</td>
-    <td>Lunar Fan</td>
-    <td>Magical Skirt</td>
-    <td>Magic Shield</td>
-    <td>Bunny Ears</td>
-    <td>Prayer Ring</td>
-  </tr>
-  <tr>
-    <td>Ruff</td>
-    <td>Icicle Dirk</td>
-    <td>Heavy Armour</td>
-    <td>Kitty Shield</td>
-    <td>Pillager's Helmet</td>
-    <td>Strength Ring</td>
-  </tr>
-  <tr>
-    <td>Mervyn</td>
-    <td>Dream Blade</td>
-    <td>Heavy Armour</td>
-    <td>Magic Shield</td>
-    <td>Pirate's Hat</td>
-    <td>Mercury's Bandana</td>
-  </tr>
-</table>
-
 ## Past: Grand Conjuratorium
 
 ### Available Items
 
-* Magic Water - 
-* Seed of Magic - 
-* Mini Medal - 
-* 6G - 
+* Magic Water - Basement Chest
+* Seed of Magic - Basement Chest
+* Mini Medal - Graveyard Pot
+* 6G - Graveyard Pot
 
 ### Stores
 
@@ -6291,28 +5829,31 @@ Vocation EXP Limit: 31
 
 ### Available Items
 
-* Medicinal Herb - 
+* Medicinal Herb - House Pot
 
 ## Past: Hubble
 
 ### Available Items
 
-* Mini Medal - 
-* Lightning Staff - 
+* **Mini Medal - Castle downstairs closet**
+* Lightning Staff - Helped Wandmaker
 
 ## Present: Hubble
 
 ### Available Items
 
-* Diamend - N of Teleportal
-* Silk Robe - 
-* Mini Medal - B of Inn Barrel
-* Pointy Hat - NE House Dresser
-* Mini Medal - Well Drawer
-* Party Dress - 
-* Seed of Resilience - 
-* Mini Medal - 
-* Seed of Magic - 
+* Town
+  * Diamend - N of Teleportal
+  * Silk Robe - Inn Drawer
+  * Mini Medal - B of Inn Barrel
+  * Pointy Hat - NE House Closet
+  * Mini Medal - Well Drawer
+* Castle
+  * Party Dress - SE Tower
+  * Seed of Resilience - NW Tower
+* Grand Conjuratorium
+  * Mini Medal - Basement
+  * Seed of Magic - Graveyard Chest
 
 ### Stores
 
@@ -6551,16 +6092,6 @@ Vocation EXP Limit: 31
   </tr>
 </table>
 
-## Present: Roamer Encampment
-
-### Available Items
-
-* Seed of Life - 
-* Medicinal Herb - 
-* Meaty Treat - 
-* Mini Medal - 
-* Seed of Life - 
-
 ## Past: Aeolus Vale
 
 Vocation EXP Limit: 33
@@ -6569,13 +6100,12 @@ Vocation EXP Limit: 33
 
 * Flametang Boomerang - SE down Peninsula
 * 210G - Inn Chest
-* Mini Medal - 
-* 20G - 
-* Pot Lid - 
-* Boomerang - 
-* Meaty Treat - 
-* Ruby of Protection - SE of Aeolus Vale
-* 20G - 
+* Mini Medal - Praetor's Home Closet
+* 20G - Armour Shop
+* Pot Lid - Armour Shop
+* Boomerang - Weapon Shop
+* Meaty Treat - Outside Shop
+* Ruby of Protection - NE of Aeolus Vale
 
 ### Stores
 
@@ -6808,7 +6338,7 @@ Vocation EXP Limit: 33
 
 ### Available Items
 
-* Seed of Resilience - 
+* Seed of Resilience - Well
 
 ## Past: Sullied Sanctum
 
@@ -6816,21 +6346,21 @@ Vocation EXP Limit: 33
 
 ### Available Items
 
-* Magic Water - 
-* Mini Medal - 
-* Lightning Staff - 
-* Yggdrasil Leaf - 
+* Magic Water - Up first stairs
+* Mini Medal - West Path Left Chest
+* Lightning Staff - West Path W Downstairs Chest
+* Yggdrasil Leaf - West Path SE Downstairs Chest
 
 ## Past: Sanctum of Cirrus
 
 ### Available Items
 
-* Seed of Life - 
-* Mini Medal - 
-* 350G - 
-* Chimaera Heart - 
-* Seed of Resilience - 
-* Mercury's Bandana - 
+* Seed of Life - 1F Back Room NE Barrel
+* Mini Medal - 1F Back Room NE Barrel
+* 350G - 1F Back Room SE
+* Chimaera Heart - 1F Back Room SE
+* Seed of Resilience - 3F SW
+* Mercury's Bandana - Mayor After Return
 * Prayer Ring - Statue after Boss
 
 ## Present: Aeolus Vale
@@ -6843,7 +6373,7 @@ Vocation EXP Limit: 33
 * Silver Platter - Armour Shop Chest
 * Garish Garb - Armour Shop Chest
 * 10G - Weapon Shop Chest
-* Seed of Life - Weapon Shop Chest
+* Seed of Life - Shop Floor Chest
 
 ### Stores
 
@@ -7076,19 +6606,23 @@ Vocation EXP Limit: 33
 
 ### Available Items
 
-* Mini Medal - 
-* Meaty Treat - 
-* Seed of Life - 
-* Mini Medal - 
-* Yggdrasil Dew - 
+* Mini Medal - Entrance Area Chest
+* Meaty Treat - 1F Back Rooom NE
+* Seed of Life - 1F Back Room SE
+* Mini Medal - 1 F Back Room SE
+* Yggdrasil Dew - 3F SW
 
 ## Present: Divine Shrine
 
 ### Available Items
 
-* Vestment of Virtue
+* Vestment of Virtue - East Shrine Dancer
 
 ## Past: Vogograd
+
+### Available Items
+
+* Mini Medal - Mayor House Barrel
 
 ### Stores
 
@@ -7196,152 +6730,26 @@ Vocation EXP Limit: 33
   </tr>
 </table>
 
-## Present: Vogograd
+## Past: Mount Gora
 
 ### Available Items
 
-* Mini Medal - 
-
-### Stores
-
-<table>
-  <tr>
-      <th colspan="12">Present: Vogograd Local Shop</th>
-  </tr>
-  <tr>
-    <th>Item</th>
-    <th>Cost</th>
-    <th>ATK</th>
-    <th>DEF</th>
-    <th>Style</th>
-    <th>He</th>
-    <th>Ma</th>
-    <th>Ki</th>
-    <th>Ru</th>
-    <th>Me</th>
-    <th>Ai</th>
-    <th>Effects</th>
-  </tr>
-  <tr>
-    <td>Medicinal Herb</td>
-    <td>8G</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Restores 30-40HP to one target</td>
-  </tr>
-  <tr>
-    <td>Antidotal Herb</td>
-    <td>10G</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Removes the Poisoned and Envenomated state</td>
-  </tr>
-  <tr>
-    <td>Siren Sword</td>
-    <td>9800G</td>
-    <td>70</td>
-    <td>-</td>
-    <td>51</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>+</td>
-    <td>This baffling blade sometimes causes confusion</td>
-  </tr>
-  <tr>
-    <td>Warhammer</td>
-    <td>12000G</td>
-    <td>64</td>
-    <td>-</td>
-    <td>19</td>
-    <td>+</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Flametang Boomerang</td>
-    <td>13000G</td>
-    <td>65</td>
-    <td>-</td>
-    <td>25</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>The winged weapon can be used to attack all enemies at once</td>
-  </tr>
-  <tr>
-    <td>Dragon Mail</td>
-    <td>15000G</td>
-    <td>-</td>
-    <td>60</td>
-    <td>37</td>
-    <td>+</td>
-    <td>-</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>+</td>
-    <td>Mitigates 15 points of damage from fire-based breath attacks</td>
-  </tr>
-  <tr>
-    <td>White Shield</td>
-    <td>2000G</td>
-    <td>-</td>
-    <td>16</td>
-    <td>15</td>
-    <td>+</td>
-    <td>+</td>
-    <td>-</td>
-    <td>-</td>
-    <td>+</td>
-    <td>+</td>
-    <td>-</td>
-  </tr>
-</table>
-
-## Present: Mount Gora
-
-### Available ITems
-
-* Seed of Strength - 
-* Mini Medal - 
-* Meaty Treat - 
-* 650G - 
-* Seed of Magic - 
-* Notso Macho Heart - E Past Mount Gora
+* Seed of Strength - First Cave
+* Mini Medal - Cave 3 East Path
+* Meaty Treat - Cave 4 Below Cave 3 Exit
+* 650G - Cave 5 North Path
+* Seed of Magic - Church Pot
+* Notso Macho Heart - E of Mount Gora
 
 ## Present: Vogograd
 
 ### Available Items
 
-* Seed of Magic - 
-* Meaty Treat - 
+* Seed of Magic - SW House Backyard Barrel
+* Meaty Treat - SW Shack Pot
 * 5 Mini Medals - Leftmost Grave
-* Seed of Resilience - 
-* Bunny ears - 
+* Seed of Resilience - Church Pot
+* Bunny ears - NW House Drawer
 
 ### Stores
 
@@ -7467,7 +6875,7 @@ Vocation EXP Limit: 33
 
 ### Available Items
 
-* Yggdrasil Dew - E of Mountain Mart 
+* Yggdrasil Dew - E of Mountain Mart
 
 ### Stores
 
@@ -7632,7 +7040,8 @@ Vocation EXP Limit: 33
 
 * Prayer Ring - N after Bridge
 * Captain's Coat - Inn 2F Closet
-* Mini Medal - 
+* Mini Medal - Barrel Outside SE House
+* Pirate Hat - Castle 2F Closet
 
 ### Stores
 
@@ -7764,15 +7173,6 @@ Vocation EXP Limit: 33
   </tr>
 </table>
 
-## Past: Den of Dwarves
-
-### Available Items
-
-* Mini Medal - 
-* Yggdrasil Dew - 
-* Pillager's Helmet - 
-* Seed of Strength - 
-
 <table>
   <tr>
       <th colspan="11">Past: Buccanham Palace Armour Shop</th>
@@ -7870,18 +7270,26 @@ Vocation EXP Limit: 33
   </tr>
 </table>
 
-## Past: Beacon
-
+## Past: Den of Dwarves
 
 ### Available Items
 
-* Seed of Life - 
-* Trailblazing Bandana - 
-* Hate Mail - 
-* Magic Water - 
-* Mini Medal - 
-* Sea Serpent Sabre - 
-* Buccanham Palace Storeroom
+* Mini Medal - First Split East
+* Yggdrasil Dew - Treasure Room Pot
+* Pillager's Helmet - Treasure Room
+* Seed of Strength - NW Corner After Den
+
+## Past: Beacon
+
+### Available Items
+
+* Magic Water - 1F NE Barrel
+* Mini Medal - 1F NE Drawer
+* Hate Mail - 3F NW Corner
+* Trailblazing Bandana - 4F Centre
+* Seed of Life - 6F West
+* Sea Serpent Sabre - Reward
+* Den of Dwarves Storeroom
   * Meaty Treat - Pot
   * Jawtoise Heart - Chest
   * Watermaul Wand - Chest
@@ -7890,17 +7298,9 @@ Vocation EXP Limit: 33
 
 ### Available Items
 
-* Golem Heart - 
-* Mini Medal - 
-* Pilchard Crackers - 
-* Medicinal Herb - 
-* Antidotal Herb - 
-* Yggdrasil Dew - 
-* Seed of Life - 
-* Medicinal Herb - 
-* Mini Medal - 
-* Seed of Magic - 
-* Magic Water - 
+* Golem Heart - N of Bridge
+* Mini Medal - House behind inn
+* Pilchard Crackers - Barrel outside SE House
 
 ### Stores
 
@@ -8246,28 +7646,40 @@ Vocation EXP Limit: 33
   </tr>
 </table>
 
+## Present: The Beacon
+
+### Available Items
+
+* Medicinal Herb - 1F NE Barrel
+* Antidotal Herb - 1F NE Barrel
+* Yggdrasil Dew - 3F NW Chest
+* Seed of Life - 4F SW Chest
+* Medicinal Herb - 5F Centre
+* Mini Medal - 5F Centre
+* Seed of Magic - 7F East
+* Magic Water - 7F West
+
 ## Present: Den of Dwarves
 
 ### Available Items
 
-* 30G - 
-* Meaty Treat - 
-* 120G - 
-* Mini Medal - 
+* 30G - B1F NE Chest
+* Meaty Treat - Treasure Room Pot
+* 120G - Treasure Room
+* Mini Medal - Treasure Room
 
 ## Present: Dinky Dell
 
 ### Available Items
 
-* Pilchard Pie - 
-* 16G - 
-* Horse Manure - 
-* 50G - 
-* Seed of Strength - 
-* Pink Pearl - 
-* Smart Suit - 
-* Seed of Magic - 
-* Yggdrasil Leaf - S of Altar of Arrival
+* Pilchard Pie - E House Pot
+* 16G - Treasure Room
+* Horse Manure - Treasure Room
+* 50G - Treasure Room
+* Seed of Strength - Treasure Room
+* Pink Pearl - Treasure Room
+* Smart Suit - Throne Room Closet
+* Seed of Magic - NW of Glowmoss
 
 ### Stores
 
@@ -8392,11 +7804,17 @@ Vocation EXP Limit: 33
 * Kuistian - Aeolus Vale Church
 * Quaynan - Providence Bridge
 
+## Past: Coral Cave
+
+### Available Items:
+
+* Yggdrasil Leaf - S of Altar of Arrival
+
 ## Present: Divine Shrine
 
 ### Available Items
 
-* Mini Medal - 
+* Mini Medal - Stove at Shrine North of Wetlock
 
 ### Stores
 
@@ -8590,4 +8008,6 @@ Vocation EXP Limit: 33
 
 ### Available Items
 
-* Mini Medal - 
+* Mini Medal - East Fork
+
+## Past: Malign Shrine

@@ -1,36 +1,39 @@
 # Chapter 3
 
+## Present: Grand Conjuratorium -> Mountain Pass -> Poolside Cave
+
 ## Present: Cathedral of Life
 
 ### Available Items
 
-* Holy Water - 
-* Mini Medal - 
-* Seed of Life - 
-* Silk Bustier - 
-* Haywire Helm - 
-* Seed of Life - 
-* Seed of Strength - 
+* Holy Water - Outer E Wall Sister
+* Mini Medal - 2F E Pot
+* Seed of Life - 2F E Pot
+* Silk Bustier - 2F W Closet
+* Haywire Helm - B1F N Chest
+* Seed of Life - B1F NE Pot
+* Seed of Magic - B1F SE Pot
+* Seed of Strength - B1F S Pot
 
 ## Present: Estard
 
 ### Available Items
 
-* Mini Medal - 
-* Mini Medal - 
-* Seed of Strength - 
-* Kingsblade - 
-* Platinum Shield - 
-* Yggdrasil Leaf - 
+* Mini Medal - E Jail Cell Bed
+* Mini Medal - Castle Treasure Room
+* Seed of Strength - Castle Treasure Room
+* Kingsblade - Castle Treasure
+* Platinum Shield - Castle Treasure
+* Yggdrasil Leaf - Dermot's Pass
 
 ## Present: Burnmount
 
 ### Available Items
 
-* Magma Staff - 
-* Mini Medal - 
-* Seed of Strength - 
-* Yggdrasil Dew - 
+* Magma Staff - Geyser Room SE
+* Mini Medal - First Lava Room N
+* Seed of Strength - Second Lava Room S
+* Yggdrasil Dew - Second Lava Room SE
 * Fire Amulet - Boss Fight Reward
 
 ### Stores
@@ -155,17 +158,17 @@
 
 ## Present: Sea Dragon
 
-### Available Items 
+### Available Items
 
-* Pirate's Hat - 
-* Captain's Coat - 
-* Captain's Coat - 
-* Mini Medal - 
-* Seed of Strength - 
-* Mini Medal - 
-* 20G - 
-* Turban - 
-* Pilchard Crackers - 
+* Pirate's Hat - Library Drawer Lower Right
+* Captain's Coat - S Drawer Lower Right
+* Captain's Coat - Market NW Drawer
+* Mini Medal - Market NE Pot
+* Seed of Strength - S Barrel Lower Left
+* Mini Medal - Cat Lower Left
+* 20G - Middle Pot Lower Left
+* Turban - Jail Drawer Lower Left
+* Pilchard Crackers - Deck Barrel
 
 ### Stores
 
@@ -592,45 +595,45 @@
 
 ### Available Items
 
-* Silver Tiara - 
-* 7G - 
+* Silver Tiara - Mayor's Closet
+* 7G - Mayor's Pot
 
 ## Present: Ventus Tower
 
 ### Available Items
 
-* Mini Medal - 
-* Miracle Sword - 
-* Edged Boomerang - 
-* Mercury's Bandana
-* 1200G - 
-* Seed of Resilience - 
-* Seed of Agility - 
+* Mini Medal - 1F W Chest
+* Miracle Sword - 2F Side Room
+* Edged Boomerang - 4F Balcony Pot
+* Mercury's Bandana - 7F SE Corner
+* 1200G - 7F NE Corner
+* Seed of Resilience - 6F Centre
+* Seed of Agility - 6F Centre
 
 ## Present: Villa Priores
 
 ### Available Items
 
-* Mini Medal - 
-* Seed of Agility - 
+* Mini Medal - Inn Barrel
+* Seed of Agility - House Pot
 
 ## Present: Multipleximus Maximus
 
 ### Available Items
 
-* Shimmering Dress - 
-* Mini Medal - 
-* Agility Ring - 
-* Cirrus Surplice - 
-* Hermes' Hat - 
-* Air Amulet - 
+* Shimmering Dress - Screen 3 E Chest
+* Mini Medal - Screen 3 N Chest
+* Agility Ring - Screen 3 Second Island
+* Cirrus Surplice - Boss Reward
+* Hermes' Hat - Destroy Praetor's Pots
+* Air Amulet - Wind Spirit
 
 ## Present: Hidden Pyramid
 
-* Mimic Heart - 
-* Earth Amulet - 
-* Prayer Ring - 
-* Magic Water
+* Mimic Heart - First Water Passage
+* Earth Amulet - Earth Spirit
+* Prayer Ring - Palace Basement
+* Magic Water - Palace Basement
 
 ### Recruitment
 
@@ -760,35 +763,18 @@
 
 ### Available Items
 
-* Mini Medal - 
-* Beastly Priest Heart - 
-* Mini Medal - 
-* 1250G - 
-* Yggdrasil Leaf - 
-* Mini Medal - 
-* Shield of Shame - 
-
-### Water Amulet Path
-
-#### Available Items
-
-* Okeanos Sword - 
-
-### Earth Amulet Path
-
-#### Available Items
-
-* Gaia Armour - 
-* Mini Medal - 
-
-### Air Amulet Path
-
-#### Available Items
-
-* Aeras Shield - 
-
-### Fire Amulet Path
-
-#### Available Items
-
-* Pyros Helm
+* Mini Medal - Balcony W Chest
+* Beastly Priest Heart - E of Cathedral Entrance
+* Mini Medal - B2 NE Chest
+* Life Ring - B3 E Chest
+* 1250G - B3 SW Chest
+* Yggdrasil Leaf - B3 SW Chest
+* Mini Medal - B4 Left Hut NE Corner
+* Shield of Shame - B4 Right Hut SE
+* Water Amulet Path
+  * Gaia Armour - Right Split
+  * Mini Medal - Right Split
+* Air Amulet Path
+  * Aeras Shield - Under the Hole
+* Fire Amulet Path
+  * Pyros Helm - SE Path
