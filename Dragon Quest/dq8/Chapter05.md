@@ -100,7 +100,8 @@
 * Overworld
   * 450G - Dead End East of Red's
   * Leather Whip - East of Red's
-  * Fresh Milk - Cow West of Labyrinth
+  * Fresh Milk - Cow on Hill West of Labyrinth
+  * Iron Shield - Northwest of Labyrinth
   * Farmer's Scythe - East of Labyrinth past Swamp
 * Red's
   * Mini Medal -
@@ -130,7 +131,7 @@
   * Iron Shield + Iron Shield =
   * Leather Whip + Scale Shield =
   * Leather Whip + Bandana =
-  * Templar's Uniform + Iron Shield = 
+  * Templar's Uniform + Iron Shield =
 
 ## Cameron's Codex
 
