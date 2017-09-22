@@ -54,8 +54,8 @@
 
 ### Item Shop
 
-| Item           | Cost | DEF | H | Y | J | A | M | R |Effect |
-| -------------- | :--: | :-: | - | - | - | - | - | - |------ |
+| Item           | Cost | DEF | H | Y | J | A | M | R | Effect |
+| -------------- | :--: | :-: | - | - | - | - | - | - | ------ |
 | Medicinal Herb | 8G   |  -  | * | * | * | * | * | * | Restores 30-40HP for one character |
 | Antidotal Herb | 10G  |  -  | * | * | * | * | * | * | Cures Poison for one character |
 | Chimaera Wing  | 25G  |  -  | * | * | * | * | * | * | Allows you to teleport to any town and some dungeons you have already visited |
@@ -72,7 +72,7 @@
 | Leather Hat          |  65G |  3  | * | * | * | * | * | * | A popular hat made of leather |
 
 ### Weapon Shop
-C
+
 | Item          | Cost | ATK | H | Y | J | A | M | R | Effect |
 | ------------- | :--: | :-: | - | - | - | - | - | - | ------ |
 | Cypress Stick | 10G  |  4  | * | - | - | - | - | - | A simple wooden stick carved from a strudy cypress branch |

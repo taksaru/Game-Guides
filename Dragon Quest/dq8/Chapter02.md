@@ -28,161 +28,25 @@
 
 ## Stores
 
-<table>
-  <tr>
-      <th colspan="10">Armour and Item Shop</th>
-  </tr>
-  <tr>
-    <th>Item</th>
-    <th>Cost</th>
-    <th>DEF</th>
-    <th>H</th>
-    <th>Y</th>
-    <th>J</th>
-    <th>A</th>
-    <th>M</th>
-    <th>R</th>
-    <th>Effect</th>
-  </tr>
-  <tr>
-    <th>Leather Kilt</th>
-    <th>250G</th>
-    <th>12</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>A sturdy kilt fashioned from animal hide</th>
-  </tr>
-  <tr>
-    <th>Scale Armour</th>
-    <th>350G</th>
-    <th>17</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>+</th>
-    <th>-</th>
-    <th>A suit of armour fashioned from numerous hard scales</th>
-  </tr>
-  <tr>
-    <th>Medicinal Herb</th>
-    <th>8G</th>
-    <th>-</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>Restores 30-40HP for one character</th>
-  </tr>
-  <tr>
-    <th>Antidotal Herb</th>
-    <th>10G</th>
-    <th>-</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>Cures Poison for one character</th>
-  </tr>
-  <tr>
-    <th>Chimaera Wing</th>
-    <th>25G</th>
-    <th>-</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>Allows you to teleport to any town and some dungeons you have already visited</th>
-  </tr>
-</table>
+### Armour and Item Shop
 
-<table>
-  <tr>
-      <th colspan="10">Weapon Shop</th>
-  </tr>
-  <tr>
-    <th>Item</th>
-    <th>Cost</th>
-    <th>ATK</th>
-    <th>H</th>
-    <th>Y</th>
-    <th>J</th>
-    <th>A</th>
-    <th>M</th>
-    <th>R</th>
-    <th>Effect</th>
-  </tr>
-  <tr>
-    <th>Oaken Club</th>
-    <th>110G</th>
-    <th>7</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Giant Mallet</th>
-    <th>240G</th>
-    <th>13</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Copper Sword</th>
-    <th>270G</th>
-    <th>13</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Boomerang</th>
-    <th>420G</th>
-    <th>19</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>Causes damage to all enemies</th>
-  </tr>
-  <tr>
-    <th>Stone Axe</th>
-    <th>550G</th>
-    <th>20</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-</table>
+| Item           | Cost | DEF | H | Y | J | A | M | R | Effect |
+| -------------- | :--: | :-: | - | - | - | - | - | - | ------ |
+| Leather Kilt   | 250G | 12  | - | * | - | - | - | - | A sturdy kilt fashioned from animal hide |
+| Scale Armour   | 350G | 17  | * | - | - | * | * | * | A suit of armour fashioned from numerous hard scales |
+| Medicinal Herb | 8G   |  -  | * | * | * | * | * | * | Restores 30-40HP for one character |
+| Antidotal Herb | 10G  |  -  | * | * | * | * | * | * | Cures Poison for one character |
+| Chimaera Wing  | 25G  |  -  | * | * | * | * | * | * | Allows you to teleport to any town and some dungeons you have already visited |
+
+### Weapon Shop
+
+| Item           | Cost | ATK | H | Y | J | A | M | R | Effect |
+| -------------- | :--: | :-: | - | - | - | - | - | - | ------ |
+| Oaken Club     | 110G |  7  | - | * | - | - | * | - | A simple club fashioned from sturdy oak |
+| Giant Mallet  | 240G |  13 | - | * | - | - | * | - | A giant wooden hammer of the sort often carried by monsters as well as humans |
+| Copper Sword  | 270G |  13 | * | - | - | - | - | - | A widely used sword made of copper |
+| Boomerang     | 420G | 19  | * | * | * | * | * | * | A throwing weapon capable of felling multiple enemies in an instant |
+| Stone Axe     | 550G | 20  | - | * | - | - | - | - | Intriguingly primitive for an axe sold in a weapon shop |
 
 # Tower of Alexandra
 
@@ -232,126 +96,25 @@ Recommended Level: 7
 
 ## Stores
 
-<table>
-  <tr>
-      <th colspan="3">Item Shop</th>
-  </tr>
-  <tr>
-    <th>Item</th>
-    <th>Cost</th>
-    <th>Effect</th>
-  </tr>
-  <tr>
-    <th>Medicinal Herb</th>
-    <th>8G</th>
-    <th>Restores 30-40HP for one character</th>
-  </tr>
-  <tr>
-    <th>Antidotal Herb</th>
-    <th>10G</th>
-    <th>Cures Poison for one character</th>
-  </tr>
-  <tr>
-    <th>Holy Water</th>
-    <th>20G</th>
-    <th>When used on the field, avoids battles with low level enemies, When used in battle deals 10-15 damage to a single enemy</th>
-  </tr>
-  <tr>
-    <th>Chimaera Wing</th>
-    <th>25G</th>
-    <th>Allows you to teleport to any town and some dungeons you have already visited</th>
-  </tr>
-</table>
+### Item Shop
 
-<table>
-  <tr>
-      <th colspan="10">Weapon and Armour Shop</th>
-  </tr>
-  <tr>
-    <th>Item</th>
-    <th>Cost</th>
-    <th>ATK/DEF</th>
-    <th>H</th>
-    <th>Y</th>
-    <th>J</th>
-    <th>A</th>
-    <th>M</th>
-    <th>R</th>
-    <th>Effect</th>
-  </tr>
-  <tr>
-    <th>Stone Axe</th>
-    <th>550G</th>
-    <th>20</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Iron Lance</th>
-    <th>750</th>
-    <th>24</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Farmer's Scythe</th>
-    <th>910</th>
-    <th>28</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Leather Kilt</th>
-    <th>250G</th>
-    <th>12</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>A sturdy kilt fashioned from animal hide</th>
-  </tr>
-  <tr>
-    <th>Scale Armour</th>
-    <th>350G</th>
-    <th>17</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>+</th>
-    <th>-</th>
-    <th>A suit of armour fashioned from numerous hard scales</th>
-  </tr>
-  <tr>
-    <th>Scale Shield</th>
-    <th>180G</th>
-    <th>7</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>-</th>
-  </tr>
-</table>
+| Item           | Cost | Effect |
+| -------------- | :--: | ------ |
+| Medicinal Herb | 8G   | Restores 30-40HP for one character |
+| Antidotal Herb | 10G  | Cures Poison for one character |
+| Holy Water     | 20G  | When used on the field, avoids battles with low level enemies, When used in battle deals 10-15 damage to a single enemy |
+| Chimaera Wing  | 25G  | Allows you to teleport to any town and some dungeons you have already visited |
+
+### Weapon and Armour Shop
+
+| Item            | Cost | ATK/DEF | H | Y | J | A | M | R | Effect |
+| --------------- | :--: | :-----: | - | - | - | - | - | - | ------ |
+| Stone Axe       | 550G | 20      | - | * | - | - | - | - | Intriguingly primitive for an axe sold in a weapon shop |
+| Iron Lance      | 750G | 24      | * | - | - | - | - | - | An iron spear of the kind commonly found throughout the world |
+| Farmer's Scythe | 910G | 28      | - | * | - | - | - | - | A large Iron Scythe of the type often used to cut grass and straw |
+| Leather Kilt    | 250G |     12  | - | * | - | - | - | - | A sturdy kilt fashioned from animal hide |
+| Scale Armour    | 350G |     17  | * | - | - | * | * | * | A suit of armour fashioned from numerous hard scales |
+| Scale Shield    | 180G |        7  | * | * | * | * | * | * | A shield made from extremely hard scales |
 
 ## Walkthrough Tasks
 
@@ -395,6 +158,46 @@ Recommended Level: 7
 * 200G - Closed Shop Chest
 * Mini Medal - Closed Shop Chest
 
+## Stores
+
+### Item Shop 1
+
+| Item           | Cost | Effect |
+| -------------- | :--: | ------ |
+| Medicinal Herb | 8G   | Restores 30-40HP for one character |
+| Antidotal Herb | 10G  | Cures Poison for one character |
+| Holy Water     | 20G  | When used on the field, avoids battles with low level enemies, When used in battle deals 10-15 damage to a single enemy |
+| Chimaera Wing  | 25G  | Allows you to teleport to any town and some dungeons you have already visited |
+
+### Item Shop 2
+
+| Item           | Cost | ATK/DEF | H | Y | J | A | M | R | Effect |
+| -------------- | :--: | :-----: | - | - | - | - | - | - | ------ |
+| Cypress Stick  | 10G  |  4      | * | - | - | - | - | - | A simple wooden stick carved from a strudy cypress branch |
+| Pot Lid        | 10G  |    2    | - | * | * | - | * | * | The lid to a large cooking pot, commandeered to act as a makeshift shield of sorts |
+| Bandana        | 45G  |    1    | * | - | - | - | - | - | A normal cloth bandana. A favourite of Hero's |
+| Hairband       | 150G |    5    | - | - | * | - | - | * | A cute and functional hairband for ladies |
+| Slime Earrings | 400G |    4    | * | * | * | * | * | * | Cute earrings in the shape of slimes |
+
+### Armour Shop
+
+| Item         | Cost | DEF | H | Y | J | A | M | R | Effect |
+| ------------ | :--: | :-: | - | - | - | - | - | - | ------ |
+| Scale Armour | 350G | 17  | * | - | - | * | * | * | A suit of armour fashioned from numerous hard scales |
+| Silk Robe    | 420G | 10  | - | - | * | * | - | * | A high-qulity garment woven from pure silk |
+| Chain Mail   | 500G | 20  | - | * | - | - | * | * | A comfortable and lightweight suit of armour constructed from innumerable metal links |
+| Scale Shield | 180G |  7  | * | * | * | * | * | * | A shield made from extremely hard scales |
+| Pointy Hat   | 70G  |  7  | * | * | - | - | - | - | A small hat with a pointed top |
+
+### Weapon Shop
+
+| Item            | Cost | ATK | H | Y | J | A | M | R | Effect |
+| --------------- | :--: | :-: | - | - | - | - | - | - | ------ |
+| Bronze Knife    | 150G |  9  | - | - | * | - | - | * | A small knife forged from bronze |
+| Thorn Whip      | 350G | 14  | - | - | * | - | - | * | A whip covered in thorns. Capable of hitting multiple enemies in a single lash |
+| Iron Lance      | 750G | 24      | * | - | - | - | - | - | An iron spear of the kind commonly found throughout the world |
+| Farmer's Scythe | 910G | 28      | - | * | - | - | - | - | A large Iron Scythe of the type often used to cut grass and straw |
+
 ## Walkthrough Tasks
 
 1. Purchases (1476 G)
@@ -424,261 +227,6 @@ Recommended Level: 7
 
 29. Pier Shop
 92. Atop luggage midway up the stairway Inn
-
-## Stores
-
-<table>
-  <tr>
-      <th colspan="3">Item Shop</th>
-  </tr>
-  <tr>
-    <th>Item</th>
-    <th>Cost</th>
-    <th>Effect</th>
-  </tr>
-  <tr>
-    <th>Medicinal Herb</th>
-    <th>8G</th>
-    <th>Restores 30-40HP for one character</th>
-  </tr>
-  <tr>
-    <th>Antidotal Herb</th>
-    <th>10G</th>
-    <th>Cures Poison for one character</th>
-  </tr>
-  <tr>
-    <th>Holy Water</th>
-    <th>20G</th>
-    <th>When used on the field, avoids battles with low level enemies, When used in battle deals 10-15 damage to a single enemy</th>
-  </tr>
-  <tr>
-    <th>Chimaera Wing</th>
-    <th>25G</th>
-    <th>Allows you to teleport to any town and some dungeons you have already visited</th>
-  </tr>
-</table>
-
-<table>
-  <tr>
-      <th colspan="10">Item Shop 2</th>
-  </tr>
-  <tr>
-    <th>Item</th>
-    <th>Cost</th>
-    <th>ATK/DEF</th>
-    <th>H</th>
-    <th>Y</th>
-    <th>J</th>
-    <th>A</th>
-    <th>M</th>
-    <th>R</th>
-    <th>Effect</th>
-  </tr>
-  <tr>
-    <th>Cypress Stick</th>
-    <th>10G</th>
-    <th>4</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Pot Lid</th>
-    <th>40G</th>
-    <th>2</th>
-    <th>-</th>
-    <th>+</th>
-    <th>+</th>
-    <th>-</th>
-    <th>+</th>
-    <th>+</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Bandana</th>
-    <th>45</th>
-    <th>1</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Hairband</th>
-    <th>150G</th>
-    <th>5</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Slime Earrings</th>
-    <th>400G</th>
-    <th>4</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>-</th>
-  </tr>
-</table>
-
-<table>
-  <tr>
-      <th colspan="10">Armour Shop</th>
-  </tr>
-  <tr>
-    <th>Item</th>
-    <th>Cost</th>
-    <th>DEF</th>
-    <th>H</th>
-    <th>Y</th>
-    <th>J</th>
-    <th>A</th>
-    <th>M</th>
-    <th>R</th>
-    <th>Effect</th>
-  </tr>
-  <tr>
-    <th>Scale Armour</th>
-    <th>350G</th>
-    <th>17</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>+</th>
-    <th>-</th>
-    <th>A suit of armour fashioned from numerous hard scales</th>
-  </tr>
-  <tr>
-    <th>Silk Robe</th>
-    <th>420G</th>
-    <th>10</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>+</th>
-    <th>-</th>
-    <th>+</th>
-    <th>A high-quality garment woven from pure silk</th>
-  </tr>
-  <tr>
-    <th>Chain Mail</th>
-    <th>500G</th>
-    <th>20</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>+</th>
-    <th>A comfortable and lightweight suit of armour constructed from innumerable metal links.</th>
-  </tr>
-  <tr>
-    <th>Scale Shield</th>
-    <th>180G</th>
-    <th>7</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>+</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Pointy Hat</th>
-    <th>70G</th>
-    <th>7</th>
-    <th>+</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-</table>
-
-<table>
-  <tr>
-      <th colspan="10">Weapon Shop</th>
-  </tr>
-  <tr>
-    <th>Item</th>
-    <th>Cost</th>
-    <th>ATK</th>
-    <th>H</th>
-    <th>Y</th>
-    <th>J</th>
-    <th>A</th>
-    <th>M</th>
-    <th>R</th>
-    <th>Effect</th>
-  </tr>
-  <tr>
-    <th>Bronze Knife</th>
-    <th>150G</th>
-    <th>9</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Thorn Whip</th>
-    <th>350G</th>
-    <th>14</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>+</th>
-    <th>Hits all monsters in a group</th>
-  </tr>
-  <tr>
-    <th>Iron Lance</th>
-    <th>750G</th>
-    <th>24</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>Farmer's Scythe</th>
-    <th>910G</th>
-    <th>28</th>
-    <th>-</th>
-    <th>+</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-</table>
 
 # Treasure Hunt - Thief's Key
 
