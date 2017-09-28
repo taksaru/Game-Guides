@@ -78,9 +78,9 @@
   * 2 Dancer's Costumes
   * 2 Amor Seco Essences
 2. Alchemy
-  * Hairband + Bunny Tail =
-  * Plain Cheese + Amor Seco Essence =
-  * Fresh Milk + Rennet Powder =
+  * Hairband + Bunny Tail = Bunny Ears
+  * Plain Cheese + Amor Seco Essence = Mild Cheese
+  * Fresh Milk + Rennet Powder = Plain Cheese
 
 ## Cameron's Codex
 
@@ -101,24 +101,24 @@
   * 450G - Dead End East of Red's
   * Leather Whip - East of Red's
   * Fresh Milk - Cow on Hill West of Labyrinth
-  * Iron Shield - Northwest of Labyrinth
+  * Iron Shield - North end of Coast West of Labyrinth
   * Farmer's Scythe - East of Labyrinth past Swamp
 * Red's
-  * Mini Medal -
-  * Hairband -
-  * Mini Medal -
+  * Mini Medal - Barn Barrel
+  * Hairband - Closet
+  * Mini Medal - House Pot
 * Swordsman's Labyrinth
-  * Cowpat -
-  * G -
-  * 11G -
-  * Seed of Magic -
-  * 62G -
-  * Red Mould -
-  * Mini Medal -
-  * Antidotal Herb -
-  * Mini Medal -
-  * Kitty Shield -
-  * Mini Medal -
+  * Cowpat - Level 3 East Pot
+  * 1000G - Level 3 East Corridor
+  * 11G - Level 2 West Room Pot
+  * Seed of Magic - Level 2 West Room Pot
+  * 62G - Level 2 West Room Pot
+  * Red Mould - Level 2 West Room Pot
+  * Mini Medal - Level 2 West Room Pot
+  * Antidotal Herb - Level 2 West Room Pot
+  * Mini Medal - Level 2 West Room
+  * Kitty Shield - Level 2 West Long Room
+  * Mini Medal - Level 4 South Pot
 
 ## Monsters
 
@@ -127,15 +127,15 @@
 ## Walkthrough Tasks
 
 1. Alchemy
-  * Farmer's Scythe + Farmer's Scythe =
-  * Iron Shield + Iron Shield =
-  * Leather Whip + Scale Shield =
-  * Leather Whip + Bandana =
-  * Templar's Uniform + Iron Shield =
+  * Farmer's Scythe + Farmer's Scythe = Iron Axe
+  * Iron Shield + Iron Shield = Iron Cuirass
+  * Leather Whip + Scale Shield = Snakeskin Whip
+  * Leather Whip + Bandana = Leather Kilt
+  * Templar's Uniform + Iron Shield = Templar's Shield
 
 ## Cameron's Codex
 
-38. Swordsman's Labyrinth
+38. Swordsman's Labyrinth Twin Statues
 98. By Red's Potted Plants
 123. Brain
 125. Red
