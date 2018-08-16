@@ -17,7 +17,6 @@
   * Stone Axe + Point Axe =
   * Golden Axe + Moon's Mercy =
 4. Dodgy Dave
-  * 400G - Special Medicine
   * 1200G - Reinforced Boomerang
   * Bandit Axe - Ring of Immunity
   * 6000G - Robe of Serenity

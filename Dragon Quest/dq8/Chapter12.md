@@ -86,30 +86,30 @@
 
 ## Available Items
 
-* Seed of Life - 
-* Mini Medal -
-* Sage's Robe -
-* Mini Medal -
+* Seed of Life - East Barrel
+* Mini Medal - East Pot
+* Sage's Robe - East Closet
+* Mini Medal - 2F Bedroom Closet
 
 ## Walkthrough Tasks
 
 1. Alchemy
-  * Sage's Robe + Magic Water + Nook Grass =
+  * Sage's Robe + Magic Water + Nook Grass = Crimson Robe
+2. Dodgy Dave
+  * 500G - Special Medicine
 
 ## Cameron's Codex
 
 72. Lord High Priest's Home
-112.
+112. Above Front Garden Archway
 
 # Black Citadel - Treasure Hunting
 
 ## Available Items
 
-* Flail of Fury - Red
+* Flail of Fury - Red's
 * 3 Highly String Cheese - Waterfall Hut Woodsman
 * Nook Grass - Marek at Marta's Grave
 * 400 Casino Tokens - Baccarat at Night King Squid Refuse 200
-* Seed of Magic -
-* Mini Medal -
-
-## Cameron's Codex
+* Seed of Magic - Indoor Argonia Bazaar Barrel
+* Mini Medal - Indoor Argonia Bazaar Barrel
