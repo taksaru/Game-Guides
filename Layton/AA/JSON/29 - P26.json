@@ -1,0 +1,1 @@
+{"id": 29, "type": "P", "title": "Mousequerade", "steps": ["Walk West", "Talk to Price"], "num": "26", "solution": [{"img": "p26s.gif", "txt": "Sort the mice as shown"}], "prev": {"link": 28, "txt": "25 - Puppy Postal Patrol"}, "next": {"link": 30, "txt": "27 - Stained Glass"}}

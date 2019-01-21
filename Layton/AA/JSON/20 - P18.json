@@ -1,0 +1,1 @@
+{"id": 20, "num": "18", "type": "P", "title": "Baffling Bookcase", "steps": ["Talk to Dewey"], "solution": [{"img": "p18s.gif", "txt": "Arrange as shown"}], "prev": {"link": "19", "txt": "17 - Out of Time"}, "next": {"link": "21", "txt": "19 - Sun and the Moon"}}

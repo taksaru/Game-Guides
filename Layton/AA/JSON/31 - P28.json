@@ -1,0 +1,1 @@
+{"id": 31, "type": "P", "title": "An Evening Stroll", "steps": ["Follow the path down", "Talk to the Knights"], "num": "28", "solution": [{"img": "p28s.gif", "txt": ""}], "prev": {"link": 30, "txt": "27 - Stained Glass"}, "next": {"link": 32, "txt": "29 - Wagon Draggin'"}}

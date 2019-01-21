@@ -1,0 +1,1 @@
+{"id": 38, "type": "P", "title": "Mouse Mayhem", "steps": ["Look at roof of left tower"], "num": "35", "solution": [{"img": "p35s.gif", "txt": "Right, Up, Left, Right, Down, Left, Right, Up, Left, Up, Right, Down"}], "prev": {"link": 37, "txt": "34 - Chess Skirmish"}, "next": {"link": 39, "txt": "37 - Rotating Room 2"}}

@@ -1,0 +1,1 @@
+{"id": 55, "type": "P", "title": "A Hot Secret", "steps": ["Walk Up", ["Left Brazier", "Left Chandelier", "Right Gear"], "Pull the lever"], "num": "49", "solution": [{"img": "p49s.gif", "txt": ""}], "prev": {"link": 54, "txt": "48 - Sewer Sneakin'"}, "next": {"link": 56, "txt": "50 - Tight Squeeze"}}

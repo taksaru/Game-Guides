@@ -1,0 +1,1 @@
+{"id": 30, "type": "P", "title": "Stained Glass", "steps": ["Walk South", "Talk to Bardly"], "num": "27", "solution": [{"img": "p27s.gif", "txt": "Paint the glass window as shown"}], "prev": {"link": 29, "txt": "26 - Mousequerade"}, "next": {"link": 31, "txt": "28 - An Evening Stroll"}}

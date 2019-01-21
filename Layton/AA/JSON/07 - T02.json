@@ -1,0 +1,27 @@
+{
+  "id": 7,
+  "type": "T",
+  "title": "English Turnabout - Part 2",
+  "steps": [
+    "Present Fingerprint Photo on Fourth Statement",
+    "Second Choice",
+    "First Choice",
+    "Present Medical Report",
+    "Third Choice",
+    "Second Choice",
+    "Present Torch",
+    "Present Torn Tag on First Statement",
+    "Second Choice",
+    "Second Choice",
+    "Second Choice",
+    "Present Newspaper"
+  ],
+  "prev": {
+    "link": "06",
+    "txt": "English Turnabout - Part 1"
+  },
+  "next": {
+    "link": "08",
+    "txt": "06 - Knight Training"
+  }
+}

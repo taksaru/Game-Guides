@@ -1,0 +1,26 @@
+{
+  "id": 25,
+  "type": "T",
+  "title": "The Fire Witch - Part 1",
+  "steps": [
+    "Press First Statement",
+    "Present Lantern on Fourth Statement",
+    "First Choice",
+    "Magnify Right Hand",
+    "Present Lantern on Fourth Statement",
+    "Press Third Statement",
+    "Present Bucket on First Statement",
+    "Press First Statement",
+    "Skip remaining Statements",
+    "Press First Statement",
+    "Question Mary"
+  ],
+  "prev": {
+    "link": "24",
+    "txt": "23 - Short Round Ride"
+  },
+  "next": {
+    "link": "26",
+    "txt": "The Fire Witch - Part 2"
+  }
+}

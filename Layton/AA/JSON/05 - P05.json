@@ -1,0 +1,28 @@
+{
+  "id": 5,
+  "num": "05",
+  "type": "P",
+  "title": "Help Espella",
+  "steps": [
+    [
+      "Lower Right Box",
+      "Left Tunnel Light",
+      "Right Light"
+    ],
+    "Help Espella"
+  ],
+  "solution": [
+    {
+      "img": "p5s.gif",
+      "txt": "Rope B"
+    }
+  ],
+  "prev": {
+    "link": "03",
+    "txt": "04 - Walled In"
+  },
+  "next": {
+    "link": "06",
+    "txt": "English Turnabout - Part 1"
+  }
+}

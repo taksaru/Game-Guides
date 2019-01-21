@@ -1,0 +1,1 @@
+{"id": 13, "num": "09", "type": "P", "title": "Marionettes", "steps": ["Walk East", "Walk East", ["Right Store Sign", "First Barrel to Left", "Right Banner"], "Talk to Petter"], "solution": [{"img": "p9s.gif", "txt": "Build as shown"}], "prev": {"link": "12", "txt": "11 - The Royal Victim"}, "next": {"link": "14", "txt": "12 - Cloudy Crossing"}}

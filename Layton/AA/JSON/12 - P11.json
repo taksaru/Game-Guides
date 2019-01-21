@@ -1,0 +1,1 @@
+{"id": 12, "num": "11", "type": "P", "title": "The Royal Victim", "steps": ["Talk to Price"], "solution": [{"img": "p11s.gif", "txt": "The Knight is Lying"}], "prev": {"link": "11", "txt": "10 - Shady Shadows"}, "next": {"link": "12", "txt": "09 - Marionettes"}}

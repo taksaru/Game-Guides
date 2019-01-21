@@ -1,0 +1,1 @@
+{"id": 50, "type": "P", "title": "More Chalices", "steps": ["Walk downstairs", "Talk to Rouge"], "num": "44", "solution": [{"img": "p44s.gif", "txt": ""}], "prev": {"link": 49, "txt": "43 - Stomp on It 2"}, "next": {"link": 51, "txt": "45 - Parrot Pairs"}}

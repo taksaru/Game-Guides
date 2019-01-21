@@ -1,0 +1,1 @@
+{"id": 48, "type": "P", "title": "Chalice Challenge", "steps": ["Enter the Tavern", ["Under Right Table", "Front Table", "Dagger in Pillar"], "Talk to Rouge", "Walk upstairs", "Talk to Rouge"], "num": "42", "solution": [{"img": "p42s.gif", "txt": ""}], "prev": {"link": 47, "txt": "41 - Alley Allowance"}, "next": {"link": 49, "txt": "43 - Stomp on It 2"}}

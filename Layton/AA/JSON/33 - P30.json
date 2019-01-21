@@ -1,0 +1,1 @@
+{"id": 33, "type": "P", "title": "Gabbin' Goats", "steps": ["Follow path down", "Walk east", "Talk to Mary"], "num": "30", "solution": [{"img": "p30s.gif", "txt": ""}], "prev": {"link": 32, "txt": "29 - Wagon Draggin'"}, "next": {"link": 34, "txt": "31 - Animal Pens"}}

@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "type": "T",
+  "title": "English Turnabout - Part 1",
+  "steps": [
+    "Middle Choice",
+    "Third Choice",
+    "Press First Statement",
+    "Present Crime Scene Photo on Fifth Statement",
+    "Present Medical Report on Fourth Statement",
+    "First Choice",
+    "First Choice"
+  ],
+  "prev": {
+    "link": "05",
+    "txt": "04 - Walled In"
+  },
+  "next": {
+    "link": "07",
+    "txt": "English Turnabout - Part 2"
+  }
+}

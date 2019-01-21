@@ -1,25 +1,33 @@
 # Hateno 2
 
-* Korok 95: Magnsis Puzzle to NE
-* Korok 96: Rock atop peak of Pierre Plateau
-* Hinox: East
-* Korok 97: Rock Circle E of Hinox
-* Korok 98: Lily pads to NE
-* Korok 99: Rock in centre of Lanaryu Promenade
-* Dow Na'eh Shrine - Behind Waterfall to S
-* Korok 100: Atop Lanaryu Bluff at the Peak of Awakening
-  * Cold Res Lv 1
-* Recovered Memory 15: NE at Lanaryu Road - East Gate
-* Hinox: Purifier Lake to SE
-* Korok 101: Magnesis Puzzle atop Niervata Plateau
-* Korok 102: Lily pads to SW
-* Korok 103: Apple Trees to SE
-* Korok 104: Lily Pads to SW
-* Korok 105: Pinwheel shooting to S
-* Stone Talus to S
-* Korok 106: Lily pads to SW
-* Korok 107: Shoot 10 signs on track, then balloon above cabin
-* Korok 108: Rock under metal door to S
-* Korok 109: Rock on shore to SE
+![Hateno6](images/Hateno6.PNG)
+
+* Korok 094: Magnsis Puzzle to NE
+* Korok 095: Rock atop peak of Pierre Plateau to S
+* Hinox to SE (2/40)
+* Korok 096: Rock Pattern to SE
+* Korok 097: Lilies to NE
+* Korok 098: Rock in centre of Lanaryu Promenade
+* Dow Na'eh Shrine - Behind Waterfall to S (15/120)
+* Korok 099: Atop Lanaryu Bluff at the Peak of Awakening
+
+![Hateno7](images/Hateno7.PNG)
+
+* Recovered Memory 15: NE at Lanaryu Road - East Gate (2/12)
+* Hinox in Purifier Lake to SE (3/40)
+* Korok 100: Magnesis Puzzle atop Nirvata Plateau to SE
+* Korok 101: Lilies to SW
+* Korok 102: Apple Trees to SE
+* Korok 103: Lilies to SW
+* Korok 104: Pinwheel shooting to S
+* Stone Talus to S (8/40)
+
+![Hateno8](images/Hateno8.PNG)
+
+* Korok 105: Lilies to SW in Camphor Pond
+* Korok 106: Shoot 10 signs on track, then balloon above cabin
+* Korok 107: Rock under metal door to S
+* Korok 108: Rock on shore to SE
 * Warp to Dueling Peaks Tower
-* Korok 110: Rock on small island on Nabi Lake to N
+
+Next: [Lanaryu 1](05 - Hateno2.md)

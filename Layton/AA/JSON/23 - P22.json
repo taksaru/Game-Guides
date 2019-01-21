@@ -1,0 +1,1 @@
+{"id": 23, "type": "P", "title": "Dollhouse Drama", "steps": ["Walk West", "Talk to Cinderella"], "num": "22", "solution": [{"img": "p22.gif", "txt": "Place dolls as shown"}], "prev": {"link": "22", "txt": "21 - Rotating Room"}, "next": {"link": "24", "txt": "23 - Short Round Ride"}}

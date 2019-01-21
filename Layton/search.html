@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Search</title>
+    <meta charset="utf-8" />
+    <script type="text/javascript" src="js/data.js"></script>
+    <script type="text/javascript">
+      function search(input){
+        var ls = document.getElementById('data').getElementsByTagName('li');
+        for(var i = 0; i < ls.length; i++){
+          console.log(ls[i].innerHTML);
+          console.log(input.value);
+          // If match
+          if(ls[i].innerHTML.toLowerCase().includes(input.value)){
+            ls[i].style.display = 'block';
+          }else{
+            ls[i].style.display = 'none';
+          }
+        }
+      }
+    </script>
+    <style>
+      html, body{
+        margin: 0;
+        height: 100%;
+      }
+
+      #search{
+        display: block;
+        height: 1em;
+        margin: 1em;
+        border-radius: 5px;
+        width: 90%;
+      }
+
+      #header{
+        background-color: gray;
+        display: table-cell;
+        overflow: hidden;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 3em;
+        vertical-align: middle;
+      }
+
+      #fill{
+        margin-top: 3em;
+      }
+
+      li{
+        list-style: none;
+        padding: 1em;
+        border-bottom: 1px solid gray;
+      }
+
+      ul{
+        padding: 0;
+      }
+
+      a, a:visited, a:active{
+        text-decoration: none;
+        color: black;
+        text-transform: none;
+      }
+    </style>
+    <script id="template" type="text/template">
+      <ul id="data">
+        {{#sbar data}}{{/sbar}}
+      </ul>
+    </script>
+    <script src="lib/handlebars.js"></script>
+    <script src="lib/helpers.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles/search.css"/>
+  </head>
+  <body>
+    <div id="header">
+      <input id="search" type="text" oninput="search(this)" placeholder="Search"/>
+    </div>
+    <div id="fill">
+    </div>
+    <script>
+      var temp = Handlebars.compile(document.getElementById('template').innerHTML);
+
+      document.getElementById('fill').innerHTML += temp({'data': data});
+    </script>
+  </body>
+</html>

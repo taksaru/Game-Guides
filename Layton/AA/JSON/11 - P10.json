@@ -1,0 +1,1 @@
+{"id": 11, "num": "10", "type": "P", "title": "Shady Shadows", "steps": ["Walk West", ["Basket atop right barrel", "Right Banner", "Right Store Sign"], "Talk to Knight"], "solution": [{"img": "p10s.gif", "txt": "Shadow B"}], "prev": {"link": "10", "txt": "08 - Map Mishap"}, "next": {"link": "12", "txt": "11 - The Royal Victim"}}

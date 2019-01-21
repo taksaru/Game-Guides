@@ -1,0 +1,1 @@
+{"id": 42, "type": "P", "title": "Train Trouble", "steps": ["Leave Great Archive", "Follow path down", "Walk West", "Talk to Petal", "Follow path left", "Walk Up", "Talk to Cecil"], "num": "39", "solution": [{"img": "p39s.gif", "txt": ""}], "prev": {"link": 41, "txt": "38 - Stomp on It"}, "next": {"link": 43, "txt": "20 - Cloud Maze 2"}}

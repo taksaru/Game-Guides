@@ -1,13 +1,19 @@
 # Hateno 2
 
-* Chaas Qeta Shrine far to SW on ocean
-* Korok: Race to E
+![Hateno9](images/Hateno9.PNG)
+
+* Chaas Qeta Shrine far to SW on ocean (101/120)
+* Korok 657: Race to E
 * Shrine Quest: Stranded on Eventide to SE
-  * Blue Hinox
-  * Korgu Shideh Shrine
+  * Blue Hinox (25/40)
+  * Korgu Shideh Shrine (102/120)
 * Warp to Hateno Tower
-* Stone Talus to NW
-* Korok: Lilies to SW
-* Korok: Pinwheel shooting to SW
-* Korok: Lilies to SW
+
+![Hateno10](images/Hateno10.PNG)
+
+* Korok 658: Lilies to W
+* Korok 659: Pinwheel shooting to SW
+* Korok 660: Lilies to SW
 * Warp to Ja Baji Shrine
+
+Next: [Lake Hylia](23 - Hylia1.md)

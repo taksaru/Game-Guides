@@ -1,6 +1,8 @@
 # Plateau 2
 
-* Korok 601: Fairylights in Shrine
+![Plateau2](images/Plateau2.PNG)
+
+* Korok 599: Fairylights in Shrine
 * Main Quest: EX Champions' Ballad
 * Yowaka Ita Shrine to NE in Forest of Spirits
 * Rohta Chigah Shrine to E just S of Plateau Tower

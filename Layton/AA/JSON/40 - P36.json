@@ -1,0 +1,1 @@
+{"id": 40, "type": "P", "title": "Decipher the Door", "steps": ["Look at the Door"], "num": "36", "solution": [{"img": "p36s.gif", "txt": "Button 5, Button 2, Button 2, Button 3"}], "prev": {"link": 39, "txt": "37 - Rotating Room 2"}, "next": {"link": 41, "txt": "38 - Stomp on It"}}

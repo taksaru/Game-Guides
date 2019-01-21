@@ -1,0 +1,38 @@
+{
+  "id": 4,
+  "num": "04",
+  "type": "P",
+  "title": "Walled In",
+  "steps": [
+    "Zoom in on Statues",
+    "Walk up",
+    "Cutscene",
+    "Walk right",
+    [
+      "Bridge left",
+      "Right Strut",
+      "Atop tower"
+    ],
+    "Enter Tunnel",
+    [
+      "Tunnel light left",
+      "Tunnel light right",
+      "Next tower right light"
+    ],
+    "Zoom in on Mysterious Pattern"
+  ],
+  "solution": [
+    {
+      "img": "p4s1.gif",
+      "txt": "Arrange as shown"
+    }
+  ],
+  "prev": {
+    "link": "03",
+    "txt": "03 - Security Showdown"
+  },
+  "next": {
+    "link": "05",
+    "txt": "05 - Help Espella"
+  }
+}

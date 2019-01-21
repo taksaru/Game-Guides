@@ -1,0 +1,1 @@
+{"id": 61, "type": "P", "title": "Whodunnit?", "steps": ["Talk to back Shades", "Follow passage up", ["Back Left Sconce", "Downed Left Sconce", "Right Sconce"], "Talk to Shade"], "num": "55", "solution": [{"img": "p55s.gif", "txt": ""}], "prev": {"link": 60, "txt": "54 - Mysterious Mixture"}, "next": {"link": 62, "txt": "56 - Marionettes 2"}}

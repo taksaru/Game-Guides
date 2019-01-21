@@ -1,0 +1,1 @@
+{"id": 64, "type": "P", "title": "Monster Dash", "steps": [["Right Torch", "Left Light", "Above Left Arch"], "Look at rightmost statue"], "num": "58", "solution": [{"img": "p58s.gif", "txt": ""}], "prev": {"link": 63, "txt": "57 - Objectionable Lock"}, "next": {"link": 65, "txt": "59 - Seal of Leviathan"}}

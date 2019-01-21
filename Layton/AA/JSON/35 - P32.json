@@ -1,0 +1,1 @@
+{"id": 35, "type": "P", "title": "Not Standard Issue", "steps": ["Follow path up", "Follow path up", "Walk Right", ["Right statue", "Right bushes", "Left banner"], "Talk to a Knight"], "num": "32", "solution": [{"img": "p32s.gif", "txt": "Select the smallest knight"}], "prev": {"link": 34, "txt": "31 - Animal Pens"}, "next": {"link": 36, "txt": "33 - Street Patrol"}}

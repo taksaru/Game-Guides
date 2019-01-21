@@ -1,0 +1,1 @@
+{"id": 28, "type": "P", "title": "Puppy Postal Patrol", "steps": ["Follow Path Left", "Enter Bakery", "Walk North", "Talk to Mailer"], "num": "25", "solution": [{"img": "p25s", "txt": "Recall the route as shown"}], "prev": {"link": 27, "txt": "24 - Pretty Posey"}, "next": {"link": 29, "txt": "26 - Mousequerade"}}

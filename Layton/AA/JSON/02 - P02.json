@@ -1,0 +1,30 @@
+{
+  "id": 2,
+  "num": "02",
+  "type": "P",
+  "title": "Barton's Burger",
+  "steps": [
+    "Talk to Espella",
+    [
+      "Lamppost",
+      "Far Bridge Tower",
+      "Halfway up tree"
+    ],
+    "Talk to Chelmey",
+    "Talk to Barton"
+  ],
+  "solution": [
+    {
+      "img": "p2s.gif",
+      "txt": "Assemble as Shown"
+    }
+  ],
+  "prev": {
+    "link": "01",
+    "txt": "01 - Paths of Light"
+  },
+  "next": {
+    "link": "03",
+    "txt": "03 - Security Showdown"
+  }
+}

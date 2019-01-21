@@ -1,0 +1,61 @@
+{
+  "id": 3,
+  "num": "03",
+  "type": "P",
+  "title": "Security Showdown",
+  "steps": [
+    "Walk down",
+    [
+      "Streetlight",
+      "Bench",
+      "Streetlight near car"
+    ],
+    "Check Car"
+  ],
+  "solution": [
+    {
+      "img": "p3s1.gif",
+      "txt": "Down 3"
+    },
+    {
+      "img": "p3s2.gif",
+      "txt": "Right 2"
+    },
+    {
+      "img": "p3s3.gif",
+      "txt": "Up 1"
+    },
+    {
+      "img": "p3s4.gif",
+      "txt": "Right 5"
+    },
+    {
+      "img": "p3s6.gif",
+      "txt": "Up 2"
+    },
+    {
+      "img": "p3s7.gif",
+      "txt": "Down 1"
+    },
+    {
+      "img": "p3s8.gif",
+      "txt": "Right 2"
+    },
+    {
+      "img": "p3s9.gif",
+      "txt": "Right 2"
+    },
+    {
+      "img": "p3s10.gif",
+      "txt": "Down to Exit"
+    }
+  ],
+  "prev": {
+    "link": "02",
+    "txt": "02 - Barton's Burger"
+  },
+  "next": {
+    "link": "04",
+    "txt": "04 - Walled In"
+  }
+}

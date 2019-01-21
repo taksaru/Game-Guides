@@ -1,0 +1,43 @@
+{
+  "id": 9,
+  "num": "09",
+  "type": "P",
+  "title": "Unusual Music Box",
+  "steps": [
+    "Talk to Cecil & Petal"
+  ],
+  "solution": [
+    {
+      "img": "p7s1.gif",
+      "txt": "Yellow"
+    },
+    {
+      "img": "p7s2.gif",
+      "txt": "Red"
+    },
+    {
+      "img": "p7s3.gif",
+      "txt": "Yellow"
+    },
+    {
+      "img": "p7s4.gif",
+      "txt": "Red"
+    },
+    {
+      "img": "p7s5.gif",
+      "txt": "Blue"
+    },
+    {
+      "img": "p7s6.gif",
+      "txt": "Red"
+    }
+  ],
+  "prev": {
+    "link": "08",
+    "txt": "06 - Knight Training"
+  },
+  "next": {
+    "link": "10",
+    "txt": "08 - Map Mishap"
+  }
+}

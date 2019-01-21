@@ -1,0 +1,30 @@
+{
+  "id": 8,
+  "num": "08",
+  "type": "P",
+  "title": "Knight Training",
+  "steps": [
+    [
+      "Sack",
+      "Basket Bottom",
+      "Lantern"
+    ],
+    "Speak to Passenger",
+    "Speak to Driver",
+    "Speak to Captain"
+  ],
+  "solution": [
+    {
+      "img": "p6s.gif",
+      "txt": "Block as shown"
+    }
+  ],
+  "prev": {
+    "link": "07",
+    "txt": "English Turnabout - Part 2"
+  },
+  "next": {
+    "link": "09",
+    "txt": "07 - Unusual Music Box"
+  }
+}

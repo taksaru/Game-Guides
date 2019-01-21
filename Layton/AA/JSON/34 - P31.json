@@ -1,0 +1,1 @@
+{"id": 34, "type": "P", "title": "Animal Pens", "steps": ["Follow path to the right", "Walk right", "Walk right", "Talk to Espella", "Follow path down", "Follow path down", "Talk to Old Rootie"], "num": "31", "solution": [{"img": "p31s.gif", "txt": ""}], "prev": {"link": 33, "txt": "30 - Gabbin' Goats"}, "next": {"link": 35, "txt": "32 - Not Standard Issue"}}

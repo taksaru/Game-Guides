@@ -1,0 +1,1 @@
+{"id": 52, "type": "P", "title": "Odd Box Out", "steps": ["Leave Tavern", "Look at the Barrel"], "num": "46", "solution": [{"img": "p46s.gif", "txt": "Box E is different"}], "prev": {"link": 51, "txt": "45 - PArrot Pairs"}, "next": {"link": 53, "txt": "47 - Magical Window"}}

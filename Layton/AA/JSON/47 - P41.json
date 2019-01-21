@@ -1,0 +1,1 @@
+{"id": 47, "type": "P", "title": "Alley Allowance", "steps": ["Walk Right", ["Sign", "Left Pot", "Right Box"], "Look at the Potatoes"], "num": "41", "solution": [{"img": "p41s.gif", "txt": "Right, Right, Right, Up, Up, Take Path to Exit"}], "prev": {"link": 46, "txt": "40 - Espionage Action"}, "next": {"link": 48, "txt": "42 - Chalice Challenge"}}

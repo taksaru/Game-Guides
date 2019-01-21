@@ -1,0 +1,1 @@
+{"id": 36, "type": "P", "title": "Street Patrol", "steps": ["Follow path right", ["Training Dummy", "Left Knight Statue", "Left Balcony", "Talk to Cutter"], "Talk to Cutter"], "num": "33", "solution": [{"img": "p33s.gif", "txt": ""}], "prev": {"link": 35, "txt": "32 - Not Standard Issue"}, "next": {"link": 37, "txt": "34 - Chess Skirmish"}}

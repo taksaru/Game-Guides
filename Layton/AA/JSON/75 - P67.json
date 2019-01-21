@@ -1,0 +1,1 @@
+{"id": 75, "type": "P", "title": "Tower of 'teller 3", "steps": [], "num": "67", "solution": [{"img": "p67s.gif", "txt": "Bottom Right Up, Bottom Left Right, Bottom Left Up, Right Middle Left, Top Right Left, Top Right Down"}], "prev": {"link": 74, "txt": "66 - Tower of 'teller 2"}, "next": {"link": 76, "txt": "68 - Musical Score"}}

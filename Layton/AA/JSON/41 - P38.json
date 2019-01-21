@@ -1,0 +1,1 @@
+{"id": 41, "type": "P", "title": "Stomp on It", "steps": ["Walk Left", "Talk to Barnham", "Leave court", "Follow path left", "Follow path up", "Enter Great Archive", "Talk to Dewey"], "num": "38", "solution": [{"img": "p38s.gif", "txt": "Right, Down, Down, Right, Right"}], "prev": {"link": 40, "txt": "36 - Decipher the Door"}, "next": {"link": 42, "txt": "39 - Train Trouble"}}

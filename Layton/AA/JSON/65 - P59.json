@@ -1,0 +1,1 @@
+{"id": 65, "type": "P", "title": "Seal of Leviathan", "steps": ["Look at the inscribed stone", "Look at the river"], "num": "59", "solution": [{"img": "p59s.gif", "txt": ""}], "prev": {"link": 64, "txt": "58 - Monster Dash"}, "next": {"link": 66, "txt": "60 - Seal of Despair"}}

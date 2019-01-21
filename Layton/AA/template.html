@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <script id="main-template" type="text/template">
+    <head>
+      <title>Puzzle {{num}} - {{title}}</title>
+      <meta charset="utf-8"/>
+      <link rel="stylesheet" type="text/css" href="styles.css"/>
+      <script type="text/javascript" src="script.js"></script>
+    </head>
+    <body>
+      <h1>Progress and Hint Coins</h1>
+      <div id="body">
+        {{#steps steps}}{{/steps}}
+      </div>
+      <h1>{{num}} - {{title}}</h1>
+      <div class="tab">
+        <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+        <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+        <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+        <button class="tablinks" onclick="openTab(event, 'hint4')">Super Hint</button>
+        <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+      </div>
+      <div id="hint1" class="tabcontent">
+        <h1>Hint 1</h1>
+        <img src="images/p{{num}}h1.gif">
+      </div>
+      <div id="hint2" class="tabcontent">
+        <h1>Hint 2</h1>
+        <img src="images/p{{num}}h2.gif">
+      </div>
+      <div id="hint3" class="tabcontent">
+        <h1>Hint 3</h1>
+        <img src="images/p{{num}}h3.gif">
+      </div>
+      <div id="hint4" class="tabcontent">
+        <h1>Super Hint</h1>
+        <img src="images/{{num}}1h4.gif">
+      </div>
+      <div id="solution" class="tabcontent">
+        <h1>Solution</h1>
+        {{#sol solution}}{{/sol}}
+      </div>
+    </body>
+    <footer>
+      <a id="prev" href="{{prev.link}}">{{prev.txt}}</a>
+      <a id="next" href="{{next.link}}">{{next.txt}}</a>
+    </footer>
+  </script>
+</html>
