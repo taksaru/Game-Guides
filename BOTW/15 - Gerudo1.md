@@ -17,7 +17,7 @@
 * Korok 549: Fairylights atop tree to N
 * Korok 550: Rock pattern to NW
 * Korok 551: Magnesis Puzzle to SW
-* Kuh Takkar Shrine to SE (90/120)
+* Kuh Takkar Shrine to SE (85/120)
 * Korok 552: Fairylights in ice to SE
 * Stone Talus (Rare) to W across Vatorsa Snowfield (28/40)
 * Korok 553: Fairylights atop pillar to SW
@@ -31,11 +31,11 @@
 * Korok 558: Rock pattern to NE
 * Korok 559: Rock on scaffolding to N
 * Shrine Quest: Cliffside Etchings to W
-  * Keeha Yoog Shrine (91/120)
+  * Keeha Yoog Shrine (86/120)
 * Korok 560: Race to WNW
 * Korok 561: Magnesis puzzle to SW
 * Korok 562: Flower trail up cliff to S
-* Kema Kosassa Shrine to SW (92/120)
+* Kema Kosassa Shrine to SW (87/120)
 * Korok 563: Fairylights in ice to NW
 * Take picture of Statue of Eighth Heroine to NE
 * Korok 564: Roll boulders to NW

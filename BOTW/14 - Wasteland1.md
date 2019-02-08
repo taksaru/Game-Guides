@@ -103,9 +103,7 @@
 ![Wasteland12](images/Wasteland12.PNG)
 
 * Shrine Quest: The Silent Swordswomen
-  * Should autocomplete
 * Shrine Quest: The Seven Heroines
-  * Should autocomplete
 * Side Quest: Medicinal Molduga
   * Molduga Guts
 * Side Quest: Tools of the Trade
@@ -123,7 +121,7 @@
 * Korok 535: Banana offering to E
 * Korok 536: Banana offering to E
 * Korok 537: Rock on ledge in ring to NE
-* Sho Dantu Shrine to SW (89/120)
+* Sho Dantu Shrine to SW (84/120)
 * Korok 538: Rock pattern to W
 * Return to valley and complete Yiga hideout
 * Warp back to Sho Dantu Shrine

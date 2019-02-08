@@ -5,7 +5,7 @@
 * Korok 567: Magnesis Puzzle to W
 * Korok 568: Balloon between statue wrists to S
 * Shrine Quest: The Seven Heroines
-  * Korsh O'hu Shrine (84/120)
+  * Korsh O'hu Shrine (88/120)
   * Clockwise starting from 9 o' clock
     1. Red Apostrophe
     2. Orange ^ Symbol
@@ -25,7 +25,7 @@
 * Korok 574: Rock pattern to E
 * Korok 575: Rock behind cracked boulders to NE
 * Shrine Quest: The Desert Labyrinth to SW
-  * Dila Maag Shrine (85/120)
+  * Dila Maag Shrine (89/120)
 * Korok 576: Rock atop pillar to NW
 * Korok 577: Magnesis Puzzle to N
 * Korok 578: Race to SW
@@ -52,7 +52,7 @@
 
 ![Wasteland9](images/Wasteland9.PNG)
 
-* Hawa Koth Shrine to W (86/120)
+* Hawa Koth Shrine to W (90/120)
 * Take Picture of Gerudo Great Skeleton
 * Great Fairy Fountain
 * Korok 589: Fairylights atop Skeleton
@@ -62,7 +62,7 @@
 ![Wasteland10](images/Wasteland10.PNG)
 
 * Molduga to NE (4/5)
-* Tho Kayu Shrine (87/120)
+* Tho Kayu Shrine (91/120)
   * Light area's 4 torches
 * Korok 591: Cacti to NW
 
@@ -70,7 +70,7 @@
 
 * Korok 592: Fairylights atop skeleton to NE
 * Korok 593: Fairylights atop skeleton to N
-* Kema Zoos Shrine (88/120)
+* Kema Zoos Shrine (92/120)
   * Shrine Quest: The Silent Swordswomen
 * Korok 594: Fairylights near pinwheel atop skeleton to SE
 * Korok 595: Race to SE
@@ -78,6 +78,8 @@
 
 ![Wasteland13](images/Wasteland13.PNG) -- REDO
 
+* Shrine Quest: The Perfect Drink
+  * Get Ice
 * Main Quest: Divine Beast Vah Naboris
   * Recovered Memory 6 (14/18)
 * Korok 597: Flower trail to E of Gerudo Town and N of Lookout Tower
