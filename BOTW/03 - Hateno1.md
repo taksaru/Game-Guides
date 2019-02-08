@@ -26,7 +26,7 @@
 * Follow Path NE to Midla Woods
 * Korok 062: Acorn in tree just NE of path split
 
-![Hateno3](images/Hateno3.PNG)
+![Hateno3](images/Hateno3.PNG) -- Leave Quests on Map
 
 * Follow path NE into Hateno Village
   * Side Quest: The Weapon Connoisseur
@@ -43,6 +43,7 @@
   * Side Quest: Hylian Homeowner
     * 3,000 rupees
     * 30 bundles of wood
+    * 1,400 Rupees for interior
     * Side Quest: From the Ground Up
   * Korok 063: Rock below bridge to house
   * Shrine Quest: Secret of the Cedars
@@ -53,6 +54,7 @@
 * Collect Blue Flame to S
 * Side Quest: The Sheep Rustlers
   * Farmhouse up towards Hateno Ancient Tech Lab
+  * Return to complete
 * Deliver Flame to Hateno Ancient Tech Lab
 * Korok 065: Tree in centre of Lake Sumac to NW
 * Warp back to Lab
@@ -60,6 +62,7 @@
 * Side Quest: Slated for Upgrades
   * Sensor: 3 Ancient Screws
     * Side Quest: Sunshroom Sensing
+      * Return to complete
   * Bombs: 3 Ancient Shafts
   * Statis: 3 Ancient Cores
 * Side Quest: Robbie's Research

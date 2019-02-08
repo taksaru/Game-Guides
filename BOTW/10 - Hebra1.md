@@ -60,7 +60,7 @@
 * Korok 321: Lilies to W
 * Korok 322: Lilies to N
 * Korok 323: Flower trail along stone crossing to E
-* Korok 324: Rock to NE
+* Korok 324: Rock to NE  -- MOVE TO UPPER SECTION WITH GEE Ha'rah
 * Korok 325: Balloon near water to NW
 * Korok 326: Race to NW
 * Korok 327: Rock to W
@@ -86,7 +86,7 @@
 * Frost Talus to W over Rospro Pass (15/40)
 * Korok 336: Rock to N
 * Korok 337: Acorn in log to NE towards Talonto Peak
-* Korok 338: Fairylights within ice to NW
+* Korok 338: Fairylights within ice to NE
 * Korok 339: Fairylights within ice to W on upper level
 * Frost Talus to N (16/40)
   * Side Quest: Face the Frost Talus
@@ -141,5 +141,7 @@
 * Korok 366: Race to NW
 * Korok 367: Pinwheel shooting to NW
 * Warp to Soh Kofi Shrine
+
+Koroks: 367
 
 Next: [Eldin 1](11 - Eldin1.md)

@@ -35,17 +35,22 @@
 * Ne'ez Yohma Shrine (19/120)
 * Main Quest: Divine Beast Vah Ruta
 * Side Quest: Diving is Beauty!
+  * Complete here
 * Side Quest: Lynel Safari
+  * Lynel Picture
 * Complete Divine Beast Vah Ruta
   * Recovered Memory #10 - Mipha's Touch
 
-![Lanaryu5](images/Lanaryu5.PNG)
+![Lanaryu5](images/Lanaryu5.PNG) -- Leave Side Quests on Map
 
 * Korok 121: Zora's Domain Fish Tail Fin
 * Korok 122: Zora's Domain Fish Spout
 * Side Quest: Zora Stone Monuments
+  * Backtrack Completion
 * Side Quest: The Giant of Ralis Pond
+  * Backtrack Completion
 * Side Quest: A Wife Washed Away
+  * Return to Complete
 * Side Quest: Frog Catching
 * Side Quest: Luminous Stone Gathering
 * Shrine Quest: The Ceremonial Song
@@ -68,6 +73,7 @@
 * Stone Monument to S
   * History of the Zora, Part Two
 * Side Quest: Special Delivery to NW
+  * Backtrack Completion
 * Korok 126: Magnesis Stump to N
 * Follow Special Delivery letter
 * Warp to Lanaryu Tower
@@ -87,7 +93,7 @@
   * History of the Zora, Part Four
 * Korok 132: Fairylights to E
 
-![Lanaryu7](images/Lanaryu7.PNG)
+![Lanaryu7](images/Lanaryu7.PNG) -- CHANGE
 
 * Stone Monument to E
   * History of the Zora, Addendum 1
@@ -119,7 +125,7 @@
 * Sheh Rata Shrine to SW (21/120)
 * Korok 140: Rock pattern in ruins to SW
 
-![Lanaryu10](images/Lanaryu10.PNG)
+![Lanaryu10](images/Lanaryu10.PNG) -- CHANGE
 
 * Korok 141: Rock pattern to W
 * Korok 142: Rock surrounded by brambles in woods to SW
@@ -127,7 +133,7 @@
 * Wetland Stable to NW
 * Side Quest: Riverbed Reward
   * Easy Complete
-* Korok 143: Rock circle to NE
+* Korok 143: Rock pattern to NE
 * Korok 144: Balloon in tree to N
 
 ![Lanaryu11](images/Lanaryu11.PNG)
@@ -137,4 +143,4 @@
 * Korok 147: Race to SW
 * Korok 148: Fairylights in pond
 
-Next: [Woodland 1](06 - Lanaryu1.md)
+Next: [Woodland 1](07 - Lanaryu1.md)

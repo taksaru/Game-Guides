@@ -1,18 +1,18 @@
 # Woodland 1
 
-![Woodland1](images/Woodland1.PNG)
+![Woodland1](images/Woodland1.PNG) --CHANGE
 
 * Korok 149: Water lilies to NW on Pico Pond
 * Mirro Shaz Shrine to NW (23/120)
 * Korok 150: Magnesis Puzzle in centre of Pico Pond
 * Woodland Stable
 * Side Quest: Balloon Flight
-  * Quick
+  * Quick Completion
 * Korok 151: Acorn in Tree to NW S of Military Training Camp
 * Korok 152: Rock on scaffolding uphill to NE
 * Woodland Tower
 
-![Woodland2](images/Woodland2.PNG)
+![Woodland2](images/Woodland2.PNG) -- Add Quests
 
 * Lost Woods to N
   * Korok Mask towards W near N coast
@@ -21,8 +21,15 @@
   * 4, 2, 2, 1
 * Main Quest: The Hero's Sword
 * Side Quest: Legendary Rabbit Trial
+  * Blupee Picture
 * Side Quest: A Freezing Rod
+  * Frost/Blizzard Rod
 * Side Quest: Riddles of Hyrule
+  * Apple
+  * Fortified Pumpkin
+  * Sunshroom
+  * Voltfin Trout
+  * Lynel Hoof
 * Side Quest: The Korok Trials
   * Shrine Quest: The Test of Wood
     * Maag Halan Shrine (25/120)
@@ -30,6 +37,7 @@
     * Daag Chokah Shrine (26/120)
   * Shrine Quest: The Trial of Second Sight
     * Khun Sidajj Shrine (27/120)
+  * Weapons to 17, Bows to 10, Shields to 10
 * Warp back to Woodland Tower
 
 ![Woodland3](images/Woodland3.PNG)
@@ -65,12 +73,13 @@
 * Korok 168: Magnesis puzzle atop temple to NE
 * Rona Kachta Shrine within temple (30/120)
 * Korok 169: Rock behind goddess statue behind Shrine
+* Warp back to Monya Toma Shrine
 
 ![Woodland7](images/Woodland7.PNG)
 
-* Warp back to Monya Toma Shrine
 * Serenne Stable
   * Side Quest: Leviathan Bones
+    * Return to Complete
 * Korok 170: Jump 3 fences to NE
 * Stalnox to N (8/40)
 * Korok 171: Acorn in log to E
@@ -83,7 +92,6 @@
 
 * Blue Hinox to E (9/40)
 * Korok 176: Rock atop mountain to N
-  * Cold Res 1
 
 ![Woodland9](images/Woodland9.PNG)
 

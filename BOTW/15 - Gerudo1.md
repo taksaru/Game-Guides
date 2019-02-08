@@ -2,44 +2,48 @@
 
 ![Gerudo1](images/Gerudo1.PNG)
 
-* Korok 571: Carry snowball to NE
+* Korok 539: Carry snowball to NE
 * Frost Talus to E (26/40)
-* Korok 572: Rock Pattern to E
-* Korok 573: Rock pattern to SE
-* Korok 574: Rock to NE
-* Korok 575: Rock pattern to E
-* Korok 576: Pinwheel shooting to NW
-* Korok 577: Rock pattern to SW
-* Korok 578: Magnesis Puzzle to SW
+* Korok 540: Rock Pattern to E
+* Korok 541: Rock pattern to SE
+* Korok 542: Rock to NE
+* Korok 543: Magnesis Puzzle to SE
+* Korok 544: Rock pattern to NE
+* Korok 545: Pinwheel shooting to NW
+* Korok 546: Rock pattern to SW
+* Korok 547: Magnesis Puzzle to SW
 * Frost Talus to W (27/40)
-* Korok 579: Fairylights in ice to NE
-* Korok 580: Fairylights atop tree to N
-* Korok 581: Rock pattern to NW
-* Korok 582: Magnesis Puzzle to SW
+* Korok 548: Fairylights in ice to NE
+* Korok 549: Fairylights atop tree to N
+* Korok 550: Rock pattern to NW
+* Korok 551: Magnesis Puzzle to SW
 * Kuh Takkar Shrine to SE (90/120)
-* Korok 583: Fairylights in ice to SE
+* Korok 552: Fairylights in ice to SE
 * Stone Talus (Rare) to W across Vatorsa Snowfield (28/40)
-* Korok 584: Fairylights atop pillar to SW
-* Korok 585: Magnesis pizzle to SW
-* Stone Talus (Luminous) to NW (29/40)
-* Korok 586: Rock pattern to W
-* Korok 587: Rock to N
-* Korok 588: Race to NE
+* Korok 553: Fairylights atop pillar to SW
+* Korok 554: Magnesis puzzle to SW
+* Stone Talus (Luminous) to WNW (29/40)
+* Korok 555: Rock pattern to W
+* Korok 556: Rock to N
+* Korok 557: Race to NE
 * Take picture of sword to NE
   * Can place Traveller's Medallion to be extra careful
-* Korok 589: Rock pattern to NE
-* Korok 590: Rock on scaffolding to N
+* Korok 558: Rock pattern to NE
+* Korok 559: Rock on scaffolding to N
 * Shrine Quest: Cliffside Etchings to W
   * Keeha Yoog Shrine (91/120)
-* Korok 591: Race to W
-* Korok 592: Magnesis puzzle to SW
-* Korok 593: Flower trail up cliff to S
+* Korok 560: Race to WNW
+* Korok 561: Magnesis puzzle to SW
+* Korok 562: Flower trail up cliff to S
 * Kema Kosassa Shrine to SW (92/120)
-* Korok 594: Fairylights in ice to NW
+* Korok 563: Fairylights in ice to NW
 * Take picture of Statue of Eighth Heroine to NE
-* Korok 595: Roll boulders to NW
-* Korok 596: Race to NE
-* Korok 597: Rock pattern to SE
+* Korok 564: Roll boulders to NW
+* Korok 565: Race to NE
+* Korok 566: Rock pattern to SE
 * Warp back to Daqo Chisay Shrine
+* Side Quest: The Eighth Heroine
+* Side Quest: The Forgotten Sword
+* Warp to Wasteland Tower
 
 Next: [Wasteland 2](16 - Wasteland2.md)

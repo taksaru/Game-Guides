@@ -24,19 +24,22 @@
 * Tabantha Tower to E
 * Stone Talus(Rare) to E (12/40)
 
-![Tabantha2](images/Tabantha2.PNG)
+![Tabantha2](images/Tabantha2.PNG) -- Add Side Quests
 
 * Korok 275: Rock down on ledge to E
 * Korok 276: Rock behind cracked boulders to N
 * Korok 277: Lilies to NW
 * Rito Stable
   * Side Quest: Curry for what Ails You
+    * Backtrack Complete
 * Korok 278: Rock atop tree to N
 * Rito Village
   * Shrine Quest: The Bird in the Mountains
   * Akh Va'quot Shrine (40/120)
   * Side Quest: Apple of My Eye
+    * Baked Apple
   * Side Quest: The Spark of Romance
+    * Flint
   * Main Quest: Divine Beast Vah Medoh
     * Recovered Memory 2 - Revali's Flap
 
@@ -50,13 +53,15 @@
 * Korok 281: Balloon below Vah Medoh
 * Korok 282: Under rock to SE
 * Side Quest: Find Kheel near Akh Va'quot Shrine
+  * Backtrack Complete
 * Korok 283: Apple offering to NW
 * Korok 284: Race to S
 
 ![Tabantha4](images/Tabantha4.PNG)
 
 * Find Kheel in Warbler's Nest to W
-* Shrine Quest: Recital at Warbler's Nest
+* Complete Side Quest: Find Kheel
+  * Shrine Quest: Recital at Warbler's Nest
 * Korok 285: Rock circle to W
 * Korok 286: Flower trail to SE
 * Korok 287: Rock beneath leaves to W through Dragon Bone Mire
@@ -71,6 +76,7 @@
 * Speak to Notts on cliff above armor shop
 * Speak to Kotts at Village Entrance
 * Side Quest: Face The Frost Talus to E at Bridge near Stable
+  * Backtrack Complete
 * Warp back to Va'quot Shrine and Glide back to Warbler's Nest
 * Complete: Recital at Warbler's Nest
   * Talk to Kheel for Korok leaf
@@ -88,7 +94,10 @@
 
 * Black Hinox on S Shore (14/40)
 * Complete: The Ancient Rito Song to E
+  * 12.30PM
   * Bareed Naag Shrine (43/120)
 * Korok 293: Fairylights atop tree to E towards E region
+
+Koroks 293
 
 Next: [Hebra 1](10 - Hebra1.md)

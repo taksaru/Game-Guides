@@ -2,24 +2,25 @@
 
 ![Wasteland14](images/Wasteland14.PNG)
 
-* Korok 600: Rock pattern to E
-* Korok 601: Rock pattern to SW
-* Korok 602: Rock atop pillar to W
+* Korok 601: Rock pattern to E
+* Korok 602: Rock pattern to SW
+* Korok 603: Rock atop pillar to W
 * Stone Talus (Luminous) to SE (30/40)
 * Main Quest: EX Champion Urbosa's Song to E
-* Korok 603: Rock to E
-* Korok 604: Rock behind cracked boulder to SE
-* Korok 605: Rock atop peak of Mount Granajh to SW
+* Korok 604: Magnesis Puzzle to NE
+* Korok 605: Rock to S
+* Korok 606: Rock behind cracked boulder to SE
+* Korok 607: Rock atop peak of Mount Granajh to SW
 * Shrine Quest: Secret of the Snowy Peaks to S
   * Around 4.20 ish
   * Suma Sahma Shrine (94/120)
-* Korok 606: Rock to NW
+* Korok 608: Rock to NW
 
 ![Wasteland15](images/Wasteland15.PNG)
 
-* Korok 607: Fairylights within ice to SW
-* Korok 608: Fairylights within ice to E
-* Korok 609: Rock pattern to S
+* Korok 609: Fairylights within ice to SW
+* Korok 610: Fairylights within ice to E
+* Korok 611: Rock pattern to S
 * Warp to Raqa Zunzo Shrine
 
 ![Wasteland16](images/Wasteland16.PNG)
@@ -52,4 +53,4 @@
 * Complete Main Quest: EX Champion Urbosa's Song
 * Warp to Bareeda Naag Shrine
 
-Next: [Wasteland3](18 - Wasteland3.md)
+Next: [Tabantha 2](19 - Tabantha2.md)

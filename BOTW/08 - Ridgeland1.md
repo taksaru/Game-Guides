@@ -33,7 +33,7 @@
   * Speak to Old Man
   * Follow path back over Manhala Bridge into Ridgeland
 
-![Ridgeland4](images/Ridgeland4.PNG)
+![Ridgeland4](images/Ridgeland4.PNG) -- CHANGE
 
 * Korok 199: Apple offering to W in Dalite Forest
 * Korok 200: Hanging acorn to W
@@ -110,9 +110,12 @@
 * Korok 247: Fairylights to NW
 * Tabantha Bridge Stable to W
   * Side Quest: A Gift for the Great Fairy
+    * Return to Complete
   * Shrine Quest: Cliffside Etchings
   * Shae Loya Shrine to S (36/120)
     * This should be the 36th Shrine so it should be possible to retrieve Master Sword
+      * Complete Side Quest: The Korok Trials
+      * 1 weapon, 2 shield, 2 bow
 
 ![Ridgeland9](images/Ridgeland9.PNG)
 

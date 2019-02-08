@@ -16,7 +16,7 @@
 ![Eldin2](images/Eldin2.PNG)
 
 * Korok 372: Lily pads to W
-* Korok 373: Stone Circle to E
+* Korok 373: Stone Pattern to E
 * Korok 374: Balloon beneath bridge to SE
 * Korok 375: Rock on ledge below bridge to E
 * Korok 376: Rock beneath cracked boulder to NE
@@ -70,21 +70,21 @@
 
 * Korok 397: Rock atop Isle of Rabac to NW
 * Shora Hah Shrine within Isle of Rabac (62/120)
-* Take minecart to lava shore to W
+* Take minecart on E lava shore to W
 * Igneo Talus: Circle around to W (18/40)
   * Side Quest: The Road to Respect
 * Korok 398: Stone pattern to N in East Deplian Badlands
 * Korok 399: Rock beneath leaves in skeleton's N eye socket to E
 * Take picture of skeleton
 * Dinraal farm in morning
-  * 0/4 scale
+  * 0/3 scale
     * 0/1 for Shrine
     * 0/1 in castle
     * 0/3 for upgrades
   * 0/3 claw
     * 0/3 for upgrades
-  * 0/5 horn
-    * 0/5 for upgrades
+  * 0/8 horn
+    * 0/8 for upgrades
   * 0/2 fang
     * 0/3 for upgrades
     * 0/1 in castle
@@ -120,14 +120,15 @@
 * Shrine Quest: Brother's Roast to SW at Gorko Tunnel
   * Kayra Mah Shrine (64/120)
 * Igneo Talus: Across Darb Pond to SE (20/40)
-* Korok 412: Rock behind cracked boulder to E
-* Korok 413: Rock in middle of Darb Pond to N
-* Korok 414: Magnesis Puzzle to W
+* Korok 412: Rock in middle of Darb Pond to N
+* Korok 413: Magnesis Puzzle to W
 * Igneo Talus: Center to Gorko Lake to N (21/40)
 * Daqa Koh Shrine to NW (65/120)
 * Cross Bridge of Eldin and Complete Divine Beast Vah Rudania
 * Side Quest: The Jewel Trade
 * Warp back to Mo'a Keet Shrine
 * Follow path S and go E into Akala
+
+* 413 Koroks
 
 Next: [Akkala 1](12 - Akkala1.md)
