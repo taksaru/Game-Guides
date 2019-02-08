@@ -78,6 +78,8 @@
 
 ![Wasteland13](images/Wasteland13.PNG) -- REDO
 
+* Side Quest: Medicinal Molduga
+  * Molduga Guts
 * Shrine Quest: The Perfect Drink
   * Get Ice
 * Main Quest: Divine Beast Vah Naboris

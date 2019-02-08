@@ -100,14 +100,13 @@
 * Return to Gerudo Town
   * Main Quest: Forbidden City Entry
 
-![Wasteland12](images/Wasteland12.PNG)
+![Wasteland12](images/Wasteland12.PNG) -- UPDATE
 
 * Shrine Quest: The Silent Swordswomen
 * Shrine Quest: The Seven Heroines
-* Side Quest: Medicinal Molduga
-  * Molduga Guts
 * Side Quest: Tools of the Trade
   * 10 Flint
+  * Sapphire is most Cost Effective Reward
 * Side Quest: The Secret Club's Secret
   * GSC♦
 * Side Quest: The Eighth Heroine
