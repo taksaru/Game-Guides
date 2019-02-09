@@ -8,7 +8,7 @@
 * Korok 507: Pinwheel shooting to SE
 * Korok 508: Magnesis Puzzle to W
 * Jee Noh Shrine to N (78/120)
-* Korok 511: Race to W
+* Korok 509: Race to W
 * Korok 510: Rock on scaffolding to S
 * Korok 511: Rock atop arch to NE
 * Stone Talus (Luminous) to NE (23/40)

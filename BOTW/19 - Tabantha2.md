@@ -3,8 +3,8 @@
 ![Tabanatha6](images/Tabantha6.PNG)
 
 * Main Quest: EX Champion Revali's Song to S
-* Korok 612: Magnesis Puzzle to E
-* Korok 613: Rock behind cracked boulder to E
+* Korok 609: Magnesis Puzzle to E
+* Korok 610: Rock behind cracked boulder to E
 * Warp to Hebra Tower
 * Head to campfire to SW
   * Await Dragon at 1AM

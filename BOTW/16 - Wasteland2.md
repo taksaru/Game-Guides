@@ -35,7 +35,6 @@
 
 * Korok 579: Rock atop pillar to SW
 * Shrine Quest: The Perfect Drink to NW
-  * Drop Travel Medallion
 * Korok 580: Rock Circle to W
 * Korok 581: Cacti to W
 
@@ -76,7 +75,7 @@
 * Korok 594: Race to SE
 * Korok 595: Cacti to SE
 
-![Wasteland13](images/Wasteland13.PNG) -- REDO
+![Wasteland13](images/Wasteland13.PNG)
 
 * Side Quest: Medicinal Molduga
   * Molduga Guts

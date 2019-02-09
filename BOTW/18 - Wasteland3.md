@@ -2,25 +2,25 @@
 
 ![Wasteland14](images/Wasteland14.PNG)
 
-* Korok 601: Rock pattern to E
-* Korok 602: Rock pattern to SW
-* Korok 603: Rock atop pillar to W
+* Korok 598: Rock pattern to E
+* Korok 599: Rock pattern to SW
+* Korok 600: Rock atop pillar to W
 * Stone Talus (Luminous) to SE (30/40)
 * Main Quest: EX Champion Urbosa's Song to E
-* Korok 604: Magnesis Puzzle to NE
-* Korok 605: Rock to S
-* Korok 606: Rock behind cracked boulder to SE
-* Korok 607: Rock atop peak of Mount Granajh to SW
+* Korok 601: Magnesis Puzzle to NE
+* Korok 602: Rock to S
+* Korok 603: Rock behind cracked boulder to SE
+* Korok 604: Rock atop peak of Mount Granajh to SW
 * Shrine Quest: Secret of the Snowy Peaks to S
   * Around 4.20 ish
   * Suma Sahma Shrine (94/120)
-* Korok 608: Rock to NW
+* Korok 605: Rock to NW
 
 ![Wasteland15](images/Wasteland15.PNG)
 
-* Korok 609: Fairylights within ice to SW
-* Korok 610: Fairylights within ice to E
-* Korok 611: Rock pattern to S
+* Korok 606: Fairylights within ice to SW
+* Korok 607: Fairylights within ice to E
+* Korok 608: Rock pattern to S
 * Warp to Raqa Zunzo Shrine
 
 ![Wasteland16](images/Wasteland16.PNG)
@@ -36,7 +36,7 @@
 * Rent Sand Seal from N entrance
 * Takama Shiri Shrine
 
-![Wasteland18](images/Wasteland18.PNG)
+![Wasteland18](images/Wasteland18.PNG) --UPDATE
 
 * Warp to Wasteland Tower
 * Side Quest: Missing in Action to N on Koukot Plateau

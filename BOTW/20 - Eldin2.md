@@ -8,6 +8,7 @@
 * Kamia Omuna Shrine
 * Warp to Divine Beast Vah Rudania and follow rings to E
 * Sharo Lun Shrine
+* Korok 611: to SW
 * Go West to Darb Lake
 * Rinu Honika Shrine
 * Warp to Divine Beast Vah Rudania and complete Main Quest: EX Champion Daruk's Song
