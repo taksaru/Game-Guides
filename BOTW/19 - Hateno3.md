@@ -16,4 +16,4 @@
 * Korok 659: Lilies to SW
 * Warp to Ja Baji Shrine
 
-Next: [Lake Hylia](23 - Hylia1.md)
+Next: [Lake Hylia](20 - Hylia1.md)

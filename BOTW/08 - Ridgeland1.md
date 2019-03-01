@@ -33,7 +33,7 @@
   * Speak to Old Man
   * Follow path back over Manhala Bridge into Ridgeland
 
-![Ridgeland4](images/Ridgeland4.PNG) -- CHANGE
+![Ridgeland4](images/Ridgeland4.PNG)
 
 * Korok 199: Apple offering to W in Dalite Forest
 * Korok 200: Hanging acorn to W

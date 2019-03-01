@@ -100,7 +100,7 @@
 * Return to Gerudo Town
   * Main Quest: Forbidden City Entry
 
-![Wasteland12](images/Wasteland12.PNG)
+![Wasteland12](images/Wasteland5.PNG)
 
 * Shrine Quest: The Silent Swordswomen
 * Shrine Quest: The Seven Heroines

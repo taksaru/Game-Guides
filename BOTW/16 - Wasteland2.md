@@ -1,6 +1,6 @@
 # Wasteland 2
 
-![Wasteland5](images/Wasteland5.PNG)
+![Wasteland5](images/Wasteland6.PNG)
 
 * Korok 566: Magnesis Puzzle to W
 * Korok 567: Balloon between statue wrists to S
@@ -20,7 +20,7 @@
 * Korok 571: Magnesis Puzzle inside Skull to SE
 * Korok 572: Magnesis Puzzle to E
 
-![Wasteland6](images/Wasteland6.PNG)
+![Wasteland6](images/Wasteland7.PNG)
 
 * Korok 573: Rock pattern to E
 * Korok 574: Rock behind cracked boulders to NE
@@ -31,41 +31,41 @@
 * Korok 577: Race to SW
 * Korok 578: Race on arch to NW
 
-![Wasteland7](images/Wasteland7.PNG)
+![Wasteland7](images/Wasteland8.PNG)
 
 * Korok 579: Rock atop pillar to SW
 * Shrine Quest: The Perfect Drink to NW
 * Korok 580: Rock Circle to W
 * Korok 581: Cacti to W
 
-![Wasteland8](images/Wasteland8.PNG)
+![Wasteland8](images/Wasteland9.PNG)
 
 * Korok 582: Balloon atop tree to NW
-* Molduga (1/5)
+* Molduga (1/4)
 * Korok 583: Rock to N
 * Korok 584: Flower trail on skeleton to NW
 * Korok 585: Rock to SW
-* Molduga to SE (2/5)
+* Molduga to SE (2/4)
 * Korok 586: Rock to SE
 * Korok 587: Cacti to NW
 
-![Wasteland9](images/Wasteland9.PNG)
+![Wasteland9](images/Wasteland10.PNG)
 
 * Hawa Koth Shrine to W (90/120)
 * Take Picture of Gerudo Great Skeleton
 * Great Fairy Fountain
 * Korok 588: Fairylights atop Skeleton
-* Molduga to NE (3/5)
+* Molduga to NE (3/4)
 * Korok 589: Cacti to W
 
-![Wasteland10](images/Wasteland10.PNG)
+![Wasteland10](images/Wasteland11.PNG)
 
-* Molduga to NE (4/5)
+* Molduga to NE (4/4)
 * Tho Kayu Shrine (91/120)
   * Light area's 4 torches
 * Korok 590: Cacti to NW
 
-![Wasteland11](images/Wasteland11.PNG)
+![Wasteland11](images/Wasteland12.PNG)
 
 * Korok 591: Fairylights atop skeleton to NE
 * Korok 592: Fairylights atop skeleton to N

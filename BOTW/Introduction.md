@@ -1,29 +1,29 @@
 # Introduction
 
-Welcome to my 100% guide for The Legend of Zelda: Breath of the Wild. This guide is designed with minimal spoilers and covers all 900 Korok Seeds, 136 Shrines, 76 Side Quests, 42 Shrine Quests, 40 'Noxes', 40 Taluses, 20 Main Quests, 18 Memories and 5 Molduga. At present it does not cover all Map Locations, although they could be added later.
+Welcome to my 100% guide for The Legend of Zelda: Breath of the Wild. This guide is designed with minimal spoilers and covers all 900 Korok Seeds, 136 Shrines, 76 Side Quests, 42 Shrine Quests, 40 'Noxes', 40 Taluses, 20 Main Quests, 18 Memories and 4 Molduga. At present it does not cover all Map Locations, although they could be added later.
 
 # FAQs
 
 ## Hyrule Compendium
 
-The guide does not cover the Hyrule Compendium. The easiest way to fill the Compendium would be as you go. If you miss anything you can also use Rupees to fill the Compendium at the Hateno Ancient Tech Lab.
+The guide does not cover the Hyrule Compendium. The easiest way to fill the Compendium would be as you go. If you miss anything you can also use Rupees to fill the Compendium at the Hateno Ancient Tech Lab. If you follow the guide exactly you will only take 6 Compendium Pictures.
 
 ## Shrines
 
 For true 100% completion it is necessary to open all chests within Shrines. This will open a small chest icon next to the Shrine's name on the map.
 
-![WithoutIcon](images/chestIconless.png)
-![WithIcon](images/chestIcon.png)
+![WithoutIcon](images/chestIconless.jpg)
+![WithIcon](images/chestIcon.jpg)
 
 Within the guide there almost no Shrine solutions. The only exceptions will be for especially tedious Shrines. Shrines with hidden armor will also be marked within the guide.
 
 ## amiibo
 
-amiibo are completely optional for this guide. Admittedly the Super Smash Bros. Link amiibo makes at least 1 Korok particularly easy as it will allow you to spawn in Epona thus skipping capturing a horse.
+amiibo are completely optional for this guide. Admittedly the Super Smash Bros. Link amiibo makes at least 1 Korok easier as it will allow you to spawn in Epona thus skipping capturing a horse.
 
 ## Koroks
 
-This guide covers all 900 Koroks in the game. The terms used in referenceing the Koroks are explained below
+This guide covers all 900 Koroks in the game. The terms used in referencing the Koroks are explained below
 
 | Term | Image | Solution |
 | ---- | ----- | -------- |
@@ -34,11 +34,12 @@ This guide covers all 900 Koroks in the game. The terms used in referenceing the
 | Magnesis Puzzle | ![MagnesisPuzzleKorok](images/magnesisPuzzleKorok.png) | Magnesis puzzles involve matching two cube formations using a nearby metal cube |
 | Offering | ![OfferingKorok](images/offeringKorok.png) | Offering Koroks involve dropping 1 or more of a certain fruit into a bowl in front of statues such that all have an offering |
 | Apple Trees/Cacti | ![CactiKorok](images/cactiKorok.png) | Cacti/Apple Tree Koroks involve shooting fruits off of a tree/cactus in a group of 3 until they all match. A quick trick is to statis the fruit to keep and chop down the tree/cactus |
-| Fairylights | ![FairylightKorok](images/fairylightKorok.png) | Fairylight Koroks will either be atop tall objects or moving around an area. You'll only need to interact with them |
-| Pinwheel Shooting | ![PinwheelKorok](images/pinwheelKorok.png) | Standing at the pinwheel will cause balloons to appear. Shoot all the Balloons. |
-| Lilies | ![LilyKorok](images/lilyKorok.png) | Lily circles on water can be completed by simply diving through the middle |
-| Flower Trail |
-| Flower Patches |
+| Fairylights | ![FairylightKorok](images/fairylightKorok.png) | Fairylight Koroks will either be atop tall objects, moving around an area or sometimes tucked away. You'll only need to interact with them |
+| Pinwheel Shooting | ![PinwheelKorok](images/pinwheelKorok.png) |  |
+| Lilies | ![LilyKorok](images/lilyKorok.png) |  |
+| Flower Trail | ![FlowerTrail](images/flowerTrail.png) | Follow a yellow flower, it will appear and disappear as you follow it |
+| Race | ![RaceKorok](images/raceKorok.png) | Step on the platform to begin the race and reach the goal ring before time runs out |
+| Flower Patches | ![FlowerPatches](images/flowerPatches.png) | Go through 5 patches of flowers in order of the amount of flowers in each patch |
 
 ## Mini-bosses
 
@@ -82,12 +83,12 @@ Once you unlock the Camera you'll need to take pictures of the following enemies
 
 | Enemy | Image |
 | ----- | ----- |
-| Guardian Scout | ![GuardianScout](images/guardianScount.png) |
+| Guardian Scout | ![GuardianScout](images/GuardianScout.png) |
 | Guardian Stalker | ![GuardianStalker](images/guardianStalker.png) |
 | Guardian Skywatcher | ![GuardianSkywatcher](images/guardianSkywatcher.png) |
-| Lynel | ![Lynel](images/lynel.png) |
-| Blupee | ![Blupee](images/blupee.png) |
-| Stalhorse | ![Stalhorse](images/stalhorse.png) |
+| Lynel | ![Lynel](images/Lynel.png) |
+| Blupee | ![Blupee](images/Blupee.png) |
+| Stalhorse | ![Stalhorse](images/Stalhorse.png) |
 
 ## Weapons
 
@@ -102,6 +103,6 @@ You'll need the following weapons for Side Quests
 | Moblin Club | ![MoblinClub](images/moblinClub.png) |
 | Duplex Bow | ![DuplexBow](images/duplexBow.png) |
 | Windcleaver | ![Windcleaver](images/windcleaver.png) |
-| Ancient Battleaxe+ | ![AncientBattleaxe](images/ancientBattleaxe.png) |
+| Ancient Battle Axe+ | ![AncientBattleAxe](images/ancientBattleaxe.png) |
 | Frostspear | ![Frostspear](images/frostspear.png) |
 | Ancient Short Sword | ![AncientSword](images/ancientSword.png) |

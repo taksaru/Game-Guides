@@ -41,7 +41,7 @@
 * Complete Divine Beast Vah Ruta
   * Recovered Memory #10 - Mipha's Touch
 
-![Lanaryu5](images/Lanaryu5.PNG) -- Leave Side Quests on Map
+![Lanaryu5](images/Lanaryu5.PNG)
 
 * Korok 121: Zora's Domain Fish Tail Fin
 * Korok 122: Zora's Domain Fish Spout
@@ -93,7 +93,7 @@
   * History of the Zora, Part Four
 * Korok 132: Fairylights to E
 
-![Lanaryu7](images/Lanaryu7.PNG) -- CHANGE
+![Lanaryu7](images/Lanaryu7.PNG)
 
 * Stone Monument to E
   * History of the Zora, Addendum 1
@@ -125,7 +125,7 @@
 * Sheh Rata Shrine to SW (21/120)
 * Korok 140: Rock pattern in ruins to SW
 
-![Lanaryu10](images/Lanaryu10.PNG) -- CHANGE
+![Lanaryu10](images/Lanaryu10.PNG)
 
 * Korok 141: Rock pattern to W
 * Korok 142: Rock surrounded by brambles in woods to SW

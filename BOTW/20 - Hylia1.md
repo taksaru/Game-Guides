@@ -157,19 +157,21 @@ Traveller's Medallion can be useful between bridge levels
 
 ![Hylia11](images/Hylia11.PNG)
 
+* Zonai Ruins to NE
 * Korok 747: Match boulder to N
 * Korok 748: Rock to NW
 * Korok 749: Rock beneath cracked boulder to NE
 * Korok 750: Magnesis Puzzle to SE
+  * Block on opposite claw
 * Side Quest: EX Treasure: Merchant Hood below hand
   * Ravio's Hood
 * Korok 751: Rock atop tree to NE
 * Shae Katha Shrine (108/120)
   * Farosh Scale
-  * If don't have use traveller's medallion
+  * If don't have leave traveller's medallion
 * Korok 752: Roll boulders to N
 * Korok 753: Race to SE
 * Korok 754: Rock above waterfall to S
 * Korok 755: Fairylights to S
 
-Next: [Faron](24 - Faron1.md)
+Next: [Faron](21 - Faron1.md)

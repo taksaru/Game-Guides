@@ -83,8 +83,8 @@
     * 0/3 for upgrades
   * 0/3 claw
     * 0/3 for upgrades
-  * 0/8 horn
-    * 0/8 for upgrades
+  * 0/6 horn
+    * 0/6 for upgrades
   * 0/2 fang
     * 0/3 for upgrades
     * 0/1 in castle
@@ -110,6 +110,7 @@
 * Korok 409: Fairylights atop ribcage to S
 * Korok 410: Race to SE
 * Return to Bludo
+* Remember to discover Stolock Bridge Location
 * Complete Side Quest: The Road to Respect
 * Side Quest: Death Mountain's Secret to SE in Goron Hot Springs
   * Drillshaft behind cracked boulders to SE
@@ -128,7 +129,5 @@
 * Side Quest: The Jewel Trade
 * Warp back to Mo'a Keet Shrine
 * Follow path S and go E into Akala
-
-* 413 Koroks
 
 Next: [Akkala 1](12 - Akkala1.md)

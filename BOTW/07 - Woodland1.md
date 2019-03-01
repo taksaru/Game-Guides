@@ -1,6 +1,6 @@
 # Woodland 1
 
-![Woodland1](images/Woodland1.PNG) --CHANGE
+![Woodland1](images/Woodland1.PNG)
 
 * Korok 149: Water lilies to NW on Pico Pond
 * Mirro Shaz Shrine to NW (23/120)
@@ -8,13 +8,15 @@
 * Woodland Stable
 * Side Quest: Balloon Flight
   * Quick Completion
-* Korok 151: Acorn in Tree to NW S of Military Training Camp
+* Rauru Settlement Ruins to SW
+* Korok 151: Acorn in Tree to NE S of Military Training Camp
 * Korok 152: Rock on scaffolding uphill to NE
 * Woodland Tower
 
-![Woodland2](images/Woodland2.PNG) -- Add Quests
+![Woodland2](images/Woodland2.PNG)
 
 * Lost Woods to N
+* Side Quest: EX Strange Mask Rumors
   * Korok Mask towards W near N coast
 * Keo Ruug Shrine (24/120)
   * 5, 3, 1, 2
@@ -58,7 +60,8 @@
 
 ![Woodland5](images/Woodland5.PNG)
 
-* Maag No'rah Shrine: within cliff to W (29/120)
+* Maritta Exchange Ruins to NE
+* Maag No'rah Shrine: within cliff to SW (29/120)
 * Korok 160: Rock beneath bombable rock in gorge to NW
 * Korok 161: Rock within gorge to NE
 * Korok 162: Rock below bombable rock to NE

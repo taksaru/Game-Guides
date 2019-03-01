@@ -69,9 +69,9 @@
 * Shrine Quest: Trial of the Labyrinth to NE
   * Tu Ka'loh Shrine (69/120)
 * Side Quest: EX Teleportion Rumors
-  * Diamond Circlet in center
-  * Beneath labyrinth to S
   * Useful when force spawning Stalnox
+* Diamond Circlet in center
+  * Beneath labyrinth to S
 * Korok 448: Rock beneath slab on island to SE
 * Korok 449: Flower order to S
 

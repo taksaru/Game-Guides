@@ -11,7 +11,7 @@
 * Dow Na'eh Shrine - Behind Waterfall to S (15/120)
 * Korok 099: Atop Lanaryu Bluff at the Peak of Awakening
 
-![Hateno7](images/Hateno7.PNG) --CHANGE
+![Hateno7](images/Hateno7.PNG)
 
 * Recovered Memory 15: NE at Lanaryu Road - East Gate (2/12)
 * Hinox in Purifier Lake to SE (3/40)

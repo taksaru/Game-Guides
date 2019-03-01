@@ -48,19 +48,20 @@
 ![Hebra5](images/Hebra5.PNG)
 
 * Korok 317: Roll Snowball far to S over Kopeeki Drifts
-* Gee Ha'rah Shrine to W (49/120)
-* Korok 318: Rock to S atop peak
-* Korok 319: Rock behind Shrine to W
+* Go NE and Unlock Shrine
+* Korok 318: Rock to W
+* Gee Ha'rah Shrine to NE (49/120)
+* Korok 319: Rock to S atop peak
+* Korok 320: Rock behind Shrine to W
 * Lanno Kooh Shrine (50/120)
 
 ![Hebra6](images/Hebra6.PNG)
 
-* Korok 320: Fairylights atop dead tree to SW
+* Korok 321: Fairylights atop dead tree to SW
 * Stone Talus (Rare) to SW (14/40)
-* Korok 321: Lilies to W
-* Korok 322: Lilies to N
-* Korok 323: Flower trail along stone crossing to E
-* Korok 324: Rock to NE  -- MOVE TO UPPER SECTION WITH GEE Ha'rah
+* Korok 322: Lilies to W
+* Korok 323: Lilies to N
+* Korok 324: Flower trail along stone crossing to E
 * Korok 325: Balloon near water to NW
 * Korok 326: Race to NW
 * Korok 327: Rock to W
@@ -124,7 +125,8 @@
 * Hia Miu Shrine (55/120)
 * Korok 355: Race to SE
 * Korok 356: Pinwheel shooting to E atop Hebra North Summit
-* Korok 357: Rock pattern to SW
+* Shefin's Secret Hot Spring to SW
+* Korok 357: Rock pattern to SE
 * Korok 358: Flower Trail to SW
 * Korok 359: Rock to NW atop Herba West Summit
 
@@ -133,7 +135,11 @@
 * Korok 360: Fairylights to S
 * Black Hinox to SW (15/40)
 * Korok 361: Rock to SE
-* Korok 362: Flower trail to NE
+* Sturnida Secret Hot Sprint to E
+
+![Herba12](images/Hebra12.PNG)
+
+* Korok 362: Flower trail to NW
 * Korok 363: Rock pattern to SE
 * Korok 364: Rock beneath cracked boulders to SE
 * Maka Rah Shrine via Cave Entrance to E (56/120)
@@ -141,7 +147,5 @@
 * Korok 366: Race to NW
 * Korok 367: Pinwheel shooting to NW
 * Warp to Soh Kofi Shrine
-
-Koroks: 367
 
 Next: [Eldin 1](11 - Eldin1.md)

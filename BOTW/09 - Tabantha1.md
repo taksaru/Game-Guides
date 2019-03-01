@@ -24,7 +24,7 @@
 * Tabantha Tower to E
 * Stone Talus(Rare) to E (12/40)
 
-![Tabantha2](images/Tabantha2.PNG) -- Add Side Quests
+![Tabantha2](images/Tabantha2.PNG)
 
 * Korok 275: Rock down on ledge to E
 * Korok 276: Rock behind cracked boulders to N
@@ -87,7 +87,9 @@
 * Korok 290: Rock patterns to NE
 * Korok 291: Flower path to NE
 * Warp to Sha Warvo Shrine
-* Korok 292: Rock to SE around Lake Totori just past enemy tree camp
+* Hebra Trailhead Lodge to NE
+* Korok 292: Rock to SE around
+* Lake Totori just past enemy tree camp
 * Warp to Akh Va'quot Shrine
 
 ![Tabantha5](images/Tabantha5.PNG)
@@ -97,7 +99,5 @@
   * 12.30PM
   * Bareed Naag Shrine (43/120)
 * Korok 293: Fairylights atop tree to E towards E region
-
-Koroks 293
 
 Next: [Hebra 1](10 - Hebra1.md)

@@ -37,6 +37,7 @@
 * Kema Kosassa Shrine to SW (87/120)
 * Korok 562: Fairylights in ice to NW
 * Take picture of Statue of Eighth Heroine to NE
+  * Ensure you discover location
 * Korok 563: Roll boulders to NW
 * Korok 564: Race to NE
 * Korok 565: Rock pattern to SE

@@ -32,7 +32,8 @@
       * Cane Sugar
   * Side Quest: The Royal Guard's Gear
 * Whago Katta Shrine to N (116/120)
-* Korok 825: Acorn in tree atop hill to NW
+* Horwell Bridge to NE
+* Korok 825: Acorn in tree atop hill to W
 * Korok 826: Fairylights to NW
 * Korok 827: Apple offering to E
 * Korok 828: Flower order to NW
@@ -59,7 +60,8 @@
 * Korok 839: Lilies to NW
 * Stone Talus Luminous to NE (38/40)
 * Korok 840: Magnesis puzzle to NW
-* Korok 841: Acorn in tree to SW
+* Helmhead Bridge to NW
+* Korok 841: Acorn in tree to S
 * Stalnox to SW (38/40)
 * Korok 842: Rock atop fountain to W
 * Korok 843: Rock circle to SE
@@ -91,7 +93,8 @@
 
 ![Hyrule10](images/Hyrule10.PNG)
 
-* Korok 859: Rock pattern to N
+* Water Reservoir to NE
+* Korok 859: Rock pattern to W
 * Korok 860: Lilies to NE at Moat Bridge
 * Side Quest: EX Treasure: Fairy Clothes
   * Tingle's shirt to NW
@@ -116,4 +119,4 @@
 * Korok 873: Hanging acorn under Hyrule Castle Bridge
 * Korok 874: Flower trail below Hyrule Castle Bridge
 
-Next: [Hyrule Castle](26 - Hyrule Castle.md)
+Next: [Hyrule Castle](23 - Hyrule Castle.md)

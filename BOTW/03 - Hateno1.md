@@ -26,7 +26,7 @@
 * Follow Path NE to Midla Woods
 * Korok 062: Acorn in tree just NE of path split
 
-![Hateno3](images/Hateno3.PNG) -- Leave Quests on Map
+![Hateno3](images/Hateno3.PNG)
 
 * Follow path NE into Hateno Village
   * Side Quest: The Weapon Connoisseur

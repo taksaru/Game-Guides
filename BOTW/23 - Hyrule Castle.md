@@ -10,7 +10,7 @@
 * Take turn to right
 * Korok 878: Rock halfway up deep shaft
 * Shard of Dinraal's Fang side area midway up shaft with ladder behind cracked wall
-* Break into Lockup
+* Double back and break into Lockup
 * Follow path to Left to Stalnox (40/40)
 * Hylian Shield
 
@@ -34,13 +34,12 @@
 ![Castle3](images/Castle3.PNG)
 
 * Take stairs up to Library
-* Take third floor exit on opposite side of Library
+* Take third floor exit on left side of Library
 * Follow passage
   * Royal Guard Bow
 * Take broken stairwell up
 * Korok 881: Acorn behind cracked wall after stairwell
-* Take right Turn
-  * Royal Guard Sword
+* Take left Turn
 * Side Quest: EX Royal Guard Rumors
   * Royal Guard Uniform
 * Follow Passage into Dining Hall
@@ -82,7 +81,7 @@
 
 * Korok 890: Fairylight atop spire atop Princess Zelda's Study
 * Take Inside passage below Zelda's Study
-* Clear out Malice
+* Clear out Malice and follow path outside
 * Glide back towards First Gatehouse
 * Take Wall around malice to S
 * Korok 891: Pinwheel shooting to E above Observation Room
@@ -99,9 +98,9 @@
 * King's Study at opposite end of Library
   * Royal Guard Shield
 * Take exit above study out of castle
-* Korok 895: Rock beneath cracked boulder atop cliff outside passage
 * Naydra's Scale under slab above exit
-* Dinraal's Scale behind cracked boulder to NW
+* Korok 895: Rock beneath cracked boulder atop cliff outside passage
+* Dinraal's Scale behind cracked boulder to NE
 * Korok 896: Lilies to SE up Waterfall
 * Follow path back around Castle to main path
 * Korok 897: Rock beneath cracked boulder just S of Main Castle Entrance

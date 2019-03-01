@@ -27,8 +27,8 @@
     * 0/3 for upgrades
   * 0/3 claw
     * 0/3 for upgrades
-  * 0/5 horn
-    * 0/5 for upgrades
+  * 0/6 horn
+    * 0/6 for upgrades
   * 0/3 fang
     * 0/3 for upgrades
 * Korok 764: Magnesis boulder in centre of Riola Spring
@@ -140,4 +140,4 @@
 * Warp to Keo Ruug Shrine and Complete the Trial of the sword to prepare for Central Hyrule
 * Then warp to Rota Ooh Shrine
 
-Next: [Central Hyrule 2](25 - Central2.md)
+Next: [Central Hyrule 2](22 - Central2.md)
