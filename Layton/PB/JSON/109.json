@@ -1,0 +1,28 @@
+{
+  "num": "109",
+  "title": "Walking the Dog",
+  "steps": [
+    "Walk downstairs",
+    "Leave Hotel",
+    "Speak to Sammy",
+    "Walk Up",
+    "Walk Up",
+    "Walk Left",
+    "Walk Up",
+    "Speak to Lila"
+  ],
+  "solution": [
+    {
+      "img": "109S.png",
+      "txt": "The dog will run 50 ft/m"
+    }
+  ],
+  "prev": {
+    "num": "114",
+    "name": "Fair Compensation"
+  },
+  "next": {
+    "num": "090",
+    "name": "The Unusual Fountain"
+  }
+}

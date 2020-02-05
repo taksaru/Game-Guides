@@ -1,0 +1,23 @@
+{
+  "num": "071",
+  "title": "Sausage Thief",
+  "steps": [
+    ["Umbrella left of Giuseppe"],
+    {"mobile": "Check sign on right for Ruby Bijou Charm"},
+    "Talk to Giuseppe"
+  ],
+  "solution": [
+    {
+      "img": "071S.gif",
+      "txt": "C ate all the sausages"
+    }
+  ],
+  "prev": {
+    "num": "070",
+    "name": "The Shattered Vase"
+  },
+  "next": {
+    "num": "108",
+    "name": "Not Knots"
+  }
+}

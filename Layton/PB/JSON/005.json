@@ -1,0 +1,32 @@
+{
+  "num": "005",
+  "title": "Luke's Trunk",
+  "steps": [
+    [
+      "Coat Hangar",
+      "Framed Picture",
+      "Table Legs"
+    ],
+    "Examine open Trunk"
+  ],
+  "solution": [
+    {
+      "img": "005S.png",
+      "txt": "Arrange the Trunk as Shown"
+    }
+  ],
+  "prev": {
+    "num": "004",
+    "name": "A Secure Room"
+  },
+  "next": [
+    {
+      "num": "017",
+      "name": "The Ant's Journey"
+    },
+    {
+      "num": "017",
+      "name": "The Worker Ant"
+    }
+  ]
+}

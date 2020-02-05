@@ -1,0 +1,36 @@
+{
+  "num": "086",
+  "title": "Train Speed",
+  "steps": [
+    "Give the Fossil to Layton",
+    "Walk Left",
+    "Walk Down",
+    "Walk Right",
+    [
+      "End of path",
+      "Waterfall",
+      "Middle brick in right wall"
+    ],
+    "Talk to Sylvain"
+  ],
+  "solution": [
+    {
+      "img": "086S.gif",
+      "txt": "The blue square is 4 times larger"
+    }
+  ],
+  "prev": [
+    {
+      "num": "085",
+      "name": "Train Speed"
+    },
+    {
+      "num": "085",
+      "name": "Weekend Getaway"
+    }
+  ],
+  "next": {
+    "num": "115",
+    "name": "Odd Box Out"
+  }
+}

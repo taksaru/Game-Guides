@@ -1,0 +1,34 @@
+{
+  "num": "070",
+  "title": "Jewelled Necklaces",
+  "a-title": "The Jeweled Necklace",
+  "steps": [
+    "Walk Down",
+    [
+      "Middle Lamp",
+      "Plant on left",
+      "Bin on right"
+    ],
+    "Talk to Ilyana/Vera"
+  ],
+  "solution": [
+    {
+      "img": "070S.png",
+      "txt": "Break necklace as shown"
+    }
+  ],
+  "prev": {
+    "num": "117",
+    "name": "Three Couples"
+  },
+  "next": [
+    {
+      "num": "129",
+      "name": "The Messy Mole"
+    },
+    {
+      "num": "129",
+      "name": "The Slobbish Mole"
+    }
+  ]
+}

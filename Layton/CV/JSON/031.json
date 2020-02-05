@@ -1,0 +1,29 @@
+{
+  "num": "031",
+  "title": "Racetrack Riddle",
+  "steps": [
+    "Walk Down",
+    "Talk to Marco",
+    "Talk to Marco Again"
+  ],
+  "solution": [
+    {
+      "img": "031S.gif",
+      "txt": "The horses will line up after a minute"
+    }
+  ],
+  "prev": {
+    "num": "030",
+    "name": "One-Line Puzzle"
+  },
+  "next": [
+    {
+      "num": "032",
+      "name": "Sweet Jars"
+    },
+    {
+      "num": "032",
+      "name": "Candy Jars"
+    }
+  ]
+}

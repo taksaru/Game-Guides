@@ -1,0 +1,21 @@
+{
+  "num": "122",
+  "title": "The Next Die",
+  "steps": [
+    "The Inventor's House"
+  ],
+  "solution": [
+    {
+      "img": "122S.gif",
+      "txt": "C is next in the sequence"
+    }
+  ],
+  "prev": {
+    "num": "121",
+    "name": "Diamond in the Flag"
+  },
+  "next": {
+    "num": "123",
+    "name": "Tons of Triangles"
+  }
+}

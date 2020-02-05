@@ -1,0 +1,22 @@
+{
+  "num": "017",
+  "title": "The Ant's Journey",
+  "a-title": "The Worker Ant",
+  "steps": [
+    "Examine the sugar bowl"
+  ],
+  "solution": [
+    {
+      "img": "017S.png",
+      "txt": "Reverse Bottom Key"
+    }
+  ],
+  "prev": {
+    "num": "005",
+    "name": "Luke's Trunk"
+  },
+  "next": {
+    "num": "024",
+    "name": "A Strip of Paper"
+  }
+}

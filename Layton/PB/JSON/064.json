@@ -1,0 +1,26 @@
+{
+  "num": "064",
+  "title": "Stones in a Vase",
+  "steps": [
+    "Walk upstairs",
+    "Walk downstairs",
+    "Leave Hotel",
+    "Walk Up",
+    "Enter door on left",
+    "Speak to Dawson"
+  ],
+  "solution": [
+    {
+      "img": "064S.png",
+      "txt": "You should remove 100 stones"
+    }
+  ],
+  "prev": {
+    "num": "111",
+    "name": "How Many Turns?"
+  },
+  "next": {
+    "num": "071",
+    "name": "How Old Is She?"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "num": "099",
+  "title": "33333!",
+  "steps": [
+    "Walk Up",
+    [
+      "Window above Layton"
+    ],
+    {"mobile": "Check top window for Fruity Jelly Charm"},
+    "Examine left door"
+  ],
+  "solution": [
+    {
+      "img": "099S.gif",
+      "txt": "41286 - 7953 OR 41268 - 7935"
+    }
+  ],
+  "prev": {
+    "num": "098",
+    "name": "Card Order"
+  },
+  "next": {
+    "num": "100",
+    "name": "Seven Squares"
+  }
+}

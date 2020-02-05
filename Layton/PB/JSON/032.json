@@ -1,0 +1,34 @@
+{
+  "num": "032",
+  "title": "It's a Wrap",
+  "steps": [
+    "Open Tea Set",
+    {
+      "img": "Tea01.png",
+      "txt": "Brew Belle/Citrus Classic <i>(Oasis Leaf, Brisk Berry, Belle Tart/Citronia Seed)</i>"
+    },
+    {
+      "img": "Tea02.png",
+      "txt": "Brew Oasis Berry <i>(Oasis Leaf, Brisk Berry, Brisk Berry)</i>"
+    },
+    "Open and close Trunk until Tea Set is flashing HELP",
+    "Serve Tea 01 to Layton",
+    "Open and close Trunk until Tea Set is flashing HELP",
+    "Serve Tea 02 to Luke",
+    "Talk to Laura"
+  ],
+  "solution": [
+    {
+      "img": "032S.png",
+      "txt": "Use Wrap C"
+    }
+  ],
+  "prev": {
+    "num": "036",
+    "name": "The Trapped Bind"
+  },
+  "next": {
+    "num": "034",
+    "name": "Trees on an Old Road"
+  }
+}

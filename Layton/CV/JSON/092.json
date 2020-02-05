@@ -1,0 +1,32 @@
+{
+  "num": "092",
+  "title": "Wash Up",
+  "steps": [
+    "Give Bone China Teacup to Layton",
+    "Walk Up",
+    "Walk Right",
+    "Walk Up",
+    "Walk Left",
+    "Walk Left",
+    "Walk Down",
+    "Walk Down",
+    "Walk Down",
+    "Go down manhole",
+    "Walk Right",
+    "Talk to Sylvain"
+  ],
+  "solution": [
+    {
+      "img": "092S.gif",
+      "txt": "Open the valves as shown"
+    }
+  ],
+  "prev": {
+    "num": "091",
+    "name": "Pattern Matching"
+  },
+  "next": {
+    "num": "093",
+    "name": "Over the River"
+  }
+}

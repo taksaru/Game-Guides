@@ -1,0 +1,21 @@
+{
+  "num": "025",
+  "title": "Equilateral Triangle",
+  "steps": [
+    "Talk to Flick"
+  ],
+  "solution": [
+    {
+      "img": "025S.gif",
+      "txt": "Move corner coins to reverse the triangle"
+    }
+  ],
+  "prev": {
+    "num": "023",
+    "name": "Juice Pitchers"
+  },
+  "next": {
+    "num": "026",
+    "name": "Bottle Full of Germs"
+  }
+}

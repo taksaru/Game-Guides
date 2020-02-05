@@ -1,0 +1,24 @@
+{
+  "num": "034",
+  "title": "How Many Sheets?",
+  "steps": [
+    "Give the Pine Bed to Layton",
+    "Walk Left",
+    "Talk to Percy",
+    "Talk to Percy Again"
+  ],
+  "solution": [
+    {
+      "img": "034S.gif",
+      "txt": "There's 5 overlapping sheets"
+    }
+  ],
+  "prev": {
+    "num": "033",
+    "name": "Light Which One?"
+  },
+  "next": {
+    "num": "058",
+    "name": "Get the Ball Out! 1"
+  }
+}

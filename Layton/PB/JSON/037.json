@@ -1,0 +1,27 @@
+{
+  "num": "037",
+  "title": "World's Best Golfer",
+  "steps": [
+    "Walk Left",
+    "Walk Left",
+    [
+      "Middle of Wide Mountains",
+      "Rock left of Kostya"
+    ],
+    "Talk to Kostya"
+  ],
+  "solution": [
+    {
+      "img": "037S.png",
+      "txt": "He only needs 2 strokes"
+    }
+  ],
+  "prev": {
+    "num": "034",
+    "name": "Trees on an Old Road"
+  },
+  "next": {
+    "num": "053",
+    "name": "Boys Club"
+  }
+}

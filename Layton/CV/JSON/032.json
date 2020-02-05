@@ -1,0 +1,23 @@
+{
+  "num": "032",
+  "title": "Sweet Jars",
+  "a-title": "Candy Jars",
+  "steps": [
+    "Enter door on left",
+    "Examine candy jar on counter"
+  ],
+  "solution": [
+    {
+      "img": "032S.gif",
+      "txt": "It's a 100% chance"
+    }
+  ],
+  "prev": {
+    "num": "031",
+    "name": "Racetrack Riddle"
+  },
+  "next": {
+    "num": "033",
+    "name": "Light Which One?"
+  }
+}

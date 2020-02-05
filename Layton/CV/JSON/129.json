@@ -1,0 +1,129 @@
+{
+  "num": "129",
+  "title": "Four Balls",
+  "steps": [
+    "The Art Lover's House"
+  ],
+  "solution": [
+    {
+      "img": "128S01.gif",
+      "txt": "Right green block up (ignore on EU version)"
+    },
+    {
+      "img": "128S02.gif",
+      "txt": "Bottom blue block right"
+    },
+    {
+      "img": "128S03.gif",
+      "txt": "Red ball up and right"
+    },
+    {
+      "img": "128S04.gif",
+      "txt": "Left green block down"
+    },
+    {
+      "img": "128S05.gif",
+      "txt": "Blue ball right and down"
+    },
+    {
+      "img": "128S06.gif",
+      "txt": "Top blue block left"
+    },
+    {
+      "img": "128S07.gif",
+      "txt": "Green ball down and left"
+    },
+    {
+      "img": "128S08.gif",
+      "txt": "Right green block up"
+    },
+    {
+      "img": "128S09.gif",
+      "txt": "Yellow block right"
+    },
+    {
+      "img": "128S10.gif",
+      "txt": "Green ball down and left"
+    },
+    {
+      "img": "128S11.gif",
+      "txt": "Red ball up and right"
+    },
+    {
+      "img": "128S12.gif",
+      "txt": "Yellow block left"
+    },
+    {
+      "img": "128S13.gif",
+      "txt": "Right green block down"
+    },
+    {
+      "img": "128S14.gif",
+      "txt": "Red ball right and up"
+    },
+    {
+      "img": "128S15.gif",
+      "txt": "Yellow block up"
+    },
+    {
+      "img": "128S16.gif",
+      "txt": "Right green block up"
+    },
+    {
+      "img": "128S17.gif",
+      "txt": "Blue ball right and down"
+    },
+    {
+      "img": "128S18.gif",
+      "txt": "Bottom blue block up and left one space"
+    },
+    {
+      "img": "128S19.gif",
+      "txt": "Yellow ball left and up"
+    },
+    {
+      "img": "128S20.gif",
+      "txt": "Blue ball right"
+    },
+    {
+      "img": "128S21.gif",
+      "txt": "Bottom blue block down and right"
+    },
+    {
+      "img": "128S22.gif",
+      "txt": "Green ball right and down"
+    },
+    {
+      "img": "128S23.gif",
+      "txt": "Yellow ball left and up"
+    },
+    {
+      "img": "128S24.gif",
+      "txt": "Yellow block down"
+    },
+    {
+      "img": "128S25.gif",
+      "txt": "Top blue block right"
+    },
+    {
+      "img": "128S26.gif",
+      "txt": "Yellow ball up and left"
+    },
+    {
+      "img": "128S27.gif",
+      "txt": "Left green block up"
+    },
+    {
+      "img": "128S28.gif",
+      "txt": "Green ball left and down"
+    }
+  ],
+  "prev": {
+    "num": "128",
+    "name": "Number Lock"
+  },
+  "next": {
+    "num": "130",
+    "name": "Too Many Queens 5"
+  }
+}

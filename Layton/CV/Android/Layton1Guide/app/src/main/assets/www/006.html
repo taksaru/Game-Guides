@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 006</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Walk right</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Window right of brown door</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Save at right window</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Sign on left</label></li>
+        </ul></li>
+        <li>Talk to Marco</li>
+      </ul>
+    </div>
+    <h1>006 - Light Weight</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/006H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/006H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/006H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+<section><h1>Weigh 1</h1><img src="images/006S1.gif" onclick="bigMe(this)"/><p>Weigh 123 and 456</p><ul><li>If even go to Weigh 2a</li><li>If left is lighter go to Weigh 2b</li><li>If right is lighter go to Weigh 2c</li></ul></section><section><h1>Weigh 2a</h1><img src="images/006S2a.gif" onclick="bigMe(this)"/><p>Weigh 7 and 8 to find lightest</p></section><section><h1>Weigh 2b</h1><img src="images/006S2b.gif" onclick="bigMe(this)"/><p>Weigh 1 and 2 to find lightest, if even 3 is lightest</p></section><section><h1>Weigh 2c</h1><img src="images/006S2c.gif" onclick="bigMe(this)"/><p>Weigh 4 and 5 to find lightest, if even 6 is lightest</p></section>    </div>
+  </body>
+  <footer>
+    <p class="prev eu">Prev: <u onclick="changePage('005')">Clock Hands</u></p>
+    <p class="prev us">Prev: <u onclick="changePage('005')">Digital Digits</u></p>
+    <p class="next">Next: <u onclick="changePage('007')">Wolves and Chicks</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

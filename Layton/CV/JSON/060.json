@@ -1,0 +1,36 @@
+{
+  "num": "060",
+  "title": "Weighing Cats",
+  "steps": [
+    "Enter left door",
+    [
+      "Bottle of left shelf behind counter"
+    ],
+    {"mobile": "Check poster for Kat's Trusty Teapot"},
+    "Leave the General Store",
+    "Go Up",
+    [
+      "Bottom left bush"
+    ],
+    "Go Up",
+    [
+      "Brown bush left of mansion"
+    ],
+    {"mobile": "Check small window for Petaline Pendant Charm"},
+    "Look at Claudia"
+  ],
+  "solution": [
+    {
+      "img": "060S.gif",
+      "txt": "The scale will tip left"
+    }
+  ],
+  "prev": {
+    "num": "059",
+    "name": "The Longest Path"
+  },
+  "next": {
+    "num": "061",
+    "name": "Pin Board Shapes"
+  }
+}

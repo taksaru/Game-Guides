@@ -1,0 +1,30 @@
+{
+  "num": "089",
+  "title": "In A Hole",
+  "steps": [
+    "Walk Up",
+    "Walk Left",
+    "Enter \"shed\"",
+    [
+      "Bucket",
+      "Bottom right moss stone",
+      "Tile Stone on right",
+      "Stone above tablet"
+    ],
+    "Examine stone tablet"
+  ],
+  "solution": [
+    {
+      "img": "089S.gif",
+      "txt": "Loosely trace the arrow"
+    }
+  ],
+  "prev": {
+    "num": "116",
+    "name": "The Largest Total"
+  },
+  "next": {
+    "num": "090",
+    "name": "Get the Ball Out! 2"
+  }
+}

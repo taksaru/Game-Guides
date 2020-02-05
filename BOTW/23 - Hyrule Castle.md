@@ -67,20 +67,20 @@
 
 ![DP9](images/DP9.PNG)
 
-* Recovered Memory 12 (17/18)
+* Recovered Memory 12 - Father and Daugher (17/18)
   * Drop Travel Medallion
   * Warp to Ta'loh Naeg Shrine
   * Speak to Impa
   * Warp to Ha Dahamar Shrine
   * Korok 888: Rock atop tree SE of Stable to N
   * Korok 889: Pinwheel shooting to E
-  * Recovered Memory 17 to NW (18/18)
+  * Recovered Memory 17 - Zelda's Awakening to NW (18/18)
   * Warp back to castle
 
 ![Castle4](images/Castle4.PNG)
 
 * Korok 890: Fairylight atop spire atop Princess Zelda's Study
-* Take Inside passage below Zelda's Study
+* Take passage below Zelda's Study inside
 * Clear out Malice and follow path outside
 * Glide back towards First Gatehouse
 * Take Wall around malice to S

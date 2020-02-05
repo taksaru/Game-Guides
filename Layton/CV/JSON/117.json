@@ -1,0 +1,27 @@
+{
+  "num": "117",
+  "title": "Painting a Cube",
+  "steps": [
+    "Examine Right Window"
+  ],
+  "solution": [
+    {
+      "img": "117S.gif",
+      "txt": "There's only 1 way to paint the cube"
+    }
+  ],
+  "prev": {
+    "num": "102",
+    "name": "Aces and the Joker"
+  },
+  "next": [
+    {
+      "num": "076",
+      "name": "Flower Garden"
+    },
+    {
+      "num": "076",
+      "name": "A Tile Square"
+    }
+  ]
+}

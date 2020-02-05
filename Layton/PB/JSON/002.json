@@ -1,0 +1,26 @@
+{
+  "num": "001",
+  "title": "Dr. Schrader's Map",
+  "steps": [
+  ],
+  "solution": [
+    {
+      "img": "001S.png",
+      "txt": "The doctor's aparment is the top left window"
+    }
+  ],
+  "prev": {
+    "num": "001",
+    "name": "Dr Schrader's Map"
+  },
+  "next": [
+    {
+      "num": "003",
+      "name": "Which Key?"
+    },
+    {
+      "num": "003",
+      "name": "The Right Key"
+    }
+  ]
+}

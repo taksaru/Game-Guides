@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 046</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Walk Right</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Window above clock</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Right barrel</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Right Chimney</label></li>
+          <li><input type="checkbox" id="hc3"/><label for="hc3">Roof right of Clock Tower</label></li>
+        </ul></li>
+        <li class="mobile">Check lit window above door for Silvery Solitair Charm</li>
+        <li>Talk to Gerard</li>
+        <li>Walk Left</li>
+        <li>Walk Up</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc4"/><label for="hc4">Check left edge of broom</label></li>
+          <li><input type="checkbox" id="hc5"/><label for="hc5">Top of right pillar</label></li>
+          <li><input type="checkbox" id="hc6"/><label for="hc6">V shaped stone on right wall</label></li>
+        </ul></li>
+        <li>Talk to Deke</li>
+      </ul>
+    </div>
+    <h1>046 - The Biggest Star</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/046H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/046H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/046H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/046S.gif" onclick="bigMe(this)"/>
+        <p>There are 12 triangles</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('045')">Lunar Weight</u></p>
+    <p class="next">Next: <u onclick="changePage('113')">Pet Menagerie</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

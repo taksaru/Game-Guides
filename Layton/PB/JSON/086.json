@@ -1,0 +1,35 @@
+{
+  "num": "086",
+  "title": "Perplexing Figures",
+  "steps": [
+    "Walk Up",
+    [
+      "Light at back right",
+      "End of pipe on left",
+      "Bottom of pipe on right"
+    ],
+    "Speak to Dylan/Dogey",
+    "Enter door",
+    "Examine Photo scrap",
+    [
+      "Left vase",
+      "Bench on right",
+      "Jar at end of right shelf"
+    ],
+    "Examine left window"
+  ],
+  "solution": [
+    {
+      "img": "086S.gif",
+      "txt": "Draw the figure shown"
+    }
+  ],
+  "prev": {
+    "num": "024",
+    "name": "UFOs Spotted"
+  },
+  "next": {
+    "num": "112",
+    "name": "Turn On the Light"
+  }
+}

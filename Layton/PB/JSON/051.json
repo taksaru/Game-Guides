@@ -1,0 +1,37 @@
+{
+  "num": "051",
+  "title": "Crazy Cats",
+  "a-title": "Flipped Cats"
+  "steps": [
+    "Walk Left",
+    "Walk Up",
+    "Walk Left",
+    [
+      "Red Sign",
+      "Under Sandwich board"
+    ],
+    "Talk to Parcelle",
+    "Enter the door on the left",
+    [
+      "Green bell in top left",
+      "Left container on desk",
+      "Basket on right"
+    ],
+    "Talk to Dorothea",
+    "Examin Cat sculpture"
+  ],
+  "solution": [
+    {
+      "img": "051S.png",
+      "txt": "B is a match"
+    }
+  ],
+  "prev": {
+    "num": "052",
+    "name": "Hat Weather"
+  },
+  "next": {
+    "num": "045",
+    "name": "Baggage Claim"
+  }
+}

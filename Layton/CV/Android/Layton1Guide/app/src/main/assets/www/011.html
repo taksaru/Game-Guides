@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 011</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Go upstairs</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Left edge of rug</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Vase beside window</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Picture above Simon</label></li>
+        </ul></li>
+        <li>Talk to Simon</li>
+      </ul>
+    </div>
+    <h1>011 - Arc and Line</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/011H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/011H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/011H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/011S.gif" onclick="bigMe(this)"/>
+        <p>It's 10 long</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev eu">Prev: <u onclick="changePage('010')">Four Digits</u></p>
+    <p class="prev us">Prev: <u onclick="changePage('010')">Alphabet</u></p>
+    <p class="next">Next: <u onclick="changePage('110')">The Vanishing Cube</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

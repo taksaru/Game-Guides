@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 106</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Examine the lowest bottle on the right</li>
+      </ul>
+    </div>
+    <h1>106 - How Many Glasses</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/106H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/106H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/106H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/106S.gif" onclick="bigMe(this)"/>
+        <p>You only need to pick up 1 cup</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('051')">The Town Barbers</u></p>
+    <p class="next">Next: <u onclick="changePage('053')">Fish Thief</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

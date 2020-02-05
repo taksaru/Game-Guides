@@ -1,0 +1,33 @@
+{
+  "num": "038",
+  "title": "Island Hopping",
+  "steps": [
+    "Walk Up",
+    [
+      "Lamp beside door",
+      "Washing on left",
+      "Bottom left bush"
+    ],
+    "Talk to Zappone"
+  ],
+  "solution": [
+    {
+      "img": "038S.png",
+      "txt": "Draw the bridge above"
+    }
+  ],
+  "prev": [
+    {
+      "num": "020",
+      "name": "Worm in the Apple"
+    },
+    {
+      "num": "107",
+      "name": "A Worm's Dream"
+    }
+  ],
+  "next": {
+    "num": "039",
+    "name": "One-Line Puzzle 2"
+  }
+}

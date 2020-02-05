@@ -1,0 +1,24 @@
+{
+  "num": "017",
+  "title": "Five-Card Shuffle",
+  "steps": [
+    "Leave Town Hall",
+    "Try go left",
+    "Walk down",
+    "Talk to Stachenscarfen"
+  ],
+  "solution": [
+    {
+      "img": "017S.gif",
+      "txt": "Picture D is the odd one out"
+    }
+  ],
+  "prev": {
+    "num": "118",
+    "name": "Red and Black Cards"
+  },
+  "next": {
+    "num": "018",
+    "name": "Of Dust and Dustpan"
+  }
+}

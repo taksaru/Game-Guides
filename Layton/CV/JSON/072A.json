@@ -1,0 +1,42 @@
+{
+  "num": "072A",
+  "title": "The Sound of Silence",
+  "steps": [
+    "Examine Desk",
+    [
+      "Bottom of Left Leg",
+      "Right desk corner",
+      "Box left of hourglass"
+    ],
+    {"mobile": "Check Bottom Left Corner for Kat's Magnifying Glass Charm"},
+    "Open Right Desk Drawer",
+    "Leave Archibald's",
+    "Walk Down",
+    "Walk Down",
+    "Walk Down",
+    [
+      "Path in front of Laytonmobile"
+    ],
+    {"mobile": "Check Window below chimney for Double-Decker Bus Charm"},
+    "Walk Right",
+    "Enter Inn",
+    "Talk to Beatrice",
+    "Leave Inn",
+    "Walk Up",
+    "Talk to Percy"
+  ],
+  "solution": [
+    {
+      "img": "072AS.gif",
+      "txt": "Rest lacks a silent letter"
+    }
+  ],
+  "prev": {
+    "num": "108",
+    "name": "Not Knots"
+  },
+  "next": {
+    "num": "073",
+    "name": "How Many Squares?"
+  }
+}

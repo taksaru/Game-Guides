@@ -1,0 +1,23 @@
+{
+  "num": "069",
+  "title": "Copying the Menu",
+  "steps": [
+    "Walk down",
+    "Walk right",
+    "Speak to Felix"
+  ],
+  "solution": [
+    {
+      "img": "069S.png",
+      "txt": "Only 3 passes are needed"
+    }
+  ],
+  "prev": {
+    "num": "071",
+    "name": "How Old Is She?"
+  },
+  "next": {
+    "num": "096",
+    "name": "A Ghostly Puzzle"
+  }
+}

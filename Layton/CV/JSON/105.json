@@ -1,0 +1,28 @@
+{
+  "num": "105",
+  "title": "Wash Up",
+  "steps": [
+    "Give Baron Statue to Layton",
+    "Look at Inn in Trunk",
+    "Leave Prosciutto's",
+    "Walk Up",
+    "Walk Left",
+    "Walk Up",
+    "Walk Up",
+    "Talk to Martha"
+  ],
+  "solution": [
+    {
+      "img": "105S.gif",
+      "txt": "Odds are always 1/6"
+    }
+  ],
+  "prev": {
+    "num": "104",
+    "name": "A Sweet Treat"
+  },
+  "next": {
+    "num": "094",
+    "name": "Get the Ball Out! 4"
+  }
+}

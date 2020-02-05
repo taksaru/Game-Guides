@@ -1,0 +1,34 @@
+{
+  "num": "087",
+  "title": "Ferris Wheel Riddle",
+  "steps": [
+    "Walk Right",
+    [
+      "Right Box in left stand",
+      "Middle wheel support",
+      "Sign on left",
+      "Signpost on left"
+    ],
+    "Examine the Ferris Wheel"
+  ],
+  "solution": [
+    {
+      "img": "087S.gif",
+      "txt": "42 is the maximum"
+    }
+  ],
+  "prev": {
+    "num": "115",
+    "name": "Odd Box Out"
+  },
+  "next": [
+    {
+      "num": "088",
+      "name": "In A Hole"
+    },
+    {
+      "num": "088",
+      "name": "Leaky Tank"
+    }
+  ]
+}

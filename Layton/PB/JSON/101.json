@@ -1,0 +1,50 @@
+{
+  "num": "101",
+  "title": "Disappearing Act 1",
+  "steps": [
+    "Walk left and right until Duke is thirsty",
+    "Brew Tea 06 for Duke",
+    "Walk Left",
+    "Examine Photo scrap",
+    "Walk right and left until Lila is thirsty",
+    "Brew Tea 04 for Lila",
+    "Talk to Lila again",
+    "Walk Up",
+    "Examine Photo scrap",
+    "Walk Down",
+    "Walk Down",
+    "Examine Photo scrap",
+    "Walk down",
+    "Talk to Niles"
+  ],
+  "solution": [
+    {
+      "img": "101S01.png",
+      "txt": "Second from top middle ball left"
+    },
+    {
+      "img": "101S02.png",
+      "txt": "Bottom ball up"
+    },
+    {
+      "img": "101S03.png",
+      "txt": "Right ball left"
+    },
+    {
+      "img": "101S04.png",
+      "txt": "Left ball right"
+    },
+    {
+      "img": "101S05.png",
+      "txt": "Top ball down"
+    }
+  ],
+  "prev": {
+    "num": "112",
+    "name": "Turn On the Light"
+  },
+  "next": {
+    "num": "065",
+    "name": "The Ancient Map"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "num": "021",
+  "title": "Pass It On",
+  "steps": [
+    "Walk Down",
+    "Walk Down",
+    "Walk Down",
+    "Talk to Chester",
+    "Walk Down",
+    "Enter Middle door on left",
+    "Talk to Mitzi or Capone",
+    "Talk to Mitzi or Capone again"
+  ],
+  "solution": [
+    {
+      "img": "021S.png",
+      "txt": "It takes 3 minutes"
+    }
+  ],
+  "prev": {
+    "num": "025",
+    "name": "Suriviving in the Wild"
+  },
+  "next": [
+    {
+      "num": "015",
+      "name": "Tom's True Identity"
+    },
+    {
+      "num": "015",
+      "name": "Who Is Tom Really?"
+    }
+  ]
+}

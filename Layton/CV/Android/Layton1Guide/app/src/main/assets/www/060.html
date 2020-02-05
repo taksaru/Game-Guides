@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 060</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Enter left door</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Bottle of left shelf behind counter</label></li>
+        </ul></li>
+        <li class="mobile">Check poster for Kat's Trusty Teapot</li>
+        <li>Leave the General Store</li>
+        <li>Go Up</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Bottom left bush</label></li>
+        </ul></li>
+        <li>Go Up</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Brown bush left of mansion</label></li>
+        </ul></li>
+        <li class="mobile">Check small window for Petaline Pendant Charm</li>
+        <li>Look at Claudia</li>
+      </ul>
+    </div>
+    <h1>060 - Weighing Cats</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/060H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/060H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/060H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/060S.gif" onclick="bigMe(this)"/>
+        <p>The scale will tip left</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('059')">The Longest Path</u></p>
+    <p class="next">Next: <u onclick="changePage('061')">Pin Board Shapes</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

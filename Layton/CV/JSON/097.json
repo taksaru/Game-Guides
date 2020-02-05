@@ -1,0 +1,183 @@
+{
+  "num": "097",
+  "title": "Maiden's Escape",
+  "a-title": "Princess in a Box 1",
+  "steps": [
+    "Climb the Stairs",
+    [
+      "Hole at bottom of left wall"
+    ],
+    {"mobile": "Check candle for Natural Cologne Charm"},
+    "Examine Lock"
+  ],
+  "solution": [
+    {
+      "img": "097S01.gif",
+      "txt": "Move top green block right of purple block right"
+    },
+    {
+      "img": "097S02.gif",
+      "txt": "Move green block right of purple block right"
+    },
+    {
+      "img": "097S03.gif",
+      "txt": "Move purple block right"
+    },
+    {
+      "img": "097S04.gif",
+      "txt": "Move bottom left green block up"
+    },
+    {
+      "img": "097S05.gif",
+      "txt": "Move green block under purple block left and up"
+    },
+    {
+      "img": "097S06.gif",
+      "txt": "Move bottom blue block right"
+    },
+    {
+      "img": "097S07.gif",
+      "txt": "Move red block down"
+    },
+    {
+      "img": "097S08.gif",
+      "txt": "Move top green block left of purple block left"
+    },
+    {
+      "img": "097S09.gif",
+      "txt": "Move green block right of top red block up and left"
+    },
+    {
+      "img": "097S10.gif",
+      "txt": "Move green block right of top blue block down one space"
+    },
+    {
+      "img": "097S11.gif",
+      "txt": "Move green block above purple left"
+    },
+    {
+      "img": "097S12.gif",
+      "txt": "Move purple block up"
+    },
+    {
+      "img": "097S13.gif",
+      "txt": "Move blue block up"
+    },
+    {
+      "img": "097S14.gif",
+      "txt": "Move bottom right green block left one space"
+    },
+    {
+      "img": "097S15.gif",
+      "txt": "Move green block right of bottom blue block down"
+    },
+    {
+      "img": "097S16.gif",
+      "txt": "Move bottom blue block right"
+    },
+    {
+      "img": "097S17.gif",
+      "txt": "Move red block right"
+    },
+    {
+      "img": "097S18.gif",
+      "txt": "Move leftmost green block down"
+    },
+    {
+      "img": "097S19.gif",
+      "txt": "Move left green block above red block left and down"
+    },
+    {
+      "img": "097S20.gif",
+      "txt": "Move left blue block down"
+    },
+    {
+      "img": "097S21.gif",
+      "txt": "Move top green block left of purple block left"
+    },
+    {
+      "img": "097S22.gif",
+      "txt": "Move green block above red block up and left"
+    },
+    {
+      "img": "097S23.gif",
+      "txt": "Move purple block left"
+    },
+    {
+      "img": "097S24.gif",
+      "txt": "Move green block above blue block left and up"
+    },
+    {
+      "img": "097S25.gif",
+      "txt": "Move right blue block up"
+    },
+    {
+      "img": "097S26.gif",
+      "txt": "Move green block right of red block up and right"
+    },
+    {
+      "img": "097S27.gif",
+      "txt": "Move red block right"
+    },
+    {
+      "img": "097S28.gif",
+      "txt": "Move green block below left blue block right and down"
+    },
+    {
+      "img": "097S29.gif",
+      "txt": "Move left blue block down"
+    },
+    {
+      "img": "097S30.gif",
+      "txt": "Move green block left of purple block down and left"
+    },
+    {
+      "img": "097S31.gif",
+      "txt": "Move purple block left"
+    },
+    {
+      "img": "097S32.gif",
+      "txt": "Move left green block above of red block left and down"
+    },
+    {
+      "img": "097S33.gif",
+      "txt": "Move top right green block left"
+    },
+    {
+      "img": "097S34.gif",
+      "txt": "Move right blue block up"
+    },
+    {
+      "img": "097S35.gif",
+      "txt": "Move green block above red block right"
+    },
+    {
+      "img": "097S36.gif",
+      "txt": "Move red block up"
+    },
+    {
+      "img": "097S37.gif",
+      "txt": "Move bottom right green blockleft"
+    },
+    {
+      "img": "097S38.gif",
+      "txt": "Move bottom right green block down and left"
+    },
+    {
+      "img": "097S39.gif",
+      "txt": "Move rightmost green block down"
+    },
+    {
+      "img": "097S40.gif",
+      "txt": "Move red block out"
+    }
+  ],
+  "prev": {
+    "num": "096",
+    "name": "On the Stairs"
+  },
+  "next": {
+    "num": "098",
+    "name": "Card Order"
+  }
+}

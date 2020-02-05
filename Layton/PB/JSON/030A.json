@@ -1,0 +1,21 @@
+{
+  "num": "030A",
+  "title": "The Secret Message",
+  "steps": [
+    "Examine Monument on the right"
+  ],
+  "solution": [
+    {
+      "img": "030AS.png",
+      "txt": "BED"
+    }
+  ],
+  "prev": {
+    "num": "053",
+    "name": "Boys Club"
+  },
+  "next": {
+    "num": "047",
+    "name": "Mayoral Election"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "num": "056",
+  "title": "The Door's Code",
+  "steps": [
+    "Leave the room",
+    "Enter door at end of car",
+    "Enter door at end of car",
+    "Talk to Chester",
+    "Enter left door at end of car",
+    "Talk to Macaroon",
+    "Leave Kitchen",
+    "Enter right door at end of car",
+    "Enter door at end of car",
+    "Enter door at end of car",
+    "Talk to Hank/Steve",
+    "Walk down",
+    "Walk down",
+    "Talk to Conrad",
+    "Walk down",
+    "Walk down",
+    "Enter middle door",
+    "Talk to Marjorie",
+    "Leave room",
+    "Walk down",
+    "Walk down"
+  ],
+  "solution": [
+    {
+      "img": "056S.png",
+      "txt": "Circle, X, diamond, star, moon"
+    }
+  ],
+  "prev": {
+    "num": "055",
+    "name": "Sammy's Necklace"
+  },
+  "next": {
+    "num": "057",
+    "name": "Smell the Roses"
+  }
+}

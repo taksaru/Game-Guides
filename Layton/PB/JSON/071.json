@@ -1,0 +1,24 @@
+{
+  "num": "071",
+  "title": "How Old Is She?",
+  "steps": [
+    "Leave the shop",
+    "Walk Up",
+    "Walk Left",
+    "Speak to Vera/Ilyana"
+  ],
+  "solution": [
+    {
+      "img": "071S.png",
+      "txt": "She's 15"
+    }
+  ],
+  "prev": {
+    "num": "064",
+    "name": "Stones in a Vase"
+  },
+  "next": {
+    "num": "069",
+    "name": "Copying the Menu"
+  }
+}

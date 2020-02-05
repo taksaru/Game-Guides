@@ -1,0 +1,27 @@
+{
+  "num": "134",
+  "title": "Land Disputes",
+  "steps": [
+    "The Puzzle Master's House"
+  ],
+  "solution": [
+    {
+      "img": "134S.gif",
+      "txt": "Divide Property as shown"
+    }
+  ],
+  "prev": {
+    "num": "133",
+    "name": "Finish the Equation"
+  },
+  "next": [
+    {
+      "num": "135",
+      "name": "Queen's Escape"
+    },
+    {
+      "num": "135",
+      "name": "Royal Escape"
+    }
+  ]
+}

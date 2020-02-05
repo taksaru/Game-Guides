@@ -1,0 +1,28 @@
+{
+  "num": "013",
+  "title": "Sinking Ship",
+  "steps": [
+    "Talk to Dahlia or Matthew",
+    "Walk downstairs",
+    "Talk to Matthew",
+    "Leave the Manor",
+    "Try to pick up Claudia",
+    "Walk down to the stream",
+    "Talk to Ramon",
+    "Check out the boat"
+  ],
+  "solution": [
+    {
+      "img": "013S.gif",
+      "txt": "13 people will survive"
+    }
+  ],
+  "prev": {
+    "num": "110",
+    "name": "The Vanishing Cube"
+  },
+  "next": {
+    "num": "014",
+    "name": "Which Chair?"
+  }
+}

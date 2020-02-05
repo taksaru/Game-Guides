@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Layton 1 Guide'

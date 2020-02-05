@@ -1,0 +1,21 @@
+{
+  "num": "111A",
+  "title": "Mystery Item (US)",
+  "steps": [
+    "Look at the sign above the barrel"
+  ],
+  "solution": [
+    {
+      "img": "111AS.gif",
+      "txt": "Move one match down to create a capital F"
+    }
+  ],
+  "prev": {
+    "num": "022",
+    "name": "Pigpen Partitions"
+  },
+  "next": {
+    "num": "023",
+    "name": "Juice Pitchers"
+  }
+}

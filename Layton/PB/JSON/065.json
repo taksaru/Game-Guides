@@ -1,0 +1,26 @@
+{
+  "num": "065",
+  "title": "The Ancient Map",
+  "steps": [
+    "Walk Down",
+    "Talk to Joanie",
+    "Enter shop on left",
+    "Leave and re-enter until Dawson is thirsty",
+    "Brew Tea 10 for Dawson",
+    "Speak to Dawson"
+  ],
+  "solution": [
+    {
+      "img": "065S.png",
+      "txt": "Treasure is hidden in the middle"
+    }
+  ],
+  "prev": {
+    "num": "101",
+    "name": "Disappearing Act 1"
+  },
+  "next": {
+    "num": "073",
+    "name": "Can Conundrum"
+  }
+}

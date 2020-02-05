@@ -1,0 +1,39 @@
+{
+  "num": "024",
+  "title": "A Strip of Paper"
+  "steps": [
+    "Leave the room",
+    [
+      "Top of left beam",
+      "Middle light",
+      "Talk to Lili",
+      "Talk to Lili again"
+    ]
+  ],
+  "solution": [
+    {
+      "img": "024S.png",
+      "txt": "10"
+    }
+  ],
+  "prev": [
+    {
+      "num": "017",
+      "name": "The Ant's Journey"
+    },
+    {
+      "num": "017",
+      "name": "The Worker Ant"
+    }
+  ],
+  "next": [
+    {
+      "num": "023",
+      "name": "A Sour Defeat"
+    },
+    {
+      "num": "023",
+      "name": "Pitchers and Poison"
+    }
+  ]
+}

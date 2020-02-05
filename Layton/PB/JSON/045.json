@@ -1,0 +1,111 @@
+{
+  "num": "045",
+  "title": "Baggage Claim",
+  "steps": [
+    "Leave the store",
+    "Walk Up",
+    [
+      "Left chimney",
+      "Bottom left stone"
+    ],
+    "Talk to Romie"
+  ],
+  "solution": [
+    {
+      "img": "045S01.png",
+      "txt": "Top left green block up"
+    },
+    {
+      "img": "045S02.png",
+      "txt": "Bottom left green block up"
+    },
+    {
+      "img": "045S03.png",
+      "txt": "Left red block left"
+    },
+    {
+      "img": "045S04.png",
+      "txt": "Right red block left"
+    },
+    {
+      "img": "045S05.png",
+      "txt": "Right green block down"
+    },
+    {
+      "img": "045S06.png",
+      "txt": "Yellow block right"
+    },
+    {
+      "img": "045S07.png",
+      "txt": "Blue block right"
+    },
+    {
+      "img": "045S08.png",
+      "txt": "Bottom left green block right and up"
+    },
+    {
+      "img": "045S09.png",
+      "txt": "Left red block up"
+    },
+    {
+      "img": "045S10.png",
+      "txt": "Right red block left"
+    },
+    {
+      "img": "045S11.png",
+      "txt": "Right green block left and down"
+    },
+    {
+      "img": "045S12.png",
+      "txt": "Blue block down and right"
+    },
+    {
+      "img": "045S13.png",
+      "txt": "Luggage down two spaces"
+    },
+    {
+      "img": "045S14.png",
+      "txt": "Top right green block right and up"
+    },
+    {
+      "img": "045S15.png",
+      "txt": "Left green block right"
+    },
+    {
+      "img": "045S16.png",
+      "txt": "Top red green block up"
+    },
+    {
+      "img": "045S17.png",
+      "txt": "Bottom red green block up"
+    },
+    {
+      "img": "045S18.png",
+      "txt": "Bottom green block up and left"
+    },
+    {
+      "img": "045S19.png",
+      "txt": "Move luggage out"
+    }
+  ],
+  "prev": [
+    {
+      "num": "051",
+      "name": "Crazy Cats"
+    },
+    {
+      "num": "051",
+      "name": "Flipped Cats"
+    }
+  ],
+  "next": [
+    {
+      "num": "038",
+      "name": "Four Horses"
+    },
+    {
+      "num": "038",
+      "name": "Moving Day"
+    }
+  ]
+}

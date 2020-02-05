@@ -1,0 +1,22 @@
+{
+  "num": "012",
+  "title": "Make a Rectangle",
+  "steps": [
+    "Leave Prosciutto's house",
+    "Talk to Gordon"
+  ],
+  "solution": [
+    {
+      "img": "012S.gif",
+      "txt": "Cut the paper to the shape shown"
+    }
+  ],
+  "prev": {
+    "num": "114",
+    "name": "Tetrahedron Trial"
+  },
+  "next": {
+    "num": "055",
+    "name": "The Odd Sandwich"
+  }
+}

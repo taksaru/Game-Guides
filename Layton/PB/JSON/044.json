@@ -1,0 +1,29 @@
+{
+  "num": "044",
+  "title": "Tangled Ropes",
+  "steps": [
+    "Walk Left",
+    "Talk to Inspector Chelmey",
+    "Talk to Remy"
+  ],
+  "solution": [
+    {
+      "img": "044S.png",
+      "txt": "No loops will be caught"
+    }
+  ],
+  "prev": {
+    "num": "033",
+    "name": "Fishing Nets"
+  },
+  "next": [
+    {
+      "num": "042",
+      "name": "Board Cutter 1"
+    },
+    {
+      "num": "042",
+      "name": "Board Splitter 1"
+    }
+  ]
+}

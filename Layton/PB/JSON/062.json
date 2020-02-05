@@ -1,0 +1,32 @@
+{
+  "num": "062",
+  "title": "Smell the Roses Again",
+  "steps": [
+    [
+      "Right Plant",
+      "Right Railing",
+      "Left Railing",
+      "Walk upstairs",
+      [
+        "Left lamp",
+        "Doorknob",
+        "Small bottles under mirror"
+      ],
+      "Examine flower vase on table"
+    ]
+  ],
+  "solution": [
+    {
+      "img": "062S.png",
+      "txt": "Place the roses as shown"
+    }
+  ],
+  "prev": {
+    "num": "061",
+    "name": "Where's the Hotel"
+  },
+  "next": {
+    "num": "089",
+    "name": "Flower Bed Fun"
+  }
+}

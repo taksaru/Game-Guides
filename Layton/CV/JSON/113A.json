@@ -1,0 +1,30 @@
+{
+  "num": "113A",
+  "title": "Pet Hotel",
+  "steps": [
+    "Give the Stuffed Bear to Luke",
+    "Walk Down",
+    "Walk Right",
+    "Walk Down",
+    [
+      "Inn Chimney",
+      "Bin beside right door",
+      "Sign outside Inn"
+    ],
+    "Examine Large Sign outside Inn"
+  ],
+  "solution": [
+    {
+      "img": "113AS.gif",
+      "txt": "Form the word Cat"
+    }
+  ],
+  "prev": {
+    "num": "046",
+    "name": "The Biggest Star"
+  },
+  "next": {
+    "num": "047",
+    "name": "On the Run"
+  }
+}

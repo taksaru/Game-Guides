@@ -1,0 +1,25 @@
+{
+  "num": "096",
+  "title": "On the Stairs",
+  "steps": [
+    "Climb the Stairs",
+    [
+      "Candle on right wall"
+    ],
+    "Talk to Pavel"
+  ],
+  "solution": [
+    {
+      "img": "096S.gif",
+      "txt": "Jim is D"
+    }
+  ],
+  "prev": {
+    "num": "095",
+    "name": "A Magic Square"
+  },
+  "next": {
+    "num": "097",
+    "name": "A Maiden's Escape 1"
+  }
+}

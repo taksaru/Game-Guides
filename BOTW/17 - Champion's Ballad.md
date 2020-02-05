@@ -1,6 +1,6 @@
 # Champion's Ballad
 
-## Great Plateau 
+## Great Plateau
 
 ![Plateau2](images/Plateau2.PNG)
 
@@ -8,7 +8,7 @@
 * Main Quest: EX Champions' Ballad
 * Yowaka Ita Shrine to NE in Forest of Spirits
 * Rohta Chigah Shrine to E just S of Plateau Tower
-* Rivo Korbah Shrinet to SW near cabin
+* Rivo Korbah Shrine to SW near cabin
 * Warp to Keh Namut Shrine
 * Etsu Korima Shrine to SE
 * Warp to Divine Beast Vah Naboris
@@ -92,9 +92,11 @@
 
 * Main Quest: EX Champion Daruk's Song to SW
 * Warp to Shora Hah Shrine
-* Take Cart to E shore and circle E to Igneo Talus Titan
+* Take Cart to E shore and circle E
+* Igneo Talus Titan
 * Kamia Omuna Shrine
-* Warp to Divine Beast Vah Rudania and follow rings to E
+* Warp to Divine Beast Vah Rudania
+* Follow rings to E
 * Sharo Lun Shrine
 * Shadow Hamlet Ruins to SE
 * Korok 611: Rock behind cracked boulder to SW
@@ -109,15 +111,14 @@
 
 ![Lanaryu12](images/Lanaryu12.PNG)
 
-* Main Quest: EX Champion Mipha's Song to NE across East Resevoir Lake
-* Warp to Kah Mael Shrine
-* Kee Dafunia Shrine to E between 5-6 am
+* Kee Dafunia Shrine to E at 5-6 am
 * Warp to Ne'ez Yohma Shrine
 * Take NE Waterfalls
 * Korok 612: Rock to NW
 * Sato Koda Shrine to SW
 * Warp to Ne'ez Yohma Shrine
-* Take E exit up waterfalls to Mah Eliya Shrine
+* Take E exit up waterfalls
+* Mah Eliya Shrine
 * Warp to Vah Ruta and complete Main Quest: EX Champion Mipha's Song
 * Return to Shrine of Resurrection and Complete Main Quest: EX Ballad of the Champions
 * Warp back to Mah Eliya Shrine

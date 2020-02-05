@@ -1,0 +1,22 @@
+{
+  "num": "038",
+  "title": "Four Horses",
+  "a-title": "Moving Day",
+  "steps": [
+    "Examine large field on left"
+  ],
+  "solution": [
+    {
+      "img": "038S.png",
+      "txt": "You can move all horses in 13 hours"
+    }
+  ],
+  "prev": {
+    "num": "045",
+    "name": "Baggage Claim"
+  },
+  "next": {
+    "num": "033",
+    "name": "Fishing Net"
+  }
+}

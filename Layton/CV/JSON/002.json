@@ -1,0 +1,27 @@
+{
+  "num": "002",
+  "title": "The Crank and Slot",
+  "steps": [
+    "Talk to Franco"
+  ],
+  "solution": [
+    {
+      "img": "002S.gif",
+      "txt": "Slot 1"
+    }
+  ],
+  "prev": [
+    {
+      "num": "001",
+      "name": "Where's the Village?"
+    },
+    {
+      "num": "001",
+      "name": "Where's the Town?"
+    }
+  ],
+  "next": {
+    "num": "003",
+    "name": "Strange Hats"
+  }
+}

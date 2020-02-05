@@ -1,0 +1,21 @@
+{
+  "num": "005A",
+  "title": "Digital Digits",
+  "steps": [
+    "Look at clock"
+  ],
+  "solution": [
+    {
+      "img": "005AS.gif",
+      "txt": "34 Times"
+    }
+  ],
+  "prev": {
+    "num": "004",
+    "name": "Where's My House?"
+  },
+  "next": {
+    "num": "006",
+    "name": "Light Weight"
+  }
+}

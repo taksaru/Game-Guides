@@ -1,0 +1,26 @@
+{
+  "num": "043",
+  "title": "Three Umbrellas",
+  "steps": [
+    "Walk Down",
+    "Talk to Zappone",
+    "Walk Down",
+    "Walk Down",
+    "Walk Up",
+    "Talk to Lucy"
+  ],
+  "solution": [
+    {
+      "img": "043S.gif",
+      "txt": "0% of only 2/3 having the correct umbrella"
+    }
+  ],
+  "prev": {
+    "num": "042",
+    "name": "The Camera and Case"
+  },
+  "next": {
+    "num": "044",
+    "name": "Stamp Stumper"
+  }
+}

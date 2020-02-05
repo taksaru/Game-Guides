@@ -1,0 +1,32 @@
+{
+  "num": "095",
+  "title": "A Magic Square",
+  "steps": [
+    "Climb stairs to left",
+    [
+      "Stone pile left of windows"
+    ],
+    {"mobile": "Mint Macaron Charm in lamp"},
+    "Examine Lock to left"
+  ],
+  "solution": [
+    {
+      "img": "095S.gif",
+      "txt": "Complete magic square as shown"
+    }
+  ],
+  "prev": {
+    "num": "094",
+    "name": "Get the Ball Out! 4"
+  },
+  "next": [
+    {
+      "num": "096",
+      "name": "On the Stairs"
+    },
+    {
+      "num": "096",
+      "name": "Take the Stairs"
+    }
+  ]
+}

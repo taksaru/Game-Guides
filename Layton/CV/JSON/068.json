@@ -1,0 +1,39 @@
+{
+  "num": "068",
+  "title": "Find the Pentagons",
+  "steps": [
+    "Walk Up",
+    [
+      "Bin on the right stairs"
+    ],
+    "Talk to Zappone",
+    {"mobile": "Check right stool in cafe for Perfect Pancake Charm"},
+    "Walk right",
+    "Pick up Paper Scrap",
+    [
+      "Roof dip on left"
+    ],
+    "Talk to Gerard",
+    "Talk to Gerard again"
+  ],
+  "solution": [
+    {
+      "img": "068S.gif",
+      "txt": "12 unique pentagons"
+    }
+  ],
+  "prev": [
+    {
+      "num": "067",
+      "name": "How Many Sweets"
+    },
+    {
+      "num": "067",
+      "name": "The Chocolate Code"
+    }
+  ],
+  "next": {
+    "num": "069",
+    "name": "Chocolate Puzzle"
+  }
+}

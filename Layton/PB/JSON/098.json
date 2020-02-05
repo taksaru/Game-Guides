@@ -1,0 +1,47 @@
+{
+  "num": "098",
+  "title": "Jars and Cans 1",
+  "steps": [
+    {
+      "img": "Tea09.png",
+      "txt": "Brew Radiance Blend <i>(Belle Tart/Citrona Seed, Dream Fluff, Joy Root Clover)</i>"
+    },
+    {
+      "img": "Tea10.png",
+      "txt": "Brew Cayenne Twilight <i>(Dream Fluff, Joy Root Clover, Peppercherry)</i>"
+    },
+    "Examine bottles in front of counter"
+  ],
+  "solution": [
+    {
+      "img": "098S01.png",
+      "txt": "Second and Third Items Right"
+    },
+    {
+      "img": "098S02.png",
+      "txt": "Second and Third Items Left"
+    },
+    {
+      "img": "098S03.png",
+      "txt": "Fifth and Sixth Items Right"
+    },
+    {
+      "img": "098S04.png",
+      "txt": "First and Second Items Left"
+    }
+  ],
+  "prev": [
+    {
+      "num": "074",
+      "name": "Sealing Off the Smell"
+    },
+    {
+      "num": "074",
+      "name": "PU"
+    }
+  ],
+  "next": {
+    "num": "113",
+    "name": "A Stack of Dice"
+  }
+}

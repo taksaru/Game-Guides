@@ -1,0 +1,38 @@
+{
+  "num": "068",
+  "title": "Hat Etiquette",
+  "a-title": "Hat Trick",
+  "steps": [
+    {
+      "img": "Tea05.png",
+      "txt": "Brew Cherry Boost <i>(Oasis Leaf, Peppercherry, Peppercherry)</i>"
+    },
+    {
+      "img": "Tea07.png",
+      "txt": "Brew Dream Spice <i>(Brisk Berry, Dream Fluff, Peppercherry)</i>"
+    },
+    "Walk Right",
+    [
+      "Under restaurant window",
+      "Bottom right Photo Studio window",
+      "Photo Studio bin"
+    ],
+    "Walk left and back until Felix is thirsty",
+    "Server Tea 07 to Felix",
+    "Talk to Felix"
+  ],
+  "solution": [
+    {
+      "img": "068S.png",
+      "txt": "Roughly trace the hidden hat"
+    }
+  ],
+  "prev": {
+    "num": "000",
+    "name": ""
+  },
+  "next": {
+    "num": "000",
+    "name": ""
+  }
+}

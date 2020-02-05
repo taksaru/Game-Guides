@@ -1,0 +1,39 @@
+{
+  "num": "090",
+  "title": "The Unusual Fountain",
+  "steps": [
+    {
+      "img": "Tea03.png",
+      "txt": "Brew Sugar Smoke <i>(Oasis Leaf, Citronia/Belle Tart Seed, Cinder Horse)</i>"
+    },
+    {
+      "img": "Tea08.png",
+      "txt": "Brew Clover Quencher <i>(Brisk Berry, Joy Root Clover, Cinder Horse)</i>"
+    },
+    {
+      "img": "Tea11.png",
+      "txt": "Brew Cinder Flower <i>(Dream Fluff, Tonic Flower, Cinder Horse)</i>"
+    },
+    {
+      "img": "Tea12.png",
+      "txt": "Brew The Layton Elixir <i>(Joy Root Clover, Peppercherry, Cinder Horse)</i>"
+    },
+    "Walk Right",
+    "Enter Museum",
+    "Examine Fountain"
+  ],
+  "solution": [
+    {
+      "img": "090S.png",
+      "txt": "J is useless"
+    }
+  ],
+  "prev": {
+    "num": "109",
+    "name": "Walking the Dog"
+  },
+  "next": {
+    "num": "107",
+    "name": "The Knight's Tour"
+  }
+}

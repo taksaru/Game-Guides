@@ -1,0 +1,31 @@
+{
+  "num": "073",
+  "title": "Can Conundrum",
+  "steps": [
+    "Leave store",
+    "Walk Down",
+    "Examine Photo scrap",
+    "Walk down",
+    "Speak to Rory",
+    "Walk Up",
+    "Walk Up",
+    "Walk Up",
+    "Walk Up and Down until Niles is thirsty",
+    "Brew Tea 09 for Niles",
+    "Speak to Niles"
+  ],
+  "solution": [
+    {
+      "img": "073S.png",
+      "txt": "A is filled with water"
+    }
+  ],
+  "prev": {
+    "num": "065",
+    "name": "The Ancient Map"
+  },
+  "next": {
+    "num": "116",
+    "name": "The Torn Photo"
+  }
+}

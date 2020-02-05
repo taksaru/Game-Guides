@@ -1,0 +1,27 @@
+{
+  "num": "123",
+  "title": "Tons of Triangles",
+  "steps": [
+    "Tons of Triangles"
+  ],
+  "solution": [
+    {
+      "img": "123S.gif",
+      "txt": "C is next in the sequence"
+    }
+  ],
+  "prev": {
+    "num": "122",
+    "name": "The Next Die"
+  },
+  "next": [
+    {
+      "num": "124",
+      "name": "The Rope Ladder"
+    },
+    {
+      "num": "124",
+      "name": "Missing Number"
+    }
+  ]
+}

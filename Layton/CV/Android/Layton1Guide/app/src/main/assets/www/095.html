@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 095</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Climb stairs to left</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Stone pile left of windows</label></li>
+        </ul></li>
+        <li class="mobile">Mint Macaron Charm in lamp</li>
+        <li>Examine Lock to left</li>
+      </ul>
+    </div>
+    <h1>095 - A Magic Square</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/095H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/095H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/095H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/095S.gif" onclick="bigMe(this)"/>
+        <p>Complete magic square as shown</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('094')">Get the Ball Out! 4</u></p>
+    <p class="next eu">Next: <u onclick="changePage('096')">On the Stairs</u></p>
+    <p class="next us">Next: <u onclick="changePage('096')">Take the Stairs</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

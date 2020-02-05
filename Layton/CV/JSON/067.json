@@ -1,0 +1,21 @@
+{
+  "num": "067",
+  "title": "How Many Sweets?",
+  "steps": [
+    "Talk to Lucy"
+  ],
+  "solution": [
+    {
+      "img": "067S.gif",
+      "txt": "9 Sweets"
+    }
+  ],
+  "prev": {
+    "num": "066",
+    "name": "Five Borrowers"
+  },
+  "next": {
+    "num": "068",
+    "name": "Find the Pentagons"
+  }
+}

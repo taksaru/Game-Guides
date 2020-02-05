@@ -1,0 +1,33 @@
+{
+  "num": "016",
+  "title": "Triangles and Ink",
+  "steps": [
+    "Leave the General Store",
+    "Walk Left",
+    "Try to pick up Claudia",
+    "Talk to Deke",
+    "Look at door right of Franco",
+    "Enter door on right",
+    [
+      "Picture closest to chandelier",
+      "Cupboard in bottom left",
+      "Under table at the back"
+    ],
+    {"mobile": "Picture on left of back window for Pink Tormaline Charm"},
+    "Talk to Rodney"
+  ],
+  "solution": [
+    {
+      "img": "016S.gif",
+      "txt": "7 Times"
+    }
+  ],
+  "prev": {
+    "num": "015",
+    "name": "How Many Are Left?"
+  },
+  "next": {
+    "num": "118",
+    "name": "Red and Black Cards"
+  }
+}

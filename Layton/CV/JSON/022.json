@@ -1,0 +1,27 @@
+{
+  "num": "022",
+  "title": "Pigpen Partitions",
+  "steps": [
+    "Talk to Agnes"
+  ],
+  "solution": [
+    {
+      "img": "022S.gif",
+      "txt": "Happy Pigs, Happy Pork"
+    }
+  ],
+  "prev": {
+    "num": "021",
+    "name": "Pill Prescription"
+  },
+  "next": [
+    {
+      "num": "111",
+      "name": "Making a Square"
+    },
+    {
+      "num": "111",
+      "name": "Mystery Item"
+    }
+  ]
+}

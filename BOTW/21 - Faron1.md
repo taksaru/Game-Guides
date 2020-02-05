@@ -6,10 +6,10 @@
   * All towers!!!
 * Korok 756: Durian offering to NE
 * Korok 757: Fairylights to NW
-* Hinox to SE (29/40)
+* Hinox to SE (30/40)
 * Korok 758: Race to NE
 * Korok 759: Flower trail to NW
-* Hinox to N (30/40)
+* Hinox to N (31/40)
 * Korok 760: Rock pattern to N
 * Side Quest: EX Treasure: Usurper King to W
   * Zant's Helmet
@@ -21,16 +21,6 @@
 * Korok 762: Acorn in tree to SE
 * Korok 763: Pinwheel shooting to SE
 * Farosh morning farming through cave to SE
-  * 0/3 scale
-    * 0/1 for Shrine
-    * 0/1 in castle
-    * 0/3 for upgrades
-  * 0/3 claw
-    * 0/3 for upgrades
-  * 0/6 horn
-    * 0/6 for upgrades
-  * 0/3 fang
-    * 0/3 for upgrades
 * Korok 764: Magnesis boulder in centre of Riola Spring
 * Shoda Sah Shrine to S behind waterfall (109/120)
 * Korok 765: Race to S
@@ -68,12 +58,13 @@
 * Shrine Quest: A Song of Storms to SE
   * Qukah Nata Shrine (111/120)
 * Korok 783: Durian Trees to E
-* Stalnox to SW (31/40)
+* Stalnox to SW (32/40)
 * Korok 784: Rock pattern to SE
 
 ![Faron4](images/Faron4.PNG)
 
-* Korok 785: Rock pattern to SE(follow path)
+* Korok 785: Rock pattern to SE
+  * Follow path
 * Korok 786: Rock atop mountain to NE
 * Side Quest: A Gift of Nightshade
   * Nightshade
@@ -89,7 +80,7 @@
   * Side Quest: Sunken Treaure
 * Korok 789: Rock pattern to S of earlier Korok
 * Side Quest: Sunken Treasure
-  * Chests in center of rocks to SE
+  * Chests in center of reefs to SE
 * Warp back to Yah Rin Shrine
 * Korok 790: Rock pattern atop roof to SE
 * Korok 791: Flower trail atop inn
@@ -99,7 +90,7 @@
 
 ![Faron5](images/Faron5.PNG)
 
-* Korok 794: Rock by palm tree to Soka Point
+* Korok 794: Rock by palm tree at Soka Point
 * Take picture of monument
 * Korok 795: Seaweed to W
 * Take Picture of monument to N
@@ -112,20 +103,20 @@
 * Korok 797: Rock on ledge to NW
 * Korok 798: Rock pattern to NW
 * Korok 799: Fairylights to SW
-* Hinox to N (32/40)
+* Hinox to N (33/40)
 
 ![Faron6](images/Faron6.PNG)
 
 * Korok 800: Apple trees to N
 * Korok 801: Rock behind cracked boulders to W
 * Korok 802: Flower trail to SW
-* Hinox (Middle Kin) to W (33/40)
+* Hinox (Middle Kin) to W (34/40)
   * Take orb
 * Shrine Quest: The Three Giant Brothers to NW
-* Hinox (Yougest Kin) to NE (34/40)
+* Hinox (Youngest Kin) to NE (35/40)
 * Korok 803: Lilies to E
 * Grab orb to W and bring to Shrine Quest
-* Hinox (Oldest Kin) to NW (35/40)
+* Hinox (Oldest Kin) to NW (36/40)
 * Take orb and finish quest
 * Tawa Jinn Shrine (115/120)
 * Korok 804: Apple offering to SW

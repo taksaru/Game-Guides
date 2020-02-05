@@ -1,0 +1,21 @@
+{
+  "num": "015",
+  "title": "How Many Are Left?",
+  "steps": [
+    "Examine the large candle on the counter"
+  ],
+  "solution": [
+    {
+      "img": "015S.gif",
+      "txt": "3 Candles are left"
+    }
+  ],
+  "prev": {
+    "num": "014",
+    "name": "Which Chair?"
+  },
+  "next": {
+    "num": "016",
+    "name": "Triangles and Ink"
+  }
+}

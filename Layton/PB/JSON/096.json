@@ -1,0 +1,22 @@
+{
+  "num": "096",
+  "title": "A Ghostly Puzzle",
+  "steps": [
+    "Enter the photo studio",
+    "Speak to Joseph"
+  ],
+  "solution": [
+    {
+      "img": "096S.png",
+      "txt": "The ghost is from board B"
+    }
+  ],
+  "prev": {
+    "num": "069",
+    "name": "Copying the Menu"
+  },
+  "next": {
+    "num": "120",
+    "name": "Tug of War"
+  }
+}

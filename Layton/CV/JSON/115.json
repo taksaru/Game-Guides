@@ -1,0 +1,37 @@
+{
+  "num": "115",
+  "title": "Odd Box Out",
+  "steps": [
+    "Walk Up",
+    [
+      "Trash Can",
+      "Left Lamp",
+      "Tree trunk on right"
+    ],
+    {"mobile": "Examine other lamp for Arrow Heart Charm"},
+    "Examine the Large Poster on left",
+    "Walk Up",
+    [
+      "Stacked Cups at shop",
+      "Stone in middle of path",
+      "Horse right of tent",
+      "Lamppost on right"
+    ],
+    {"mobile": "Check top of tent for Very Berry Tart Charm"},
+    "Examine side window of shop"
+  ],
+  "solution": [
+    {
+      "img": "115S.gif",
+      "txt": "Box D is the odd one out"
+    }
+  ],
+  "prev": {
+    "num": "086",
+    "name": "Squares and Circles"
+  },
+  "next": {
+    "num": "087",
+    "name": "Ferris Wheel Riddle"
+  }
+}

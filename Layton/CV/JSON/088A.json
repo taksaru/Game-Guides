@@ -1,0 +1,38 @@
+{
+  "num": "088A",
+  "title": "In A Hole",
+  "steps": [
+    "Walk Right",
+    [
+      "Garbage Can",
+      "Bridge",
+      "Left Riverbank",
+      "Bush on Right Riverbank"
+    ],
+    {"mobile": "Check Chimney for Bygone Bubble Bottle Charm"},
+    "Walk Down",
+    "Pick up Paper Scrap",
+    [
+      "Chimney on right",
+      "Blue Shack roof",
+      "Garbage can",
+      "Grass left of tree trunk"
+    ],
+    {"mobile": "Check door for Cutsie Cupcake Charm"},
+    "Talk to Sylvain"
+  ],
+  "solution": [
+    {
+      "img": "088AS.gif",
+      "txt": "You need water"
+    }
+  ],
+  "prev": {
+    "num": "087",
+    "name": "Ferris Wheel Riddle"
+  },
+  "next": {
+    "num": "116",
+    "name": "The Largest Total"
+  }
+}

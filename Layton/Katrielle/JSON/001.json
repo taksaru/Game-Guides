@@ -1,0 +1,16 @@
+{
+  "num": "001",
+  "title": "Care for a Cake?",
+  "steps": [
+  ],
+  "solution": [
+    {
+      "img": "001S.gif",
+      "txt": "Arrange the triangles as shown"
+    }
+  ],
+  "next": {
+    "num": "002",
+    "name": "The Hands of Time"
+  }
+}

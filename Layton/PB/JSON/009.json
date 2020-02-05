@@ -1,0 +1,21 @@
+{
+  "num": "009",
+  "title": "Stacked Glasses",
+  "steps": [
+    "Examine Glass on table"
+  ],
+  "solution": [
+    {
+      "img": "009S.png",
+      "txt": "Sketch D makes no sense"
+    }
+  ],
+  "prev": {
+    "num": "008",
+    "name": "Luke's Big Dinner"
+  },
+  "next": {
+    "num": "013",
+    "name": "On Your Plate"
+  }
+}

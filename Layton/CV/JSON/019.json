@@ -1,0 +1,87 @@
+{
+  "num": "019",
+  "title": "Car Park Gridlock",
+  "a-title": "Parking Lot Gridlock",
+  "steps": [
+    "Leave the Inn",
+    "Walk Down",
+    [
+      "Under Layton and Luke",
+      "Top Left Window",
+      "Sack to right"
+    ],
+    "Inspect the Laytonmobile"
+  ],
+  "solution": [
+    {
+      "img": "019S01.png",
+      "txt": "Move truck above Laytonmobile right"
+    },
+    {
+      "img": "019S02.png",
+      "txt": "Move car right in front of Laytonmobile up"
+    },
+    {
+      "img": "019S03.png",
+      "txt": "Move next car right in front of Laytonmobile up"
+    },
+    {
+      "img": "019S04.png",
+      "txt": "Move Laytonmobile right"
+    },
+    {
+      "img": "019S05.png",
+      "txt": "Move bottom left truck up"
+    },
+    {
+      "img": "019S06.png",
+      "txt": "Move bottom left car left"
+    },
+    {
+      "img": "019S07.png",
+      "txt": "Move bottom left truck left"
+    },
+    {
+      "img": "019S08.png",
+      "txt": "Move upper middle car down"
+    },
+    {
+      "img": "019S09.png",
+      "txt": "Move Laytonmobile left"
+    },
+    {
+      "img": "019S10.png",
+      "txt": "Move lower car in upper right left"
+    },
+    {
+      "img": "019S11.png",
+      "txt": "Move rightmost car up"
+    },
+    {
+      "img": "019S12.png",
+      "txt": "Move car right in front of Laytonmobile up"
+    },
+    {
+      "img": "019S13.png",
+      "txt": "Move car right in from of Laytonmobile up"
+    },
+    {
+      "img": "019S14.png",
+      "txt": "Move Laytonmobile out"
+    }
+  ],
+  "prev": {
+    "num": "112",
+    "name": "My Beloved"
+  },
+  "next": [
+    {
+      "num": "020",
+      "name": "Unfriendly Commute"
+    },
+    {
+      "num": "020",
+      "name": "Unfriendly Neighbours"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "num": "004",
+  "title": "Where's My House",
+  "steps": [
+    [
+      "Bin on left",
+      "Barrel on right",
+      "Top right window"
+    ],
+    {"mobile": "Investigate chimney for Beryl Bus Charm"},
+    "Talk to Percy"
+  ],
+  "solution": [
+    {
+      "img": "004S.gif",
+      "txt": "The North Facing House"
+    }
+  ],
+  "prev": {
+    "num": "003",
+    "name": "Strange Hats"
+  },
+  "next": [
+    {
+      "num": "005",
+      "name": "Clock Hands"
+    },
+    {
+      "num": "005",
+      "name": "Digital Digits"
+    }
+  ]
+}

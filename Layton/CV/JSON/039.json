@@ -1,0 +1,27 @@
+{
+  "num": "039",
+  "title": "One-Line Puzzle 2",
+  "steps": [
+    "Talk to Agnes"
+  ],
+  "solution": [
+    {
+      "img": "039S.gif",
+      "txt": "The top hat can't be drawn with one line"
+    }
+  ],
+  "prev": {
+    "num": "038",
+    "name": "Island Hopping"
+  },
+  "next": [
+    {
+      "num": "040",
+      "name": "Father's Age"
+    },
+    {
+      "num": "040",
+      "name": "How Old Is Dad?"
+    }
+  ]
+}

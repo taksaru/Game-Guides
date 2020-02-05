@@ -1,0 +1,83 @@
+{
+  "num": "078",
+  "title": "Water Pitchers",
+  "steps": [
+    "Give Houseplant to Layton",
+    "Enter the right door",
+    [
+      "Middle light of Chandelier"
+    ],
+    {"mobile": "Check blue frome on right for Sweet Sachertorte Charm"},
+    "Talk to Crouton"
+  ],
+  "solution": [
+    {
+      "img": "078S01.gif",
+      "txt": "Pour from first to second"
+    },
+    {
+      "img": "078S02.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "078S03.gif",
+      "txt": "Pour from third to first"
+    },
+    {
+      "img": "078S04.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "078S05.gif",
+      "txt": "Pour from first to second"
+    },
+    {
+      "img": "078S06.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "078S07.gif",
+      "txt": "Pour from third to first"
+    },
+    {
+      "img": "078S08.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "078S09.gif",
+      "txt": "Pour from first to second"
+    },
+    {
+      "img": "078S10.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "078S11.gif",
+      "txt": "Pour from third to first"
+    },
+    {
+      "img": "078S12.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "078S13.gif",
+      "txt": "Pour from first to second"
+    },
+    {
+      "img": "078S14.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "078S15.gif",
+      "txt": "Pour from third to first"
+    }
+  ],
+  "prev": {
+    "num": "077",
+    "name": "Which Job?"
+  },
+  "next": {
+    "num": "079",
+    "name": "Apples to Oranges"
+  }
+}

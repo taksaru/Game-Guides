@@ -1,0 +1,31 @@
+{
+  "num": "045",
+  "title": "Lunar Weight",
+  "steps": [
+    "Leave Town Hall",
+    "Walk Left",
+    "Enter door on right",
+    "Talk to Crouton",
+    [
+      "Far end of left path",
+      "Far end of right path",
+      "Manhole Cover"
+    ],
+    {"mobile": "Check Lantern above door for Minty Cupcake Charm"},
+    "Talk to Adrea"
+  ],
+  "solution": [
+    {
+      "img": "045S.png",
+      "txt": "Scale will indicate a weight of less than 100g"
+    }
+  ],
+  "prev": {
+    "num": "044",
+    "name": "Stamp Stumper"
+    },
+  "next": {
+    "num": "046",
+    "name": "Star in the Sky"
+  }
+}

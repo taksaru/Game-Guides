@@ -1,0 +1,37 @@
+{
+  "num": "114",
+  "title": "Tetrahedron Trial",
+  "steps": [
+    "Walk Down",
+    [
+      "Crack on left wall",
+      "Right grass",
+      "Bottom left doorway near stairs"
+    ],
+    "Enter door on the left",
+    [
+      "Floor under right stand",
+      "Bookshelf",
+      "Lowest book on floor"
+    ],
+    {
+      "mobile": "Check Flowers for Floral Jelly Charm"
+    },
+    "Talk to Prosciutto",
+    "Examine hanging mett"
+  ],
+  "solution": [
+    {
+      "img": "114S.gif",
+      "txt": "Use Triangle C"
+    }
+  ],
+  "prev": {
+    "num": "052",
+    "name": "Find a Star"
+  },
+  "next": {
+    "num": "012",
+    "name": "Make a Rectangle"
+  }
+}

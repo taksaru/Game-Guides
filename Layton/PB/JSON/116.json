@@ -1,0 +1,27 @@
+{
+  "num": "116",
+  "title": "The Torn Phto",
+  "steps": [
+    "Walk Left",
+    "Walk Up",
+    "Walk Up",
+    "Walk up and down until Marina is thirsty",
+    "Brew Tea 04 for Marina",
+    "Walk left",
+    "Examine Photo scrap"
+  ],
+  "solution": [
+    {
+      "img": "116S.png",
+      "txt": "Assemble the photo"
+    }
+  ],
+  "prev": {
+    "num": "073",
+    "name": "Can Communication"
+  },
+  "next": {
+    "num": "114",
+    "name": "Fair Compensation"
+  }
+}

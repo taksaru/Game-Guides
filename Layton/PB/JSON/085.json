@@ -1,0 +1,32 @@
+{
+  "num": "085",
+  "title": "The Missing Shape",
+  "steps": [
+    "Walk Up",
+    "Walk Up",
+    "Walk Up",
+    "Walk Left",
+    "Walk Up",
+    "Walk Up",
+    [
+      "Right window of tower",
+      "Base of light",
+      "Top window on right building"
+    ],
+    "Talk to Olson"
+  ],
+  "solution": [
+    {
+      "img": "085S.png",
+      "txt": "B comes next"
+    }
+  ],
+  "prev": {
+    "num": "060",
+    "name": "Plaza Puzzle"
+  },
+  "next": {
+    "num": "119",
+    "name": "The Fake Coins"
+  }
+}

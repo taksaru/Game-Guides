@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 090</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Give Artisan's Teapot to Layton</li>
+        <li>Walk Left</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Stone in middle of right wall</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Pebble in middle of floor</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Moss on right</label></li>
+          <li><input type="checkbox" id="hc3"/><label for="hc3">Middle of tiles</label></li>
+        </ul></li>
+        <li>Examine panel</li>
+      </ul>
+    </div>
+    <h1>090 - Get the Ball Out! 2</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/090H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/090H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/090H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/090S01.gif" onclick="bigMe(this)"/>
+        <p>Bottom blue block right</p>
+      </section>
+      <section>
+        <img src="images/090S02.gif" onclick="bigMe(this)"/>
+        <p>Bottom purple block right and down</p>
+      </section>
+      <section>
+        <img src="images/090S03.gif" onclick="bigMe(this)"/>
+        <p>Bottom blue block left</p>
+      </section>
+      <section>
+        <img src="images/090S04.gif" onclick="bigMe(this)"/>
+        <p>Right purple block down and right</p>
+      </section>
+      <section>
+        <img src="images/090S05.gif" onclick="bigMe(this)"/>
+        <p>Top blue block left</p>
+      </section>
+      <section>
+        <img src="images/090S06.gif" onclick="bigMe(this)"/>
+        <p>Right green block down</p>
+      </section>
+      <section>
+        <img src="images/090S07.gif" onclick="bigMe(this)"/>
+        <p>Top purple block far right</p>
+      </section>
+      <section>
+        <img src="images/090S08.gif" onclick="bigMe(this)"/>
+        <p>Yellow block up and right</p>
+      </section>
+      <section>
+        <img src="images/090S09.gif" onclick="bigMe(this)"/>
+        <p>Move orb all the way down</p>
+      </section>
+      <section>
+        <img src="images/090S10.gif" onclick="bigMe(this)"/>
+        <p>Left purple block right and up</p>
+      </section>
+      <section>
+        <img src="images/090S11.gif" onclick="bigMe(this)"/>
+        <p>Left green block up</p>
+      </section>
+      <section>
+        <img src="images/090S12.gif" onclick="bigMe(this)"/>
+        <p>Bottom blue block left</p>
+      </section>
+      <section>
+        <img src="images/090S13.gif" onclick="bigMe(this)"/>
+        <p>Bottom purple block up</p>
+      </section>
+      <section>
+        <img src="images/090S14.gif" onclick="bigMe(this)"/>
+        <p>Move orb to the exit</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('116')">The Largest Total</u></p>
+    <p class="next">Next: <u onclick="changePage('090')">Get the Ball Out! 2</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

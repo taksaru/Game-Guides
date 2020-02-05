@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 115</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Walk Up</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Trash Can</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Left Lamp</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Tree trunk on right</label></li>
+        </ul></li>
+        <li class="mobile">Examine other lamp for Arrow Heart Charm</li>
+        <li>Examine the Large Poster on left</li>
+        <li>Walk Up</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc3"/><label for="hc3">Stacked Cups at shop</label></li>
+          <li><input type="checkbox" id="hc4"/><label for="hc4">Stone in middle of path</label></li>
+          <li><input type="checkbox" id="hc5"/><label for="hc5">Horse right of tent</label></li>
+          <li><input type="checkbox" id="hc6"/><label for="hc6">Lamppost on right</label></li>
+        </ul></li>
+        <li class="mobile">Check top of tent for Very Berry Tart Charm</li>
+        <li>Examine side window of shop</li>
+      </ul>
+    </div>
+    <h1>115 - Odd Box Out</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/115H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/115H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/115H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/115S.gif" onclick="bigMe(this)"/>
+        <p>Box D is the odd one out</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('086')">Squares and Circles</u></p>
+    <p class="next">Next: <u onclick="changePage('087')">Ferris Wheel Riddle</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

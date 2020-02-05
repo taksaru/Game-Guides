@@ -1,0 +1,32 @@
+{
+  "num": "028",
+  "title": "The Warped Wheel",
+  "steps": [
+    "Walk Up",
+    [
+      "Front white umbrella",
+      "Plant on left",
+      "Rock below crate on right"
+    ],
+    "Examine vegetable cart"
+  ],
+  "solution": [
+    {
+      "img": "028S.png",
+      "txt": "A shows the axle's path"
+    }
+  ],
+  "prev": {
+    "num": "041",
+    "name": "Cube Halves"
+  },
+  "next": [
+    {
+      "num": "000",
+      "name": "Which Arrow?"
+    },
+    {
+      "num": "029",
+      "name": "The Winning Arrow"
+    }
+}

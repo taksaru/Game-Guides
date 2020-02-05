@@ -1,0 +1,28 @@
+{
+  "num": "013",
+  "title": "On Your Plate",
+  "steps": [
+    "Enter left door at back of room",
+    "Talk to Macaroon"
+  ],
+  "solution": [
+    {
+      "img": "013S.png",
+      "txt": "The large triangle is 4 times as large"
+    }
+  ],
+  "prev": {
+    "num": "009",
+    "name": "Stacked Glasses"
+  },
+  "next": [
+    {
+      "num": "020",
+      "name": "The Shoe Shop Thief"
+    },
+    {
+      "num": "020",
+      "name": "The Shoe Store Thief"
+    }
+  ]
+}

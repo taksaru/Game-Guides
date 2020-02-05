@@ -1,0 +1,157 @@
+{
+  "num": "108",
+  "title": "The Knight's Tour 3",
+  "steps": [
+    "Talk to Gregorio"
+  ],
+  "solution": [
+    {
+      "img": "108S01.png",
+      "txt": "Right square"
+    },
+    {
+      "img": "108S02.png",
+      "txt": "Top square"
+    },
+    {
+      "img": "108S03.png",
+      "txt": "Right square"
+    },
+    {
+      "img": "108S04.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "108S05.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "108S06.png",
+      "txt": "Left square"
+    },
+    {
+      "img": "108S07.png",
+      "txt": "Top square"
+    },
+    {
+      "img": "108S08.png",
+      "txt": "Top square"
+    },
+    {
+      "img": "108S09.png",
+      "txt": "Left square"
+    },
+    {
+      "img": "108S10.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "108S11.png",
+      "txt": "Bottom left square"
+    },
+    {
+      "img": "108S12.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "108S13.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "108S14.png",
+      "txt": "Right square"
+    },
+    {
+      "img": "108S15.png",
+      "txt": "Top square"
+    },
+    {
+      "img": "108S16.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "108S17.png",
+      "txt": "Right square"
+    },
+    {
+      "img": "108S18.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "108S19.png",
+      "txt": "Left square"
+    },
+    {
+      "img": "108S20.png",
+      "txt": "Left square"
+    },
+    {
+      "img": "108S21.png",
+      "txt": "Top sqaure"
+    },
+    {
+      "img": "108S22.png",
+      "txt": "Right square"
+    },
+    {
+      "img": "108S23.png",
+      "txt": "Top right square"
+    },
+    {
+      "img": "108S24.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "108S25.png",
+      "txt": "Top square"
+    },
+    {
+      "img": "108S26.png",
+      "txt": "Right square"
+    },
+    {
+      "img": "108S27.png",
+      "txt": "Left square"
+    },
+    {
+      "img": "108S28.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "108S29.png",
+      "txt": "Right square"
+    },
+    {
+      "img": "108S30.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "108S31.png",
+      "txt": "Right square"
+    },
+    {
+      "img": "108S32.png",
+      "txt": "Bottom right square"
+    },
+    {
+      "img": "108S33.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "108S34.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "108S35.png",
+      "txt": "Move Knight"
+    }
+  ],
+  "prev": {
+    "num": "107",
+    "name": "The Knight's Tour 2"
+  },
+  "next": {
+    "num": "095",
+    "name": "Box of Books"
+  }
+}

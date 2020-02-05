@@ -1,0 +1,32 @@
+{
+  "num": "093",
+  "title": "How Old Am I?",
+  "steps": [
+    "Walk Right",
+    "Walk Down",
+    "Walk Down",
+    "Walk Up and Down until Joanie is thirsty",
+    "Serve Tea 02 to Joanie",
+    "Talk to Joanie again"
+  ],
+  "solution": [
+    {
+      "img": "093S.png",
+      "txt": "Joanie is 5"
+    }
+  ],
+  "prev": [
+    {
+      "num": "129",
+      "name": "The Messy Mole"
+    },
+    {
+      "num": "129",
+      "name": "The Slobbish Mole"
+    }
+  ],
+  "next": {
+    "num": "063",
+    "name": "Numbered Cards"
+  }
+}

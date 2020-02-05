@@ -1,0 +1,37 @@
+{
+  "num": "124",
+  "title": "UFOs Spotted",
+  "steps": [
+    "Walk Down",
+    "Walk Right",
+    "Examine Photo scrap",
+    [
+      "Top of bin",
+      "Leaves on right of path",
+      "Between windows at end of path"
+    ],
+    "Take photo",
+    "<ul><li>Bin lid</li><li>Step beneath light</li><li>Third window at end of path</li></ul>",
+    "Hidden Puzzle"
+  ],
+  "solution": [
+    {
+      "img": "124S.png",
+      "txt": "C is used to make all the shapes"
+    }
+  ],
+  "prev": [
+    {
+      "num": "124",
+      "name": "Cleaning Up 2"
+    },
+    {
+      "num": "118",
+      "name": "Garbage Disposal"
+    }
+  ],
+  "next": {
+    "num": "086",
+    "name": "Perplexing Figures"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "num": "106",
+  "title": "How Many Glasses",
+  "steps": [
+    "Examine the lowest bottle on the right"
+  ],
+  "solution": [
+    {
+      "img": "106S.gif",
+      "txt": "You only need to pick up 1 cup"
+    }
+  ],
+  "prev": {
+    "num": "051",
+    "name": "The Town Barbers"
+  },
+  "next": {
+    "num": "053",
+    "name": "Fish Thief"
+  }
+}

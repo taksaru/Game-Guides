@@ -1,0 +1,29 @@
+{
+  "num": "026",
+  "title": "Bottle Full of Germs",
+  "steps": [
+    "Leave Restaurant",
+    "Walk Up",
+    [
+      "Top of wall to right",
+      "Dirt just below right gate",
+      "Atop left pillar"
+    ],
+    {"mobile": "Check wall beside left pillar for Kat's Magnificent Glass Charm"},
+    "Examine jar to left"
+  ],
+  "solution": [
+    {
+      "img": "026S.gif",
+      "txt": "It takes 59 minutes"
+    }
+  ],
+  "prev": {
+    "num": "025",
+    "name": "Equilateral Triangle"
+  },
+  "next": {
+    "num": "027",
+    "name": "Bickering Brothers"
+  }
+}

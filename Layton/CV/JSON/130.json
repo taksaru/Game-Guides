@@ -1,0 +1,21 @@
+{
+  "num": "130",
+  "title": "Too Many Queens 5",
+  "steps": [
+    "The Golden Apple's House"
+  ],
+  "solution": [
+    {
+      "img": "130S.gif",
+      "txt": "Place the queens as shown"
+    }
+  ],
+  "prev": {
+    "num": "129",
+    "name": "Four Balls"
+  },
+  "next": {
+    "num": "131",
+    "name": "Heavier or Lighter"
+  }
+}

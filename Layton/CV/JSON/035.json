@@ -1,0 +1,24 @@
+{
+  "num": "035",
+  "title": "Strange Dots",
+  "steps": [
+    "Talk to Crouton",
+    "Restaurant",
+    "Walk Right",
+    "Talk to Deke"
+  ],
+  "solution": [
+    {
+      "img": "035S.gif",
+      "txt": "D = 3"
+    }
+  ],
+  "prev": {
+    "num": "024",
+    "name": "Milk Pitchers"
+  },
+  "next": {
+    "num": "036",
+    "name": "Too Many Mice"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "num": "008",
+  "title": "Farm Work",
+  "steps": [
+    "Look at the flowers on the other side of the stream"
+  ],
+  "solution": [
+    {
+      "img": "008S.gif",
+      "txt": "50 for each"
+    }
+  ],
+  "prev": {
+    "num": "0077",
+    "name": "Wolves and Chicks"
+  },
+  "next": {
+    "num": "009",
+    "name": "One Poor Pooch"
+  }
+}

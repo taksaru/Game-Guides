@@ -1,0 +1,34 @@
+{
+  "num": "041",
+  "title": "Cube Halves",
+  "steps": [
+    "Walk Right",
+    [
+      "Brick beside poster",
+      "Chimney",
+      "Bin right of Beluga"
+    ],
+    "Talk to Beluga",
+    "Walk Right",
+    [
+      "Leftmost chimney",
+      "Rightmost window"
+    ],
+    "Talk to Wurtzer",
+    "Talk to Wurtzer"
+  ],
+  "solution": [
+    {
+      "img": "041S.png",
+      "txt": "C is the odd one out"
+    }
+  ],
+  "prev": {
+    "num": "027",
+    "name": "A Dramatic Farewell"
+  },
+  "next": {
+    "num": "028",
+    "name": "The Warped Wheel"
+  }
+}

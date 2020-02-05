@@ -1,0 +1,29 @@
+{
+  "num": "040",
+  "title": "Father's Age",
+  "a-title": "How Old Is Dad?",
+  "steps": [
+    "Walk Left",
+    [
+      "Stack of boxes at right stall",
+      "Bricks left of sign",
+      "Pots above sign"
+    ],
+    {"mobile": "Check Right Window for Diamon Drop Charm"},
+    "Talk to Archibald"
+  ],
+  "solution": [
+    {
+      "img": "040S.gif",
+      "txt": "The father is 44"
+    }
+  ],
+  "prev": {
+    "num": "039",
+    "name": "One-Line Puzzle 2"
+  },
+  "next": {
+    "num": "101",
+    "name": "Splitting It Up"
+  }
+}

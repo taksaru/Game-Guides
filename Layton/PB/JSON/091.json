@@ -1,0 +1,28 @@
+{
+  "num": "091",
+  "title": "Sharing the Wealth",
+  "steps": [
+    "Walk Up and Down until Opal is thirsty"
+    "Serve Tea 11 to Opal"
+  ],
+  "solution": [
+    {
+      "img": "091S.png",
+      "txt": "Separate as shown"
+    }
+  ],
+  "prev": [
+    {
+      "num": "067",
+      "name": "Sammy's Work Week"
+    },
+    {
+      "num": "067",
+      "name": "Sammy's Working Week"
+    }
+  ],
+  "next": {
+    "num": "103",
+    "name": "Disappearing Act 3"
+  }
+}

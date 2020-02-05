@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 024</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Enter door right of Percy</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Bucket</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Chimney Top</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Shrub left of Shack</label></li>
+        </ul></li>
+        <li>Talk to Granny Riddleton</li>
+        <li>Enter Shack</li>
+        <li>Leave Shack</li>
+        <li>Walk Left</li>
+        <li>Enter Door on Right</li>
+        <li>Talk to Crouton</li>
+      </ul>
+    </div>
+    <h1>024 - Milk Pitchers</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/024H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/024H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/024H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/024S01.gif" onclick="bigMe(this)"/>
+        <p>Pour from first to second</p>
+      </section>
+      <section>
+        <img src="images/024S02.gif" onclick="bigMe(this)"/>
+        <p>Pour from second to third</p>
+      </section>
+      <section>
+        <img src="images/024S03.gif" onclick="bigMe(this)"/>
+        <p>Pour from third to first</p>
+      </section>
+      <section>
+        <img src="images/024S04.gif" onclick="bigMe(this)"/>
+        <p>Pour from second to third</p>
+      </section>
+      <section>
+        <img src="images/024S05.gif" onclick="bigMe(this)"/>
+        <p>Pour from third to first</p>
+      </section>
+      <section>
+        <img src="images/024S06.gif" onclick="bigMe(this)"/>
+        <p>Pour from second to third</p>
+      </section>
+      <section>
+        <img src="images/024S07.gif" onclick="bigMe(this)"/>
+        <p>Pour from first to second</p>
+      </section>
+      <section>
+        <img src="images/024S08.gif" onclick="bigMe(this)"/>
+        <p>Pour from second to third</p>
+      </section>
+      <section>
+        <img src="images/024S09.gif" onclick="bigMe(this)"/>
+        <p>Pour from third to first</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('058')">Get the Ball Out! 1</u></p>
+    <p class="next">Next: <u onclick="changePage('035')">Strange Dots</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

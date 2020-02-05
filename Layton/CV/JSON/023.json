@@ -1,0 +1,59 @@
+{
+  "num": "023",
+  "title": "Juice Pitchers",
+  "steps": [
+    "Talk to Adrea",
+    "Enter Right Door",
+    [
+      "Picture on right",
+      "Panel by door",
+      "Leftmost chair"
+    ],
+    {"mobile": "Check plant for Sandwich Biscuit Charm"},
+    "Talk to Crouton"
+  ],
+  "solution": [
+    {
+      "img": "023S1.gif",
+      "txt": "Pour from first to second"
+    },
+    {
+      "img": "023S2.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "023S3.gif",
+      "txt": "Pour from third to first"
+    },
+    {
+      "img": "023S4.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "023S5.gif",
+      "txt": "Pour from first to second"
+    },
+    {
+      "img": "023S6.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "023S7.gif",
+      "txt": "Pour from third to first"
+    }
+  ],
+  "prev": [
+    {
+      "num": "111",
+      "name": "Making a Square"
+    },
+    {
+      "num": "111A",
+      "name": "Mystery Item"
+    }
+  ],
+  "next": {
+    "num": "025",
+    "name": "Equilateral Triangle"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "num": "072",
+  "title": "Scrambled Photos",
+  "steps": [
+    {
+      "img": "Hamster24.gif",
+      "txt": "Give Hammy a 24 step workout"
+    },
+    "Enter photo studio"
+  ],
+  "solution": [
+    {
+      "img": "072S.png",
+      "txt": "The order is CDBA"
+    }
+  ],
+  "prev": [
+    {
+      "num": "000",
+      "name": "Hat Etiquette"
+    },
+    {
+      "num": "068",
+      "name": "Hat Trick"
+    }
+  ],
+  "next": {
+    "num": "117",
+    "name": "Three Couples"
+  }
+}

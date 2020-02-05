@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 051</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Give the Teak Bureau to Layton</li>
+        <li>Enter the door</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Blue Frame</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Left Stool</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Top of left cupboard</label></li>
+        </ul></li>
+        <li class="mobile">Check Frame near Zappone for Strawberry Shortcake Charm</li>
+        <li>Talk to Crumm</li>
+        <li>Talk to Zappone</li>
+      </ul>
+    </div>
+    <h1>051 - The Town Barbers</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/051H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/051H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/051H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/051S.gif" onclick="bigMe(this)"/>
+        <p>You can reach goal B</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev eu">Prev: <u onclick="changePage('050')">Number Maze</u></p>
+    <p class="prev us">Prev: <u onclick="changePage('050')">OTTF?</u></p>
+    <p class="next">Next: <u onclick="changePage('106')">How Many Glasses</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

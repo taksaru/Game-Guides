@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 131</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>The Golden Apple's House</li>
+      </ul>
+    </div>
+    <h1>131 - Heavier or Lighter?</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/131H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/131H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/131H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+<section><h1>Weigh 1</h1><img src="images/131S1.gif"/><p>Weigh 1 2 3 4 and 5 6 7 8</p><p>If even go to Weigh 2a, if left is lighter go to Weight 2b, if right is lighter go to Weigh 2c</p></section><section><h1>Weigh 2a</h1><img src="images/131S2a.gif"/><p>Weigh 1 2 3 and 9 10 11</p><p>If even 12 is lightest, if left is lighter go to Weigh 3a, if right is lighter go to Weigh 3b</p></section> <section><h1>Weigh 2b</h1><img src="images/131S2b.gif"/> <p>Weigh 1 2 9 and 3 4 5</p> <p>If even go to Weigh 3c, if left is lighter go to Weigh 3d, if right is lighter go to Weigh 3e</p></section> <section> <h1>Weigh 2c</h1> <img src="images/131S2c.gif"/> <p>Weigh 1 2 9 and 3 4 5</p> <p>If even go to Weigh 3f, if left is lighter go to Weigh 3g, if right is lighter go to Weigh 3h</p></section> <section> <h1>Weigh 3a</h1> <img src="images/131S3a.gif"/> <p>Weigh 9 and 10</p> <p>Lightest is answer, If even 11 is lightest</p></section> <section> <h1>Weigh 3b</h1> <img src="images/131S3b.gif"/> <p>Weigh 9 and 10</p> <p>Lightest is answer, If even 11 is lightest</p></section> <section> <h1>Weigh 3c</h1> <img src="images/131S3c.gif"/> <p>Weigh 6 and 7</p> <p>Lightest is answer, If even 8 is lightest</p></section> <section> <h1>Weigh 3d</h1> <img src="images/131S3d.gif"/> <p>Weigh 1 5 and 3 4</p> <p>If Even 2 is lightest, If left is lighter 1 is lightest, if right is lighter 5 is lightest</p></section> <section> <h1>Weigh 3e</h1> <img src="images/131S3e.gif"/> <p>Weigh 3 and 4, Lightest is answer</p></section> <section> <h1>Weigh 3f</h1> <img src="images/131S3f.gif"/> <p>Weigh 6 and 7</p> <p>Lightest is answer, If even 8 is lightest</p></section> <section> <h1>Weigh 3g</h1> <img src="images/131S3g.gif"/> <p>Weigh 3 and 4</p> <p>Lightest is answer</p></section> <section> <h1>Weigh 3h</h1> <img src="images/131S3h.gif"/> <p>Weigh 1 5 and 3 4</p> <p>If even 2 is lightest, if left is lighter 5 is lightest, if right is lighter 1 is lightest</p></section>    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('130')">Too Many Queens 5</u></p>
+    <p class="next eu">Next: <u onclick="changePage('132')">Princess's Escape</u></p>
+    <p class="next us">Next: <u onclick="changePage('132')">Princess in a Box 2</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

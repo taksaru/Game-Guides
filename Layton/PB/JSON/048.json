@@ -1,0 +1,21 @@
+{
+  "num": "048",
+  "title": "Who's Mr Anderson",
+  "steps": [
+    "Walk Left"
+  ],
+  "solution": [
+    {
+      "img": "048S.png",
+      "txt": "Mr Anderson is in the top left corner"
+    }
+  ],
+  "prev": {
+    "num": "039",
+    "name": "A Change of Clothes"
+  },
+  "next": {
+    "num": "031",
+    "name": "Pass the Apples"
+  }
+}

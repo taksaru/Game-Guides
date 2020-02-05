@@ -1,0 +1,26 @@
+{
+  "num": "030",
+  "title": "One-Line Puzzle 1",
+  "steps": [
+    "Walk Downstairs",
+    "Talk to Matthew",
+    "Leave Manor",
+    "Look at Claudia",
+    "Walk down to the stream",
+    "Talk to Agnes"
+  ],
+  "solution": [
+    {
+      "img": "030S.gif",
+      "txt": "The bottom left picture can't be drawn with one line"
+    }
+  ],
+  "prev": {
+    "num": "029",
+    "name": "Five Suspects"
+  },
+  "next": {
+    "num": "031",
+    "name": "Racetrack Riddle"
+  }
+}

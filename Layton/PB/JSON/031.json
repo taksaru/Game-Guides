@@ -1,0 +1,25 @@
+{
+  "num": "031",
+  "title": "Pass the Apples",
+  "steps": [
+    "Walk Left",
+    "Talk to Jacques",
+    "Walk Left",
+    "Enter the left door",
+    "Talk to Dorothea"
+  ],
+  "solution": [
+    {
+      "img": "031S.png",
+      "txt": "Johnny has 7 apples, Thomas has 5"
+    }
+  ],
+  "prev": {
+    "num": "048",
+    "name": "Who's Mr Anderson"
+  },
+  "next": {
+    "num": "046",
+    "name": "Odd Shape Out"
+  }
+}

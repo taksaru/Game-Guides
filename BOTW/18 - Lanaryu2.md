@@ -13,7 +13,7 @@
 
 ![Lanaryu14](images/Lanaryu14.PNG)
 
-* Blue Hinox to SE (22/40)
+* Blue Hinox to SE (23/40)
 * Korok 620: Balloon beneath stone arch to S
 * Korok 621: Flower Trail to SE
 * Korok 622: Rock pattern on island to S
@@ -29,12 +29,12 @@
 * Korok 630: Rock beneath cracked boulders to W
 * Korok 631: Flower Trail to N
 * Korok 632: Rock beneath leaves to NW
-* Blue Hinox to NE (23/40)
+* Blue Hinox to NE (24/40)
 * Rucco Maag Shrine to W (97/120)
 * Korok 633: Rock pattern to SW
 * Korok 634: Rock pattern across river to SE
-* Blue Hinox to NW (24/40)
-* Korok 635: Fairylight top tallest tree to NW
+* Blue Hinox to NW (25/40)
+* Korok 635: Fairylights top tallest tree to NW
 * Korok 636: Fairylights to W
 * Shrine Quest: The Crowned Beast
   * Mezza Lo Shrine (98/120)
@@ -60,17 +60,6 @@
 * Drop Travel Medallion
 * Korok 651: Race to SW
 * Naydra farm to NW at Lanaryu East Gate at morning
-  * 0/5 scale
-    * 1/1 for Shrine
-    * 0/1 in castle
-    * 0/6 for upgrades
-  * 0/3 claw
-    * 0/3 for upgrades
-  * 0/6 horn
-    * 0/5 for upgrades
-  * 0/2 fang
-    * 3 for upgrades
-    * 1 in castle
 * Return to Travel Medallion
 
 ![Lanaryu16](images/Lanaryu16.PNG)

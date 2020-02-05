@@ -1,0 +1,18 @@
+{
+  "num": "001",
+  "title": "Where's the Village?",
+  "a-title": "Where's the Town?",
+  "steps": [
+    "Chapter 1: Reinhold Manor Awaits"
+  ],
+  "solution": [
+    {
+      "img": "001S.gif",
+      "txt": "Circle top left town"
+    }
+  ],
+  "next": {
+    "num": "002",
+    "name": "The Crank and Slot"
+  }
+}

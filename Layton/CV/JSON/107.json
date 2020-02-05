@@ -1,0 +1,118 @@
+{
+  "num": "107",
+  "title": "Worm in the Apple",
+  "a-title": "A Worm's Dream",
+  "steps": [
+    "Look at doorway on left"
+  ],
+  "solution": [
+    {
+      "img": "036S01.gif",
+      "txt": "Middle tile down"
+    },
+    {
+      "img": "036S02.gif",
+      "txt": "Middle left tile right"
+    },
+    {
+      "img": "036S03.gif",
+      "txt": "Top left tile down"
+    },
+    {
+      "img": "036S04.gif",
+      "txt": "Top middle tile left"
+    },
+    {
+      "img": "036S05.gif",
+      "txt": "Middle tile up"
+    },
+    {
+      "img": "036S06.gif",
+      "txt": "Middle left tile right"
+    },
+    {
+      "img": "036S07.gif",
+      "txt": "Bottom left tile up"
+    },
+    {
+      "img": "036S08.gif",
+      "txt": "Bottom middle tile left"
+    },
+    {
+      "img": "036S09.gif",
+      "txt": "Bottom right tile left"
+    },
+    {
+      "img": "036S10.gif",
+      "txt": "Middle right tile down"
+    },
+    {
+      "img": "036S11.gif",
+      "txt": "Middle tile right"
+    },
+    {
+      "img": "036S12.gif",
+      "txt": "Middle left tile right"
+    },
+    {
+      "img": "036S13.gif",
+      "txt": "Bottom left tile up"
+    },
+    {
+      "img": "036S14.gif",
+      "txt": "Bottom middle tile left"
+    },
+    {
+      "img": "036S15.gif",
+      "txt": "Bottom right tile left"
+    },
+    {
+      "img": "036S16.gif",
+      "txt": "Middle right tile down"
+    },
+    {
+      "img": "036S17.gif",
+      "txt": "Middle tile right"
+    },
+    {
+      "img": "036S18.gif",
+      "txt": "Middle left tile right"
+    },
+    {
+      "img": "036S19.gif",
+      "txt": "Bottom left tile up"
+    },
+    {
+      "img": "036S20.gif",
+      "txt": "Bottom middle tile left"
+    },
+    {
+      "img": "036S21.gif",
+      "txt": "Middle tile down"
+    },
+    {
+      "img": "036S22.gif",
+      "txt": "Top middle tile down"
+    },
+    {
+      "img": "036S23.gif",
+      "txt": "Top left tile right"
+    },
+    {
+      "img": "036S24.gif",
+      "txt": "Middle left tile up"
+    },
+    {
+      "img": "036S25.gif",
+      "txt": "Middle tile left"
+    }
+  ],
+  "prev": {
+    "num": "037",
+    "name": "Brother and Siter"
+  },
+  "next": {
+    "num": "038",
+    "name": "Island Hopping"
+  }
+}

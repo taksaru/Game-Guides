@@ -1,0 +1,22 @@
+{
+  "num": "029",
+  "title": "Which Arrow?",
+  "a-title": "The Winning Arrow",
+  "steps": [
+    "Look at green stall on left"
+  ],
+  "solution": [
+    {
+      "img": "029S.png",
+      "txt": "Arrow B is connected to the prize"
+    }
+  ],
+  "prev": {
+    "num": "028",
+    "name": "The Warped Wheel"
+  },
+  "next": {
+    "num": "036",
+    "name": "The Trapped Bird"
+  }
+}

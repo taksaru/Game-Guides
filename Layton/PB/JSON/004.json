@@ -1,0 +1,26 @@
+{
+  "num": "004",
+  "title": "A Secure Room",
+  "steps": [
+  ],
+  "solution": [
+    {
+      "img": "004S.png",
+      "txt": "Ripped Curtain on your left"
+    }
+  ],
+  "prev": [
+    {
+      "num": "003",
+      "name": "Which Key?"
+    },
+    {
+      "num": "003",
+      "name": "The Rght Key"
+    }
+  ],
+  "next": {
+    "num": "005",
+    "name": "Luke's Trunk"
+  }
+}

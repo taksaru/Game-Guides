@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <title>19 - Hateno 3</title>
+  </head>
+  <body>
+    <h1>Hateno 2</h1>
+    <img alt="Hateno9" onclick="fullImg(this)" src="images/Hateno9.PNG"/><br><br>
+    <ul>
+      <li class="check"><input type="checkbox" id="c0" onclick="checkClick(this)"/><label for="c0">Chaas Qeta Shrine far to SW on ocean (101/120)</label></li>
+      <li class="check"><input type="checkbox" id="c1" onclick="checkClick(this)"/><label for="c1">Korok 656: Race to E</label></li>
+      <li class="check">
+        <input type="checkbox" id="c2" onclick="checkClick(this)"/><label for="c2">Shrine Quest: Stranded on Eventide to SE</label>
+        <ul>
+          <li class="check"><input type="checkbox" id="c3" onclick="checkClick(this)"/><label for="c3">Blue Hinox (26/40)</label></li>
+          <li class="check"><input type="checkbox" id="c4" onclick="checkClick(this)"/><label for="c4">Korgu Shideh Shrine (102/120)</label></li>
+        </ul>
+      <li>Warp to Hateno Tower</li>
+    </ul>
+    <img alt="Hateno10" onclick="fullImg(this)" src="images/Hateno10.PNG"/><br><br>
+    <ul>
+      <li class="check"><input type="checkbox" id="c5" onclick="checkClick(this)"/><label for="c5">Korok 657: Lilies to W</label></li>
+      <li class="check"><input type="checkbox" id="c6" onclick="checkClick(this)"/><label for="c6">Korok 658: Pinwheel shooting to SW</label></li>
+      <li class="check"><input type="checkbox" id="c7" onclick="checkClick(this)"/><label for="c7">Korok 659: Lilies to SW</label></li>
+      <li>Warp to Ja Baji Shrine</li>
+    </ul>
+    <div id="modBox">
+      <span id="modClose" onclick="closeMod()">&times;</span>
+      <img id="modImg"/>
+    </div>
+	</body>
+</html>

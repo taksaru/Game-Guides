@@ -1,0 +1,35 @@
+{
+  "num": "052",
+  "title": "Hat Weather",
+  "steps": [
+    "Walk Right",
+    [
+      "Yellow flag on left",
+      "White bucket on right",
+      "Middle fencepost"
+    ],
+    "Walk Left",
+    "Walk Down",
+    "Walk Right",
+    "Talk to Lopez"
+  ],
+  "solution": [
+    {
+      "img": "052S.gif",
+      "txt": "Fill the schedule as shown"
+    }
+  ],
+  "prev": {
+    "num": "047",
+    "name": "The Mayoral Election"
+  },
+  "next": [
+    {
+      "num": "051",
+      "name": "Crazy Cats"
+    },
+    {
+      "num": "051",
+      "name": "Flipped Cats"
+    }
+}

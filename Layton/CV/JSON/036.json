@@ -1,0 +1,26 @@
+{
+  "num": "036",
+  "title": "Strange Dots",
+  "steps": [
+    [
+      "Grass in middle",
+      "Lamp on left",
+      "Panel on left"
+    ],
+    "Look at cat"
+  ],
+  "solution": [
+    {
+      "img": "036S.gif",
+      "txt": "Forever alone mice can't breed"
+    }
+  ],
+  "prev": {
+    "num": "035",
+    "name": "Strange Dots"
+  },
+  "next": {
+    "num": "037",
+    "name": "Brother and Sister"
+  }
+}

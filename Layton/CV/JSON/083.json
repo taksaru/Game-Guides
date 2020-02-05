@@ -1,0 +1,22 @@
+{
+  "num": "083",
+  "title": "Too Many Queens 4",
+  "steps": [
+    "Give Hat Rack to Layton",
+    "Talk to Flick"
+  ],
+  "solution": [
+    {
+      "img": "083S.gif",
+      "txt": "Position the Queens as shown above"
+    }
+  ],
+  "prev": {
+    "num": "082",
+    "name": "Too Many Queens 3"
+  },
+  "next": {
+    "num": "120",
+    "name": "Get the Ball Out! 3"
+  }
+}

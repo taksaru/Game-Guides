@@ -1,0 +1,27 @@
+{
+  "num": "027",
+  "title": "A Dramatic Farewell",
+  "steps": [
+    [
+      "Left car steps",
+      "Stone right of steps",
+      "Top of street light"
+    ],
+    "Talk to Sammy",
+    "Examin poster on wall"
+  ],
+  "solution": [
+    {
+      "img": "027S.png",
+      "txt": "Train windows don't open like that"
+    }
+  ],
+  "prev": {
+    "num": "026",
+    "name": "Train Swap"
+  },
+  "next": {
+    "num": "041",
+    "name": "Cube Halves"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "num": "021",
+  "title": "Pill Prescription",
+  "steps": [
+    "Talk to Pauly again"
+  ],
+  "solution": [
+    {
+      "img": "021S.gif",
+      "txt": "He has to number 8 pills"
+    }
+  ],
+  "prev": [
+    {
+      "num": "020",
+      "name": "Unfriendly Commute"
+    },
+    {
+      "num": "020",
+      "name": "Unfriendly Neighbours"
+    }
+  ],
+  "next": {
+    "num": "022",
+    "name": "Pigpen Partitions"
+  }
+}

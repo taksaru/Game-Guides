@@ -1,0 +1,28 @@
+{
+  "num": "103",
+  "title": "Wood Cutouts",
+  "steps": [
+    "Give the Wall Clock to Layton",
+    "Talk to Gordon"
+  ],
+  "solution": [
+    {
+      "img": "103S.gif",
+      "txt": "Cut Ring D"
+    }
+  ],
+  "prev": {
+    "num": "061",
+    "name": "Pin Board Shapes"
+  },
+  "next": [
+    {
+      "num": "062",
+      "name": "Find a Star"
+    },
+    {
+      "num": "062",
+      "name": "A Mysterious Note"
+    }
+  ]
+}

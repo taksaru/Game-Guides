@@ -1,0 +1,77 @@
+{
+  "num": "004",
+  "title": "Houses of Hanoi",
+  "steps": [
+    "Talk to PC Beate",
+    "Talk to DC Booker",
+    "Enter tower",
+    "Investigate pipe connector on right for Reddish Wristwatch",
+    [
+      "Gear teeth at top",
+      "Wheel right of Hans Lipski"
+    ],
+    "Examine clock face on the left"
+  ],
+  "solution": [
+    {
+      "img": "004S01.gif",
+      "txt": "First to Third"
+    },
+    {
+      "img": "004S02.gif",
+      "txt": "Second to Third"
+    },
+    {
+      "img": "004S03.gif",
+      "txt": "Second to Third"
+    },
+    {
+      "img": "004S04.gif",
+      "txt": "Second to Third"
+    },
+    {
+      "img": "004S05.gif",
+      "txt": "First to Second"
+    },
+    {
+      "img": "004S06.gif",
+      "txt": "Third to Second"
+    },
+    {
+      "img": "004S07.gif",
+      "txt": "First to Second"
+    },
+    {
+      "img": "004S08.gif",
+      "txt": "First to Third"
+    },
+    {
+      "img": "004S09.gif",
+      "txt": "Second to First"
+    },
+    {
+      "img": "004S10.gif",
+      "txt": "Third to First"
+    },
+    {
+      "img": "004S11.gif",
+      "txt": "Third to Second"
+    },
+    {
+      "img": "004S12.gif",
+      "txt": "Third to First"
+    },
+    {
+      "img": "004S13.gif",
+      "txt": "Third to First"
+    }
+  ],
+  "prev": {
+    "num": "003",
+    "name": "Bubble Blast"
+  },
+  "next": {
+    "num": "005",
+    "name": "Alien Attack"
+  }
+}

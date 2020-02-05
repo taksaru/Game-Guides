@@ -1,0 +1,25 @@
+{
+  "num": "094",
+  "title": "Puzzling Cubes",
+  "a-title": "The Mystery Cube"
+  "steps": [
+    "Walk Left",
+    "Talk to Grinko",
+    "Walk right and left until Grinko is thirsty",
+    "Serve Tea 12 to Grinko"
+  ],
+  "solution": [
+    {
+      "img": "094S.png",
+      "txt": "B goes on top"
+    }
+  ],
+  "prev": {
+    "num": "095",
+    "name": "Box of Books"
+  },
+  "next": {
+    "num": "102",
+    "name": "Disappearing Act 2"
+  }
+}

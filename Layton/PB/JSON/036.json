@@ -1,0 +1,33 @@
+{
+  "num": "036",
+  "title": "The Trapped Bird",
+  "steps": [
+    "Walk Right",
+    [
+      "Chimney",
+      "Bottom right of blue roof",
+      "Fifth fence"
+    ],
+    "Talk to Laurel"
+  ],
+  "solution": [
+    {
+      "img": "036S.png",
+      "txt": "Tunnel B is the way out"
+    }
+  ],
+  "prev": [
+    {
+      "num": "000",
+      "name": "Which Arrow?"
+    },
+    {
+      "num": "029",
+      "name": "The Winning Arrow"
+    }
+  ],
+  "next": {
+    "num": "032",
+    "name": "It's a Wrap"
+  }
+}

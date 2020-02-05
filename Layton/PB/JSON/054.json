@@ -1,0 +1,27 @@
+{
+  "num": "054",
+  "title": "Painting the Flag",
+  "steps": [
+    "Talk to Kostya"
+  ],
+  "solution": [
+    {
+      "img": "054S.png",
+      "txt": "There are 36 Possibilities"
+    }
+  ],
+  "prev": {
+    "num": "035",
+    "name": "Which House Where?"
+  },
+  "next": [
+    {
+      "num": "040",
+      "name": "The Patterned Box"
+    },
+    {
+      "num": "040",
+      "name": "The Tiled Box"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "num": "049",
+  "title": "A Royal Show-off",
+  "steps": [
+    "Talk to Madeline"
+  ],
+  "solution": [
+    {
+      "img": "049S.png",
+      "txt": "Just one telephone is useless"
+    }
+  ],
+  "prev": [
+    {
+      "num": "040",
+      "name": "The Patterned Box"
+    },
+    {
+      "num": "040",
+      "name": "The Tiled Box"
+    }
+  ],
+  "next": {
+    "num": "055",
+    "name": "Sammy's Necklace"
+  }
+}

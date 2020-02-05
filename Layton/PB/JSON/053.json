@@ -1,0 +1,35 @@
+{
+  "num": "053",
+  "title": "Boys Club",
+  "steps": [
+    "Walk Right",
+    "Walk Up",
+    [
+      "Atop left pole",
+      "Left Bench",
+      "Barrel on right"
+    ],
+    "Talk to Jacques",
+    "Talk to Albert"
+  ],
+  "solution": [
+    {
+      "img": "053S.png",
+      "txt": "Start with man shown above"
+    }
+  ],
+  "prev": {
+    "num": "037",
+    "name": "World's Best Golfer"
+  },
+  "next": [
+    {
+      "num": "000",
+      "name": "The Wrong Date"
+    },
+    {
+      "num": "030A",
+      "name": "The Secret Message"
+    }
+  ]
+}

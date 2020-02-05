@@ -1,0 +1,230 @@
+{
+  "num": "132",
+  "title": "Princess's Escape",
+  "a-title": "Princess in a Box 2",
+  "steps": [
+    "The Golden Apple's House"
+  ],
+  "solution": [
+    {
+      "img": "132S01.png",
+      "txt": "Bottom right green block up"
+    },
+    {
+      "img": "132S02.png",
+      "txt": "Bottom purple block right"
+    },
+    {
+      "img": "132S03.png",
+      "txt": "Top purple block down"
+    },
+    {
+      "img": "132S04.png",
+      "txt": "Top right green block left"
+    },
+    {
+      "img": "132S05.png",
+      "txt": "Green block above right purple block left"
+    },
+    {
+      "img": "132S06.png",
+      "txt": "Right purple block up"
+    },
+    {
+      "img": "132S07.png",
+      "txt": "Bottom purple block right"
+    },
+    {
+      "img": "132S08.png",
+      "txt": "Bottom left green block right and up"
+    },
+    {
+      "img": "132S09.png",
+      "txt": "Bottom blue block right"
+    },
+    {
+      "img": "132S10.png",
+      "txt": "Red block down"
+    },
+    {
+      "img": "132S11.png",
+      "txt": "Green block right of hole left"
+    },
+    {
+      "img": "132S12.png",
+      "txt": "Green block right of top blue block down and left"
+    },
+    {
+      "img": "132S13.png",
+      "txt": "Top right green block left and down"
+    },
+    {
+      "img": "132S14.png",
+      "txt": "Top blue block right"
+    },
+    {
+      "img": "132S15.png",
+      "txt": "Top left green block up"
+    },
+    {
+      "img": "132S16.png",
+      "txt": "Green block above red block up"
+    },
+    {
+      "img": "132S17.png",
+      "txt": "Red block up"
+    },
+    {
+      "img": "132S18.png",
+      "txt": "Bottom blue block left"
+    },
+    {
+      "img": "132S19.png",
+      "txt": "Green block left of bottom purple block down"
+    },
+    {
+      "img": "132S20.png",
+      "txt": "Green block right of red block down"
+    },
+    {
+      "img": "132S21.png",
+      "txt": "Green block left of top purple block down"
+    },
+    {
+      "img": "132S22.png",
+      "txt": "Green block below top blue block down"
+    },
+    {
+      "img": "132S23.png",
+      "txt": "Top blue block down"
+    },
+    {
+      "img": "132S24.png",
+      "txt": "Right green block above red block right"
+    },
+    {
+      "img": "132S25.png",
+      "txt": "Top left green block right"
+    },
+    {
+      "img": "132S26.png",
+      "txt": "Red block up"
+    },
+    {
+      "img": "132S27.png",
+      "txt": "Left green block below top blue block left"
+    },
+    {
+      "img": "132S28.png",
+      "txt": "Green block below top blue block left"
+    },
+    {
+      "img": "132S29.png",
+      "txt": "Top blue block down"
+    },
+    {
+      "img": "132S30.png",
+      "txt": "Green block right of red block down and right"
+    },
+    {
+      "img": "132S31.png",
+      "txt": "Red block right"
+    },
+    {
+      "img": "132S32.png",
+      "txt": "Leftmost green block up"
+    },
+    {
+      "img": "132S33.png",
+      "txt": "Green block below red block left and up"
+    },
+    {
+      "img": "132S34.png",
+      "txt": "Right blue block left"
+    },
+    {
+      "img": "132S35.png",
+      "txt": "Bottom right green block up and left"
+    },
+    {
+      "img": "132S36.png",
+      "txt": "Bottom purple block left"
+    },
+    {
+      "img": "132S37.png",
+      "txt": "Right purple block down"
+    },
+    {
+      "img": "132S38.png",
+      "txt": "Top right green block right"
+    },
+    {
+      "img": "132S39.png",
+      "txt": "Green block right of red block right"
+    },
+    {
+      "img": "132S40.png",
+      "txt": "Red block right"
+    },
+    {
+      "img": "132S41.png",
+      "txt": "Green block above top blue block right and up"
+    },
+    {
+      "img": "132S42.png",
+      "txt": "Top blue block up"
+    },
+    {
+      "img": "132S43.png",
+      "txt": "Green block below red block left"
+    },
+    {
+      "img": "132S44.png",
+      "txt": "Green block right of bottom blue block up and left"
+    },
+    {
+      "img": "132S45.png",
+      "txt": "Left purple block left"
+    },
+    {
+      "img": "132S46.png",
+      "txt": "Right purple block left"
+    },
+    {
+      "img": "132S47.png",
+      "txt": "Bottom right green block down"
+    },
+    {
+      "img": "132S48.png",
+      "txt": "Top right green block down"
+    },
+    {
+      "img": "132S49.png",
+      "txt": "Red block right"
+    },
+    {
+      "img": "132S50.png",
+      "txt": "Left purple block up"
+    },
+    {
+      "img": "132S51.png",
+      "txt": "Bottom purple block left"
+    },
+    {
+      "img": "132S52.png",
+      "txt": "Top right green block left and down"
+    },
+    {
+      "img": "132S53.png",
+      "txt": "Red block down and out"
+    }
+  ],
+  "prev": {
+    "num": "131",
+    "name": "Heavier or Lighter?"
+  },
+  "next": {
+    "num": "133",
+    "name": "Finish the Equation"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "num": "098",
+  "title": "Card Order",
+  "steps": [
+    "Climb the Stairs",
+    [
+      "Left bench at back"
+    ],
+    "Talk to Martha"
+  ],
+  "solution": [
+    {
+      "img": "097S.gif",
+      "txt": "Diamond, Joker, Heart, Club, Spade"
+    }
+  ],
+  "prev": [
+    {
+      "num": "097",
+      "name": "Maiden's Escape"
+    },
+    {
+      "num": "097",
+      "name": "Princess in a Box 1"
+    }
+  ],
+  "next": {
+    "num": "099",
+    "name": "33333!"
+  }
+}

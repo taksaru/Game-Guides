@@ -1,0 +1,21 @@
+{
+  "num": "039",
+  "title": "A Change of Clothes",
+  "steps": [
+    "Talk to Lopez"
+  ],
+  "solution": [
+    {
+      "img": "039S.png",
+      "txt": "Dress them as shown"
+    }
+  ],
+  "prev": {
+    "num": "050",
+    "name": "Misinformootion"
+  },
+  "next": {
+    "num": "048",
+    "name": "Who's Mr Anderson?"
+  }
+}

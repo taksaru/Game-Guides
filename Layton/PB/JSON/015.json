@@ -1,0 +1,100 @@
+{
+  "num": "015",
+  "title": "Tom's True Identity",
+  "a-title": "Who Is Tom Really?"
+  "steps": [
+    "Leave the room",
+    "Walk down",
+    "Examine shoe on floor"
+  ],
+  "solution": [
+    {
+      "img": "015S01.png",
+      "txt": "Top left picture piece left"
+    },
+    {
+      "img": "015S02.png",
+      "txt": "Top left paw piece left"
+    },
+    {
+      "img": "015S03.png",
+      "txt": "Top right paw piece left"
+    },
+    {
+      "img": "015S04.png",
+      "txt": "Top right picture piece left"
+    },
+    {
+      "img": "015S05.png",
+      "txt": "Bottom right picture piece right"
+    },
+    {
+      "img": "015S06.png",
+      "txt": "Bottom right paw piece right and up"
+    },
+    {
+      "img": "015S07.png",
+      "txt": "Bottom right picture piece up"
+    },
+    {
+      "img": "015S08.png",
+      "txt": "Bottom paw piece right"
+    },
+    {
+      "img": "015S09.png",
+      "txt": "Bottom picture piece right"
+    },
+    {
+      "img": "015S10.png",
+      "txt": "Leftmost paw piece down and right"
+    },
+    {
+      "img": "015S11.png",
+      "txt": "Leftmost picture piece down and right"
+    },
+    {
+      "img": "015S12.png",
+      "txt": "Top left paw piece left and down"
+    },
+    {
+      "img": "015S13.png",
+      "txt": "Top left picture piece left and down"
+    },
+    {
+      "img": "015S14.png",
+      "txt": "Top paw piece left"
+    },
+    {
+      "img": "015S15.png",
+      "txt": "Top picture piece left into place"
+    },
+    {
+      "img": "015S16.png",
+      "txt": "Rightmost paw piece up"
+    },
+    {
+      "img": "015S17.png",
+      "txt": "Rightmost picture piece up and left"
+    },
+    {
+      "img": "015S18.png",
+      "txt": "Bottom paw piece right"
+    },
+    {
+      "img": "015S19.png",
+      "txt": "Bottom right picture piece right into position"
+    },
+    {
+      "img": "015S20.png",
+      "txt": "Bottom left picture piece right"
+    }
+  ],
+  "prev": {
+    "num": "021",
+    "name": "Pass It On"
+  },
+  "next": {
+    "num": "012",
+    "name": "Clouds and Sky"
+  }
+}

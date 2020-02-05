@@ -1,0 +1,27 @@
+{
+  "num": "057",
+  "title": "Cut Which One?",
+  "steps": [
+    "Give the Desk to Luke",
+    "Walk Up",
+    [
+      "Chimney left of clock tower",
+      {"mobile": "Lamp in house of puzzles"}
+    ],
+    "Talk to Deke"
+  ],
+  "solution": [
+    {
+      "img": "057S.gif",
+      "txt": "Cut Ring D"
+    }
+  ],
+  "prev": {
+    "num": "053",
+    "name": "Fish Thief"
+  },
+  "next": {
+    "num": "052",
+    "name": "Find a Star"
+  }
+}

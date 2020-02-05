@@ -41,12 +41,12 @@
 ![Hyrule7](images/Hyrule7.PNG)
 
 * Korok 829: Rock to NE
-* Blue Hinox to S (36/40)
-* Recovered Memory 16 to SE (15/18)
+* Blue Hinox to S (37/40)
+* Recovered Memory 16 - Despair to SE (15/18)
 * Korok 830: Roll boulder to N
 * Korok 831: Rock under bridge to NE
 * Korok 832: Apple trees to NW
-* Blue Hinox to N (37/40)
+* Blue Hinox to N (38/40)
 * Korok 833: Acorn below bridge to NW
 
 ![Hyrule8](images/Hyrule8.PNG)
@@ -58,11 +58,11 @@
 * Korok 837: Fairylights atop dead tree to W
 * Korok 838: Rock to SW
 * Korok 839: Lilies to NW
-* Stone Talus Luminous to NE (38/40)
+* Stone Talus (Luminous) to NE (38/40)
 * Korok 840: Magnesis puzzle to NW
 * Helmhead Bridge to NW
 * Korok 841: Acorn in tree to S
-* Stalnox to SW (38/40)
+* Stalnox to SW (39/40)
 * Korok 842: Rock atop fountain to W
 * Korok 843: Rock circle to SE
 * Korok 844: Rock beneath leaves to SW
@@ -75,7 +75,7 @@
 * Korok 848: Shoot shield atop N side of gate to W
 * Drop Travel Medallion
 * Korok 849: Rock atop NE pillar to S
-* Recovered Memory 1 (16/18)
+* Recovered Memory 1 - Subdued Ceremony (16/18)
 * Side Quest: EX Treasure Phantasma
   * Phantom Armor
 * Korok 850: Rock to SE

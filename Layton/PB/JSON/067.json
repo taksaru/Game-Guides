@@ -1,0 +1,35 @@
+{
+  "num": "067",
+  "title": "Sammy's Working Week",
+  "a-title": "Sammy's Work Week"
+  "steps": [
+    "Walk down",
+    "Walk down",
+    "Walk left",
+    "Walk down",
+    "Walk down",
+    "Walk up and down until Sammy is thirst",
+    "Serve Tea 11 to Sammy",
+    "Talk to Sammy again"
+  ],
+  "solution": [
+    {
+      "img": "067S.png",
+      "txt": "Sammy works 219 days a year"
+    }
+  ],
+  "prev": [
+    {
+      "num": "000",
+      "name": "Piles of Pancakes 3"
+    },
+    {
+      "num": "084",
+      "name": "Pancake Stacks 3"
+    }
+  ],
+  "next": {
+    "num": "091",
+    "name": "Sharing the Wealth"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "num": "042",
+  "title": "Board Cutter 1",
+  "a-title": "Board Splitter 1",
+  "steps": [
+    "Walk Down",
+    "Talk to Balsa"
+  ],
+  "solution": [
+    {
+      "img": "042S.png",
+      "txt": "Cut the board at the shown points"
+    }
+  ],
+  "prev": {
+    "num": "044",
+    "name": "Tangled Ropes"
+  },
+  "next": [
+    {
+      "num": "043",
+      "name": "Board Cutter 2"
+    },
+    {
+      "num": "043",
+      "name": "Board Splitter 2"
+    }
+  ]
+}

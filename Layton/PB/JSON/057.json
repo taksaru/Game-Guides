@@ -1,0 +1,25 @@
+{
+  "num": "057",
+  "title": "Smell the Roses",
+  "steps": [
+    [
+      "Back Light",
+      "Bottom strip beside left door"
+    ],
+    "Enter middle door"
+  ],
+  "solution": [
+    {
+      "img": "057S.png",
+      "txt": "Arrange the roses as shown"
+    }
+  ],
+  "prev": {
+    "num": "056",
+    "name": "The Door's Code"
+  },
+  "next": {
+    "num": "058",
+    "name": "In the Tunnel"
+  }
+}

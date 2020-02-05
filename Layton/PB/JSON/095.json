@@ -1,0 +1,46 @@
+{
+  "num": "095",
+  "title": "Box of Books",
+  "steps": [
+    "Enter door on left",
+    [
+      "Bottom right diplay leg",
+      "Bottom left square tile",
+      "Bottom part of leftmost pillar"
+    ],
+    "Talk to Grinko",
+    "Examine display case",
+    "Examine statue at the back",
+    "Walk right",
+    [
+      "Top right of map in back",
+      "Coat cuff in left display",
+      "Right scale plate"
+    ],
+    "Examine painting above left display case",
+    "Examine roped-off painting",
+    "Take Photo",
+    "<ul><li>Sleeve cuff</li><li>Map in back display</li><li>Right display</li></ul>",
+    "Hidden Puzzle"
+  ],
+  "solution": [
+    {
+      "img": "095S.png",
+      "txt": "You can fit 6 books"
+    }
+  ],
+  "prev": {
+    "num": "108",
+    "name": "The Knight's Tour"
+  },
+  "next": [
+    {
+      "num": "094",
+      "name": "Puzzling Cubes"
+    },
+    {
+      "num": "094",
+      "name": "The Mystery Cube"
+    }
+  ]
+}

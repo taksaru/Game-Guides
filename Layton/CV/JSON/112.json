@@ -1,0 +1,28 @@
+{
+  "num": "112",
+  "title": "My Beloved",
+  "steps": [
+    "Give Handwoven Rug to Layton",
+    "Examine picture above Beatrice"
+  ],
+  "solution": [
+    {
+      "img": "112S.gif",
+      "txt": "Form a silhouette of negative space"
+    }
+  ],
+  "prev": {
+    "num": "018",
+    "name": "Of Dust and Dustpan"
+  },
+  "next": [
+    {
+      "num": "019",
+      "name": "Car Park Gridlock"
+    },
+    {
+      "num": "019",
+      "name": "Parking Lot Gridlock"
+    }
+  ]
+}

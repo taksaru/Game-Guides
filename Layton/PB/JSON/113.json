@@ -1,0 +1,31 @@
+{
+  "num": "113",
+  "title": "A Stack of Dice",
+  "steps": [
+    "Leave Grocery store",
+    "Walk Down",
+    "Walk Right",
+    "Walk Right",
+    "Talk to Hopper"
+  ],
+  "solution": [
+    {
+      "img": "113S.png",
+      "txt": "6 is on top"
+    }
+  ],
+  "prev": {
+    "num": "098",
+    "name": "Jars and Cans"
+  },
+  "next": [
+    {
+      "num": "083",
+      "name": "Piles of Pancakes 2"
+    },
+    {
+      "num": "083",
+      "name": "Pancake Stacks 2"
+    }
+  ]
+}

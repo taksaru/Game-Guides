@@ -1,0 +1,28 @@
+{
+  "num": "010A",
+  "title": "Alphabet",
+  "steps": [
+    [
+      "Oval picture partways up the stairs",
+      "Wall light to left of bookcase",
+      "Top chelf of bookcase"
+    ],
+    {"mobile": "Top Oval picture for Stellar Stone Charm"},
+    "Admire the paintings",
+    "Examine middle of bookcase"
+  ],
+  "solution": [
+    {
+      "img": "010AS.gif",
+      "txt": "T is the last letter of the alphabet"
+    }
+  ],
+  "prev": {
+    "num": "009",
+    "name": "One Poor Pooch"
+  },
+  "next": {
+    "num": "011",
+    "name": "Arc and Line"
+  }
+}

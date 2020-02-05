@@ -1,0 +1,32 @@
+{
+  "num": "120",
+  "title": "Tug of War",
+  "steps": [
+    "Leave Photo Studio",
+    "Walk Up",
+    "Look at precious",
+    "Walk Left",
+    "Walk Left",
+    "Talk to Lila"
+  ],
+  "solution": [
+    {
+      "img": "120S.png",
+      "txt": "Only D is needed"
+    }
+  ],
+  "prev": {
+    "num": "096",
+    "name": "A Ghostly Puzzle"
+  },
+  "next": [
+    {
+      "num": "075",
+      "name": "Sweets for Five"
+    },
+    {
+      "num": "075",
+      "name": "Candy for Five"
+    }
+  ]
+}

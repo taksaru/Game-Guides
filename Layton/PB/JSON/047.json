@@ -1,0 +1,27 @@
+{
+  "num": "047",
+  "title": "The Mayoral Election",
+  "steps": [
+    "Examine Town Hall Front door"
+  ],
+  "solution": [
+    {
+      "img": "047S.png",
+      "txt": "20 votes are needed to win"
+    }
+  ],
+  "prev": [
+    {
+      "num": "030",
+      "name": "The Wrong Date"
+    },
+    {
+      "num": "030A",
+      "name": "The Secret Message"
+    }
+  ],
+  "next": {
+    "num": "052",
+    "name": "Hat Weather"
+  }
+}

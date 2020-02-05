@@ -1,0 +1,81 @@
+{
+  "num": "090",
+  "title": "Get the Ball Out! 2",
+  "steps": [
+    "Give Artisan's Teapot to Layton",
+    "Walk Left",
+    [
+      "Stone in middle of right wall",
+      "Pebble in middle of floor",
+      "Moss on right",
+      "Middle of tiles"
+    ],
+    "Examine panel"
+  ],
+  "solution": [
+    {
+      "img": "090S01.gif",
+      "txt": "Bottom blue block right"
+    },
+    {
+      "img": "090S02.gif",
+      "txt": "Bottom purple block right and down"
+    },
+    {
+      "img": "090S03.gif",
+      "txt": "Bottom blue block left"
+    },
+    {
+      "img": "090S04.gif",
+      "txt": "Right purple block down and right"
+    },
+    {
+      "img": "090S05.gif",
+      "txt": "Top blue block left"
+    },
+    {
+      "img": "090S06.gif",
+      "txt": "Right green block down"
+    },
+    {
+      "img": "090S07.gif",
+      "txt": "Top purple block far right"
+    },
+    {
+      "img": "090S08.gif",
+      "txt": "Yellow block up and right"
+    },
+    {
+      "img": "090S09.gif",
+      "txt": "Move orb all the way down"
+    },
+    {
+      "img": "090S10.gif",
+      "txt": "Left purple block right and up"
+    },
+    {
+      "img": "090S11.gif",
+      "txt": "Left green block up"
+    },
+    {
+      "img": "090S12.gif",
+      "txt": "Bottom blue block left"
+    },
+    {
+      "img": "090S13.gif",
+      "txt": "Bottom purple block up"
+    },
+    {
+      "img": "090S14.gif",
+      "txt": "Move orb to the exit"
+    }
+  ],
+  "prev": {
+    "num": "116",
+    "name": "The Largest Total"
+  },
+  "next": {
+    "num": "090",
+    "name": "Get the Ball Out! 2"
+  }
+}

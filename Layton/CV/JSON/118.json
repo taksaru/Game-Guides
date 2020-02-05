@@ -1,0 +1,21 @@
+{
+  "num": "118",
+  "title": "Red and Black Cards",
+  "steps": [
+    "Examine the bottom pane of the right window"
+  ],
+  "solution": [
+    {
+      "img": "118S.gif",
+      "txt": "The cards would match 1000 times"
+    }
+  ],
+  "prev": {
+    "num": "016",
+    "name": "Triangles and Ink"
+  },
+  "next": {
+    "num": "017",
+    "name": "Five-Card Shuffle"
+  }
+}

@@ -5,7 +5,7 @@
 * Chaas Qeta Shrine far to SW on ocean (101/120)
 * Korok 656: Race to E
 * Shrine Quest: Stranded on Eventide to SE
-  * Blue Hinox (25/40)
+  * Blue Hinox (26/40)
   * Korgu Shideh Shrine (102/120)
 * Warp to Hateno Tower
 

@@ -1,0 +1,25 @@
+{
+  "num": "074",
+  "title": "Broken Window",
+  "steps": [
+    "Give Teak Table to Layton",
+    "Leave Archibald's",
+    "Walk Up",
+    "Walk Left",
+    "Talk to Agnes"
+  ],
+  "solution": [
+    {
+      "img": "074S.gif",
+      "txt": "Kid A broke your window"
+    }
+  ],
+  "prev": {
+    "num": "109",
+    "name": "Laziest Man on Earth"
+  },
+  "next": {
+    "num": "075",
+    "name": "The Wire Cube"
+  }
+}

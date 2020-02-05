@@ -1,0 +1,21 @@
+{
+  "num": "028",
+  "title": "Find the Dot",
+  "steps": [
+    "Talk to Matthew"
+  ],
+  "solution": [
+    {
+      "img": "028S.gif",
+      "txt": "The dot ends up in the lower right corner"
+    }
+  ],
+  "prev": {
+    "num": "027",
+    "name": "Bickering Brothers"
+  },
+  "next": {
+    "num": "029",
+    "name": "Five Suspects"
+  }
+}

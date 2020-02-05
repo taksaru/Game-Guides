@@ -1,0 +1,136 @@
+{
+  "num": "107",
+  "title": "The Knight's Tour 2",
+  "steps": [
+    "Walk Up",
+    "Walk Down and Up until Gregorio is Thirsty",
+    "Brew Tea 08 for Gregorio",
+    "Speak to Gregorio"
+  ],
+  "solution": [
+    {
+      "img": "107S01.png",
+      "txt": "Right square"
+    },
+    {
+      "img": "107S02.png",
+      "txt": "Top right square"
+    },
+    {
+      "img": "107S03.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "107S04.png",
+      "txt": "Right square"
+    },
+    {
+      "img": "107S05.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "107S06.png",
+      "txt": "Left square"
+    },
+    {
+      "img": "107S07.png",
+      "txt": "Top square"
+    },
+    {
+      "img": "107S08.png",
+      "txt": "Top square"
+    },
+    {
+      "img": "107S09.png",
+      "txt": "Right square"
+    },
+    {
+      "img": "107S10.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "107S11.png",
+      "txt": "Bottom right square"
+    },
+    {
+      "img": "107S12.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "107S13.png",
+      "txt": "Bottom left square"
+    },
+    {
+      "img": "107S14.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "107S15.png",
+      "txt": "Left square"
+    },
+    {
+      "img": "107S16.png",
+      "txt": "Move Knight"
+    },,
+    {
+      "img": "107S17.png",
+      "txt": "Right square"
+    },
+    {
+      "img": "107S18.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "107S19.png",
+      "txt": "Left square"
+    },
+    {
+      "img": "107S20.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "107S21.png",
+      "txt": "Top square"
+    },
+    {
+      "img": "107S22.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "107S23.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "107S24.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "107S25.png",
+      "txt": "Left square"
+    },
+    {
+      "img": "107S26.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "107S27.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "107S28.png",
+      "txt": "Move Knight"
+    },
+    {
+      "img": "107S29.png",
+      "txt": "Move Knight"
+    }
+  ],
+  "prev": {
+    "num": "090",
+    "name": "The Unusual Fountain"
+  },
+  "next": {
+    "num": "108",
+    "name": "The Knight's Tour 3"
+  }
+}

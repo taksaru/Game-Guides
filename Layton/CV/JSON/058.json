@@ -1,0 +1,65 @@
+{
+  "num": "058",
+  "title": "Get the Ball Out! 1",
+  "steps": [
+    "Examine the door right of Percy"
+  ],
+  "solution": [
+    {
+      "img": "058S01.gif",
+      "txt": "Right Blue up"
+    },
+    {
+      "img": "058S02.gif",
+      "txt": "Top Purple up and left"
+    },
+    {
+      "img": "058S03.gif",
+      "txt": "Right Purple up"
+    },
+    {
+      "img": "058S04.gif",
+      "txt": "Bottom Yellow right"
+    },
+    {
+      "img": "058S05.gif",
+      "txt": "Left Blue down and right"
+    },
+    {
+      "img": "058S06.gif",
+      "txt": "Green down"
+    },
+    {
+      "img": "058S07.gif",
+      "txt": "Top Yellow Left"
+    },
+    {
+      "img": "058S08.gif",
+      "txt": "Orb All the Way Down"
+    },
+    {
+      "img": "058S09.gif",
+      "txt": "Top Yellow Right"
+    },
+    {
+      "img": "058S10.gif",
+      "txt": "Green Up"
+    },
+    {
+      "img": "058S11.gif",
+      "txt": "Bottom Blue Left"
+    },
+    {
+      "img": "058S12.gif",
+      "txt": "Orb to Exit"
+    }
+  ],
+  "prev": {
+    "num": "034",
+    "name": "How Many Sheets?"
+  },
+  "next": {
+    "num": "024",
+    "name": "Milk Pitchers"
+  }
+}

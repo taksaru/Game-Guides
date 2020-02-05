@@ -1,0 +1,65 @@
+{
+  "num": "003",
+  "title": "Bubble Blast",
+  "steps": [
+    "Walk to tower",
+    [
+      "Left tree",
+      "Top of right gate pillar",
+      "Top of distant tower"
+    ],
+    "Talk to Gudrun Weldon"
+  ],
+  "solution": [
+    {
+      "img": "003S01.gif",
+      "txt": "Shoot 4 bubble to 4th column, 3rd row"
+    },
+    {
+      "img": "003S02.gif",
+      "txt": "Shoot 5 bubble to the 3rd column, 3rd row"
+    },
+    {
+      "img": "003S03.gif",
+      "txt": "Shoot 5 bubble to the 3rd column, 1st row"
+    },
+    {
+      "img": "003S04.gif",
+      "txt": "Shoot 3 bubble to the 3rd column, 4th row"
+    },
+    {
+      "img": "003S05.gif",
+      "txt": "Shoot 3 bubble to the 5th column, 2nd row"
+    },
+    {
+      "img": "003S06.gif",
+      "txt": "Shoot 2 bubble to the 1st column, 2nd row"
+    },
+    {
+      "img": "003S07.gif",
+      "txt": "Shoot 2 bubble to the 5th column, 3rd row"
+    },
+    {
+      "img": "003S08.gif",
+      "txt": "Shoot 4 bubble to the 6th column, 3rd row"
+    },
+    {
+      "img": "003S09.gif",
+      "txt": "Shoot 4 bubble to the 6th column, 2nd row"
+    }
+  ],
+  "prev": {
+    "num": "002",
+    "name": "The Hands of Time"
+  },
+  "next": [
+    {
+      "num": "004",
+      "name": "Houses of Hanoi"
+    },
+    {
+      "num": "004",
+      "name": "A-Maze-Balls"
+    }
+  ]
+}

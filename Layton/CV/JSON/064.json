@@ -1,0 +1,61 @@
+{
+  "num": "064",
+  "title": "Odd Equations",
+  "steps": [
+    "Walk downstairs",
+    "Leave the Manor",
+    "Talk to Ramon",
+    "Walk Up",
+    "Talk to Matthew",
+    "Leave the Manor",
+    "Walk Down",
+    "Continue Down",
+    "Talk to Ingrid",
+    "Walk Up",
+    "Talk to Matthew",
+    "Walk Up",
+    "Enter the Manor",
+    "Go Upstairs",
+    "Enter door on the left",
+    "Examine books on the desk",
+    "Leave the room",
+    "Walk downstairs",
+    "Leave the manor",
+    "Talk to Ingrid",
+    "Walk down",
+    "Walk down",
+    "Walk Left",
+    "Enter Rightmost door",
+    [
+      "Draw in desk by door"
+    ],
+    {"mobile": "Check picture above right window for Strawberry Cobbler Charm"},
+    "Talk to Rodney"
+  ],
+  "solution": [
+    {
+      "img": "064S.gif",
+      "txt": "1"
+    }
+  ],
+  "prev": [
+    {
+      "num": "063",
+      "name": "Mother's Age"
+    },
+    {
+      "num": "063",
+      "name": "How Old Is Mom?"
+    }
+  ],
+  "next": [
+    {
+      "num": "065",
+      "name": "Letters and Numbers"
+    },
+    {
+      "num": "065",
+      "name": "What's E?"
+    }
+  ]
+}

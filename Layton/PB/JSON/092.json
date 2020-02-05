@@ -1,0 +1,21 @@
+{
+  "num": "092",
+  "title": "Precious Metals",
+  "steps": [
+    "Talk to Krantz"
+  ],
+  "solution": [
+    {
+      "img": "092S.png",
+      "txt": "Claim the plot shown"
+    }
+  ],
+  "prev": {
+    "num": "110",
+    "name": "Chelmey's Route"
+  },
+  "next": {
+    "num": "111",
+    "name": "How Many Turns?"
+  }
+}

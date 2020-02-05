@@ -1,0 +1,25 @@
+{
+  "num": "096A",
+  "title": "Take the Stairs",
+  "steps": [
+    "Climb the Stairs",
+    [
+      "Candle on right wall"
+    ],
+    "Talk to Pavel"
+  ],
+  "solution": [
+    {
+      "img": "096AS.gif",
+      "txt": "It will take 64 seconds"
+    }
+  ],
+  "prev": {
+    "num": "095",
+    "name": "A Magic Square"
+  },
+  "next": {
+    "num": "097",
+    "name": "Princess in a Box 1"
+  }
+}

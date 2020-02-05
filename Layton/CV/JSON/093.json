@@ -1,0 +1,55 @@
+{
+  "num": "093",
+  "title": "Over the River",
+  "steps": [
+    "Walk Down",
+    "Go Up the manhole",
+    "Walk Right",
+    "Walk Down",
+    "Enter Inn",
+    "Talk to Beatrice",
+    "Leave Inn",
+    "Walk Up",
+    "Walk Right",
+    "Walk Up",
+    "Talk to Ramon"
+  ],
+  "solution": [
+    {
+      "img": "093S01.gif",
+      "txt": "Move right with sheep"
+    },
+    {
+      "img": "093S02.gif",
+      "txt": "Move left alone"
+    },
+    {
+      "img": "093S03.gif",
+      "txt": "Move right with cabbage"
+    },
+    {
+      "img": "093S04.gif",
+      "txt": "Move left with sheep"
+    },
+    {
+      "img": "093S05.gif",
+      "txt": "Move right with wolf"
+    },
+    {
+      "img": "093S06.gif",
+      "txt": "Move left alone"
+    },
+    {
+      "img": "093S07.gif",
+      "txt": "Move right with sheep"
+    }
+  ],
+  "prev": {
+    "num": "091",
+    "name": "Pattern Matching"
+  },
+  "next": {
+    "num": "104",
+    "name": "A Sweet Treat"
+  }
+}

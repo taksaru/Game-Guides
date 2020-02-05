@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 120</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Leave the Restaurant</li>
+        <li>Walk Up</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Small Stone in left wall</label></li>
+        </ul></li>
+        <li>Examine Sign</li>
+        <li>Walk Down</li>
+        <li>Walk Right</li>
+        <li>Enter Rightmost door</li>
+        <li>Talk to Rodney</li>
+        <li>Leave Town Hall</li>
+        <li>Walk Left</li>
+        <li>Go down manhole</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Bottom rung</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Crack left of ladder</label></li>
+          <li><input type="checkbox" id="hc3"/><label for="hc3">Water on left</label></li>
+        </ul></li>
+        <li class="mobile">Check light for Sapphire Pendant Charm</li>
+        <li>Talk to Pavel</li>
+        <li>Look at manhole</li>
+      </ul>
+    </div>
+    <h1>120 - Get the Ball Out! 3</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/120H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/120H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/120H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/120S01.gif" onclick="bigMe(this)"/>
+        <p>Bottom right blue block right</p>
+      </section>
+      <section>
+        <img src="images/120S02.gif" onclick="bigMe(this)"/>
+        <p>Bottom purple block right and down</p>
+      </section>
+      <section>
+        <img src="images/120S03.gif" onclick="bigMe(this)"/>
+        <p>Yellow block down</p>
+      </section>
+      <section>
+        <img src="images/120S04.gif" onclick="bigMe(this)"/>
+        <p>Top purple block down</p>
+      </section>
+      <section>
+        <img src="images/120S05.gif" onclick="bigMe(this)"/>
+        <p>Top blue block right</p>
+      </section>
+      <section>
+        <img src="images/120S06.gif" onclick="bigMe(this)"/>
+        <p>Left blue block up</p>
+      </section>
+      <section>
+        <img src="images/120S07.gif" onclick="bigMe(this)"/>
+        <p>Top purple block far left</p>
+      </section>
+      <section>
+        <img src="images/120S08.gif" onclick="bigMe(this)"/>
+        <p>Left green block up</p>
+      </section>
+      <section>
+        <img src="images/120S09.gif" onclick="bigMe(this)"/>
+        <p>Yellow block up</p>
+      </section>
+      <section>
+        <img src="images/120S10.gif" onclick="bigMe(this)"/>
+        <p>Bottom blue block far left</p>
+      </section>
+      <section>
+        <img src="images/120S11.gif" onclick="bigMe(this)"/>
+        <p>Right blue block down and left</p>
+      </section>
+      <section>
+        <img src="images/120S12.gif" onclick="bigMe(this)"/>
+        <p>Right green block down and right</p>
+      </section>
+      <section>
+        <img src="images/120S13.gif" onclick="bigMe(this)"/>
+        <p>Top  right blue block right</p>
+      </section>
+      <section>
+        <img src="images/120S14.gif" onclick="bigMe(this)"/>
+        <p>Yellow block right</p>
+      </section>
+      <section>
+        <img src="images/120S15.gif" onclick="bigMe(this)"/>
+        <p>Bottom right blue block right</p>
+      </section>
+      <section>
+        <img src="images/120S16.gif" onclick="bigMe(this)"/>
+        <p>Move Orb all the way down</p>
+      </section>
+      <section>
+        <img src="images/120S17.gif" onclick="bigMe(this)"/>
+        <p>Yellow block left and up</p>
+      </section>
+      <section>
+        <img src="images/120S18.gif" onclick="bigMe(this)"/>
+        <p>Bottom right blue block up</p>
+      </section>
+      <section>
+        <img src="images/120S19.gif" onclick="bigMe(this)"/>
+        <p>Bottom purple block up and right</p>
+      </section>
+      <section>
+        <img src="images/120S20.gif" onclick="bigMe(this)"/>
+        <p>Move Orb to exit</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('083')">Too Many Queens 4</u></p>
+    <p class="next">Next: <u onclick="changePage('084')">Which Boxes to Move?</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

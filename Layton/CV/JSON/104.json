@@ -1,0 +1,32 @@
+{
+  "num": "104",
+  "title": "A Sweet Treat",
+  "steps": [
+    "Assemble Painting",
+    "Cross Stream",
+    "Enter Manor",
+    "Go Upstairs",
+    "Talk to Dahlia",
+    "Go Downstairs",
+    "Walk Down",
+    "Walk Left",
+    "Enter Clock Tower",
+    "Walk Right",
+    "Enter Left Door",
+    "Talk to Prosciutto"
+  ],
+  "solution": [
+    {
+      "img": "104S.gif",
+      "txt": "Divid chocolate as shown"
+    }
+  ],
+  "prev": {
+    "num": "093",
+    "name": "Over the River"
+  },
+  "next": {
+    "num": "105",
+    "name": "Rolling a Three"
+  }
+}

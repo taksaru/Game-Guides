@@ -1,0 +1,101 @@
+{
+  "num": "106",
+  "title": "The Knight's Tour",
+  "steps": [
+    "Climb downstairs",
+    "Walk Down",
+    "Enter Red Building",
+    [
+      "Hanging ring",
+      "Top of bottom left barrel",
+      "Open drawer left of register"
+    ],
+    "Talk to Garland",
+    "Leave the store",
+    "Walk left",
+    [
+      "Rightmost spike over gate",
+      "Crumbled wall",
+      "Grass below pillar"
+    ],
+    "Walk down",
+    "Walk Right",
+    [
+      "Left streetlight",
+      "Sign above door on left",
+      "Low right roof"
+    ],
+    "Talk to Parcelle",
+    "Walk Down",
+    "Walk Down",
+    "Walk Right",
+    "Enter Museum",
+    [
+      "Crack in bottom left path tiles",
+      "Plant to right back of fountain",
+      "Under left plant branches"
+    ],
+    "Talk to Beluga or Sammy",
+    "Walk Up",
+    [
+      "Hanging lamp",
+      "Moss at base of pillar",
+      "Left plant"
+    ],
+    "Talk to Gregorio"
+  ],
+  "solution": [
+    {
+      "img": "106S01.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "106S02.png",
+      "txt": "Move knight"
+    },
+    {
+      "img": "106S03.png",
+      "txt": "Move knight"
+    },
+    {
+      "img": "106S04.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "106S05.png",
+      "txt": "Move knight"
+    },
+    {
+      "img": "106S06.png",
+      "txt": "Move knight"
+    },
+    {
+      "img": "106S07.png",
+      "txt": "Bottom square"
+    },
+    {
+      "img": "106S08.png",
+      "txt": "Move knight"
+    },
+    {
+      "img": "106S09.png",
+      "txt": "Move knight"
+    },
+    {
+      "img": "106S10.png",
+      "txt": "Move knight"
+    },
+    {
+      "img": "106S11.png",
+      "txt": "Move knight"
+    }
+  ],
+  "prev": {
+    "num": "076",
+    "name": "Top of the Tower"
+  },
+  "next": {
+    "num": "110",
+    "name": "Chelmey's Route"
+  }
+}

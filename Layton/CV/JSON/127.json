@@ -1,0 +1,21 @@
+{
+  "num": "127",
+  "title": "Perimeter Perplexer",
+  "steps": [
+    "The Art Lover's House"
+  ],
+  "solution": [
+    {
+      "img": "127S.gif",
+      "txt": "Permieter is 26"
+    }
+  ],
+  "prev": {
+    "num": "126",
+    "name": "Missing Number"
+  },
+  "next": {
+    "num": "128",
+    "name": "Number Lock"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "num": "027",
+  "title": "Bickering Brothers",
+  "steps": [
+    "Retrieve Claudia",
+    "Talk to Gordon"
+  ],
+  "solution": [
+    {
+      "img": "027S.gif",
+      "txt": "This solution can be inverted and still work"
+    }
+  ],
+  "prev": {
+    "num": "026",
+    "name": "Bottle Full of Germs"
+  },
+  "next": {
+    "num": "028",
+    "name": "Find the Dot"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "num": "047",
+  "title": "On the Run",
+  "steps": [
+    "Enter the Inn",
+    "Walk Up",
+    "Talk to Gerard"
+  ],
+  "solution": [
+    {
+      "img": "047S.gif",
+      "txt": "The bandit can't pass through exit B"
+    }
+  ],
+  "prev": [
+    {
+      "num": "113",
+      "name": "Pet Menagerie"
+    },
+    {
+      "num": "113A",
+      "name": "Pet Hotel"
+    }
+  ],
+  "next": {
+    "num": "048",
+    "name": "Cats and Mice"
+  }
+}

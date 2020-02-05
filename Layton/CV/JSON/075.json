@@ -1,0 +1,21 @@
+{
+  "num": "075",
+  "title": "The Wire Cube",
+  "steps": [
+    "Talk to Agnes"
+  ],
+  "solution": [
+    {
+      "img": "075S.gif",
+      "txt": "You'll need 4 wires"
+    }
+  ],
+  "prev": {
+    "num": "074",
+    "name": "Broken Window"
+  },
+  "next": {
+    "num": "119",
+    "name": "Red and Blue 1"
+  }
+}

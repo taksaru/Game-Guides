@@ -1,0 +1,117 @@
+{
+  "num": "120",
+  "title": "Get the Ball Out! 3",
+  "steps": [
+    "Leave the Restaurant",
+    "Walk Up",
+    [
+      "Small Stone in left wall"
+    ],
+    "Examine Sign",
+    "Walk Down",
+    "Walk Right",
+    "Enter Rightmost door",
+    "Talk to Rodney",
+    "Leave Town Hall",
+    "Walk Left",
+    "Go down manhole",
+    [
+      "Bottom rung",
+      "Crack left of ladder",
+      "Water on left"
+    ],
+    {"mobile": "Check light for Sapphire Pendant Charm"},
+    "Talk to Pavel",
+    "Look at manhole"
+  ],
+  "solution": [
+    {
+      "img": "120S01.gif",
+      "txt": "Bottom right blue block right"
+    },
+    {
+      "img": "120S02.gif",
+      "txt": "Bottom purple block right and down"
+    },
+    {
+      "img": "120S03.gif",
+      "txt": "Yellow block down"
+    },
+    {
+      "img": "120S04.gif",
+      "txt": "Top purple block down"
+    },
+    {
+      "img": "120S05.gif",
+      "txt": "Top blue block right"
+    },
+    {
+      "img": "120S06.gif",
+      "txt": "Left blue block up"
+    },
+    {
+      "img": "120S07.gif",
+      "txt": "Top purple block far left"
+    },
+    {
+      "img": "120S08.gif",
+      "txt": "Left green block up"
+    },
+    {
+      "img": "120S09.gif",
+      "txt": "Yellow block up"
+    },
+    {
+      "img": "120S10.gif",
+      "txt": "Bottom blue block far left"
+    },
+    {
+      "img": "120S11.gif",
+      "txt": "Right blue block down and left"
+    },
+    {
+      "img": "120S12.gif",
+      "txt": "Right green block down and right"
+    },
+    {
+      "img": "120S13.gif",
+      "txt": "Top  right blue block right"
+    },
+    {
+      "img": "120S14.gif",
+      "txt": "Yellow block right"
+    },
+    {
+      "img": "120S15.gif",
+      "txt": "Bottom right blue block right"
+    },
+    {
+      "img": "120S16.gif",
+      "txt": "Move Orb all the way down"
+    },
+    {
+      "img": "120S17.gif",
+      "txt": "Yellow block left and up"
+    },
+    {
+      "img": "120S18.gif",
+      "txt": "Bottom right blue block up"
+    },
+    {
+      "img": "120S19.gif",
+      "txt": "Bottom purple block up and right"
+    },
+    {
+      "img": "120S20.gif",
+      "txt": "Move Orb to exit"
+    }
+  ],
+  "prev": {
+    "num": "083",
+    "name": "Too Many Queens 4"
+  },
+  "next": {
+    "num": "084",
+    "name": "Which Boxes to Move?"
+  }
+}

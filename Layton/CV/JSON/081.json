@@ -1,0 +1,22 @@
+{
+  "num": "081",
+  "title": "Too Many Queens 2",
+  "steps": [
+    "Give Stuffed Chair to Layton",
+    "Talk to Flick"
+  ],
+  "solution": [
+    {
+      "img": "081S.gif",
+      "txt": "Position the Queens as shown above"
+    }
+  ],
+  "prev": {
+    "num": "080",
+    "name": "Too Many Queens 1"
+  },
+  "next": {
+    "num": "082",
+    "name": "Too Many Queens 3"
+  }
+}

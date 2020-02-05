@@ -1,0 +1,21 @@
+{
+  "num": "124A",
+  "title": "Missing Number",
+  "steps": [
+    "The Decorator's House"
+  ],
+  "solution": [
+    {
+      "img": "124S.gif",
+      "txt": "1"
+    }
+  ],
+  "prev": {
+    "num": "123",
+    "name": "Tons of Triangles"
+  },
+  "next": {
+    "num": "125",
+    "name": "Rolling the Die"
+  }
+}

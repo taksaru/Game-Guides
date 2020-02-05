@@ -1,0 +1,25 @@
+{
+  "num": "055",
+  "title": "Sammy's Necklace",
+  "steps": [
+    "Walk Left",
+    "Talk to Romie",
+    "Walk Left",
+    "Talk to Sammy",
+    "Talk to Sammy again"
+  ],
+  "solution": [
+    {
+      "img": "055S.png",
+      "txt": "It'll cost 14"
+    }
+  ],
+  "prev": {
+    "num": "049",
+    "name": "A Royal Show-off"
+  },
+  "next": {
+    "num": "056",
+    "name": "The Door's Code"
+  }
+}

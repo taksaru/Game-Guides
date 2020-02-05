@@ -1,0 +1,27 @@
+{
+  "num": "025",
+  "title": "Suriviving in the Wild",
+  "steps": [
+    "Exit the room",
+    "Enter door at end of car",
+    "Talk to Sally",
+    "Enter far door on the left",
+    "Exit the room",
+    "Enter door at end of the car",
+    "Talk to Hank/Steve"
+  ],
+  "solution": [
+    {
+      "img": "025S.png",
+      "txt": "Only the lion escapes"
+    }
+  ],
+  "prev": {
+    "num": "016",
+    "name": "Crazy Daisies"
+  },
+  "next": {
+    "num": "021",
+    "name": "Pass It On"
+  }
+}

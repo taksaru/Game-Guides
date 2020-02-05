@@ -1,0 +1,24 @@
+{
+  "num": "019",
+  "title": "The Train Journey",
+  "a-title": "The Train Ride"
+  "steps": [
+    "Walk Down",
+    "Walk Down",
+    "Walk Down"
+  ],
+  "solution": [
+    {
+      "img": "019S.png",
+      "txt": "There were 6 passenger"
+    }
+  ],
+  "prev": {
+    "num": "018",
+    "name": "The Shoe Maze"
+  },
+  "next": {
+    "num": "014",
+    "name": "Red Caps"
+  }
+}

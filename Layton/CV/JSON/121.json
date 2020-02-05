@@ -1,0 +1,34 @@
+{
+  "num": "121",
+  "title": "Diamond in the Flag",
+  "steps": [
+    "Climb the Stairs",
+    [
+      "Middle candle at top"
+    ],
+    {"mobile": "Check Left candle for Pink Stellar Charm"},
+    "Walk Upstairs",
+    [
+      "Middle of garden"
+    ],
+    {"mobile": "Check Left hedge for Royal Highness Heel Charm"},
+    "Enter Door",
+    "Enjoy Credits",
+    "Bonuses",
+    "The Inventor's House"
+  ],
+  "solution": [
+    {
+      "img": "121S.gif",
+      "txt": "Diamond takes up 1/8 of flag"
+    }
+  ],
+  "prev": {
+    "num": "100",
+    "name": "Seven Squares"
+  },
+  "next": {
+    "num": "122",
+    "name": "The Next Die"
+  }
+}

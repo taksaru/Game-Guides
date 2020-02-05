@@ -1,0 +1,21 @@
+{
+  "num": "008",
+  "title": "Luke's Big Dinner",
+  "steps": [
+    "Talk to Chester"
+  ],
+  "solution": [
+    {
+      "img": "008S.png",
+      "txt": "The items that cost 12, 16, 17 and 25"
+    }
+  ],
+  "prev": {
+    "num": "010",
+    "name": "A Work of Art"
+  },
+  "next": {
+    "num": "009",
+    "name": "Stacked Glasses"
+  }
+}

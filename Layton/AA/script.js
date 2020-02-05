@@ -12,3 +12,15 @@ function openTab(evt, name){
   document.getElementById(name).style.display = "block";
   evt.currentTarget.className += " active";
 }
+
+function hideMe(i){
+  i.style.display = 'none';
+}
+
+function bigMe(i){
+  var x = document.getElementById('img')
+
+  x.firstElementChild.setAttribute('src',i.getAttribute('src'));
+
+  x.style.display = 'block';
+}

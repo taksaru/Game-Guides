@@ -1,0 +1,29 @@
+{
+  "num": "102",
+  "title": "Aces and the Joker",
+  "steps": [
+    "Pick Up Paper Scrap",
+    [
+      "Flowers right of Martha",
+      "Window above Martha",
+      "Lamp above door",
+      "Moss on left window"
+    ],
+    {"mobile": "Check window right of Lamp for Knitted Cardi Charm"},
+    "Talk to Martha"
+  ],
+  "solution": [
+    {
+      "img": "102S.gif",
+      "txt": "There a 20% chance"
+    }
+  ],
+  "prev": {
+    "num": "119 Red and Blue 1",
+    "name": "Red and Blue 1"
+  },
+  "next": {
+    "num": "117",
+    "name": "Painting a Cube"
+  }
+}

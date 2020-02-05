@@ -1,0 +1,31 @@
+{
+  "num": "061",
+  "title": "Pin Board Shapes",
+  "steps": [
+    "Enter the Manor",
+    [
+      "Second step of stairs"
+    ],
+    "Go Upstairs",
+    "Return Upstairs",
+    [
+      "Round ornament above Lady Dahlia"
+    ],
+    {"mobile": "Check clock for Collectible Clock Charm"},
+    "Talk to Gordon"
+  ],
+  "solution": [
+    {
+      "img": "061S.gif",
+      "txt": "Draw the cross diagonally"
+    }
+  ],
+  "prev": {
+    "num": "060",
+    "name": "Weighing Cats"
+  },
+  "next": {
+    "num": "103",
+    "name": "Wood Cutouts"
+  }
+}

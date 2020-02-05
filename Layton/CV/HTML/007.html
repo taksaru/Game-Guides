@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 007</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Walk Up</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Step on opposite side of stream</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Sun hat in boat</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Tree on right</label></li>
+        </ul></li>
+        <li class="mobile">Investigate thin tree for Classic Cologne Charm</li>
+        <li>Talk to Ramon</li>
+      </ul>
+    </div>
+    <h1>007 - Wolves and Chicks</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/007H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/007H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/007H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/007S01.gif" onclick="bigMe(this)"/>
+        <p>2 Wolves Right</p>
+      </section>
+      <section>
+        <img src="images/007S02.gif" onclick="bigMe(this)"/>
+        <p>1 Wolf Left</p>
+      </section>
+      <section>
+        <img src="images/007S03.gif" onclick="bigMe(this)"/>
+        <p>2 Wolves Right</p>
+      </section>
+      <section>
+        <img src="images/007S04.gif" onclick="bigMe(this)"/>
+        <p>1 Wolf Left</p>
+      </section>
+      <section>
+        <img src="images/007S05.gif" onclick="bigMe(this)"/>
+        <p>2 Chicks Right</p>
+      </section>
+      <section>
+        <img src="images/007S06.gif" onclick="bigMe(this)"/>
+        <p>1 Wolf and 1 Chick Left</p>
+      </section>
+      <section>
+        <img src="images/007S07.gif" onclick="bigMe(this)"/>
+        <p>2 Chicks Right</p>
+      </section>
+      <section>
+        <img src="images/007S08.gif" onclick="bigMe(this)"/>
+        <p>1 Wolf Left</p>
+      </section>
+      <section>
+        <img src="images/007S09.gif" onclick="bigMe(this)"/>
+        <p>2 Wolves Right</p>
+      </section>
+      <section>
+        <img src="images/007S10.gif" onclick="bigMe(this)"/>
+        <p>1 Wolf Left</p>
+      </section>
+      <section>
+        <img src="images/007S11.gif" onclick="bigMe(this)"/>
+        <p>2 Wolves Right</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('006')">Light Weight</u></p>
+    <p class="next">Next: <u onclick="changePage('008')">Farm Work</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

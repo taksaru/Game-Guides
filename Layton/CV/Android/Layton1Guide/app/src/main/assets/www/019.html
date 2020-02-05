@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 019</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Leave the Inn</li>
+        <li>Walk Down</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Under Layton and Luke</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Top Left Window</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Sack to right</label></li>
+        </ul></li>
+        <li>Inspect the Laytonmobile</li>
+      </ul>
+    </div>
+    <h1 class="us">019 - Parking Lot Gridlock</h1><h1 class="eu">019 - Car Park Gridlock</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/019H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/019H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/019H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/019S01.png" onclick="bigMe(this)"/>
+        <p>Move truck above Laytonmobile right</p>
+      </section>
+      <section>
+        <img src="images/019S02.png" onclick="bigMe(this)"/>
+        <p>Move car right in front of Laytonmobile up</p>
+      </section>
+      <section>
+        <img src="images/019S03.png" onclick="bigMe(this)"/>
+        <p>Move next car right in front of Laytonmobile up</p>
+      </section>
+      <section>
+        <img src="images/019S04.png" onclick="bigMe(this)"/>
+        <p>Move Laytonmobile right</p>
+      </section>
+      <section>
+        <img src="images/019S05.png" onclick="bigMe(this)"/>
+        <p>Move bottom left truck up</p>
+      </section>
+      <section>
+        <img src="images/019S06.png" onclick="bigMe(this)"/>
+        <p>Move bottom left car left</p>
+      </section>
+      <section>
+        <img src="images/019S07.png" onclick="bigMe(this)"/>
+        <p>Move bottom left truck left</p>
+      </section>
+      <section>
+        <img src="images/019S08.png" onclick="bigMe(this)"/>
+        <p>Move upper middle car down</p>
+      </section>
+      <section>
+        <img src="images/019S09.png" onclick="bigMe(this)"/>
+        <p>Move Laytonmobile left</p>
+      </section>
+      <section>
+        <img src="images/019S10.png" onclick="bigMe(this)"/>
+        <p>Move lower car in upper right left</p>
+      </section>
+      <section>
+        <img src="images/019S11.png" onclick="bigMe(this)"/>
+        <p>Move rightmost car up</p>
+      </section>
+      <section>
+        <img src="images/019S12.png" onclick="bigMe(this)"/>
+        <p>Move car right in front of Laytonmobile up</p>
+      </section>
+      <section>
+        <img src="images/019S13.png" onclick="bigMe(this)"/>
+        <p>Move car right in from of Laytonmobile up</p>
+      </section>
+      <section>
+        <img src="images/019S14.png" onclick="bigMe(this)"/>
+        <p>Move Laytonmobile out</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('112')">My Beloved</u></p>
+    <p class="next eu">Next: <u onclick="changePage('020')">Unfriendly Commute</u></p>
+    <p class="next us">Next: <u onclick="changePage('020')">Unfriendly Neighbours</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

@@ -1,0 +1,24 @@
+{
+  "num": "131",
+  "title": "Heavier or Lighter?",
+  "steps": [
+    "The Golden Apple's House"
+  ],
+  "solution": [
+    "<section><h1>Weigh 1</h1><img src=\"images/131S1.gif\"/><p>Weigh 1 2 3 4 and 5 6 7 8</p><p>If even go to Weigh 2a, if left is lighter go to Weight 2b, if right is lighter go to Weigh 2c</p></section><section><h1>Weigh 2a</h1><img src=\"images/131S2a.gif\"/><p>Weigh 1 2 3 and 9 10 11</p><p>If even 12 is lightest, if left is lighter go to Weigh 3a, if right is lighter go to Weigh 3b</p></section> <section><h1>Weigh 2b</h1><img src=\"images/131S2b.gif\"/> <p>Weigh 1 2 9 and 3 4 5</p> <p>If even go to Weigh 3c, if left is lighter go to Weigh 3d, if right is lighter go to Weigh 3e</p></section> <section> <h1>Weigh 2c</h1> <img src=\"images/131S2c.gif\"/> <p>Weigh 1 2 9 and 3 4 5</p> <p>If even go to Weigh 3f, if left is lighter go to Weigh 3g, if right is lighter go to Weigh 3h</p></section> <section> <h1>Weigh 3a</h1> <img src=\"images/131S3a.gif\"/> <p>Weigh 9 and 10</p> <p>Lightest is answer, If even 11 is lightest</p></section> <section> <h1>Weigh 3b</h1> <img src=\"images/131S3b.gif\"/> <p>Weigh 9 and 10</p> <p>Lightest is answer, If even 11 is lightest</p></section> <section> <h1>Weigh 3c</h1> <img src=\"images/131S3c.gif\"/> <p>Weigh 6 and 7</p> <p>Lightest is answer, If even 8 is lightest</p></section> <section> <h1>Weigh 3d</h1> <img src=\"images/131S3d.gif\"/> <p>Weigh 1 5 and 3 4</p> <p>If Even 2 is lightest, If left is lighter 1 is lightest, if right is lighter 5 is lightest</p></section> <section> <h1>Weigh 3e</h1> <img src=\"images/131S3e.gif\"/> <p>Weigh 3 and 4, Lightest is answer</p></section> <section> <h1>Weigh 3f</h1> <img src=\"images/131S3f.gif\"/> <p>Weigh 6 and 7</p> <p>Lightest is answer, If even 8 is lightest</p></section> <section> <h1>Weigh 3g</h1> <img src=\"images/131S3g.gif\"/> <p>Weigh 3 and 4</p> <p>Lightest is answer</p></section> <section> <h1>Weigh 3h</h1> <img src=\"images/131S3h.gif\"/> <p>Weigh 1 5 and 3 4</p> <p>If even 2 is lightest, if left is lighter 5 is lightest, if right is lighter 1 is lightest</p></section>"
+  ],
+  "prev": {
+    "num": "130",
+    "name": "Too Many Queens 5"
+  },
+  "next": [
+    {
+      "num": "132",
+      "name": "Princess's Escape"
+    },
+    {
+      "num": "132",
+      "name": "Princess in a Box 2"
+    }
+  ]
+}

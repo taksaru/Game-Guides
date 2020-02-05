@@ -1,0 +1,36 @@
+{
+  "num": "108",
+  "title": "Not Knots",
+  "steps": [
+    "Give Flower Vase to Layton",
+    "Pick up trash on ground",
+    "Talk to Archibald",
+    [
+      "Flowers in vase",
+      "Small table left of stairs",
+      "Top right painting"
+    ],
+    {"mobile": "Check Chandelier for Lavish Love Locket"},
+    "Check Bookcase atop stairs"
+  ],
+  "solution": [
+    {
+      "img": "108S.gif",
+      "txt": "Only Rope C will form a knot"
+    }
+  ],
+  "prev": {
+    "num": "071",
+    "name": "Sausage Thief"
+  },
+  "next": [
+    {
+      "num": "072",
+      "name": "Truth and Lies"
+    },
+    {
+      "num": "072",
+      "name": "The Sound of Silence"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "num": "115",
+  "title": "Tricky Digits",
+  "steps": [
+    {
+      "img": "Hamster30.gif",
+      "txt": "Give Hammy a 30 step workout"
+    },
+    "Leave Shop",
+    "Walk down",
+    "Talk to Opal",
+    "Enter hotel",
+    "Walk up and downstairs until Krantz is thirsty",
+    "Server Tea 05 to Krantz",
+    "Talk to Krantz"
+  ],
+  "solution": [
+    {
+      "img": "115S.png",
+      "txt": "The numbers match A"
+    }
+  ],
+  "prev": {
+    "num": "063",
+    "name": "Numbered Cards"
+  },
+  "next": {
+    "num": "060",
+    "name": "Plaza Puzzle"
+  }
+}

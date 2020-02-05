@@ -1,0 +1,34 @@
+{
+  "num": "003",
+  "title": "Which Key?",
+  "a-title": "The Right Key",
+  "steps": [
+    "Talk to Damon",
+    "Check mailbox for hint coin",
+    [
+      "Atop right doorframe",
+      "Base of lightpost",
+      "Flowers on right"
+    ],
+    "Enter door",
+    [
+      "Left Window panes",
+      "Blue Cabinet"
+    ],
+    "Examine door"
+  ],
+  "solution": [
+    {
+      "img": "003S.png",
+      "txt": "Reverse Bottom Key"
+    }
+  ],
+  "prev": {
+    "num": "002",
+    "name": "The Doctor's Home"
+  },
+  "next": {
+    "num": "004",
+    "name": "A Secure Room"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "num": "029",
+  "title": "Five Suspects",
+  "steps": [
+    "Talk to Chelmey",
+    "Talk to Matthew",
+    "Go through door on the left",
+    [
+      "Flowers on desk",
+      "Desk chair",
+      "Panel right of curtains"
+    ],
+    "Talk to Dahlia",
+    [
+      "Right side of curtain"
+    ],
+    "Look at picture on the right",
+    "Leave Dahlia's Room",
+    "Talk to Dahlia",
+    "Talk to Chelmey"
+  ],
+  "solution": [
+    {
+      "img": "029S.gif",
+      "txt": "Only 1 person should be let go."
+    }
+  ],
+  "prev": {
+    "num": "028",
+    "name": "Find the Dot"
+  },
+  "next": {
+    "num": "030",
+    "name": "One-Line Puzzle"
+  }
+}

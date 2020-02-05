@@ -2,15 +2,10 @@
 
 ![Hyrule1](images/Hyrule1.PNG)
 
-* Korok 476: Fairylights to NW
-* Korok 477: Pinwheel shooting to E
-* Korok 478: Rock beneath leaves to NE
-* Side Quest: EX Treasure: Ancient Mask
-  * Chest outside ruins
 * Korok 479: Lilies to NE
 * Stone Talus (Luminous): Centre of Lake (22/40)
 * Korok 480: Hanging acorn to NW
-* Recovered Memory 3 to SW (7/12)
+* Recovered Memory 3 - Resolve and Grief to SW (7/12)
 * Korok 481: Fairylights to N
 * Side Quest: EX Treasure: Fairy Clothes to NE
   * Tingle Hood
@@ -27,8 +22,8 @@
 * Korok 485: Apple offering to SW atop Mount Daphne
 * Korok 486: Lilies to NW
 * Korok 487: Flower Trail to NE
-* Black Hinox to N (20/40)
-* Side Quest: EX Treausre: Twilight Relic to W
+* Black Hinox to N (21/40)
+* Side Quest: EX Treasure: Twilight Relic to W
 * Korok 488: Rock on wall to E of treasure
 * Korok 489: Magnesis puzzle to S
 * Korok 490: Rock in well to S
@@ -53,7 +48,7 @@
 * Korok 500: Magnesis Puzzle to S
 * Korok 501: Rock circle to E
 * Dah Kaso Shrine to SW (77/120)
-* Blue Hinox to S (21/40)
+* Blue Hinox to S (22/40)
 * Korok 502: Lilies to SW
 * Korok 503: Rock circle to E
 

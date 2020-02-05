@@ -1,0 +1,121 @@
+{
+  "num": "079",
+  "title": "Apples to Oranges",
+  "steps": [
+    "Talk to Crouton"
+  ],
+  "solution": [
+    {
+      "img": "079S01.gif",
+      "txt": "Move middle right oranges to top white square"
+    },
+    {
+      "img": "079S02.gif",
+      "txt": "Move top right oranges to bottom white square"
+    },
+    {
+      "img": "079S03.gif",
+      "txt": "Move middle left apples to top right red square"
+    },
+    {
+      "img": "079S04.gif",
+      "txt": "Move top left apples to middle right redsquare"
+    },
+    {
+      "img": "079S05.gif",
+      "txt": "Move top right apples to left white square"
+    },
+    {
+      "img": "079S06.gif",
+      "txt": "Move oranges in top white square to top right orange square"
+    },
+    {
+      "img": "079S07.gif",
+      "txt": "Move oranges in bottom white square to top left orange square"
+    },
+    {
+      "img": "079S08.gif",
+      "txt": "Move appples in right white square to middle left orange square"
+    },
+    {
+      "img": "079S09.gif",
+      "txt": "Move apples in middle right red square to right white square"
+    },
+    {
+      "img": "079S10.gif",
+      "txt": "Move bottom right oranges to top white square"
+    },
+    {
+      "img": "079S11.gif",
+      "txt": "Move bottom left oranges to bottom white square"
+    },
+    {
+      "img": "079S12.gif",
+      "txt": "Move apples on right to bottom left red square"
+    },
+    {
+      "img": "079S13.gif",
+      "txt": "Move middle left apples to bottom right red square"
+    },
+    {
+      "img": "079S14.gif",
+      "txt": "Move bottom left apples to middle right square"
+    },
+    {
+      "img": "079S15.gif",
+      "txt": "Move bottom right apples to left white square"
+    },
+    {
+      "img": "079S16.gif",
+      "txt": "Move bottom white oranges to bottom right orange square"
+    },
+    {
+      "img": "079S17.gif",
+      "txt": "Move top white oranges to bottom left orange square"
+    },
+    {
+      "img": "079S18.gif",
+      "txt": "Move left white apples to middle left orange square"
+    },
+    {
+      "img": "079S19.gif",
+      "txt": "Move apples in middle right red square to right white square"
+    },
+    {
+      "img": "079S20.gif",
+      "txt": "Move middle left oranges to top white square"
+    },
+    {
+      "img": "079S21.gif",
+      "txt": "Move top left oranges to bottom white square"
+    },
+    {
+      "img": "079S22.gif",
+      "txt": "Move right white apples to top left red square"
+    },
+    {
+      "img": "079S23.gif",
+      "txt": "Move middle left apples to left middle red square"
+    },
+    {
+      "img": "079S24.gif",
+      "txt": "Move middle right apples to middle right red square"
+    },
+    {
+      "img": "079S25.gif",
+      "txt": "Move oranges to middle right orange square"
+    },
+    {
+      "img": "079S26.gif",
+      "txt": "Move oranges to middle left orange square"
+    }
+  ],
+  "prev": {
+    "num": "078",
+    "name": "Water Pitchers"
+  },
+  "next": {
+    "num": "080",
+    "name": "Too Many Queens"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "num": "006",
+  "title": "Light Weight",
+  "steps": [
+    "Walk right",
+    [
+      "Window right of brown door",
+      "Save at right window",
+      "Sign on left"
+    ],
+    "Talk to Marco"
+  ],
+  "solution": [
+    "<section><h1>Weigh 1</h1><img src=\"images/006S1.gif\" onclick=\"bigMe(this)\"/><p>Weigh 123 and 456</p><ul><li>If even go to Weigh 2a</li><li>If left is lighter go to Weigh 2b</li><li>If right is lighter go to Weigh 2c</li></ul></section><section><h1>Weigh 2a</h1><img src=\"images/006S2a.gif\" onclick=\"bigMe(this)\"/><p>Weigh 7 and 8 to find lightest</p></section><section><h1>Weigh 2b</h1><img src=\"images/006S2b.gif\" onclick=\"bigMe(this)\"/><p>Weigh 1 and 2 to find lightest, if even 3 is lightest</p></section><section><h1>Weigh 2c</h1><img src=\"images/006S2c.gif\" onclick=\"bigMe(this)\"/><p>Weigh 4 and 5 to find lightest, if even 6 is lightest</p></section>"
+  ],
+  "prev": [
+    {
+      "num": "005",
+      "name": "Clock Hands"
+    },
+    {
+      "num": "005",
+      "name": "Digital Digits"
+    }
+  ],
+  "next": {
+    "num": "007",
+    "name": "Wolves and Chicks"
+  }
+}

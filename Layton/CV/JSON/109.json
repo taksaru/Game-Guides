@@ -1,0 +1,25 @@
+{
+  "num": "109",
+  "title": "Laziest Man on Earth",
+  "steps": [
+    "Give Gramaphone to Layton",
+    "Leave Town Hall",
+    "Enter Clock Tower",
+    "Enter Door on right",
+    "Talk to Archibald"
+  ],
+  "solution": [
+    {
+      "img": "109S.gif",
+      "txt": "He can't reach under his chair"
+    }
+  ],
+  "prev": {
+    "num": "073",
+    "name": "How Many Squares?"
+  },
+  "next": {
+    "num": "074",
+    "name": "Broken Window"
+  }
+}

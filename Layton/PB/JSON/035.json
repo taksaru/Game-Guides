@@ -1,0 +1,22 @@
+{
+  "num": "035",
+  "title": "Which House Where?",
+  "steps": [
+    "Walk Left",
+    "Talk to Parcelle"
+  ],
+  "solution": [
+    {
+      "img": "035S.png",
+      "txt": "A is green, B is blue, C is red and D is yellow"
+    }
+  ],
+  "prev": {
+    "num": "046",
+    "name": "Odd Shape Out"
+  },
+  "next": {
+    "num": "054",
+    "name": "Painting the Flag"
+  }
+}

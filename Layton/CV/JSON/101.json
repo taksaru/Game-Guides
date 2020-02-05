@@ -1,0 +1,27 @@
+{
+  "num": "101",
+  "title": "Splitting It Up",
+  "steps": [
+    "Examine Pillar above Archibald"
+  ],
+  "solution": [
+    {
+      "img": "101S.gif",
+      "txt": "6 cubes will have only one painted side"
+    }
+  ],
+  "prev": [
+    {
+      "num": "020",
+      "name": "Father's Age"
+    },
+    {
+      "num": "040",
+      "name": "How Old Is Dad?"
+    }
+  ],
+  "next": {
+    "num": "041",
+    "name": "Spare Change"
+  }
+}

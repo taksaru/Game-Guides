@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 088</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Walk Right</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Garbage Can</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Bridge</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Left Riverbank</label></li>
+          <li><input type="checkbox" id="hc3"/><label for="hc3">Bush on Right Riverbank</label></li>
+        </ul></li>
+        <li class="mobile">Check Chimney for Bygone Bubble Bottle Charm</li>
+        <li>Walk Down</li>
+        <li>Pick up Paper Scrap</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc4"/><label for="hc4">Chimney on right</label></li>
+          <li><input type="checkbox" id="hc5"/><label for="hc5">Blue Shack roof</label></li>
+          <li><input type="checkbox" id="hc6"/><label for="hc6">Garbage can</label></li>
+          <li><input type="checkbox" id="hc7"/><label for="hc7">Grass left of tree trunk</label></li>
+        </ul></li>
+        <li class="mobile">Check door for Cutsie Cupcake Charm</li>
+        <li>Talk to Sylvain</li>
+      </ul>
+    </div>
+    <h1>088 - In A Hole</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/088H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/088H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/088H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/088S.gif" onclick="bigMe(this)"/>
+        <p>It will overflow on the 6th day</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('087')">Ferris Wheel Riddle</u></p>
+    <p class="next">Next: <u onclick="changePage('116')">The Largest Total</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

@@ -1,0 +1,42 @@
+{
+  "num": "061",
+  "title": "Where's the Hotel",
+  "steps": [
+    {
+      "img": "Hamster14.gif",
+      "txt": "Give Hammy a 14 step workout"
+    },
+    {
+      "img": "Hamster18.gif",
+      "txt": "Give Hammy an 18 step workout"
+    },
+    "Leave Room",
+    [
+      "Base of left light",
+      "Right light",
+      "Atop back light"
+    ],
+    "Talk to Parcelle",
+    "Walk Up",
+    [
+      "Middle window on left",
+      "Top right red window",
+      "Round red window"
+    ],
+    "Enter any door"
+  ],
+  "solution": [
+    {
+      "img": "061S.png",
+      "txt": "C is the Hotel"
+    }
+  ],
+  "prev": {
+    "num": "059",
+    "name": "A Ticket to Where?"
+  },
+  "next": {
+    "num": "062",
+    "name": "Smell the Roses Again"
+  }
+}

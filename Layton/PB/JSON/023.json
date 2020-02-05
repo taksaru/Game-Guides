@@ -1,0 +1,38 @@
+{
+  "num": "023",
+  "title": "A Sour Defeat",
+  "a-title": "Pitchers and Poison",
+  "steps": [
+    "Enter door at end of car",
+    [
+      "Left doorknob",
+      "Left wall strip"
+    ],
+    "Enter middle door",
+    [
+      "Left edge of rug near chair",
+      "Top right rug corner"
+    ],
+    "Look at pitcher on the table"
+  ],
+  "solution": [
+    {
+      "img": "023S.png",
+      "txt": "Place Pitcher at B"
+    }
+  ],
+  "prev": {
+    "num": "024",
+    "name": "A Strip of Paper"
+  },
+  "next": [
+    {
+      "num": "007",
+      "name": "Four Couples"
+    },
+    {
+      "num": "007",
+      "name": "Dining Couples"
+    }
+  ]
+}

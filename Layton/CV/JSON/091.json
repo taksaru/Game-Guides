@@ -1,0 +1,29 @@
+{
+  "num": "091",
+  "title": "Pattern Matching",
+  "steps": [
+    "Walk Up",
+    [
+      "Bottom left corner below stairs",
+      "Bottom left atop stairs",
+      "Middle of right cabinet",
+      "Moss below candle"
+    ],
+    "Examine the painting on the back wall",
+    "Examine picture on right wall"
+  ],
+  "solution": [
+    {
+      "img": "091S.gif",
+      "txt": "Insert shape B"
+    }
+  ],
+  "prev": {
+    "num": "090",
+    "name": "Get the Ball Out! 2"
+  },
+  "next": {
+    "num": "092",
+    "name": "Wash Up"
+  }
+}

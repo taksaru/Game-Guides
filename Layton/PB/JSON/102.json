@@ -1,0 +1,67 @@
+{
+  "num": "102",
+  "title": "Disappearing Act 2",
+  "steps": [
+    "Walk Down",
+    "Walk Down",
+    "Walk Down",
+    "Walk Right",
+    "Walk Right and Left until Hopper is thirsty",
+    "Serve Tea 12 to Hopper",
+    "Speak with Hopper"
+  ],
+  "solution": [
+    {
+      "img": "102S01.png",
+      "txt": "Second from the bottom middle ball down"
+    },
+    {
+      "img": "102S02.png",
+      "txt": "Second from the top middle ball down"
+    },
+    {
+      "img": "102S03.png",
+      "txt": "Leftmost ball right"
+    },
+    {
+      "img": "102S04.png",
+      "txt": "Second from the top middle ball down"
+    },
+    {
+      "img": "102S05.png",
+      "txt": "Rightmost ball left"
+    },
+    {
+      "img": "102S06.png",
+      "txt": "Bottom ball up"
+    },
+    {
+      "img": "102S07.png",
+      "txt": "Bottom ball up"
+    },
+    {
+      "img": "102S08.png",
+      "txt": "Top ball down"
+    }
+  ],
+  "prev": [
+    {
+      "num": "000",
+      "name": "Puzzling Cubes"
+    },
+    {
+      "num": "094",
+      "name": "The Mystery Cube"
+    }
+  ],
+  "next": [
+    {
+      "num": "084",
+      "name": "Piles of Pancakes 3"
+    },
+    {
+      "num": "084",
+      "name": "Pancake Stacks 3"
+    }
+  ]
+}

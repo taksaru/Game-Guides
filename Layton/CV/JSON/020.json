@@ -1,0 +1,36 @@
+{
+  "num": "020",
+  "title": "Unfriendly Commute",
+  "a-title": "Unfriendly Neighbours",
+  "steps": [
+    "Walk Right",
+    "Walk Up",
+    "Walk Left",
+    [
+      "Box on left",
+      "Highest window",
+      "Barrel on right"
+    ],
+    "Talk to Pauly"
+  ],
+  "solution": [
+    {
+      "img": "020S.gif",
+      "txt": "Dotted lines show optional paths"
+    }
+  ],
+  "prev": [
+    {
+      "num": "019",
+      "name": "Car Park Gridlock"
+    },
+    {
+      "num": "019",
+      "name": "Parking Lot Gridlock"
+    }
+  ],
+  "next": {
+    "num": "021",
+    "name": "Pill Prescription"
+  }
+}

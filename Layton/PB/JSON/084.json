@@ -1,0 +1,148 @@
+{
+  "num": "084",
+  "title": "Piles of Pancakes 3",
+  "a-title": "Pancake Stacks 3"
+  "steps": [
+    "Walk Up",
+    "Talk to Gertie"
+  ],
+  "solution": [
+    {
+      "img": "048S01.png",
+      "txt": "First to third"
+    },
+    {
+      "img": "048S02.png",
+      "txt": "First to second"
+    },
+    {
+      "img": "048S03.png",
+      "txt": "Third to second"
+    },
+    {
+      "img": "048S04.png",
+      "txt": "First to third"
+    },
+    {
+      "img": "048S05.png",
+      "txt": "Second to first"
+    },
+    {
+      "img": "048S06.png",
+      "txt": "Second to third"
+    },
+    {
+      "img": "048S07.png",
+      "txt": "First to third"
+    },
+    {
+      "img": "048S08.png",
+      "txt": "First to second"
+    },
+    {
+      "img": "048S09.png",
+      "txt": "Third to second"
+    },
+    {
+      "img": "048S10.png",
+      "txt": "Third to first"
+    },
+    {
+      "img": "048S11.png",
+      "txt": "Second to first"
+    },
+    {
+      "img": "048S12.png",
+      "txt": "Third to second"
+    },
+    {
+      "img": "048S13.png",
+      "txt": "First to third"
+    },
+    {
+      "img": "048S14.png",
+      "txt": "First to second"
+    },
+    {
+      "img": "048S15.png",
+      "txt": "Third to second"
+    },
+    {
+      "img": "048S16.png",
+      "txt": "First to third"
+    },
+    {
+      "img": "048S17.png",
+      "txt": "Second to third"
+    },
+    {
+      "img": "048S18.png",
+      "txt": "Second to first"
+    },
+    {
+      "img": "048S19.png",
+      "txt": "First to third"
+    },
+    {
+      "img": "048S20.png",
+      "txt": "Second to third"
+    },
+    {
+      "img": "048S21.png",
+      "txt": "Third to first"
+    },
+    {
+      "img": "048S22.png",
+      "txt": "Third to First"
+    },
+    {
+      "img": "048S23.png",
+      "txt": "Second to first"
+    },
+    {
+      "img": "048S24.png",
+      "txt": "Second to third"
+    },
+    {
+      "img": "048S25.png",
+      "txt": "First to third"
+    },
+    {
+      "img": "048S26.png",
+      "txt": "First to second"
+    },
+    {
+      "img": "048S27.png",
+      "txt": "Third to second"
+    },
+    {
+      "img": "048S28.png",
+      "txt": "First to third"
+    },
+    {
+      "img": "048S29.png",
+      "txt": "Second to First"
+    },
+    {
+      "img": "048S30.png",
+      "txt": "Second to third"
+    },
+    {
+      "img": "048S31.png",
+      "txt": "First to third"
+    }
+  ],
+  "prev": {
+    "num": "102",
+    "name": "Disappearing Act 2"
+  },
+  "next": [
+    {
+      "num": "067",
+      "name": "Sammy's Working Week"
+    },
+    {
+      "num": "067",
+      "name": "Sammy's Work Week"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "num": "043",
+  "title": "Board Cutter 2",
+  "a-title": "Board Splitter 2",
+  "steps": [
+    "Talk to Balsa"
+  ],
+  "solution": [
+    {
+      "img": "043S.png",
+      "txt": "Cut the board at the shown points"
+    }
+  ],
+  "prev": [
+    {
+      "num": "042",
+      "name": "Board Cutter 2"
+    },
+    {
+      "num": "042",
+      "name": "Board Splitter 2"
+    }
+  ],
+  "next": {
+    "num": "050",
+    "name": "Misinformootion"
+  }
+}

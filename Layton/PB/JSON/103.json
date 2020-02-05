@@ -1,0 +1,80 @@
+{
+  "num": "103",
+  "title": "Disappearing Act 3",
+  "steps": [
+    "Walk Down",
+    "Walk Up and Down until Rory is thirsty",
+    "Serve Tea 03 to Rory",
+    "Speak to Rory again"
+  ],
+  "solution": [
+    {
+      "img": "103S01.png",
+      "txt": "Middle ball in third column down"
+    },
+    {
+      "img": "103S02.png",
+      "txt": "Middle ball in fifth column down"
+    },
+    {
+      "img": "103S03.png",
+      "txt": "Leftmost ball right"
+    },
+    {
+      "img": "103S04.png",
+      "txt": "Rightmost ball left"
+    },
+    {
+      "img": "103S05.png",
+      "txt": "Bottom ball in third column up"
+    },
+    {
+      "img": "103S06.png",
+      "txt": "Bottom ball in fifth column up"
+    },
+    {
+      "img": "103S07.png",
+      "txt": "Top ball in third column down"
+    },
+    {
+      "img": "103S08.png",
+      "txt": "Ball in third column right"
+    },
+    {
+      "img": "103S09.png",
+      "txt": "middle Ball in fifth column left"
+    },
+    {
+      "img": "103S10.png",
+      "txt": "Leftmost ball right"
+    },
+    {
+      "img": "103S11.png",
+      "txt": "Middle ball in middle column down"
+    },
+    {
+      "img": "103S12.png",
+      "txt": "Bottom ball in middle column right"
+    },
+    {
+      "img": "103S13.png",
+      "txt": "Bottom ball in sixth column up"
+    },
+    {
+      "img": "103S14.png",
+      "txt": "Rightmost ball left"
+    },
+    {
+      "img": "103S15.png",
+      "txt": "Top ball down"
+    }
+  ],
+  "prev": {
+    "num": "091",
+    "name": "Sharing the Wealth"
+  },
+  "next": {
+    "num": "104",
+    "name": "Disappearing Act 4"
+  }
+}

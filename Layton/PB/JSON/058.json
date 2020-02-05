@@ -1,0 +1,97 @@
+{
+  "num": "058",
+  "title": "In the Tunnel",
+  "steps": [
+    [
+      "Right shutter",
+      "Middle of shelf on left"
+    ],
+    "Walk right"
+  ],
+  "solution": [
+    {
+      "img": "058S01.png",
+      "txt": "Green 1 to bottom left track"
+    },
+    {
+      "img": "058S02.png",
+      "txt": "Green 2 to middle left track"
+    },
+    {
+      "img": "058S03.png",
+      "txt": "Green 3 to bottom intersection"
+    },
+    {
+      "img": "058S04.png",
+      "txt": "Green 2 to top left track"
+    },
+    {
+      "img": "058S05.png",
+      "txt": "Green 3 to top left track"
+    },
+    {
+      "img": "058S06.png",
+      "txt": "Red 1 to middle left track"
+    },
+    {
+      "img": "058S07.png",
+      "txt": "Red 2 to top intersection"
+    },
+    {
+      "img": "058S08.png",
+      "txt": "Green 1 to middle intersection"
+    },
+    {
+      "img": "058S09.png",
+      "txt": "Red 3 to bottom left track"
+    },
+    {
+      "img": "058S10.png",
+      "txt": "Green 1 to bottom right track"
+    },
+    {
+      "img": "058S11.png",
+      "txt": "Red 2 to bottom right track"
+    },
+    {
+      "img": "058S12.png",
+      "txt": "Green 3 to bottom right track"
+    },
+    {
+      "img": "058S13.png",
+      "txt": "Green 2 to bottom intersection"
+    },
+    {
+      "img": "058S14.png",
+      "txt": "Green 4 to track above green 2"
+    },
+    {
+      "img": "058S15.png",
+      "txt": "Red 1 to top left track"
+    },
+    {
+      "img": "058S16.png",
+      "txt": "Green 4 to middle left track"
+    },
+    {
+      "img": "058S17.png",
+      "txt": "Green 2 to top left track"
+    },
+    {
+      "img": "058S18.png",
+      "txt": "Red 3 to top left track"
+    },
+    {
+      "img": "058S19.png",
+      "txt": "Green 4 to bottom intersection"
+    }
+  ],
+  "prev": {
+    "num": "057",
+    "name": "Smell the Roses"
+  },
+  "next": {
+    "num": "059",
+    "name": "A Ticket to Where?"
+  }
+}

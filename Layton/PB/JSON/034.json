@@ -1,0 +1,26 @@
+{
+  "num": "034",
+  "title": "Trees on an Old Road",
+  "steps": [
+    "Open Trunk",
+    {
+      "img": "Hamster8.gif",
+      "txt": "Give Hammy an 8 step Workout"
+    },
+    "Examine large tree on the right"
+  ],
+  "solution": [
+    {
+      "img": "034S.png",
+      "txt": "A and E are the furthest apart"
+    }
+  ],
+  "prev": {
+    "num": "032",
+    "name": "It's a Wrap"
+  },
+  "next": {
+    "num": "037",
+    "name": "World's Best Golfer"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "num": "062A",
+  "title": "The Mysterious Note",
+  "steps": [
+    "Give the Mysterious Bottle to Layton",
+    "Talk to Chelmey"
+  ],
+  "solution": [
+    {
+      "img": "062AS.gif",
+      "txt": "Bill is the boss"
+    }
+  ],
+  "prev": {
+    "num": "103",
+    "name": "Wood Cutouts"
+  },
+  "next": {
+    "num": "063",
+    "name": "How Old Is Mom?"
+  }
+}

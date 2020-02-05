@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 064</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Walk downstairs</li>
+        <li>Leave the Manor</li>
+        <li>Talk to Ramon</li>
+        <li>Walk Up</li>
+        <li>Talk to Matthew</li>
+        <li>Leave the Manor</li>
+        <li>Walk Down</li>
+        <li>Continue Down</li>
+        <li>Talk to Ingrid</li>
+        <li>Walk Up</li>
+        <li>Talk to Matthew</li>
+        <li>Walk Up</li>
+        <li>Enter the Manor</li>
+        <li>Go Upstairs</li>
+        <li>Enter door on the left</li>
+        <li>Examine books on the desk</li>
+        <li>Leave the room</li>
+        <li>Walk downstairs</li>
+        <li>Leave the manor</li>
+        <li>Talk to Ingrid</li>
+        <li>Walk down</li>
+        <li>Walk down</li>
+        <li>Walk Left</li>
+        <li>Enter Rightmost door</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Draw in desk by door</label></li>
+        </ul></li>
+        <li class="mobile">Check picture above right window for Strawberry Cobbler Charm</li>
+        <li>Talk to Rodney</li>
+      </ul>
+    </div>
+    <h1>064 - Odd Equations</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/064H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/064H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/064H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/064S.gif" onclick="bigMe(this)"/>
+        <p>1</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev eu">Prev: <u onclick="changePage('063')">Mother's Age</u></p>
+    <p class="prev us">Prev: <u onclick="changePage('063')">How Old Is Mom?</u></p>
+    <p class="next eu">Next: <u onclick="changePage('065')">Letters and Numbers</u></p>
+    <p class="next us">Next: <u onclick="changePage('065')">What's E?</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

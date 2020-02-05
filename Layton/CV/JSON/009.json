@@ -1,0 +1,34 @@
+{
+  "num": "009",
+  "title": "One Poor Pooch",
+  "steps": [
+    "Go up across the stream",
+    [
+      "Large window in the tower",
+      "Rock in path",
+      "Lower right window"
+    ],
+    {"mobile": "Investigate the chimney for Hearty Gift Charm"},
+    "Enter the mansion"
+  ],
+  "solution": [
+    {
+      "img": "009S.gif",
+      "txt": "Move the innner bottom matches to mirror the outer bottom matches"
+    }
+  ],
+  "prev": {
+    "num": "008",
+    "name": "Farm Work"
+  },
+  "next": [
+    {
+      "num": "010",
+      "name": "Four Digits"
+    },
+    {
+      "num": "010",
+      "name": "Alphabet"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "num": "114",
+  "title": "Fair Compensation",
+  "steps": [
+    "Walk Down",
+    "Walk Down",
+    "Walk Down",
+    "Walk Down",
+    "Walk Down",
+    "Enter Hotel",
+    "Walk Upstairs",
+    "Speak to Krantz",
+    "Walk Upstairs",
+    "Take Photo",
+    "<ul><li>Item under mirror</li><li>Doorknob</li><li>Lamp on right</li></ul>",
+    "Hidden Puzzle"
+  ],
+  "solution": [
+    {
+      "img": "114S.png",
+      "txt": "A received 6 coins, B received 3"
+    }
+  ],
+  "prev": {
+    "num": "116",
+    "name": "The Torn Photo"
+  },
+  "next": {
+    "num": "109",
+    "name": "Walking the Dog"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "num": "075",
+  "title": "Sweets for Five",
+  "a-title": "Candy for Five",
+  "steps": [
+    "Talk to Marina"
+  ],
+  "solution": [
+    {
+      "img": "075S.png",
+      "txt": "Divide as shown"
+    }
+  ],
+  "prev": {
+    "num": "120",
+    "name": "Tug of War"
+  },
+  "next": [
+    {
+      "num": "074",
+      "name": "Sealing Off the Smell"
+    },
+    {
+      "num": "074",
+      "name": "PU"
+    }
+  ]
+}

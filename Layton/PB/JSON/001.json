@@ -1,0 +1,39 @@
+{
+  "num": "001",
+  "title": "Dr. Schrader's Map",
+  "steps": [
+    "Check Middle Drawer",
+    "Walk Right",
+    "Walk Right"
+  ],
+  "solution": [
+    {
+      "img": "001S1.png",
+      "txt": "First Piece to Left Hole"
+    },
+    {
+      "img": "001S2.png",
+      "txt": "Second Piece to Bottom Hole"
+    },
+    {
+      "img": "001S3.png",
+      "txt": "Third Piece to Top Hole"
+    },
+    {
+      "img": "001S4.png",
+      "txt": "Fourth Piece to Right Hole"
+    },
+    {
+      "img": "001S5.png",
+      "txt": "Remove Piece from Middle Mole"
+    },
+    {
+      "img": "001S6.png",
+      "txt": "Fifth Piece to Middle Hole"
+    }
+  ],
+  "next": {
+    "num": "002",
+    "name": "The Doctor's Home"
+  }
+}

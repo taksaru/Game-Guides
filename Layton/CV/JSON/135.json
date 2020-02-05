@@ -1,0 +1,338 @@
+{
+  "num": "135",
+  "title": "Queen's Escape",
+  "a-title": "Royal Escape",
+  "steps": [
+    "The Puzzle Master's House"
+  ],
+  "solution": [
+    {
+      "img": "135S01.png",
+      "txt": "Lower green block right of purple block right"
+    },
+    {
+      "img": "135S02.png",
+      "txt": "Top right green block down"
+    },
+    {
+      "img": "135S03.png",
+      "txt": "Top right blue block right"
+    },
+    {
+      "img": "135S04.png",
+      "txt": "Purple block up"
+    },
+    {
+      "img": "135S05.png",
+      "txt": "Blue block below hole up"
+    },
+    {
+      "img": "135S06.png",
+      "txt": "Bottom right green block left one space"
+    },
+    {
+      "img": "135S07.png",
+      "txt": "Green block down into bottom right"
+    },
+    {
+      "img": "135S08.png",
+      "txt": "Blue block below purple block right"
+    },
+    {
+      "img": "135S09.png",
+      "txt": "Purple block down"
+    },
+    {
+      "img": "135S10.png",
+      "txt": "Green block right of hole left and up"
+    },
+    {
+      "img": "135S11.png",
+      "txt": "Green block right of hole left"
+    },
+    {
+      "img": "135S12.png",
+      "txt": "Green block right of purple block up and right"
+    },
+    {
+      "img": "135S13.png",
+      "txt": "Purple block right"
+    },
+    {
+      "img": "135S14.png",
+      "txt": "Green block above hole down"
+    },
+    {
+      "img": "135S15.png",
+      "txt": "Topmost green block down"
+    },
+    {
+      "img": "135S16.png",
+      "txt": "Top right blue block left"
+    },
+    {
+      "img": "135S17.png",
+      "txt": "Rightmost blue block left"
+    },
+    {
+      "img": "135S18.png",
+      "txt": "Top right green block up"
+    },
+    {
+      "img": "135S19.png",
+      "txt": "Bottom right green block up"
+    },
+    {
+      "img": "135S20.png",
+      "txt": "Bottom right green block up"
+    },
+    {
+      "img": "135S21.png",
+      "txt": "Purple block right"
+    },
+    {
+      "img": "135S22.png",
+      "txt": "Green block to right of red block right and down"
+    },
+    {
+      "img": "135S23.png",
+      "txt": "Blue block above hole down"
+    },
+    {
+      "img": "135S24.png",
+      "txt": "Top right blue block down"
+    },
+    {
+      "img": "135S25.png",
+      "txt": "Top left blue block right"
+    },
+    {
+      "img": "135S26.png",
+      "txt": "Red block up"
+    },
+    {
+      "img": "135S27.png",
+      "txt": "Bottom left blue block up"
+    },
+    {
+      "img": "135S28.png",
+      "txt": "Bottom left green block left"
+    },
+    {
+      "img": "135S29.png",
+      "txt": "Green block to right of hole left"
+    },
+    {
+      "img": "135S30.png",
+      "txt": "Bottom right blue block down"
+    },
+    {
+      "img": "135S31.png",
+      "txt": "Leftmost blue block right"
+    },
+    {
+      "img": "135S32.png",
+      "txt": "Red block down"
+    },
+    {
+      "img": "135S33.png",
+      "txt": "Top blue block left"
+    },
+    {
+      "img": "135S34.png",
+      "txt": "Blue block above hole up"
+    },
+    {
+      "img": "135S35.png",
+      "txt": "Green block right of hole left"
+    },
+    {
+      "img": "135S36.png",
+      "txt": "Top right green block down and left"
+    },
+    {
+      "img": "135S37.png",
+      "txt": "Purple block up"
+    },
+    {
+      "img": "135S38.png",
+      "txt": "Blue block right of red block right"
+    },
+    {
+      "img": "135S39.png",
+      "txt": "Bottom blue block right"
+    },
+    {
+      "img": "135S40.png",
+      "txt": "Green block above hole down"
+    },
+    {
+      "img": "135S41.png",
+      "txt": "Red block right"
+    },
+    {
+      "img": "135S42.png",
+      "txt": "Bottom left green block up"
+    },
+    {
+      "img": "135S43.png",
+      "txt": "Green block right of hole left and up"
+    },
+    {
+      "img": "135S44.png",
+      "txt": "Green block below red block left"
+    },
+    {
+      "img": "135S45.png",
+      "txt": "Botoom right blue block left"
+    },
+    {
+      "img": "135S46.png",
+      "txt": "Rightmost blue block down"
+    },
+    {
+      "img": "135S47.png",
+      "txt": "Rightmost green block down and right"
+    },
+    {
+      "img": "135S48.png",
+      "txt": "Red block right"
+    },
+    {
+      "img": "135S49.png",
+      "txt": "Top left green block right and down"
+    },
+    {
+      "img": "135S50.png",
+      "txt": "Top left blue block down"
+    },
+    {
+      "img": "135S51.png",
+      "txt": "Topmost blue block left"
+    },
+    {
+      "img": "135S52.png",
+      "txt": "Red block up"
+    },
+    {
+      "img": "135S53.png",
+      "txt": "Green block left of hole right one space"
+    },
+    {
+      "img": "135S54.png",
+      "txt": "Top left green block right"
+    },
+    {
+      "img": "135S55.png",
+      "txt": "Bottom left green block up"
+    },
+    {
+      "img": "135S56.png",
+      "txt": "Bottom left blue block left"
+    },
+    {
+      "img": "135S57.png",
+      "txt": "Bottom right blue block left"
+    },
+    {
+      "img": "135S58.png",
+      "txt": "Rightmost green block down"
+    },
+    {
+      "img": "135S59.png",
+      "txt": "Green block left of hole right"
+    },
+    {
+      "img": "135S60.png",
+      "txt": "Red block down"
+    },
+    {
+      "img": "135S61.png",
+      "txt": "Top left blue block right"
+    },
+    {
+      "img": "135S62.png",
+      "txt": "Blue block below hole up"
+    },
+    {
+      "img": "135S63.png",
+      "txt": "Leftmost green block up"
+    },
+    {
+      "img": "135S64.png",
+      "txt": "Green block left of red block up"
+    },
+    {
+      "img": "135S65.png",
+      "txt": "Bottom left blue block up"
+    },
+    {
+      "img": "135S66.png",
+      "txt": "Bottom blue block left"
+    },
+    {
+      "img": "135S67.png",
+      "txt": "Red block down"
+    },
+    {
+      "img": "135S68.png",
+      "txt": "Green block left of hole right"
+    },
+    {
+      "img": "135S69.png",
+      "txt": "Leftmost green block right"
+    },
+    {
+      "img": "135S70.png",
+      "txt": "Top left blue block down"
+    },
+    {
+      "img": "135S71.png",
+      "txt": "Top blue block left"
+    },
+    {
+      "img": "135S72.png",
+      "txt": "Green block left of purple block up and left"
+    },
+    {
+      "img": "135S73.png",
+      "txt": "Purple block left"
+    },
+    {
+      "img": "135S74.png",
+      "txt": "Bottom right green block up"
+    },
+    {
+      "img": "135S75.png",
+      "txt": "Bottom right green block up"
+    },
+    {
+      "img": "135S76.png",
+      "txt": "Red block right"
+    },
+    {
+      "img": "135S77.png",
+      "txt": "Green block above hole down"
+    },
+    {
+      "img": "135S78.png",
+      "txt": "Green block above hole down"
+    },
+    {
+      "img": "135S79.png",
+      "txt": "Purple block left"
+    },
+    {
+      "img": "135S80.png",
+      "txt": "Green block above red block left and up"
+    },
+    {
+      "img": "135S81.png",
+      "txt": "Red block up and out"
+    }
+  ],
+  "prev": {
+    "num": "134",
+    "name": "Land Disputes"
+  }
+}

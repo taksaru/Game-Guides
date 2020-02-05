@@ -1,0 +1,138 @@
+{
+  "num": "022",
+  "title": "Cleaning Up 1",
+  "a-title": "Taking Out the Trash 1",
+  "steps": [
+    [
+      "Left gold ball",
+      "Left foot of middle chair"
+    ],
+    "Examine Trash"
+  ],
+  "solution": [
+    {
+      "img": "022S01.png",
+      "txt": "Bottom right blue block down"
+    },
+    {
+      "img": "022S02.png",
+      "txt": "Bottom left blue block right and down"
+    },
+    {
+      "img": "022S03.png",
+      "txt": "Left blue block down and right"
+    },
+    {
+      "img": "022S04.png",
+      "txt": "Left yellow block down"
+    },
+    {
+      "img": "022S05.png",
+      "txt": "Right yellow block left"
+    },
+    {
+      "img": "022S06.png",
+      "txt": "Top blue block up and right"
+    },
+    {
+      "img": "022S07.png",
+      "txt": "Bottom right blue block up"
+    },
+    {
+      "img": "022S08.png",
+      "txt": "Bottom yellow block right and up"
+    },
+    {
+      "img": "022S09.png",
+      "txt": "Bottom right blue block up and left"
+    },
+    {
+      "img": "022S10.png",
+      "txt": "Right yellow block down"
+    },
+    {
+      "img": "022S11.png",
+      "txt": "Left yellow block down and right"
+    },
+    {
+      "img": "022S12.png",
+      "txt": "Garbage down"
+    },
+    {
+      "img": "022S13.png",
+      "txt": "Blue block left and up"
+    },
+    {
+      "img": "022S14.png",
+      "txt": "Garbage up"
+    },
+    {
+      "img": "022S15.png",
+      "txt": "Bottom left blue block up"
+    },
+    {
+      "img": "022S16.png",
+      "txt": "Top yellow block up"
+    },
+    {
+      "img": "022S17.png",
+      "txt": "Bottom yellow block up and left"
+    },
+    {
+      "img": "022S18.png",
+      "txt": "Top yellow block down"
+    },
+    {
+      "img": "022S19.png",
+      "txt": "Blue block right and down"
+    },
+    {
+      "img": "022S20.png",
+      "txt": "Garbage down and right"
+    },
+    {
+      "img": "022S21.png",
+      "txt": "Yellow block up"
+    },
+    {
+      "img": "022S22.png",
+      "txt": "Blue block left and up"
+    },
+    {
+      "img": "022S23.png",
+      "txt": "Right yellow block up and left"
+    },
+    {
+      "img": "022S24.png",
+      "txt": "Garbage down"
+    },
+    {
+      "img": "022S25.png",
+      "txt": "Blue block right and up"
+    },
+    {
+      "img": "022S26.png",
+      "txt": "Bottom yellow block up"
+    },
+    {
+      "img": "022S27.png",
+      "txt": "Garbage up"
+    },
+    {
+      "img": "022S28.png",
+      "txt": "Bottom blue block up and left"
+    },
+    {
+      "img": "022S29.png",
+      "txt": "Garbage down"
+    }
+  ],
+  "prev": {
+    "num": "011",
+    "name": "Trees in the Forest"
+  },
+  "next": {
+    "num": "010",
+    "name": "A Work of Art"
+  }
+}

@@ -2,14 +2,14 @@
 
 ![Akkala1](images/Akkala1.PNG)
 
-* Korok 414: Rock under slab below Akkala Span
-* Korok 415: Rock pattern to NE
-* Korok 416: Rock beneath leaves on S edge of ruins
-* Korok 417: Rock by cannons on S edge of ruins
+* Korok 417: Rock under slab below Akkala Span
+* Korok 418: Rock pattern to NE
+* Korok 419: Rock beneath leaves on S edge of ruins
+* Korok 420: Rock by cannons on S edge of ruins
 * Akkala Tower
-* Korok 418: Rock beneath leaves to W
-* Korok 419: Rock beneath leaves to NE
-* Korok 420: Rock beneath Magnesis door to NE
+* Korok 421: Rock beneath leaves to W
+* Korok 422: Rock beneath leaves to NE
+* Korok 423: Rock beneath Magnesis door to NE
 * Ze Kasho Shrine to NW (66/120)
 * South Akkala Stable to E
   * Side Quest: Little Sister's Big Request
@@ -17,68 +17,67 @@
     * 1 Warm Darner
     * 1 Cold Darner
     * 1 Electric Darner
-* Korok 421: Rock atop ruins to E
-* Korok 422: Apple Trees to N
-* Korok 423: Rock beneath leaves to W
-* Korok 424: Fairylights to SW
+* Korok 424: Rock atop ruins to E
+* Korok 425: Apple Trees to N
+* Korok 426: Rock beneath leaves to W
+* Korok 427: Fairylights to SW
 
 ![Akkala2](images/Akkala2.PNG)
 
-* Korok 425: Fairylights atop tree to NE
-* Korok 426: Fairylights to E
-* Korok 427: Magnesis Puzzle to W
-* Korok 428: Magnesis Puzzle to NW
-* Recovered Memory 13 to NE (6/12)
+* Korok 428: Fairylights atop tree to NE
+* Korok 429: Fairylights to E
+* Korok 430: Magnesis Puzzle to W
+* Korok 431: Magnesis Puzzle to NW
+* Recovered Memory 13 - Slumbering Power to NE (6/12)
 * Tutsuwa Nim Shrine (67/120)
-* Korok 429: Rock above Spring of Power
-* Korok 430: Rock beneath leaves to E
-* Korok 431: Flower order to NE
-* Korok 432: Acorn in log to W
-* Korok 433: Magnesis Puzzle to W on mountainside ruins
+* Korok 432: Rock above Spring of Power
+* Korok 433: Rock beneath leaves to E
+* Korok 434: Flower order to NE
+* Korok 435: Acorn in log to W
+* Korok 436: Magnesis Puzzle to W on mountainside ruins
 
 ![Akkala3](images/Akkala3.PNG)
 
-* Korok 434: Balloon beneath cliff to NE
-* Korok 435: Rock atop tree in middle of Rok Woods to W
-* Korok 436: Rock beneath slab to W
-* Korok 437: Race to N
+* Korok 437: Balloon beneath cliff to NE
+* Korok 438: Rock atop tree in middle of Rok Woods to W
+* Korok 439: Rock beneath slab to W
+* Korok 440: Race to N
 * Take picture of Kilton at night in left Skull Eye
 * Zuna Kai Shrine in right Skull Eye (68/120)
 * Side Quest: Xenoblade Chronicles 2
   * The Eastern Sky From the Skull's Left Eye
-  * Mark
-* Korok 438: Rock circle to N
-* Korok 439: Rock under boulder to E
-* Salvage Vest to SE
-* Korok 440: Rock beneath slab to SW
-* Black Hinox to S (17/40)
-* Korok 441: Flower order to E
+* Korok 441: Rock circle to N
   * Should be able to max out inventory
-* Korok 442: Roll boulders to SE to hole S of previous Korok
-* Korok 443: Rock beneath leaves to SE
+* Korok 442: Rock under boulder to E
+* Salvager's Vest to SE
+* Korok 443: Rock beneath slab to SW
+* Black Hinox to S (18/40)
+* Korok 444: Flower order to E
+* Korok 445: Roll boulders to SE to hole S of previous Korok
+* Korok 446: Rock beneath leaves to SE
 
 ![Akkala4](images/Akkala4.PNG)
 
-* Korok 444: Race to E
+* Korok 447: Race to E
 * Return W to transport Flame to Akkala Ancient Tech Lab
 * Shrine Quest: The Skull's Eye
   * Should autocomplete
-* Korok 445: Fairylights atop Tech Lab
-* Korok 446: Rock in guardian pile to W
-* Korok 447: Rock behind cracked boulders to N
+* Korok 448: Fairylights atop Tech Lab
+* Korok 449: Rock in guardian pile to W
+* Korok 450: Rock behind cracked boulders to N
 * Shrine Quest: Trial of the Labyrinth to NE
   * Tu Ka'loh Shrine (69/120)
 * Side Quest: EX Teleportion Rumors
   * Useful when force spawning Stalnox
-* Diamond Circlet in center
+* Diamond Circlet in centre
   * Beneath labyrinth to S
-* Korok 448: Rock beneath slab on island to SE
-* Korok 449: Flower order to S
+* Korok 451: Rock beneath slab on island to SE
+* Korok 452: Flower order to S
 
 ![Akkala5](images/Akkala5.PNG)
 
-* Korok 450: Magnesis Puzzle to SW
-* Korok 451: Rock circle up cliff to NW
+* Korok 453: Magnesis Puzzle to SW
+* Korok 454: Rock circle up cliff to NW
 * Katosa Aug Shrine to W (70/120)
 * East Akkala Stable
   * Shrine Quest: The Spring of Power
@@ -86,14 +85,14 @@
   * Side Quest: A Shady Customer
     * Warp to Zuna Kai at night to find Kilton in other eye
     * Take picture of Kilton for Side Quest and return to Katosa Aug Shrine to finish
-* Korok 452: Race to SW
-* Korok 453: Pinwheel shooting to SE
-* Stalnox to SW (18/40)
+* Korok 455: Race to SW
+* Korok 456: Pinwheel shooting to SE
+* Stalnox to SW (19/40)
 
 ![Akkala6](images/Akkala6.PNG)
 
-* Korok 454: Rock Pattern to S
-* Korok 455: Flower path around bridge to S
+* Korok 457: Rock Pattern to S
+* Korok 458: Flower trial around bridge to S
 * Side Quest: From the Ground Up
   * Place Travel Medallion in Town for future convenience
   * Speak to Hudson
@@ -102,46 +101,44 @@
   * Talk to Greyson and Warp back
   * 20 Wood Bundles
 * Great Fairy Fountain to SE of Tarrey Town
-* Korok 456: Flower order to S
-* Korok 457: Apple offering to W
+* Korok 459: Flower order to S
+* Korok 460: Apple offering to W
 * Dah Hesho Shrine to S (71/120)
 
 ![Akkala7](images/Akkala7.PNG)
 
-* Korok 458: Apple trees to SE
-* Korok 459: Race to NE
-* Korok 460: Follow flower to NE
-* Korok 461: Magnesis Puzzle to SE
+* Korok 461: Apple trees to SE
+* Korok 462: Race to NE
+* Korok 463: Flower Trail to NE
+* Korok 464: Magnesis Puzzle to SE
 * Shrine Quest: Into the Vortex
   * Ritaag Zumo Shrine to NW (72/120)
-* Korok 462: Rock beneath leaves S of Shrine
+* Korok 465: Rock beneath leaves S of Shrine
 * Warp back to Dah Hesho Shrine
 
 ![Akkala8](images/Akkala8.PNG)
 
-* Korok 463: Pinwheel shooting to S
-* Korok 464: Rock beneath boulder to SE
-* Korok 465: Fairylights atop tree to SE
+* Korok 466: Pinwheel shooting to S
+* Korok 467: Rock beneath boulder to SE
+* Korok 468: Fairylights atop tree to SE
 * Ke'nai Shrine to N (73/120)
   * Ancient Battleaxe+
-* Korok 466: Apple Trees to N
-* Korok 467: Fairylights to SE
-* Korok 468: Rock beneath cracked boulders to SE of Davdi Island
-* Korok 469: Lilies NW on Davdi Island
-* Korok 470: Rock on pillar N on Ankel Island
-* Korok 471: Rock on scaffold below to N
-* Korok 472: Flower path N on Tingel Island
+* Korok 469: Apple Trees to N
+* Korok 470: Fairylights to SE
+* Korok 471: Rock beneath cracked boulders to SE of Davdi Island
+* Korok 472: Lilies NW on Davdi Island
+* Korok 473: Rock on pillar N on Ankel Island
+* Korok 474: Rock on scaffold below to N
+* Korok 475: Flower Trail to N on Tingel Island
 * Kah Mael Shrine to S (74/120)
 * Warp back to Dah Hesho Shrine
 
 ![Akkala9](images/Akkala9.PNG)
 
-* Korok 473: Rock circle to SW
-* Korok 474: Rock beneath bridge to SW
-* Korok 475: Rock beneath magnesis door to NW
-* Blue Hinox to W (19/40)
+* Korok 476: Rock circle to SW
+* Korok 477: Rock beneath bridge to SW
+* Korok 478: Rock beneath metal door to NW
+* Blue Hinox to W (20/40)
 * Warp to Oman Au Shrine
-
-475
 
 Next: [Central Hyrule 1](13 - Central1.md)

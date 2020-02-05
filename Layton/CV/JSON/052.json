@@ -1,0 +1,27 @@
+{
+  "num": "052",
+  "title": "Find a Star",
+  "steps": [
+    "Walk Right",
+    [
+      "Rightmost chimney",
+      "Leftmost roof",
+      "Stairs on right"
+    ],
+    "Talk to Pauly"
+  ],
+  "solution": [
+    {
+      "img": "052S.gif",
+      "txt": "Roughly trace the highlighted star"
+    }
+  ],
+  "prev": {
+    "num": "054",
+    "name": "Monster!"
+  },
+  "next": {
+    "num": "114",
+    "name": "Tetrahedron Trial"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "num": "010",
+  "title": "Four Digits",
+  "steps": [
+    [
+      "Oval picture partways up the stairs",
+      "Wall light to left of bookcase",
+      "Top chelf of bookcase"
+    ],
+    {"mobile": "Top Oval picture for Stellar Stone Charm"},
+    "Admire the paintings",
+    "Examine middle of bookcase"
+  ],
+  "solution": [
+    {
+      "img": "010S.png",
+      "txt": "ABCD = 2368"
+    }
+  ],
+  "prev": {
+    "num": "009",
+    "name": "One Poor Pooch"
+  },
+  "next": {
+    "num": "011",
+    "name": "Arc and Line"
+  }
+}

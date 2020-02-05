@@ -1,0 +1,29 @@
+{
+  "num": "053",
+  "title": "Fish Thief",
+  "steps": [
+    "Leave the Cafe",
+    "Walk Left",
+    [
+      "Left barrel",
+      "Box in the middle",
+      "Right jar"
+    ],
+    {"mobile": "Check poster for Floral Fragrance Charm"},
+    "Talk to Agnes"
+  ],
+  "solution": [
+    {
+      "img": "053S.gif",
+      "txt": "Brother C is lying"
+    }
+  ],
+  "prev": {
+    "num": "106",
+    "name": "How Many Glasses"
+  },
+  "next": {
+    "num": "054",
+    "name": "Monster!"
+  }
+}

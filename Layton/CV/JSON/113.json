@@ -1,0 +1,30 @@
+{
+  "num": "113",
+  "title": "Pet Menagerie",
+  "steps": [
+    "Give the Stuffed Bear to Luke",
+    "Walk Down",
+    "Walk Right",
+    "Walk Down",
+    [
+      "Inn Chimney",
+      "Bin beside right door",
+      "Sign outside Inn"
+    ],
+    "Examine Large Sign outside Inn"
+  ],
+  "solution": [
+    {
+      "img": "113S.png",
+      "txt": "He's lost 2 snakes"
+    }
+  ],
+  "prev": {
+    "num": "046",
+    "name": "Star in the Sky"
+  },
+  "next": {
+    "num": "047",
+    "name": "On the Run"
+  }
+}

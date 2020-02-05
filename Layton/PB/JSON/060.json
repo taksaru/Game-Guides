@@ -1,0 +1,23 @@
+{
+  "num": "060",
+  "title": "Plaza Puzzle",
+  "steps": [
+    "Walk Down",
+    "Walk Down",
+    "Talk to Rory"
+  ],
+  "solution": [
+    {
+      "img": "060S.png",
+      "txt": "Draw a circle about a third of the way out"
+    }
+  ],
+  "prev": {
+    "num": "115",
+    "name": "Tricky Digits"
+  },
+  "next": {
+    "num": "085",
+    "name": "The Missing Shape"
+  }
+}

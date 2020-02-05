@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 045A</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Leave Town Hall</li>
+        <li>Walk Left</li>
+        <li>Enter door on right</li>
+        <li>Talk to Crouton</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Far end of left path</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Far end of right path</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Manhole Cover</label></li>
+        </ul></li>
+        <li class="mobile">Check Lantern above door for Minty Cupcake Charm</li>
+        <li>Talk to Adrea</li>
+      </ul>
+    </div>
+    <h1>045A - Puzzle Aliens</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/045AH1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/045AH2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/045AH3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/045AS.gif" onclick="bigMe(this)"/>
+        <p>They're talking about a Compass</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('044')">Stamp Stumper</u></p>
+    <p class="next">Next: <u onclick="changePage('046')">The Biggest Star</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

@@ -1,0 +1,29 @@
+{
+  "num": "050",
+  "title": "Misinformootion",
+  "steps": [
+    "Walk Right",
+    "Walk Right",
+    "Talk to Oscar or Clabber"
+  ],
+  "solution": [
+    {
+      "img": "050S.png",
+      "txt": "A, C and E are Nowheys"
+    }
+  ],
+  "prev": [
+    {
+      "num": "043",
+      "name": "Board Cutter 2"
+    },
+    {
+      "num": "043",
+      "name": "Board Splitter 2"
+    }
+  ],
+  "next": {
+    "num": "039",
+    "name": "A Change of Clothes"
+  }
+}

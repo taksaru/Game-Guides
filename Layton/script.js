@@ -13,9 +13,10 @@ function openTab(evt, name){
   evt.currentTarget.className += " active";
 }
 
-document.addEventListener("backbutton", function(e){
-  e.preventDefault();
-  if confirm('Close Application?'){
-    console.log('CLOSE');
-  }
-})
+function yankify(bool){
+
+}
+
+function mobileMode(bool){
+  
+}

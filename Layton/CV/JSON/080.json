@@ -1,0 +1,21 @@
+{
+  "num": "080",
+  "title": "Too Many Queens 1",
+  "steps": [
+    "Talk to Flick"
+  ],
+  "solution": [
+    {
+      "img": "080S.gif",
+      "txt": "Position the Queens as shown above"
+    }
+  ],
+  "prev": {
+    "num": "076",
+    "name": "Apples to Oranges"
+  },
+  "next": {
+    "num": "081",
+    "name": "Too Many Queens 2"
+  }
+}

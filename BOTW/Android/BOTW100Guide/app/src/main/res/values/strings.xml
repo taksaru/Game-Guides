@@ -1,0 +1,41 @@
+<resources>
+  <string name="app_name">BOTW100Guide</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="nav_header_title">BOTW 100% Guide</string>
+  <string name="mainProg">Progress</string>
+  <string name="korokProg">Koroks</string>
+  <string name="shrineProg">Shrines</string>
+  <string name="otherProg">Other</string>
+  <string name="nav_header_desc">Navigation header</string>
+  <string name="action_settings">Reset</string>
+
+  <string name="towers">Towers</string>
+
+  <string name="guide0">Introduction</string>
+  <string name="guide1">Great Plateau</string>
+  <string name="guide2">Dueling Peaks 1</string>
+  <string name="guide3">Hateno 1</string>
+  <string name="guide4">Dueling Peaks 2</string>
+  <string name="guide5">Hateno 2</string>
+  <string name="guide6">Lanaryu 1</string>
+  <string name="guide7">Woodland</string>
+  <string name="guide8">Ridgeland</string>
+  <string name="guide9">Tabantha</string>
+  <string name="guide10">Hebra</string>
+  <string name="guide11">Eldin</string>
+  <string name="guide12">Akkala</string>
+  <string name="guide13">Central Hyrule 1</string>
+  <string name="guide14">Wasteland 1</string>
+  <string name="guide15">Gerudo Highlands</string>
+  <string name="guide16">Wasteland 2</string>
+  <string name="guide17">The Champion\'s Ballad</string>
+  <string name="guide18">Lanaryu 2</string>
+  <string name="guide19">Hateno 3</string>
+  <string name="guide20">Hylia</string>
+  <string name="guide21">Faron</string>
+  <string name="guide22">Central Hyrule 2</string>
+  <string name="guide23">Hyrule Castle</string>
+  <string name="guide24">Post Game</string>
+  <string name="adID">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

@@ -1,0 +1,34 @@
+{
+  "num": "084",
+  "title": "Which Boxes to Move?",
+  "steps": [
+    "Walk Left",
+    [
+      "Water Barrier",
+      "Vine on right",
+      "Middle of water on left"
+    ],
+    {"mobile": "Check Vine on left for Purple Diamond Drop Charm"},
+    "Talk to Stachenscarfen"
+  ],
+  "solution": [
+    {
+      "img": "084S.gif",
+      "txt": "3 boxes can't be labelled"
+    }
+  ],
+  "prev": {
+    "num": "120",
+    "name": "Get the Ball Out! 3"
+  },
+  "next": [
+    {
+      "num": "085",
+      "name": "Train Speed"
+    },
+    {
+      "num": "085",
+      "name": "Weekend Getaway"
+    }
+  ]
+}

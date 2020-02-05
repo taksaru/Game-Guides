@@ -1,0 +1,22 @@
+{
+  "num": "062",
+  "title": "A Tricky Inheritance",
+  "steps": [
+    "Give the Mysterious Bottle to Layton",
+    "Talk to Chelmey"
+  ],
+  "solution": [
+    {
+      "img": "062S.png",
+      "txt": "150 square metres"
+    }
+  ],
+  "prev": {
+    "num": "103",
+    "name": "Wood Cutouts"
+  },
+  "next": {
+    "num": "063",
+    "name": "How Old Is Mom?"
+  }
+}

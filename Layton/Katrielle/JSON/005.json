@@ -1,0 +1,80 @@
+{
+  "num": "005",
+  "title": "Alien Attack",
+  "steps": [
+    "Examine clock face on right",
+    "Examine large mechanism",
+    "Talk to Hans Lipski",
+    "Talk back to the guardian",
+    "Talk to Inspector Hastings",
+    "Ride bicycle to Chancer Lane",
+    [
+      "Top of lamp post",
+      "Middle plant atop right roof",
+      "Tip of top right roof top"
+    ],
+    "Search Chimney for three fashion farthings",
+    "Investigate second table from the left for Perplexing Preserve",
+    "Examine rightmost window above store"
+  ],
+  "solution": [
+    {
+      "img": "005S01.gif",
+      "txt": "Fire diagonally up to the right"
+    },
+    {
+      "img": "005S02.gif",
+      "txt": "Fire diagonally up to the left"
+    },
+    {
+      "img": "005S03.gif",
+      "txt": "Fire diagonally up to the right"
+    },
+    {
+      "img": "005S04.gif",
+      "txt": "Fire diagonally down to the right"
+    },
+    {
+      "img": "005S05.gif",
+      "txt": "Fire diagonally down to the left"
+    },
+    {
+      "img": "005S06.gif",
+      "txt": "Fire diagonally down to the right"
+    },
+    {
+      "img": "005S07.gif",
+      "txt": "Fire to the left"
+    },
+    {
+      "img": "005S08.gif",
+      "txt": "Fire up"
+    },
+    {
+      "img": "005S09.gif",
+      "txt": "Fire up again"
+    },
+    {
+      "img": "005S10.gif",
+      "txt": "Fire diagonally down to the left"
+    },
+    {
+      "img": "005S11.gif",
+      "txt": "Fire to the right"
+    }
+  ],
+  "prev": [
+    {
+      "num": "004",
+      "name": "Houses of Hanoi"
+    },
+    {
+      "num": "004",
+      "name": "A-Maze-Balls"
+    }
+  ],
+  "next": {
+    "num": "006",
+    "name": "Paper Caper"
+  }
+}

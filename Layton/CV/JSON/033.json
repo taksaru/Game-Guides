@@ -1,0 +1,27 @@
+{
+  "num": "033",
+  "title": "Light Which One?",
+  "steps": [
+    "Examine the Candle again"
+  ],
+  "solution": [
+    {
+      "img": "033S.gif",
+      "txt": "You start with the match"
+    }
+  ],
+  "prev": [
+    {
+      "num": "032",
+      "name": "Sweet Jars"
+    },
+    {
+      "num": "032",
+      "name": "Candy Jars"
+    }
+  ],
+  "next": {
+    "num": "034",
+    "name": "How Many Sheets?"
+  }
+}

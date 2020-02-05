@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 114</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Walk Down</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Crack on left wall</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Right grass</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Bottom left doorway near stairs</label></li>
+        </ul></li>
+        <li>Enter door on the left</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc3"/><label for="hc3">Floor under right stand</label></li>
+          <li><input type="checkbox" id="hc4"/><label for="hc4">Bookshelf</label></li>
+          <li><input type="checkbox" id="hc5"/><label for="hc5">Lowest book on floor</label></li>
+        </ul></li>
+        <li class="mobile">Check Flowers for Floral Jelly Charm</li>
+        <li>Talk to Prosciutto</li>
+        <li>Examine hanging mett</li>
+      </ul>
+    </div>
+    <h1>114 - Tetrahedron Trial</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/114H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/114H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/114H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/114S.gif" onclick="bigMe(this)"/>
+        <p>Use Triangle C</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('052')">Find a Star</u></p>
+    <p class="next">Next: <u onclick="changePage('012')">Make a Rectangle</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

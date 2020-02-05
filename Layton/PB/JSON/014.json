@@ -1,0 +1,29 @@
+{
+  "num": "014",
+  "title": "Red Caps",
+  "steps": [
+    "Enter door at rear of car",
+    "Enter door at rear of car",
+    "Enter left door at rear of car"
+  ],
+  "solution": [
+    {
+      "img": "014S.png",
+      "txt": "6 kids got a red balloon"
+    }
+  ],
+  "prev": [
+    {
+      "num": "000",
+      "name": "The Train Journey"
+    },
+    {
+      "num": "019",
+      "name": "The Train Ride"
+    }
+  ],
+  "next": {
+    "num": "016",
+    "name": "Crazy Daisies"
+  }
+}

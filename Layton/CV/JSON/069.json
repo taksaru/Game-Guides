@@ -1,0 +1,23 @@
+{
+  "num": "069",
+  "title": "Chocolate Puzzle",
+  "steps": [
+    "Enter Left Door",
+    {"mobile": "Strawberry Sundae Charm in Chest"},
+    "Talk to Prosciutto"
+  ],
+  "solution": [
+    {
+      "img": "069S.gif",
+      "txt": "29 Breaks"
+    }
+  ],
+  "prev": {
+    "num": "067",
+    "name": "The Chocolate Code"
+  },
+  "next": {
+    "num": "070",
+    "name": "The Shattered Vase"
+  }
+}

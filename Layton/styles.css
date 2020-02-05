@@ -26,10 +26,23 @@
   border-top: none;
 }
 
-#prev{
+.prev{
   float: left;
 }
 
-#next{
+.next{
+  text-align: right;
   float: right;
+}
+
+.us{
+  display: none;
+}
+
+.mobile{
+  display: none;
+}
+
+a{
+  color: blue;
 }

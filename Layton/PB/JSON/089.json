@@ -1,0 +1,57 @@
+{
+  "num": "089",
+  "title": "Flower Bed Fun",
+  "steps": [
+    "Walk down",
+    "Walk down",
+    "Walk down",
+    "Talk to Rory",
+    "Walk up",
+    "Walk up",
+    [
+      "Bottom of centre light",
+      "Left barrel at stall",
+      "Left lamp support"
+    ],
+    "Enter door on left",
+    [
+      "Umbrella stand on right",
+      "Under chair on left",
+      "Under folding table on right"
+    ],
+    "Talk to Inspector Chelmey",
+    "Talk to Dawson",
+    "Leave Shop",
+    "Walk Up",
+    [
+      "Left Chimney",
+      "Top Red Building window",
+      "Top blue building window"
+    ],
+    "Talk to Stachenscarfen",
+    "Serve Tea 01 to Stachenscarfen",
+    "Walk down and up until Derby is thirsty",
+    "Serve Tea 01 to Derby",
+    "Talk to Derby"
+  ],
+  "solution": [
+    {
+      "img": "089S.png",
+      "txt": "Red Section is 400"
+    }
+  ],
+  "prev": {
+    "num": "062",
+    "name": "Smell the Roses Again"
+  },
+  "next": [
+    {
+      "num": "068",
+      "name": "Hat Etiquette"
+    },
+    {
+      "num": "068",
+      "name": "Hat Trick"
+    }
+  ]
+}

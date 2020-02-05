@@ -14,9 +14,9 @@
       <ul>
         <li>Hint Coins
           <ul class="check">
-            <li><input type="checkbox" id="hc1" type="checkbox"/><label for="hc1">Light</label></li>
-            <li><input type="checkbox" id="hc2" type="checkbox"/><label for="hc2">Painting</label></li>
-            <li><input type="checkbox" id="hc3" type="checkbox"/><label for="hc3">Gramaphone</label></li>
+            <li><input type="checkbox" id="hc1"/><label for="hc1">Light</label></li>
+            <li><input type="checkbox" id="hc2"/><label for="hc2">Painting</label></li>
+            <li><input type="checkbox" id="hc3"/><label for="hc3">Gramaphone</label></li>
           </ul>
         </li>
         <li>Check bookshelf</li>
@@ -32,28 +32,31 @@
     </div>
     <div id="hint1" class="tabcontent">
       <h1>Hint 1</h1>
-      <img src="images/p1h1.gif">
+      <img src="images/p1h1.gif" onclick="bigMe(this)">
     </div>
     <div id="hint2" class="tabcontent">
       <h1>Hint 2</h1>
-      <img src="images/p1h2.gif">
+      <img src="images/p1h2.gif" onclick="bigMe(this)">
     </div>
     <div id="hint3" class="tabcontent">
       <h1>Hint 3</h1>
-      <img src="images/p1h3.gif">
+      <img src="images/p1h3.gif" onclick="bigMe(this)">
     </div>
     <div id="hint4" class="tabcontent">
       <h1>Super Hint</h1>
-      <img src="images/p1h4.gif">
+      <img src="images/p1h4.gif" onclick="bigMe(this)">
     </div>
     <div id="solution" class="tabcontent">
       <h1>Solution</h1>
-      <img src="images/p1s.gif">
-      <p>Remove the green and blue paths</p>
+      <img src="images/p1s.gif" onclick="bigMe(this)">
+      <caption>Remove the green and blue paths</caption>
     </div>
   </body>
   <footer>
     <a id="prev" href=""></a>
     <a id="next" href="P02.html">02 - Barton's Burger</a>
   </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="images/p1h4.gif">
+  </div>
 </html>

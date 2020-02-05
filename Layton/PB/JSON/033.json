@@ -1,0 +1,33 @@
+{
+  "num": "033",
+  "title": "Fishing Net",
+  "steps": [
+    "Walk Right",
+    [
+      "Shed chimney",
+      "Right tree trunk",
+      "Shed roof corner reflection"
+    ],
+    "Talk to Gabe"
+  ],
+  "solution": [
+    {
+      "img": "033S.png",
+      "txt": "You'll catch 7 fish"
+    }
+  ],
+  "prev": [
+    {
+      "num": "000",
+      "name": "Four Horses"
+    },
+    {
+      "num": "038",
+      "name": "Moving Day"
+    }
+  ],
+  "next": {
+    "num": "044",
+    "name": "Tangled Ropes"
+  }
+}

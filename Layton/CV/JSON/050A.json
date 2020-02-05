@@ -1,0 +1,29 @@
+{
+  "num": "050A",
+  "title": "OTTF?",
+  "steps": [
+    "Give the Bookcase to Luke",
+    "Walk Up",
+    [
+      "Leftmost window",
+      "Large stone near door",
+      "Top right window"
+    ],
+    {"mobile": "Check window near posters for Apple Pie Piece Charm"},
+    "Talk to Marco"
+  ],
+  "solution": [
+    {
+      "img": "050AS.gif",
+      "txt": "F (Pay your respects)"
+    }
+  ],
+  "prev": {
+    "num": "049",
+    "name": "1,000 Times"
+  },
+  "next": {
+    "num": "051",
+    "name": "The Town Barbers"
+  }
+}

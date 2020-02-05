@@ -1,0 +1,21 @@
+{
+  "num": "007",
+  "title": "Failing Scales",
+  "steps": [
+    "Examine shelves at the shelf"
+  ],
+  "solution": [
+    {
+      "img": "007S.gif",
+      "txt": "There are 14g of sugar"
+    }
+  ],
+  "prev": {
+    "num": "006",
+    "name": "Paper Caper"
+  },
+  "next": {
+    "num": "009",
+    "name": "Puzzling Paints"
+  }
+}

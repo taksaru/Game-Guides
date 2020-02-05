@@ -1,0 +1,59 @@
+{
+  "num": "117",
+  "title": "Three Couples",
+  "steps": [
+    {
+      "img": "Camera.png",
+      "txt": "Assemble the Camera"
+    },
+    [
+      "Lamp",
+      "Left Cabinet",
+      "Right end of green display"
+    ],
+    "Talk to Joseph",
+    "Walk down",
+    "Climb up steps",
+    [
+      "Top red window",
+      "Sign on right",
+      "Ledge right of right door"
+    ],
+    "Look at Precious",
+    "Walk Left",
+    [
+      "Left light",
+      "Right light base",
+      "Weed below left light"
+    ],
+    "Examine museum gate",
+    "Walk Left",
+    [
+      "Top right step",
+      "Base of right pullar",
+      "Left main street step edge"
+    ],
+    "Keep Walking Right then left until Narice/Clarice is thirsty",
+    "Serve Tea 07 to Narice/Clarice",
+    "Talk to Narice/Clarice again"
+  ],
+  "solution": [
+    {
+      "img": "117S.png",
+      "txt": "B is married to neither sister"
+    }
+  ],
+  "prev": {
+    "num": "072",
+    "name": "Scrambled Photos"
+  },
+  "next": [
+    {
+      "num": "070",
+      "name": "Jewlled Necklaces"
+    },
+    {
+      "num": "070",
+      "name": "The Jeweled Necklace"
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "num": "116",
+  "title": "The Largest Total",
+  "steps": [
+    "Give the Violin to Luke",
+    "Look at the right window in the shack"
+  ],
+  "solution": [
+    {
+      "img": "116S.gif",
+      "txt": "Center number is 51"
+    }
+  ],
+  "prev": [
+    {
+      "num": "088",
+      "name": "Leaky Tank"
+    },
+    {
+      "num": "088A",
+      "name": "In a Hole"
+    }
+  ],
+  "next": {
+    "num": "089",
+    "name": "Which Way?"
+  }
+}

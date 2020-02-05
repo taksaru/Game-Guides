@@ -51,7 +51,7 @@
     </table>
 * Head straight NNE to Kakariko
   * Korok Seed with stone ring NW of kakariko bridge
-  * Korok Seed Lillies NW of above
+  * Korok Seed Lilies NW of above
   * Talus W of above
 * Korok 17: Rock atop small ledge
 * Korok 18: Shoot emblem at village entrance

@@ -1,0 +1,27 @@
+{
+  "num": "049",
+  "title": "1,000 Times",
+  "steps": [
+    "Talk to Lucy"
+  ],
+  "solution": [
+    {
+      "img": "049S.gif",
+      "txt": "1m is 1000mm"
+    }
+  ],
+  "prev": {
+    "num": "047",
+    "name": "On the Run"
+  },
+  "next": [
+    {
+      "num": "050",
+      "name": "Number Maze"
+    },
+    {
+      "num": "050",
+      "name": "OTTF?"
+    }
+  ]
+}

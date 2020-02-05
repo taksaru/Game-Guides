@@ -1,0 +1,81 @@
+{
+  "num": "026",
+  "title": "Train Swap",
+  "steps": [
+    "Enter door at end of car",
+    "Talk to Mystery Girl",
+    "Walk down",
+    "Walk down",
+    "Enter middle door on left",
+    "Leave room",
+    [
+      "Window right of door",
+      "Bottom step",
+      "Leftmost wheel"
+    ],
+    "Walk Left",
+    "Talk to Hank/Steve"
+  ],
+  "solution": [
+    {
+      "img": "026S01.png",
+      "txt": "Red 1 to top right track"
+    },
+    {
+      "img": "026S02.png",
+      "txt": "Red 2 to middle track"
+    },
+    {
+      "img": "026S03.png",
+      "txt": "Red 3 to bottom left track"
+    },
+    {
+      "img": "026S04.png",
+      "txt": "Red 2 to bottom left track"
+    },
+    {
+      "img": "026S05.png",
+      "txt": "Green 1 to bottom right track"
+    },
+    {
+      "img": "026S06.png",
+      "txt": "Green 2 to bottom right track"
+    },
+    {
+      "img": "026S07.png",
+      "txt": "Green 3 to bottom right track"
+    },
+    {
+      "img": "026S08.png",
+      "txt": "Red 1 to middle track"
+    },
+    {
+      "img": "026S09.png",
+      "txt": "Green 4 to top right track"
+    },
+    {
+      "img": "026S10.png",
+      "txt": "Red 1 to top left track"
+    },
+    {
+      "img": "026S11.png",
+      "txt": "Red 2 to top left track"
+    },
+    {
+      "img": "026S12.png",
+      "txt": "Red 3 to top left track"
+    },
+    {
+      "img": "026S13.png",
+      "txt": "Green 4 to bottom right track"
+    }
+  ],
+  "prev": {
+    "num": "012",
+    "name": "Clouds and Sky"
+  },
+  "next": {
+    "num": "027",
+    "name": "A Dramatic Farewell"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "num": "051",
+  "title": "The Town Barbers",
+  "steps": [
+    "Give the Teak Bureau to Layton",
+    "Enter the door",
+    [
+      "Blue Frame",
+      "Left Stool",
+      "Top of left cupboard"
+    ],
+    {"mobile": "Check Frame near Zappone for Strawberry Shortcake Charm"},
+    "Talk to Crumm",
+    "Talk to Zappone"
+  ],
+  "solution": [
+    {
+      "img": "051S.gif",
+      "txt": "You can reach goal B"
+    }
+  ],
+  "prev": [
+    {
+      "num": "050",
+      "name": "Number Maze"
+    },
+    {
+      "num": "050",
+      "name": "OTTF?"
+    }
+  ],
+  "next": {
+    "num": "106",
+    "name": "How Many Glasses"
+  }
+}

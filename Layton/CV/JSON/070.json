@@ -1,0 +1,52 @@
+{
+  "num": "070",
+  "title": "The Shattered Vase",
+  "steps": [
+    "Give the World Map to Luke",
+    "Leave Prosciutto's House",
+    "Walk Out",
+    [
+      "Tiles on left roof"
+    ],
+    {"mobile": "Check Left Tree for Lunar Lapis Charm"},
+    "Walk Left"
+  ],
+  "solution": [
+    {
+      "img": "070S02.gif",
+      "txt": ""
+    },
+    {
+      "img": "070S03.gif",
+      "txt": ""
+    },
+    {
+      "img": "070S04.gif",
+      "txt": ""
+    },
+    {
+      "img": "070S05.gif",
+      "txt": ""
+    },
+    {
+      "img": "070S06.gif",
+      "txt": ""
+    },
+    {
+      "img": "070S07.gif",
+      "txt": ""
+    },
+    {
+      "img": "070S08.gif",
+      "txt": ""
+    }
+  ],
+  "prev": {
+    "num": "069",
+    "name": "Chocolate Puzzle"
+  },
+  "next": {
+    "num": "071",
+    "name": "Sausage Thief"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "num": "014",
+  "title": "Which Chair?",
+  "steps": [
+    "Walk Down",
+    "Talk to Marco",
+    "Enter the blue door",
+    [
+      "Middle shelf on left",
+      "Box of papers on ground",
+      "Close Cupboard on wall"
+    ],
+    {"mobile": "Picture on right for Aqua Aroma Charm"},
+    "Look at either chair"
+  ],
+  "solution": [
+    {
+      "img": "014S.gif",
+      "txt": "Chair E"
+    }
+  ],
+  "prev": {
+    "num": "013",
+    "name": "Sinking Ship"
+  },
+  "next": {
+    "num": "015",
+    "name": "How Many Are Left?"
+  }
+}

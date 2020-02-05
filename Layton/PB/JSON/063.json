@@ -1,0 +1,22 @@
+{
+  "num": "063",
+  "title": "Numbered Cards",
+  "steps": [
+    "Enter door on left",
+    "Talk to Dawson"
+  ],
+  "solution": [
+    {
+      "img": "063S.png",
+      "txt": "Arrange the cards as shown"
+    }
+  ],
+  "prev": {
+    "num": "093",
+    "name": "How Old Am I?"
+  },
+  "next": {
+    "num": "115",
+    "name": "Tricky Digits"
+  }
+}

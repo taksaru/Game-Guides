@@ -1,0 +1,24 @@
+{
+  "num": "020",
+  "title": "The Shoe Shop Thief",
+  "a-title": "The Shoe Store Thief"
+  "steps": [
+    "Walk Down",
+    "Walk Down",
+    "Talk to Inspector Chelmey"
+  ],
+  "solution": [
+    {
+      "img": "020S.png",
+      "txt": "The Shopkeeper is out 50"
+    }
+  ],
+  "prev": {
+    "num": "013",
+    "name": "On Your Plate"
+  },
+  "next": {
+    "num": "018",
+    "name": "The Shoe Maze"
+  }
+}

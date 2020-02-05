@@ -1,0 +1,19 @@
+{
+  "num": "059",
+  "title": "A Ticket to Where?",
+  "steps": [],
+  "solution": [
+    {
+      "img": "059S.png",
+      "txt": "2 was cut out"
+    }
+  ],
+  "prev": {
+    "num": "058",
+    "name": "In the Tunnel"
+  },
+  "next": {
+    "num": "061",
+    "name": "Where's the Hotel"
+  }
+}

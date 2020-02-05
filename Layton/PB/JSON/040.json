@@ -1,0 +1,24 @@
+{
+  "num": "040",
+  "title": "The Patterned Box",
+  "a-title": "The Tiled Box"
+  "steps": [
+    "Walk Right",
+    "Walk Down",
+    "Talk to Madeline"
+  ],
+  "solution": [
+    {
+      "img": "040S.png",
+      "txt": "Assemble the box as shown"
+    }
+  ],
+  "prev": {
+    "num": "054",
+    "name": "Painting the Flag"
+  },
+  "next": {
+    "num": "049",
+    "name": "A Royal Show-off"
+  }
+}

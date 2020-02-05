@@ -1,0 +1,29 @@
+{
+  "num": "119",
+  "title": "The Fake Coins",
+  "steps": [
+    "Walk into left building",
+    [
+      "Red mirror",
+      "Circular mirror left of doorway",
+      "Green bottle"
+    ],
+    "Take photo",
+    "<ul><li>Mirror crack</li><li>String of garlic right of door<li><li>Spilled bottle</li></ul>",
+    "Hidden Puzzle"
+  ],
+  "solution": [
+    {
+      "img": "119S.png",
+      "txt": "You only need to use the scale once"
+    }
+  ],
+  "prev": {
+    "num": "085",
+    "name": "Missing Shape"
+  },
+  "next": {
+    "num": "076",
+    "name": "Top of the Tower"
+  }
+}

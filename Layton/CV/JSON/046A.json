@@ -1,0 +1,37 @@
+{
+  "num": "046A",
+  "title": "Star in the Sky",
+  "steps": [
+    "Walk Right",
+    [
+      "Window above clock",
+      "Right barrel",
+      "Right Chimney",
+      "Roof right of Clock Tower"
+    ],
+    {"mobile": "Check lit window above door for Silvery Solitair Charm"},
+    "Talk to Gerard",
+    "Walk Left",
+    "Walk Up",
+    [
+      "Check left edge of broom",
+      "Top of right pillar",
+      "V shaped stone on right wall"
+    ],
+    "Talk to Deke"
+  ],
+  "solution": [
+    {
+      "img": "046AS.gif",
+      "txt": "Connect the stars"
+    }
+  ],
+  "prev": {
+    "num": "045",
+    "name": "Puzzled Aliens"
+  },
+  "next": {
+    "num": "113",
+    "name": "Pet Hotel"
+  }
+}

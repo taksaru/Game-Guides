@@ -1,0 +1,30 @@
+{
+  "num": "010",
+  "title": "A Work of Art",
+  "steps": [
+    "Walk Down",
+    "Talk to Beluga",
+    "Walk Down",
+    "Walk Down"
+  ],
+  "solution": [
+    {
+      "img": "010S.png",
+      "txt": "3 colors are needed"
+    }
+  ],
+  "prev": [
+    {
+      "num": "022",
+      "name": "Cleaning Up 1"
+    },
+    {
+      "num": "022",
+      "name": "Taking Out the Trash"
+    }
+  ],
+  "next": {
+    "num": "008",
+    "name": "Luke's Big Dinner"
+  }
+}

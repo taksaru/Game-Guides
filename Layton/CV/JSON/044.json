@@ -1,0 +1,31 @@
+{
+  "num": "044",
+  "title": "Stamp Stumper",
+  "steps": [
+    "Give Blue Bed to Luke",
+    "Walk Down",
+    "Enter Right Door",
+    "Talk to Rodney",
+    "Talk to Rodney again"
+  ],
+  "solution": [
+    {
+      "img": "044S.gif",
+      "txt": "Divide stamps as shown"
+    }
+  ],
+  "prev": {
+    "num": "043",
+    "name": "Three Umbrellas"
+  },
+  "next": [
+    {
+      "num": "045",
+      "name": "Lunar Weight"
+    },
+    {
+      "num": "045",
+      "name": "Puzzled Aliens"
+    }
+  ]
+}

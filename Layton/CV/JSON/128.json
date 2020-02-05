@@ -1,0 +1,21 @@
+{
+  "num": "128",
+  "title": "Number Lock",
+  "steps": [
+    "The Art Lover's House"
+  ],
+  "solution": [
+    {
+      "img": "128S.gif",
+      "txt": "Place the tiles as shown"
+    }
+  ],
+  "prev": {
+    "num": "127",
+    "name": "Perimeter Perplexer"
+  },
+  "next": {
+    "num": "129",
+    "name": "Four Balls"
+  }
+}

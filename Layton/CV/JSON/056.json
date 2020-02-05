@@ -1,0 +1,27 @@
+{
+  "num": "056",
+  "title": "The Lazy Guard",
+  "steps": [
+    "Give the Simple Chair to Luke",
+    "Leave the Inn",
+    [
+      "Rightmost Chimney"
+    ],
+    {"mobile": "Check left Inn window for Strawberry Biscuit Charm"},
+    "Talk to Stachenscarfen"
+  ],
+  "solution": [
+    {
+      "img": "056S.gif",
+      "txt": "Only 2 turns are needed"
+    }
+  ],
+  "prev": {
+    "num": "055",
+    "name": "The Odd Sandwich"
+  },
+  "next": {
+    "num": "057",
+    "name": "Cut Which One?"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "num": "110",
+  "title": "Chelmey's Route",
+  "steps": [
+    "Walk down",
+    "Walk down",
+    "Walk right",
+    "Walk down",
+    "Walk left",
+    "Walk down",
+    "Walk down",
+    "Enter Hotel",
+    "Speak to Inspector Chelmey",
+    "Speak to Inspector Chelmey again"
+  ],
+  "solution": [
+    {
+      "img": "110S.png",
+      "txt": "Trace the route shown"
+    }
+  ],
+  "prev": {
+    "num": "106",
+    "name": "The Knight's Tour 1"
+  },
+  "next": {
+    "num": "092",
+    "name": "Precious Metals"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "num": "018",
+  "title": "The Show Maze",
+  "steps": [
+    "Walk Down",
+    "Talk to Karla"
+  ],
+  "solution": [
+    {
+      "img": "018S.png",
+      "txt": "Take the path shown"
+    }
+  ],
+  "prev": [
+    {
+      "num": "020",
+      "name": "The Shoe Shop Thief"
+    },
+    {
+      "num": "020",
+      "name": "The Shoe Store Thief"
+    }
+  ],
+  "next": [
+    {
+      "num": "019",
+      "name": "The Train Journey"
+    },
+    {
+      "num": "019",
+      "name": "The Train Ride"
+    }
+  ]
+}

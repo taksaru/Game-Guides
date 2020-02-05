@@ -1,0 +1,29 @@
+{
+  "num": "073",
+  "title": "How Many Squares?",
+  "steps": [
+    "Give Reading Lamp to Luke",
+    "Enter rightmost door",
+    "Talk to Rodney"
+  ],
+  "solution": [
+    {
+      "img": "073S.gif",
+      "txt": "11 Different squares can be drawn"
+    }
+  ],
+  "prev": [
+    {
+      "num": "072",
+      "name": "Truth and Lies"
+    },
+    {
+      "num": "072A",
+      "name": "The Sound of Silence"
+    }
+  ],
+  "next": {
+    "num": "109",
+    "name": "Laziest Man on Earth"
+  }
+}

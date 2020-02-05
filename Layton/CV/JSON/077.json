@@ -1,0 +1,27 @@
+{
+  "num": "077",
+  "title": "Which Job?",
+  "steps": [
+    "Talk to Adrea"
+  ],
+  "solution": [
+    {
+      "img": "077S.gif",
+      "txt": "Company B pays more"
+    }
+  ],
+  "prev": [
+    {
+      "num": "076",
+      "name": "Flower Garden"
+    },
+    {
+      "num": "076",
+      "name": "A Tile Square"
+    }
+  ],
+  "next": {
+    "num": "078",
+    "name": "Water Pitchers"
+  }
+}

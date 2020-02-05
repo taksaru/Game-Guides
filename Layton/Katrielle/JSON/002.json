@@ -1,0 +1,30 @@
+{
+  "num": "002",
+  "title": "The Hand That Feeds",
+  "steps": [
+    "Check top of lamp post for hint coin",
+    [
+      "Middle Chimney left of lamp post",
+      "Tree on left"
+    ],
+    "Zoom in on clock tower",
+    "Look at clock face",
+    "Talk to Inspector Hastings",
+    "Talk to Douglas Dert",
+    "Talk to Stachenscarfen"
+  ],
+  "solution": [
+    {
+      "img": "002S.gif",
+      "txt": "You don't need to touch the clock at all"
+    }
+  ],
+  "prev": {
+    "num": "001",
+    "name": "Care for a Cake?"
+  },
+  "next": {
+    "num": "003",
+    "name": "Bubble Blast"
+  }
+}

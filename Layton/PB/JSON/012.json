@@ -1,0 +1,33 @@
+{
+  "num": "012",
+  "title": "Clouds and Sky",
+  "steps": [
+    "Enter door at end of car",
+    "Enter door at end of car",
+    "Enter right door at end of car",
+    "Talk to Inspector Chelmey",
+    "Enter door at end of car",
+    "Talk to Grousley",
+    "Talk to Grousley again"
+  ],
+  "solution": [
+    {
+      "img": "012S.png",
+      "txt": "Ratio 6:4"
+    }
+  ],
+  "prev": [
+    {
+      "num": "015",
+      "name": "Tom's True Identity"
+    },
+    {
+      "num": "015",
+      "name": "Who Is Tom Really?"
+    }
+  ],
+  "next": {
+    "num": "026",
+    "name": "Train Swap"
+  }
+}

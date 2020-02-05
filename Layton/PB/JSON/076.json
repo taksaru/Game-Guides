@@ -1,0 +1,27 @@
+{
+  "num": "076",
+  "title": "Top of the Tower",
+  "steps": [
+    "Climb the staircase",
+    [
+      "Bottle in bottom right",
+      "Bottle in bottom left",
+      "Right of top beam"
+    ],
+    "Talk to Geoff",
+  ],
+  "solution": [
+    {
+      "img": "076S.png",
+      "txt": "Top of the tower can't be seen from the interior"
+    }
+  ],
+  "prev": {
+    "num": "119",
+    "name": "The Fake Coins"
+  },
+  "next": {
+    "num": "106",
+    "name": "The Knight's Tour 1"
+  }
+}

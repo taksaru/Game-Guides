@@ -1,0 +1,30 @@
+{
+  "num": "018",
+  "title": "Of Dust and Dustpan",
+  "steps": [
+    "Enter the Inn",
+    [
+      "Flowers on right",
+      "Lamp",
+      "Between seat cushions"
+    ],
+    {"mobile": "Top sign near stairs for Strawberry Chocolate Charm"},
+    "Talk to Beatrice",
+    "Give Lacquered Stool to Layton",
+    "Talk to Beatrice Again"
+  ],
+  "solution": [
+    {
+      "img": "018S.gif",
+      "txt": "Move top right match and slide middle match to flip dustpan"
+    }
+  ],
+  "prev": {
+    "num": "017",
+    "name": "Five-Card Shuffle"
+  },
+  "next": {
+    "num": "112",
+    "name": "My Beloved"
+  }
+}

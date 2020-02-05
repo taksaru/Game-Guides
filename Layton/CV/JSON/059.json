@@ -1,0 +1,27 @@
+{
+  "num": "059",
+  "title": "The Longest Path",
+  "steps": [
+    "Give the Pile of Books to Luke",
+    "Walk Right",
+    "Pick up paper on ground",
+    [
+      "Rightmost wall"
+    ],
+    "Talk to Marco"
+  ],
+  "solution": [
+    {
+      "img": "059S.gif",
+      "txt": "See above for longest route"
+    }
+  ],
+  "prev": {
+    "num": "057",
+    "name": "Cut Which One?"
+  },
+  "next": {
+    "num": "060",
+    "name": "Weighing Cats"
+  }
+}

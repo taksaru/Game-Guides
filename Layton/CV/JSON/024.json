@@ -1,0 +1,64 @@
+{
+  "num": "024",
+  "title": "Milk Pitchers",
+  "steps": [
+    "Enter door right of Percy",
+    [
+      "Bucket",
+      "Chimney Top",
+      "Shrub left of Shack"
+    ],
+    "Talk to Granny Riddleton",
+    "Enter Shack",
+    "Leave Shack",
+    "Walk Left",
+    "Enter Door on Right",
+    "Talk to Crouton"
+  ],
+  "solution": [
+    {
+      "img": "024S01.gif",
+      "txt": "Pour from first to second"
+    },
+    {
+      "img": "024S02.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "024S03.gif",
+      "txt": "Pour from third to first"
+    },
+    {
+      "img": "024S04.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "024S05.gif",
+      "txt": "Pour from third to first"
+    },
+    {
+      "img": "024S06.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "024S07.gif",
+      "txt": "Pour from first to second"
+    },
+    {
+      "img": "024S08.gif",
+      "txt": "Pour from second to third"
+    },
+    {
+      "img": "024S09.gif",
+      "txt": "Pour from third to first"
+    }
+  ],
+  "prev": {
+    "num": "058",
+    "name": "Get the Ball Out! 1"
+  },
+  "next": {
+    "num": "035",
+    "name": "Strange Dots"
+  }
+}

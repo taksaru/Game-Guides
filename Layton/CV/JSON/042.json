@@ -1,0 +1,22 @@
+{
+  "num": "042",
+  "title": "The Camera and Case",
+  "steps": [
+    "Assemble Strange Gizmos",
+    "Talk to Gerard"
+  ],
+  "solution": [
+    {
+      "img": "042S.gif",
+      "txt": "Expect 95 in change"
+    }
+  ],
+  "prev": {
+    "num": "041",
+    "name": "Spare Change"
+  },
+  "next": {
+    "num": "043",
+    "name": "Three Umbrellas"
+  }
+}

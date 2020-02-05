@@ -1,0 +1,39 @@
+{
+  "num": "007",
+  "title": "Four Couples",
+  "a-title": "Dining Couples",
+  "steps": [
+    "Leave thr room",
+    "Enter door at end of car",
+    [
+      "Second diamond pattern from the back"
+    ],
+    "Talk to Chester"
+  ],
+  "solution": [
+    {
+      "img": "007S.png",
+      "txt": "Mrs Hadley is E"
+    }
+  ],
+  "prev": [
+    {
+      "num": "023",
+      "name": "A Sour Defeat"
+    },
+    {
+      "num": "023",
+      "name": "Pitchers and Poison"
+    }
+  ],
+  "next": [
+    {
+      "num": "006",
+      "name": "Piles of Pancakes 1"
+    },
+    {
+      "num": "006",
+      "name": "Pancake Stacks 1"
+    }
+  ]
+}

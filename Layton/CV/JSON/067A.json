@@ -1,0 +1,21 @@
+{
+  "num": "067A",
+  "title": "The Chocolate Code",
+  "steps": [
+    "Talk to Lucy"
+  ],
+  "solution": [
+    {
+      "img": "067AS.gif",
+      "txt": "The message is \"Text Me\""
+    }
+  ],
+  "prev": {
+    "num": "066",
+    "name": "Birthday Girl"
+  },
+  "next": {
+    "num": "068",
+    "name": "Find the Pentagons"
+  }
+}

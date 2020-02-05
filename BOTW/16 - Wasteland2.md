@@ -13,7 +13,7 @@
     4. Grey :
     5. Green Scroll
     6. Blue Flame
-    7. Purple Pause Button (already done for you)
+    7. Purple Lines (already done)
 * Korok 568: Rock atop S-most statue
 * Korok 569: Flower trail across bones to W
 * Korok 570: Magnesis Puzzle to SE
@@ -82,7 +82,7 @@
 * Shrine Quest: The Perfect Drink
   * Get Ice
 * Main Quest: Divine Beast Vah Naboris
-  * Recovered Memory 6 (14/18)
+  * Recovered Memory 6 - Urbosa's Hand (14/18)
 * Korok 596: Flower trail to E of Gerudo Town and N of Lookout Tower
 * Complete Main Quest: Divine Beast Vah Naboris
 * Side Quest: The Thunder Helm

@@ -1,0 +1,28 @@
+{
+  "num": "003",
+  "title": "Strange Hats",
+  "steps": [
+    "Talk to Stachenscarfen",
+    "Look at shaking barrel for hint coin",
+    {"mobile": "Investigate sign for Heart Locket Charm"},
+    [
+      "Yellow Vase",
+      "Barrel on Side street"
+    ],
+    "Talk to Ingrid"
+  ],
+  "solution": [
+    {
+      "img": "003S.gif",
+      "txt": "Hat A has the same brim width and height"
+    }
+  ],
+  "prev": {
+    "num": "002",
+    "name": "The Crank and Slot"
+  },
+  "next": {
+    "num": "004",
+    "name": "Where's My House"
+  }
+}

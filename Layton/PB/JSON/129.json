@@ -1,0 +1,38 @@
+{
+  "num": "129",
+  "title": "The Messy Mole",
+  "a-title": "The Slobbish Mole",
+  "steps": [
+    "Walk down and up until Vera/Ilyana is thirsty",
+    "Serve Tea 02 to Ilyana/Vera",
+    "Walk Left",
+    [
+      "Middle of eye pattern",
+      "Right lamp",
+      "Bottom chimney section"
+    ],
+    "Take photo",
+    "<ul><li>Middle of eye pattern</li><li>Chimney</li><li>Branch below left roof</li></ul>",
+    "Hidden Puzzle"
+  ],
+  "solution": [
+    {
+      "img": "129S.png",
+      "txt": "The cleaning should start from C"
+    }
+  ],
+  "prev": [
+    {
+      "num": "070",
+      "name": "Jewelled Necklaces"
+    },
+    {
+      "num": "070",
+      "name": "The Jeweled Necklace"
+    }
+  ],
+  "next": {
+    "num": "093",
+    "name": "How Old Am I?"
+  }
+}

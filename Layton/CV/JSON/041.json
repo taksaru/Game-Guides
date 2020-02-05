@@ -1,0 +1,36 @@
+{
+  "num": "041",
+  "title": "Spare Change",
+  "steps": [
+    "Walk Right",
+    [
+      "Chimney on left",
+      "Skylight on green roof",
+      "Grass below Jarvis"
+    ],
+    {"mobile": "Check window left of skylight for Antique Bottle Charm"},
+    "Talk to Jarvis",
+    "Walk Down",
+    [
+      "Lamp on left wall",
+      "Brick below stairs",
+      "Bottom crack"
+    ],
+    {"mobile": "Check lower light for Ribbon-Wrapped Gift Charm"},
+    "Talk to Gerard"
+  ],
+  "solution": [
+    {
+      "img": "041S.gif",
+      "txt": "You'll pull 9 coins"
+    }
+  ],
+  "prev": {
+    "num": "101",
+    "name": "Splitting It Up"
+  },
+  "next": {
+    "num": "042",
+    "name": "The Camera and Case"
+  }
+}

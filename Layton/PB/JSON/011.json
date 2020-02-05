@@ -1,0 +1,38 @@
+{
+  "num": "011",
+  "title": "Trees in the Forest",
+  "steps": [
+    "Enter door at end of car",
+    [
+      "Bottom strip on left",
+      "Top of second beam"
+    ],
+    "Enter door at end of car"
+  ],
+  "solution": [
+    {
+      "img": "011S.png",
+      "txt": "Divide as shown"
+    }
+  ],
+  "prev": [
+    {
+      "num": "006",
+      "name": "Piles of Pancakes 1"
+    },
+    {
+      "num": "006",
+      "name": "Pancake Stacks 1"
+    }
+  ],
+  "next": [
+    {
+      "num": "022",
+      "name": "Cleaning Up 1"
+    },
+    {
+      "num": "022",
+      "name": "Taking Out the Trash"
+    }
+  ]
+}

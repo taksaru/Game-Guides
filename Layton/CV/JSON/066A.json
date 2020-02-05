@@ -1,0 +1,21 @@
+{
+  "num": "066A",
+  "title": "Birthday Girl",
+  "steps": [
+    "Talk to Lucy"
+  ],
+  "solution": [
+    {
+      "img": "A066S.gif",
+      "txt": "Her Birthday is January 2nd"
+    }
+  ],
+  "prev": {
+    "num": "065",
+    "name": "What's E"
+  },
+  "next": {
+    "num": "067",
+    "name": "The Chocolate Code"
+  }
+}

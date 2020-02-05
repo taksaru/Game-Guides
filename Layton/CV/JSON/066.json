@@ -1,0 +1,21 @@
+{
+  "num": "066",
+  "title": "Five Borrowers",
+  "steps": [
+    "Talk to Lucy"
+  ],
+  "solution": [
+    {
+      "img": "066S.gif",
+      "txt": "A Borrowed from D"
+    }
+  ],
+  "prev": {
+    "num": "065",
+    "name": "Letters and Numbers"
+  },
+  "next": {
+    "num": "067",
+    "name": "How Many Sweets?"
+  }
+}

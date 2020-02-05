@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 108</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Give Flower Vase to Layton</li>
+        <li>Pick up trash on ground</li>
+        <li>Talk to Archibald</li>
+        <li>Hint Coins<ul class="check">
+          <li><input type="checkbox" id="hc0"/><label for="hc0">Flowers in vase</label></li>
+          <li><input type="checkbox" id="hc1"/><label for="hc1">Small table left of stairs</label></li>
+          <li><input type="checkbox" id="hc2"/><label for="hc2">Top right painting</label></li>
+        </ul></li>
+        <li class="mobile">Check Chandelier for Lavish Love Locket</li>
+        <li>Check Bookcase atop stairs</li>
+      </ul>
+    </div>
+    <h1>108 - Not Knots</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/108H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/108H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/108H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/108S.gif" onclick="bigMe(this)"/>
+        <p>Only Rope C will form a knot</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('071')">Sausage Thief</u></p>
+    <p class="next eu">Next: <u onclick="changePage('072')">Truth and Lies</u></p>
+    <p class="next us">Next: <u onclick="changePage('072')">The Sound of Silence</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

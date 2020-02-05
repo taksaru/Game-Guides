@@ -1,0 +1,27 @@
+{
+  "num": "085A",
+  "title": "Weekend Getaway",
+  "steps": [
+    "Walk Up",
+    [
+      "Left Window",
+      "Water plant below Layton",
+      "Plant on riverbank"
+    ],
+    "Examine the Laytonmobile"
+  ],
+  "solution": [
+    {
+      "img": "085AS.gif",
+      "txt": "The difference is 60 miles."
+    }
+  ],
+  "prev": {
+    "num": "084",
+    "name": "Which Boxes to Move?"
+  },
+  "next": {
+    "num": "086",
+    "name": "Squares and Circles"
+  }
+}

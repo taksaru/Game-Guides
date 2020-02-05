@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <title>04 - Dueling Peaks 2</title>
+  </head>
+  <body>
+    <h1>Dueling Peaks 2</h1>
+    <img alt="DP5" onclick="fullImg(this)" src="images/DP5.PNG"/><br><br>
+    <ul>
+      <li class="check"><input type="checkbox" id="c0" onclick="checkClick(this)"/><label for="c0">Head E to Fairy Fountain and take a picture</label></li>
+      <li>Return to Kakariko Village</li>
+      <li class="check"><input type="checkbox" id="c1" onclick="checkClick(this)"/><label for="c1">Main Quest: Find the Fairy Fountain</label></li>
+      <li class="check">
+        <input type="checkbox" id="c2" onclick="checkClick(this)"/><label for="c2">Side Quest: By Firefly's Light</label>
+        <ul>
+          <li>5 Sunset Fireflies</li>
+        </ul>
+      <li>Speak to Impa</li>
+      <li class="check"><input type="checkbox" id="c3" onclick="checkClick(this)"/><label for="c3">Main Quest: Captured Memories</label></li>
+      <li>Warp to Bosh Kala Shrine</li>
+    </ul>
+    <img alt="DP6" onclick="fullImg(this)" src="images/DP6.PNG"/><br><br>
+    <ul>
+      <li class="check"><input type="checkbox" id="c4" onclick="checkClick(this)"/><label for="c4">Korok 081: Rock under Proxim Bridge to E</label></li>
+      <li class="check"><input type="checkbox" id="c5" onclick="checkClick(this)"/><label for="c5">Korok 082: Rock on Hylia Rivershore to S</label></li>
+      <li class="check"><input type="checkbox" id="c6" onclick="checkClick(this)"/><label for="c6">Korok 083: Magnesis Puzzle to W</label></li>
+      <li class="check">
+        <input type="checkbox" id="c7" onclick="checkClick(this)"/><label for="c7">Recovered Memory 11: Shelter from the Storm</label>
+        <ul>
+          <li>Beneath Tree to South (1/12)</li>
+        </ul>
+      <li class="check"><input type="checkbox" id="c8" onclick="checkClick(this)"/><label for="c8">Korok 084: Behind statues</label></li>
+      <li class="check"><input type="checkbox" id="c9" onclick="checkClick(this)"/><label for="c9">Korok 085: Pinwheel shooting to NE</label></li>
+      <li class="check"><input type="checkbox" id="c10" onclick="checkClick(this)"/><label for="c10">Korok 086: Flower Trail to E</label></li>
+      <li class="check"><input type="checkbox" id="c11" onclick="checkClick(this)"/><label for="c11">Korok 087: Apple Trees to SE</label></li>
+      <li class="check"><input type="checkbox" id="c12" onclick="checkClick(this)"/><label for="c12">Korok 088: Push boulder to NE</label></li>
+      <li class="check"><input type="checkbox" id="c13" onclick="checkClick(this)"/><label for="c13">Korok 089: Rock in cave behind cracked boulder to SE</label></li>
+      <li class="check"><input type="checkbox" id="c14" onclick="checkClick(this)"/><label for="c14">Korok 090: Pinwheel shooting to SE</label></li>
+      <li class="check"><input type="checkbox" id="c15" onclick="checkClick(this)"/><label for="c15">Korok 091: Rock beneath slab to S</label></li>
+    </ul>
+    <img alt="DP7" onclick="fullImg(this)" src="images/DP7.PNG"/><br><br>
+    <ul>
+      <li class="check"><input type="checkbox" id="c16" onclick="checkClick(this)"/><label for="c16">Korok 092: Flower trail to NE</label></li>
+      <li class="check"><input type="checkbox" id="c17" onclick="checkClick(this)"/><label for="c17">Korok 093: Rock atop ledge at Dueling Peaks entrance to SE</label></li>
+      <li class="check">
+        <input type="checkbox" id="c18" onclick="checkClick(this)"/><label for="c18">Ree Dahee Shrine within Dueling Peaks (12/120)</label>
+        <ul>
+          <li>Don't forget Climber's Bandana</li>
+        </ul>
+      <li>Continue through Dueling Peaks</li>
+    </ul>
+    <img alt="DP8" onclick="fullImg(this)" src="images/DP8.PNG"/><br><br>
+    <ul>
+      <li class="check"><input type="checkbox" id="c19" onclick="checkClick(this)"/><label for="c19">Korok 094: Ledge S of Little Twin Bridge</label></li>
+      <li class="check"><input type="checkbox" id="c20" onclick="checkClick(this)"/><label for="c20">Stalnox: Hickaly Woods to SE (1/40)</label></li>
+      <li class="check"><input type="checkbox" id="c21" onclick="checkClick(this)"/><label for="c21">Korok 095: Rock in hollow stump to W</label></li>
+      <li class="check"><input type="checkbox" id="c22" onclick="checkClick(this)"/><label for="c22">Toto Sah Shrine across River to SW (13/120)</label></li>
+      <li class="check"><input type="checkbox" id="c23" onclick="checkClick(this)"/><label for="c23">Korok 096: Rock in middle of river upstream</label></li>
+      <li class="check">
+        <input type="checkbox" id="c24" onclick="checkClick(this)"/><label for="c24">Side Quest: Misko, the Great Bandit</label>
+        <ul>
+          <li>Cave blocked by cracked boulder atop waterfall</li>
+        </ul>
+      <li>Warp to Ta-loh Naeg Shrine</li>
+      <li>
+        Talk to Impa
+        <ul>
+          <li class="check"><input type="checkbox" id="c25" onclick="checkClick(this)"/><label for="c25">Champion's Tunic</label></li>
+        </ul>
+      <li class="check">
+        <input type="checkbox" id="c26" onclick="checkClick(this)"/><label for="c26">Shrine Quest: Stolen Heirloom</label>
+        <ul>
+          <li class="check"><input type="checkbox" id="c27" onclick="checkClick(this)"/><label for="c27">Lakna Rokee Shrine (14/120)</label></li>
+        </ul>
+      </li>
+    </ul>
+    <div id="modBox">
+      <span id="modClose" onclick="closeMod()">&times;</span>
+      <img id="modImg"/>
+    </div>
+	</body>
+</html>

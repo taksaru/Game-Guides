@@ -1,0 +1,29 @@
+{
+  "num": "048",
+  "title": "The Biggest Star",
+  "steps": [
+    "Give the Cream Rug to Luke",
+    "Enter Clock Tower",
+    [
+      "Middle Window",
+      "Panel left of left doorway",
+      "Rock by right doorway"
+    ],
+    {"mobile": "Check narrow window above Lucy for Kat's Lustrous Lens"},
+    "Look at cat"
+  ],
+  "solution": [
+    {
+      "img": "048S.gif",
+      "txt": "It will only tak 5 cats"
+    }
+  ],
+  "prev": {
+    "num": "047",
+    "name": "On the Run"
+  },
+  "next": {
+    "num": "049",
+    "name": "1,000 Times"
+  }
+}

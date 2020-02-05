@@ -1,0 +1,38 @@
+{
+  "num": "076",
+  "title": "Flower Garden",
+  "steps": [
+    "Walk Up",
+    [
+      "Upper Right Window",
+      "Left Roof bottom edge",
+      "Bottom left wall corner",
+      "Right wall bottom right corner"
+    ],
+    "Walk down",
+    "Walk down",
+    "Walk down",
+    "Walk down",
+    "Walk down",
+    "Walk down",
+    "Walk left",
+    [
+      "Right park wall"
+    ],
+    "Talk to Pauly"
+  ],
+  "solution": [
+    {
+      "img": "076S.gif",
+      "txt": "D is the most expensive"
+    }
+  ],
+  "prev": {
+    "num": "117",
+    "name": "Painting a Cube"
+  },
+  "next": {
+    "num": "077",
+    "name": "Which Job?"
+  }
+}

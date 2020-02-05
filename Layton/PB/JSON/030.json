@@ -1,0 +1,21 @@
+{
+  "num": "030",
+  "title": "The Wrong Date",
+  "steps": [
+    "Examine Monument on the right"
+  ],
+  "solution": [
+    {
+      "img": "030S.png",
+      "txt": "Dropstone was founded on 13 08"
+    }
+  ],
+  "prev": {
+    "num": "053",
+    "name": "Boys Club"
+  },
+  "next": {
+    "num": "047",
+    "name": "Mayoral Election"
+  }
+}

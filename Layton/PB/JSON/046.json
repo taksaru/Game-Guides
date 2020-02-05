@@ -1,0 +1,24 @@
+{
+  "num": "046",
+  "title": "Odd Shape Out",
+  "steps": [
+    "Leave Shop",
+    "Walk Right",
+    "Walk Down",
+    "Talk to Lulu"
+  ],
+  "solution": [
+    {
+      "img": "046S.png",
+      "txt": "Shape D doesn't fit"
+    }
+  ],
+  "prev": {
+    "num": "031",
+    "name": "Pass the Apples"
+  },
+  "next": {
+    "num": "035",
+    "name": "Which House Where?"
+  }
+}

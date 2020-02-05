@@ -1,0 +1,27 @@
+{
+  "num": "085",
+  "title": "Train Speed",
+  "steps": [
+    "Walk Up",
+    [
+      "Left Window",
+      "Water plant below Layton",
+      "Plant on riverbank"
+    ],
+    "Examine the Laytonmobile"
+  ],
+  "solution": [
+    {
+      "img": "085S.gif",
+      "txt": "The train is travelling at 60km/h"
+    }
+  ],
+  "prev": {
+    "num": "084",
+    "name": "Which Boxes to Move?"
+  },
+  "next": {
+    "num": "086",
+    "name": "Squares and Circles"
+  }
+}

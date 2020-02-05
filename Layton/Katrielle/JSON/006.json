@@ -1,0 +1,33 @@
+{
+  "num": "006",
+  "title": "Paper Caper",
+  "steps": [
+    "Talk to Sean Butchin",
+    "Talk to the waiter",
+    [
+      "Bell on counter",
+      "Lamp on right wall",
+      "Gingerbread chimney"
+    ],
+    "Examine middle of pastry tray for Multicolored Macaroon",
+    "Examine bear",
+    "Examine clock",
+    "Examine vase on shelf",
+    "Talk to Aleks Lipski",
+    "Examine Trash Can"
+  ],
+  "solution": [
+    {
+      "img": "006S.gif",
+      "txt": "Assemble the paper as shown"
+    }
+  ],
+  "prev": {
+    "num": "005",
+    "name": "Alien Attack"
+  },
+  "next": {
+    "num": "007",
+    "name": "Failing Scales"
+  }
+}

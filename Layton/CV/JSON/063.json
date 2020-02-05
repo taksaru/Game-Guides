@@ -1,0 +1,28 @@
+{
+  "num": "063",
+  "title": "Mother's Age",
+  "a-title": "How Old Is Mom?",
+  "steps": [
+    "Talk to Dahlia"
+  ],
+  "solution": [
+    {
+      "img": "063S.gif",
+      "txt": "The Mother is 43"
+    }
+  ],
+  "prev": [
+    {
+      "num": "053",
+      "name": "A Tricky Inheritance"
+    },
+    {
+      "num": "062A",
+      "name": "The Mysterious Note"
+    }
+  ],
+  "next": {
+    "num": "064",
+    "name": "Odd Equations"
+  }
+}

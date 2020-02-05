@@ -1,0 +1,22 @@
+{
+  "num": "054",
+  "title": "Monster!",
+  "steps": [
+    "Give the Television to Luke",
+    "Talk to Giuseppe"
+  ],
+  "solution": [
+    {
+      "img": "054S.gif",
+      "txt": "Stab the moon"
+    }
+  ],
+  "prev": {
+    "num": "053",
+    "name": "Fish Thief"
+  },
+  "next": {
+    "num": "052",
+    "name": "Find a Star"
+  }
+}

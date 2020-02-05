@@ -1,0 +1,27 @@
+{
+  "num": "037",
+  "title": "Brother and Sister",
+  "steps": [
+    "Talk to Lucy"
+  ],
+  "solution": [
+    {
+      "img": "037S.gif",
+      "txt": "They're twins"
+    }
+  ],
+  "prev": {
+    "num": "036",
+    "name": "Too Many Mice"
+  },
+  "next": [
+    {
+      "num": "107",
+      "name": "Worm in the Apple"
+    },
+    {
+      "num": "107",
+      "name": "A Worm's Dream"
+    }
+  ]
+}

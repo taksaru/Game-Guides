@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Puzzle 093</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <script type="text/javascript" src="script.js"></script>
+    <style id="style"></style>
+  </head>
+  <body>
+    <h1>Progress and Hint Coins</h1>
+    <div id="body">
+      <ul>        <li>Walk Down</li>
+        <li>Go Up the manhole</li>
+        <li>Walk Right</li>
+        <li>Walk Down</li>
+        <li>Enter Inn</li>
+        <li>Talk to Beatrice</li>
+        <li>Leave Inn</li>
+        <li>Walk Up</li>
+        <li>Walk Right</li>
+        <li>Walk Up</li>
+        <li>Talk to Ramon</li>
+      </ul>
+    </div>
+    <h1>093 - Over the River</h1>
+    <div class="tab">
+      <button class="tablinks" onclick="openTab(event, 'hint1')">Hint 1</button>
+      <button class="tablinks" onclick="openTab(event, 'hint2')">Hint 2</button>
+      <button class="tablinks" onclick="openTab(event, 'hint3')">Hint 3</button>
+      <button class="tablinks" onclick="openTab(event, 'solution')">Solution</button>
+    </div>
+    <div id="hint1" class="tabcontent">
+      <h1>Hint 1</h1>
+      <img src="images/093H1.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint2" class="tabcontent">
+      <h1>Hint 2</h1>
+      <img src="images/093H2.gif" onclick="bigMe(this)">
+    </div>
+    <div id="hint3" class="tabcontent">
+      <h1>Hint 3</h1>
+      <img src="images/093H3.gif" onclick="bigMe(this)">
+    </div>
+    <div id="solution" class="tabcontent">
+      <h1>Solution</h1>
+      <section>
+        <img src="images/093S01.gif" onclick="bigMe(this)"/>
+        <p>Move right with sheep</p>
+      </section>
+      <section>
+        <img src="images/093S02.gif" onclick="bigMe(this)"/>
+        <p>Move left alone</p>
+      </section>
+      <section>
+        <img src="images/093S03.gif" onclick="bigMe(this)"/>
+        <p>Move right with cabbage</p>
+      </section>
+      <section>
+        <img src="images/093S04.gif" onclick="bigMe(this)"/>
+        <p>Move left with sheep</p>
+      </section>
+      <section>
+        <img src="images/093S05.gif" onclick="bigMe(this)"/>
+        <p>Move right with wolf</p>
+      </section>
+      <section>
+        <img src="images/093S06.gif" onclick="bigMe(this)"/>
+        <p>Move left alone</p>
+      </section>
+      <section>
+        <img src="images/093S07.gif" onclick="bigMe(this)"/>
+        <p>Move right with sheep</p>
+      </section>
+    </div>
+  </body>
+  <footer>
+    <p class="prev">Prev: <u onclick="changePage('091')">Pattern Matching</u></p>
+    <p class="next">Next: <u onclick="changePage('104')">A Sweet Treat</u></p>
+  </footer>
+  <div id="img" onclick="hideMe(this)">
+    <img src="">
+  </div>
+</html>

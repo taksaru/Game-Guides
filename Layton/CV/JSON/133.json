@@ -1,0 +1,27 @@
+{
+  "num": "133",
+  "title": "Finish the Equation",
+  "steps": [
+    "The Puzzle Master's House"
+  ],
+  "solution": [
+    {
+      "img": "133S.gif",
+      "txt": "3 7 4 8"
+    }
+  ],
+  "prev": [
+    {
+      "num": "132",
+      "name": "Princess's Escape"
+    },
+    {
+      "num": "132A",
+      "name": "Princess in a Box 2"
+    }
+  ],
+  "next": {
+    "num": "134",
+    "name": "Land Disputes"
+  }
+}

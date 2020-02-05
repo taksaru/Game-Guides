@@ -1,0 +1,33 @@
+{
+  "num": "011",
+  "title": "Arc and Line",
+  "steps": [
+    "Go upstairs",
+    [
+      "Left edge of rug",
+      "Vase beside window",
+      "Picture above Simon"
+    ],
+    "Talk to Simon"
+  ],
+  "solution": [
+    {
+      "img": "011S.gif",
+      "txt": "It's 10 long"
+    }
+  ],
+  "prev": [
+    {
+      "num": "010",
+      "name": "Four Digits"
+    },
+    {
+      "num": "010",
+      "name": "Alphabet"
+    }
+  ],
+  "next": {
+    "num": "110",
+    "name": "The Vanishing Cube"
+  }
+}

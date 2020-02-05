@@ -1,0 +1,28 @@
+{
+  "num": "009",
+  "title": "Puzzling Paints",
+  "steps": [
+    "Walk outside",
+    "Walk down street".
+    [
+      "Detective Agency sign",
+      "Middle window above orange store",
+      "Top left window above orange store",
+      "Talk to Benni"
+    ]
+  ],
+  "solution": [
+    {
+      "img": "009S.jpg",
+      "txt": "Paint A can be seen every day"
+    }
+  ],
+  "prev": {
+    "num": "007",
+    "name": "Failing Scales"
+  },
+  "next": {
+    "num": "010",
+    "name": "Lost and Found"
+  }
+}

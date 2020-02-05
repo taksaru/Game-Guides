@@ -1,0 +1,33 @@
+{
+  "num": "065",
+  "title": "Letters and Numbers",
+  "a-title": "What's E?",
+  "steps": [
+    "Leave Town Hall",
+    "Enter Clock Tower",
+    [
+      "Moss above Lucy"
+    ],
+    "Look at Cat"
+  ],
+  "solution": [
+    {
+      "img": "065S.gif",
+      "txt": "150 square metres"
+    }
+  ],
+  "prev": {
+    "num": "064",
+    "name": "Odd Equations"
+  },
+  "next": [
+    {
+      "num": "066",
+      "name": "Five Borrowers"
+    },
+    {
+      "num": "066",
+      "name": "Birthday Girl"
+    }
+  ]
+}

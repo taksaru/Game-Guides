@@ -1,0 +1,62 @@
+{
+  "num": "006",
+  "title": "Piles of Pancakes 1",
+  "a-title": "Pancake Stacks 1",
+  "steps": [
+    "Enter left door at end of car",
+    [
+      "Right bowl on back shelf",
+      "Box flap on left"
+    ],
+    "Walk down",
+    "Enter right door at back of car",
+    [
+      "Middle strip beside middle door"
+    ],
+    "Talk to Sally"
+  ],
+  "solution": [
+    {
+      "img": "006S01.png",
+      "txt": "First to Third"
+    },
+    {
+      "img": "006S02.png",
+      "txt": "First to Second"
+    },
+    {
+      "img": "006S03.png",
+      "txt": "Third to Second"
+    },
+    {
+      "img": "006S04.png",
+      "txt": "First to Third"
+    },
+    {
+      "img": "006S05.png",
+      "txt": "Second to First"
+    },
+    {
+      "img": "006S06.png",
+      "txt": "Second to Third"
+    },
+    {
+      "img": "006S07.png",
+      "txt": "First to Third"
+    }
+  ],
+  "prev": [
+    {
+      "num": "007",
+      "name": "Four Couples"
+    },
+    {
+      "num": "007",
+      "name": "Dining Couples"
+    }
+  ],
+  "next": {
+    "num": "011",
+    "name": "Trees in the Forest"
+  }
+}

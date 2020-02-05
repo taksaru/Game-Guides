@@ -1,0 +1,164 @@
+{
+  "num": "118",
+  "title": "Cleaning Up 2",
+  "a-title": "Garbage Disposal",
+  "steps": [
+    "Walk Up",
+    "Examine Photo scrap",
+    [
+      "Leaves on right roof",
+      "Corner brick below leaves",
+      "Leaking pipe"
+    ],
+    "Walk Left",
+    "Examine Phot scrap",
+    [
+      "Top of hanging cloth",
+      "Right window",
+      "Rock below wheel"
+    ],
+    "Take Photo",
+    "<ul><li>Blue hanging cloth</li><li>Lit window on right</li><li>Broken red bottle</li></ul>",
+    "Hidden Puzzle"
+  ],
+  "solution": [
+    {
+      "img": "118S01.png",
+      "txt": "Purple block up and left"
+    },
+    {
+      "img": "118S02.png",
+      "txt": "Orange block up and left"
+    },
+    {
+      "img": "118S03.png",
+      "txt": "Green block up and right"
+    },
+    {
+      "img": "118S04.png",
+      "txt": "Orange block right"
+    },
+    {
+      "img": "118S05.png",
+      "txt": "Purple block right"
+    },
+    {
+      "img": "118S06.png",
+      "txt": "Yellow block up"
+    },
+    {
+      "img": "118S07.png",
+      "txt": "Blue block up, right and up"
+    },
+    {
+      "img": "118S08.png",
+      "txt": "Yellow block down, right and down"
+    },
+    {
+      "img": "118S09.png",
+      "txt": "Purple block down"
+    },
+    {
+      "img": "118S10.png",
+      "txt": "Orange block left"
+    },
+    {
+      "img": "118S11.png",
+      "txt": "Purple block up"
+    },
+    {
+      "img": "118S12.png",
+      "txt": "Blue block down and left"
+    },
+    {
+      "img": "118S13.png",
+      "txt": "Green block left and down"
+    },
+    {
+      "img": "118S14.png",
+      "txt": "Purple block right, up and right"
+    },
+    {
+      "img": "118S15.png",
+      "txt": "Move garbage down and left"
+    },
+    {
+      "img": "118S16.png",
+      "txt": "Purple block left and ut"
+    },
+    {
+      "img": "118S17.png",
+      "txt": "Move garbage right, up and right"
+    },
+    {
+      "img": "118S18.png",
+      "txt": "Blue block up"
+    },
+    {
+      "img": "118S19.png",
+      "txt": "Green block left"
+    },
+    {
+      "img": "118S20.png",
+      "txt": "Move garbage left and down"
+    },
+    {
+      "img": "118S21.png",
+      "txt": "Purple block down and right"
+    },
+    {
+      "img": "118S22.png",
+      "txt": "Blue block right"
+    },
+    {
+      "img": "118S23.png",
+      "txt": "Orange block right and up"
+    },
+    {
+      "img": "118S24.png",
+      "txt": "Blue block left and up"
+    },
+    {
+      "img": "118S25.png",
+      "txt": "Green block up, right and up"
+    },
+    {
+      "img": "118S26.png",
+      "txt": "Move garbage up"
+    },
+    {
+      "img": "118S27.png",
+      "txt": "Yellow block up and left"
+    },
+    {
+      "img": "118S28.png",
+      "txt": "Move garbage down"
+    },
+    {
+      "img": "118S29.png",
+      "txt": "Blue block down and right"
+    },
+    {
+      "img": "118S30.png",
+      "txt": "Yellow block up"
+    },
+    {
+      "img": "118S31.png",
+      "txt": "Move garbage to bin"
+    }
+  ],
+  "prev": [
+    {
+      "num": "083",
+      "name": "Piles of Pancakes 2"
+    },
+    {
+      "num": "083",
+      "name": "Pancake Stacks 2"
+    }
+  ],
+  "next": {
+    "num": "124",
+    "name": "UFOs Spotted"
+  }
+}

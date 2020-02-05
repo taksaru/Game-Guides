@@ -1,0 +1,29 @@
+{
+  "num": "016",
+  "title": "Crazy Daisies",
+  "steps": [
+    "Walk Down",
+    "Enter right door at end of car",
+    "Enter middle door",
+    [
+      "Wall Lamp",
+      "Left sofa arm"
+    ],
+    "Examine food scraps",
+    "Examine flower vase"
+  ],
+  "solution": [
+    {
+      "img": "016S.png",
+      "txt": "Picture A matches the grayscale copy"
+    }
+  ],
+  "prev": {
+    "num": "014",
+    "name": "Red Caps"
+  },
+  "next": {
+    "num": "025",
+    "name": "Suriviving in the Wild"
+  }
+}

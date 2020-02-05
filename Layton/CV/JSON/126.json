@@ -1,0 +1,193 @@
+{
+  "num": "126",
+  "title": "Red and Blue 2",
+  "steps": [
+    "The Decorator's House"
+  ],
+  "solution": [
+    {
+      "img": "126S01.gif",
+      "txt": "Red C to right white square"
+    },
+    {
+      "img": "126S02.gif",
+      "txt": "Red B to middle white square"
+    },
+    {
+      "img": "126S03.gif",
+      "txt": "Red D to left white square"
+    },
+    {
+      "img": "126S04.gif",
+      "txt": "Red A to blue D square"
+    },
+    {
+      "img": "126S05.gif",
+      "txt": "Red D to Blue A square"
+    },
+    {
+      "img": "126S06.gif",
+      "txt": "Red B to Blue B square"
+    },
+    {
+      "img": "126S07.gif",
+      "txt": "Red A to top white square"
+    },
+    {
+      "img": "126S08.gif",
+      "txt": "Red C to blue D square"
+    },
+    {
+      "img": "126S09.gif",
+      "txt": "Blue C to blue C square"
+    },
+    {
+      "img": "126S10.gif",
+      "txt": "Blue D to left white square"
+    },
+    {
+      "img": "126S11.gif",
+      "txt": "Red A to red D square"
+    },
+    {
+      "img": "126S12.gif",
+      "txt": "Blue B to middle white square"
+    },
+    {
+      "img": "126S13.gif",
+      "txt": "Blue A to right white square"
+    },
+    {
+      "img": "126S14.gif",
+      "txt": "Red A to red A square"
+    },
+    {
+      "img": "126S15.gif",
+      "txt": "Blue A to red D square"
+    },
+    {
+      "img": "126S16.gif",
+      "txt": "Blue B to red B square"
+    },
+    {
+      "img": "126S17.gif",
+      "txt": "Blue A to top white square"
+    },
+    {
+      "img": "126S18.gif",
+      "txt": "Blue D to red D square"
+    },
+    {
+      "img": "126S19.gif",
+      "txt": "Blue C to red C square"
+    },
+    {
+      "img": "126S20.gif",
+      "txt": "Red C to right white square"
+    },
+    {
+      "img": "126S21.gif",
+      "txt": "Blue A to blue D square"
+    },
+    {
+      "img": "126S22.gif",
+      "txt": "Red B to top white square"
+    },
+    {
+      "img": "126S23.gif",
+      "txt": "Red D to left white square"
+    },
+    {
+      "img": "126S24.gif",
+      "txt": "Blue A to blue A square"
+    },
+    {
+      "img": "126S25.gif",
+      "txt": "Red D to blue B square"
+    },
+    {
+      "img": "126S26.gif",
+      "txt": "Red C to blue D square"
+    },
+    {
+      "img": "126S27.gif",
+      "txt": "Blue C to blue C square"
+    },
+    {
+      "img": "126S28.gif",
+      "txt": "Blue B to left white square"
+    },
+    {
+      "img": "126S29.gif",
+      "txt": "Red B to red B square"
+    },
+    {
+      "img": "126S30.gif",
+      "txt": "Blue B to top white square"
+    },
+    {
+      "img": "126S31.gif",
+      "txt": "Blue C to red C square"
+    },
+    {
+      "img": "126S32.gif",
+      "txt": "Red D to right white square"
+    },
+    {
+      "img": "126S33.gif",
+      "txt": "Blue B to blue B square"
+    },
+    {
+      "img": "126S34.gif",
+      "txt": "Red D to top white square"
+    },
+    {
+      "img": "126S35.gif",
+      "txt": "Blue C to blue C square"
+    },
+    {
+      "img": "126S36.gif",
+      "txt": "Blue D to left white square"
+    },
+    {
+      "img": "126S37.gif",
+      "txt": "Red D to red D square"
+    },
+    {
+      "img": "126S38.gif",
+      "txt": "Blue D to top white square"
+    },
+    {
+      "img": "126S39.gif",
+      "txt": "Blue C to red C square"
+    },
+    {
+      "img": "126S40.gif",
+      "txt": "Red C to right white square"
+    },
+    {
+      "img": "126S41.gif",
+      "txt": "Blue D to blue D square"
+    },
+    {
+      "img": "126S42.gif",
+      "txt": "Red C to top white square"
+    },
+    {
+      "img": "126S43.gif",
+      "txt": "Blue C to blue C square"
+    },
+    {
+      "img": "126S44.gif",
+      "txt": "Red C to red C square"
+    }
+  ],
+  "prev": {
+    "num": "125",
+    "name": "Rolling the Die"
+  },
+  "next": {
+    "num": "127",
+    "name": "Perimeter Perplexer"
+  }
+}

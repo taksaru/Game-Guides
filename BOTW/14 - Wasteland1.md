@@ -40,11 +40,10 @@
 * Korok 523: Rock atop pillar S of stable
 * Kay Noh Shrine to S (80/120)
 * Korok 524: Rock atop cliff to SW
-* Recovered Memory 7 at Kara Kara Bazaar to SW (8/12)
+* Recovered Memory 7 - Blades of the Yiga at Kara Kara Bazaar to SW (8/12)
 * Shrine Quest: The Eye of the Sandstorm
-  * Dako Tah Shrine
 * Side Quest: An Ice Guy
-  * Make chilly elixir
+  * Make Chilly Elixir
     * Monster part
     * Winterwing Butterfly/Cold Darner
 * Side Quest: From the Ground up
@@ -100,7 +99,7 @@
 * Return to Gerudo Town
   * Main Quest: Forbidden City Entry
 
-![Wasteland12](images/Wasteland5.PNG)
+![Wasteland5](images/Wasteland5.PNG)
 
 * Shrine Quest: The Silent Swordswomen
 * Shrine Quest: The Seven Heroines

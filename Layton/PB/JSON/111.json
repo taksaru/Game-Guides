@@ -1,0 +1,21 @@
+{
+  "num": "111",
+  "title": "How Many Turns?",
+  "steps": [
+    "Talk to Barton"
+  ],
+  "solution": [
+    {
+      "img": "111S.png",
+      "txt": "An odd number of turns is impossible"
+    }
+  ],
+  "prev": {
+    "num": "092",
+    "name": "Precious Metals"
+  },
+  "next": {
+    "num": "064",
+    "name": "Stones in a Vase"
+  }
+}

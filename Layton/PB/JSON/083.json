@@ -1,0 +1,94 @@
+{
+  "num": "083",
+  "title": "Piles of Pancakes 2",
+  "a-title": "Pancake Stacks 2",
+  "steps": [
+    "Look at Precious",
+    "Walk Up",
+    "Examine photo scrap",
+    [
+      "Lamp above doorway",
+      "Chipped wall in bottom right",
+      "Bottom of left window"
+    ],
+    "Walk up and down until Gertis is thirsty",
+    "Serve Tea 09 to Gertie",
+    "Talk to Gertie"
+  ],
+  "solution": [
+    {
+      "img": "083S01.png",
+      "txt": "First to Second"
+    },
+    {
+      "img": "083S02.png",
+      "txt": "First to Third"
+    },
+    {
+      "img": "083S03.png",
+      "txt": "Second to Third"
+    },
+    {
+      "img": "083S04.png",
+      "txt": "First to Second"
+    },
+    {
+      "img": "083S05.png",
+      "txt": "Third to First"
+    },
+    {
+      "img": "083S06.png",
+      "txt": "Third to Second"
+    },
+    {
+      "img": "083S07.png",
+      "txt": "First to Second"
+    },
+    {
+      "img": "083S08.png",
+      "txt": "First to Third"
+    },
+    {
+      "img": "083S09.png",
+      "txt": "Second to Third"
+    },
+    {
+      "img": "083S10.png",
+      "txt": "Second to First"
+    },
+    {
+      "img": "083S11.png",
+      "txt": "Third to First"
+    },
+    {
+      "img": "083S12.png",
+      "txt": "Second to Third"
+    },
+    {
+      "img": "083S013.png",
+      "txt": "First to Second"
+    },
+    {
+      "img": "083S014.png",
+      "txt": "First to Third"
+    },
+    {
+      "img": "083S15.png",
+      "txt": "Second to Third"
+    }
+  ],
+  "prev": {
+    "num": "113",
+    "name": "A Stack of Dice"
+  },
+  "next": [
+    {
+      "num": "118",
+      "name": "Cleaning Up 2"
+    },
+    {
+      "num": "118",
+      "name": "Garbage Disposal"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "num": "125",
+  "title": "Rolling the Die",
+  "steps": [
+    "The Decorator's House"
+  ],
+  "solution": [
+    {
+      "img": "125S.gif",
+      "txt": "17"
+    }
+  ],
+  "prev": [
+    {
+      "num": "124",
+      "name": "The Rope Ladder"
+    },
+    {
+      "num": "124A",
+      "name": "Missing Number"
+    }
+  ],
+  "next": {
+    "num": "126",
+    "name": "Red and Blue 2"
+  }
+}

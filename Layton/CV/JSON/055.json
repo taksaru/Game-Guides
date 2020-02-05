@@ -1,0 +1,29 @@
+{
+  "num": "055",
+  "title": "The Odd Sandwich",
+  "steps": [
+    "Walk downstairs",
+    {"mobile": "Check left wall light for Glass Slipper Charm"},
+    "Talk to Matthew",
+    "Leave the Manor",
+    [
+      "Switch by stairs"
+    ],
+    {"mobile": "Check documents for Pink Macaron Charm"},
+    "Talk to Beatrice"
+  ],
+  "solution": [
+    {
+      "img": "055S.gif",
+      "txt": "Only 1 cut is needed"
+    }
+  ],
+  "prev": {
+    "num": "012",
+    "name": "Make a Rectangle"
+  },
+  "next": {
+    "num": "056",
+    "name": "The Lazy Guard"
+  }
+}

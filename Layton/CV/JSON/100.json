@@ -1,0 +1,25 @@
+{
+  "num": "100",
+  "title": "Seven Squares",
+  "steps": [
+    "Enter Left door",
+    [
+      "Bricks on right near back wall"
+    ],
+    "Examine lock"
+  ],
+  "solution": [
+    {
+      "img": "100S.gif",
+      "txt": "Draw Squares as Shown"
+    }
+  ],
+  "prev": {
+    "num": "099",
+    "name": "33333!"
+  },
+  "next": {
+    "num": "121",
+    "name": "Diamond in the Flag"
+  }
+}

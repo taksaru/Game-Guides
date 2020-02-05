@@ -1,0 +1,28 @@
+{
+  "num": "074",
+  "title": "Sealing off the Smell",
+  "a-title": "PU",
+  "steps": [
+    "Speak to Garland"
+  ],
+  "solution": [
+    {
+      "img": "074S.png",
+      "txt": "Plug his nose"
+    }
+  ],
+  "prev": [
+    {
+      "num": "075",
+      "name": "Sweets for Five"
+    },
+    {
+      "num": "075",
+      "name": "Candy for Five"
+    }
+  ],
+  "next": {
+    "num": "098",
+    "name": "Jars and CAns 1"
+  }
+}

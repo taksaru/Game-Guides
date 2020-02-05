@@ -23,7 +23,7 @@ Traveller's Medallion can be useful between bridge levels
 * Korok 668: Rock pattern to SE
 * Korok 669: Lilies to E
 * Korok 670: Rock beneath cracked boulder to S
-* Stalnox to S (26/40)
+* Stalnox to S (27/40)
 * Side Quest: Hunt for the Giant Horse to SW
 * Korok 671: Flower Trail to N
 * Korok 672: Apple offering to W
@@ -85,7 +85,7 @@ Traveller's Medallion can be useful between bridge levels
 ![Hylia5](images/Hylia5.PNG)
 
 * Korok 706: Race to W
-* Stalnox to WNW (27/40)
+* Stalnox to WNW (28/40)
 * Korok 707: Fairylights to NW
 * Korok 708: Pinwheel shooting to NW
 * Ishto Soh Shrine to E (107/120)
@@ -145,7 +145,7 @@ Traveller's Medallion can be useful between bridge levels
 * Korok 739: Magnesis Puzzle to S
 * Korok 740: Rock pattern to NE
 * Korok 741: Rock atop ledge to NE
-* Blue Hinox to W (28/40)
+* Blue Hinox to W (29/40)
 * Korok 742: Race atop pillar to W
 * Korok 743: Balloon atop palm tree to NE
 * Side Quest: EX Treasure: Usurper King

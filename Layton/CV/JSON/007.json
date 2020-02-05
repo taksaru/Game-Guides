@@ -1,0 +1,68 @@
+{
+  "num": "007",
+  "title": "Wolves and Chicks",
+  "steps": [
+    "Walk Up",
+    [
+      "Step on opposite side of stream",
+      "Sun hat in boat",
+      "Tree on right"
+    ],
+    {"mobile": "Investigate thin tree for Classic Cologne Charm"},
+    "Talk to Ramon"
+  ],
+  "solution": [
+    {
+      "img": "007S01.gif",
+      "txt": "2 Wolves Right"
+    },
+    {
+      "img": "007S02.gif",
+      "txt": "1 Wolf Left"
+    },
+    {
+      "img": "007S03.gif",
+      "txt": "2 Wolves Right"
+    },
+    {
+      "img": "007S04.gif",
+      "txt": "1 Wolf Left"
+    },
+    {
+      "img": "007S05.gif",
+      "txt": "2 Chicks Right"
+    },
+    {
+      "img": "007S06.gif",
+      "txt": "1 Wolf and 1 Chick Left"
+    },
+    {
+      "img": "007S07.gif",
+      "txt": "2 Chicks Right"
+    },
+    {
+      "img": "007S08.gif",
+      "txt": "1 Wolf Left"
+    },
+    {
+      "img": "007S09.gif",
+      "txt": "2 Wolves Right"
+    },
+    {
+      "img": "007S10.gif",
+      "txt": "1 Wolf Left"
+    },
+    {
+      "img": "007S11.gif",
+      "txt": "2 Wolves Right"
+    }
+  ],
+  "prev": {
+    "num": "006",
+    "name": "Light Weight"
+  },
+  "next": {
+    "num": "008",
+    "name": "Farm Work"
+  }
+}
