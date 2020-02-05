@@ -1,21 +1,36 @@
 {
-  "num": "000",
-  "title": "",
+  "num": "099",
+  "title": "Jars and Cans 2",
   "steps": [
-    ""
+    "Enter grocery store",
+    "Enter and leave store until Garland is thirsty",
+    "Server Tea 03 to Garland",
+    "Examine bottles below counter"
   ],
   "solution": [
     {
-      "img": "000S.png",
-      "txt": ""
+      "img": "099S01.png",
+      "txt": "Second and third items from left to empty slots"
+    },
+    {
+      "img": "099S02.png",
+      "txt": "Third and fourth items from left to empty slots"
+    },
+    {
+      "img": "099S03.png",
+      "txt": "Two right cans to empty slots"
+    },
+    {
+      "img": "099S04.png",
+      "txt": "Two left cans to empty slots"
     }
   ],
   "prev": {
-    "num": "000",
-    "name": ""
+    "num": "104",
+    "name": "Disappearing Act 4"
   },
   "next": {
-    "num": "000",
-    "name": ""
+    "num": "087",
+    "name": "Different Suits"
   }
 }

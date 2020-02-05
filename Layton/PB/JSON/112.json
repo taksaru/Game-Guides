@@ -1,21 +1,53 @@
 {
-  "num": "000",
-  "title": "",
+  "num": "112",
+  "title": "Turn On the Light",
   "steps": [
-    ""
+    {
+      "img": "Tea04.png",
+      "txt": "Brew Root Remedy <i>(Oasis Leaf, Joy Root Clover, Tonic Flower)</i>"
+    },
+    {
+      "img": "Tea06.png",
+      "txt": "Brew Bitter Fruit <i>(Brisk Berry, Belle Tart/Citrona Seed, Tonic Flower)</i>"
+    },
+    "Leave room",
+    "Walk Down",
+    "Walk Down",
+    "Walk Down",
+    "Walk Down",
+    "Speak to Hopper",
+    "Walk Up",
+    "Walk Up",
+    "Walk Right",
+    "Walk Up",
+    "Walk Up",
+    "Walk down and up until Dylan/Dogey is thirsty",
+    "Brew Tea 05 for Dylan",
+    "Walk Down",
+    "Walk Down",
+    "Walk Down",
+    "Walk Down",
+    "Walk Down",
+    "Enter Photo Studio",
+    "Enter and Leave until Joseph is Thirsty",
+    "Brew Tea 06 for Joseph",
+    "Leave Photo Studio",
+    "Walk Up",
+    "Walk Left",
+    "Talk to Duke"
   ],
   "solution": [
     {
-      "img": "000S.png",
-      "txt": ""
+      "img": "112S.png",
+      "txt": "Connect the battery and light contacts"
     }
   ],
   "prev": {
-    "num": "000",
-    "name": ""
+    "num": "086",
+    "name": "Perplexing Figures"
   },
   "next": {
-    "num": "000",
-    "name": ""
+    "num": "101",
+    "name": "Disappearing Act 1"
   }
 }

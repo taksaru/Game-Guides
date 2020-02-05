@@ -1,53 +1,36 @@
 {
-  "num": "112",
-  "title": "Turn On the Light",
+  "num": "087",
+  "title": "Different Suits",
   "steps": [
-    {
-      "img": "Tea04.png",
-      "txt": "Brew Root Remedy <i>(Oasis Leaf, Joy Root Clover, Tonic Flower)</i>"
-    },
-    {
-      "img": "Tea06.png",
-      "txt": "Brew Bitter Fruit <i>(Brisk Berry, Belle Tart/Citrona Seed, Tonic Flower)</i>"
-    },
-    "Leave room",
-    "Walk Down",
-    "Walk Down",
-    "Walk Down",
-    "Walk Down",
-    "Speak to Hopper",
-    "Walk Up",
-    "Walk Up",
-    "Walk Right",
-    "Walk Up",
-    "Walk Up",
-    "Walk down and up until Dylan/Dogey is thirsty",
-    "Brew Tea 05 for Dylan",
-    "Walk Down",
-    "Walk Down",
-    "Walk Down",
-    "Walk Down",
-    "Walk Down",
-    "Enter Photo Studio",
-    "Enter and Leave until Joseph is Thirsty",
-    "Brew Tea 06 for Joseph",
-    "Leave Photo Studio",
-    "Walk Up",
+    "Exit Store",
+    "Enter watchtower",
+    "Climb up and down until Geoff is thirsty",
+    "Serve Tea 08 to Geoff",
+    "Walk downstairs",
+    "Exit watchtower",
     "Walk Left",
-    "Talk to Duke"
+    "Walk up",
+    [
+      "Signpost light",
+      "Rock on bottom left",
+      "Grass on left"
+    ],
+    "Walk down and up until Ray is thirsty",
+    "Serve Tea 10 to Ray",
+    "Talk to Ray"
   ],
   "solution": [
     {
-      "img": "112S.png",
-      "txt": "Connect the battery and light contacts"
+      "img": "087S.png",
+      "txt": "Arrange the cards as shown above"
     }
   ],
   "prev": {
-    "num": "086",
-    "name": "Perplexing Figures"
+    "num": "099",
+    "name": "Jars and Cans 2"
   },
   "next": {
-    "num": "101",
-    "name": "Disappearing Act 1"
+    "num": "105",
+    "name": "Disappearing Act 5"
   }
 }

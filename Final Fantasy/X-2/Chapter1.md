@@ -38,7 +38,7 @@
 * Continue ahead until climbing spire
 * Take level path around spire for Star Pendant
 * Collect Muscle Belt for winning the race
-* Boss
+* Boss Fight
 
 # Airship Celsius 0.6% (6.6%)
 
@@ -48,27 +48,13 @@
 
 # Kilika
 
-* Docks Treasure
-  * Ether
-  * Mana Tablet
-  * 2 Antidotes
-  * 2 Eye Drops
-  * Phoenix Down
-* Dona's House
-  * 1500G
-* District Treasures
-  * Lunar Curtain
-  * 2 Holy Waters
-  * Star Curtain
-  * Light Curtain
-* Speak to person with telescope
+* Visit Dona's House
+* Speak to person with camera looking at Youth League HQ
 
 # Luca 1.6% (8.2%)
 
 * Deliver Balloons
   * Healing Wind Garment Grid
-* Luca Treasures
-  * 2 Lunar Curtains
 * Dock 5 Treasures
   * Thunder Spawn Garment Grid
 * Stadium Basement Rin
@@ -78,7 +64,6 @@
 # Calm Lands 0.2% (8.4%)
 
 * Begin PR Mission
-* Save Check 19%
 
 # Luca PR
 
@@ -422,7 +407,7 @@ Option 3
 * Second Cipher key: atop pillar in next area
 * Fall down just before bridge for 2 Chocobo Wings
 * Third Cipher Key: climb left at beach entrance
-* Hi-Potion and 1,000G if you continue climbing into bay
+  * Hi-Potion and 1,000G if you continue climbing into bay
 * Fourth Cipher Key: across beach
 * Enter 'Cave'
 * Head Left at intersection for 2 Potions
@@ -436,17 +421,9 @@ Option 3
 * Mission start
 * "Of course I remember!"
 * "Sure I do"
-* Mega Phoenix down East junction after Goon Fight
-* Phoenix Down after second Goon fight
 * "You bet I do"
 * Great Hall Treasures
-  * Remedy
-  * 2 Remedies
-  * Ether
-  * Elixir
-  * Hi-Potion
-  * Phoenix Down
-* Is that you, Isaaru?
+* "Is that you, Isaaru?"
   * Heart Reborn Garment Grid
 * Boss Fight
   * Sphere Fragment

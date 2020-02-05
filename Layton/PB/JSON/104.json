@@ -1,21 +1,63 @@
 {
-  "num": "000",
-  "title": "",
+  "num": "104",
+  "title": "Disappearing Act 4",
   "steps": [
-    ""
+    "Walk Up",
+    "Walk Up",
+    "Walk Up",
+    "Walk Left",
+    "Walk Up",
+    "Walk Up",
+    "Talk to Olson"
   ],
   "solution": [
     {
-      "img": "000S.png",
-      "txt": ""
+      "img": "104S01.png",
+      "txt": "Top ball in middle column left"
+    },
+    {
+      "img": "104S02.png",
+      "txt": "Bottom left ball up"
+    },
+    {
+      "img": "104S03.png",
+      "txt": "Top left ball down"
+    },
+    {
+      "img": "104S04.png",
+      "txt": "Bottom right ball left"
+    },
+    {
+      "img": "104S05.png",
+      "txt": "Bottom left ball up"
+    },
+    {
+      "img": "104S06.png",
+      "txt": "Leftmost ball right"
+    },
+    {
+      "img": "104S07.png",
+      "txt": "Bottom middle ball up"
+    },
+    {
+      "img": "104S08.png",
+      "txt": "Leftmost ball right"
+    },
+    {
+      "img": "104S09.png",
+      "txt": "Bottom right ball up"
+    },
+    {
+      "img": "104S10.png",
+      "txt": "Rightmost ball left"
     }
   ],
   "prev": {
-    "num": "000",
-    "name": ""
+    "num": "103",
+    "name": "Disappearing Act 3"
   },
   "next": {
-    "num": "000",
-    "name": ""
+    "num": "099",
+    "name": "Jars and Cans 2"
   }
 }
