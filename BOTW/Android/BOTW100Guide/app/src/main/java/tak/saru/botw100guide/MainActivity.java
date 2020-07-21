@@ -30,6 +30,7 @@ import android.webkit.JavascriptInterface;
 import android.webkit.ValueCallback;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.ListView;
 import android.widget.ProgressBar;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener{
@@ -239,101 +240,126 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
   private void setState(String url){
     url = url.substring(22);
+    url = url.replace("--", "-");
     String state;
     switch(url){
       case "01-Plateau1.html":
+        setTitle("Great Plateau");
         state = prefs.getString("G1", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "02-DP1.html":
+        setTitle("Dueling Peaks 1");
         state = prefs.getString("G2", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "03-Hateno1.html":
+        setTitle("Hateno 1");
         state = prefs.getString("G3", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "04-DP2.html":
+        setTitle("Dueling Peaks 2");
         state = prefs.getString("G4", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
-      case "05--Hateno2.html":
+      case "05-Hateno2.html":
+        setTitle("Hateno 2");
         state = prefs.getString("G5", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "06-Lanaryu1.html":
+        setTitle("Lanaryu 1");
         state = prefs.getString("G6", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "07-Woodland1.html":
+        setTitle("Woodland");
         state = prefs.getString("G7", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "08-Ridgeland1.html":
+        setTitle("Ridgeland");
         state = prefs.getString("G8", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "09-Tabantha1.html":
+        setTitle("Tabantha 1");
         state = prefs.getString("G9", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "10-Hebra1.html":
+        setTitle("Hebra");
         state = prefs.getString("G10", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "11-Eldin1.html":
+        setTitle("Eldin");
         state = prefs.getString("G11", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "12-Akkala1.html":
+        setTitle("Akkala");
         state = prefs.getString("G12", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "13-Central1.html":
+        setTitle("Central Hyrule 1");
         state = prefs.getString("G13", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "14-Wasteland1.html":
+        setTitle("Wasteland 1");
         state = prefs.getString("G14", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "15-Gerudo1.html":
+        setTitle("Gerudo Highlands");
         state = prefs.getString("G15", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "16-Wasteland2.html":
+        setTitle("Wasteland 2");
         state = prefs.getString("G16", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "17-ChampionsBallad.html":
+        setTitle("Champion's Ballad");
         state = prefs.getString("G17", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "18-Lanaryu2.html":
+        setTitle("Lanaryu 2");
         state = prefs.getString("G18", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "19-Hateno3.html":
+        setTitle("Hateno 3");
         state = prefs.getString("G19", "0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "20-Hylia1.html":
+        setTitle("Hylia");
         state = prefs.getString("G20", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "21-Faron1.html":
+        setTitle("Faron");
         state = prefs.getString("G21", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "22-Central2.html":
+        setTitle("Central Hyrule 2");
         state = prefs.getString("G22", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "23-HyruleCastle.html":
+        setTitle("Hyrule Castle");
         state = prefs.getString("G23", "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;
       case "24-PostGame.html":
+        setTitle("Post Game");
         state = prefs.getString("G24", "0,0,0,0,0");
         web.loadUrl("javascript:setState([" + state + "]);");
         break;

@@ -1,20 +1,16 @@
-# Airship Celsius 4% (29%)
+# Airship Celsius 4.2% (29.2%)
 
 * Watch Sphere
   * Al Bhed Primer
 * Collect Chests in Engine Room
-  * 5 Phoenix Downs
-  * 2 Ethers
-  * 4 Remedies
-  * 8 Potions
 * Speak to Barkeep and rest
-* Push musicians into cabin
+* Push musicians into elevator
 * Watch cutscene
 * Return to bridge
 * Select Youth League
 * Automatic Events
 
-# Besaid 0.8% (30%)
+# Besaid 0.8% (29.8%)
 
 ![Besaid](images/PR/c2bes1.jpg)
 Option 2
@@ -34,36 +30,17 @@ Option 1
 ![Besaid](images/PR/c2bes6.jpg)
 Option 3
 
-* Leave village and head towards beach
-* Wall Ring behind first waterfall bridge
-* 1,500G and 2 Hi-Potions to left at beach
-* Cave
-  * 3 Potions
 * Talk to Blizball Players
 * Listen to Beclem
 * Go through Beclem's challenge
-  * Don't get hit, rack up lots of chains
-* Save Game
+* Engima Plate Grid
+* Don't get hit, rack up lots of chains
 
-# Guadosalam(Extras) 0.2% (30.2%)
-
-![Guadosalam](images/PR/c2guad1.jpg)
-Option 1
-
-![Guadosalam](images/PR/c2guad2.jpg)
-Option 2
-
-![Guadosalam](images/PR/c2guad3.jpg)
-Option 4
-
-![Guadosalam](images/PR/c2guad4.jpg)
-Option 2
-
-![Guadosalam](images/PR/c2guad5.jpg)
-Option 3
+# Guadosalam(Extras) 0.2% (30%)
 
 * Save on arrival
 * Enter Southeastern building and do Data Dealer minigame
+  * Resseting for the dealer is recommended
 * Solution below
 
 <table>
@@ -122,12 +99,12 @@ Option 3
     <td>40,000G</td>
   </tr>
   <tr>
-    <td>"It's the last person you'd expect, no question</td>
+    <td>"It's the last person you'd expect, no question"</td>
     <td>The Data Dealer!</td>
     <td>100,000G</td>
   </tr>
   <tr>
-    <td>"The guy you're after is just sitting around</td>
+    <td>"The guy you're after is just sitting around"</td>
     <td>Man in red shorts outside the Dealer's place</td>
     <td>30,000G</td>
   </tr>
@@ -153,7 +130,308 @@ Option 3
   </tr>
 </table>
 
-# Djose 0.4% (30.6%)
+# Luca 0.8% (30.8%)
+
+## Outskirts
+
+![Outskirts](images/PR/c2luca1.jpg)
+Option 3
+
+![Outskirts](images/PR/c2luca2.jpg)
+Option 5
+
+* Speak to Shelinda
+  * Covetous Garment Grid
+
+## Square
+
+![Square](images/PR/c2luca3.jpg)
+Option 4
+
+![Square](images/PR/c2luca4.jpg)
+Option 5
+
+## Stadium Entrance
+
+![Stadium1](images/PR/c2luca5.jpg)
+Option 3
+
+![Stadium2](images/PR/c2luca6.jpg)
+Option 2
+
+## Dock 3
+
+![Dock 3](images/PR/c2luca7.jpg)
+Option 4
+
+![Dock 3](images/PR/c2luca8.jpg)
+Option 1
+
+* O'aka's Debt
+  * Buy 99 Phoenix Downs from O'aka
+  * Sell to Barkeep
+  * Repeat until debt is paid
+  * Can sell O'aka discounted items to get G back
+
+# Moonflow 0.2% (31%)
+
+## South Wharf
+
+![South Wharf](images/PR/c2moon1.jpg)
+Option 5
+
+![South Wharf](images/PR/c2moon2.jpg)
+Option 5
+
+## North Bank Road
+
+![North Wharf](images/PR/c2moon3.jpg)
+Option 5
+
+## North Bank Road
+
+![North Bank Road](images/PR/c2moon4.jpg)
+Option 1
+
+* Speak to Tobli on Southern bank
+* Agree to sell tickets
+  * Best sells below
+    * You start on South Bank
+  * Optimal: 12500G profit
+
+## South Bank Road
+
+![South Bank Road](images/ticket1.jpg)
+1500G
+
+## South Bank
+
+![South Bank](images/ticket2.jpg)
+1500G
+
+## South Wharf
+
+![South Wharf](images/ticket3.jpg)
+1500G
+
+![South Wharf](images/ticket4.jpg)
+1500G
+
+![South Wharf](images/ticket5.jpg)
+2000G
+
+## North Wharf
+
+![North Wharf](images/ticket6.jpg)
+2000G
+
+![North Wharf](images/ticket7.jpg)
+2000G
+
+![North Wharf](images/ticket8.jpg)
+2000G
+
+## North Bank Road
+
+![North Bank Road](images/ticket9.jpg)
+1500G
+
+![North Bank Road](images/ticket10.jpg)
+2000G
+
+* Automatic event with Tobli at end
+* Check Save (31%)
+
+# Kilika 0.2% (31.2%)
+
+* View Cutscene and return
+
+# Zanarkand Ruins 0.4% (31.6%)
+
+* Talk to Isaaru inside the dome
+* Help Isaaru pair up monkeys
+
+1. Birch and Sequoia
+  * ![Birch](images/monkeys/birch.jpg)
+  * ![Sequioia](images/monkeys/sequioia.jpg)
+2. Spring and Autumn
+  * ![Spring](images/monkeys/spring.jpg)
+  * ![Autumn](images/monkeys/autumn.jpg)
+3. Dusky and Dawne
+  * ![Dusky](images/monkeys/dusky.jpg)
+  * ![Dawne](images/monkeys/dawne.jpg)
+4. Rosemary and Thyme
+  * ![Rosemary](images/monkeys/rosemary.jpg)
+  * ![Thyme](images/monkeys/thyme.jpg)
+5. Terran and Skye
+  * ![Terran](images/monkeys/terran.jpg)
+  * ![Skye](images/monkeys/skye.jpg)
+6. Minni and Maxx
+  * ![Minni](images/monkeys/minni.jpg)
+  * ![Maxx](images/monkeys/maxx.jpg)
+7. Summer and Winter
+  * ![Summer](images/monkeys/summer.jpg)
+  * ![Winter](images/monkeys/winter.jpg)
+8. Peke and Valli
+  * ![Peke](images/monkeys/peke.jpg)
+  * ![Valli](images/monkeys/valli.jpg)
+9. Canis and Felina
+  * ![Canis](images/monkeys/canis.jpg)
+  * ![Felina](images/monkeys/felina.jpg)
+10. Arroh and Quivrr
+  * ![Arroh](images/monkeys/arroh.jpg)
+  * ![Quivrr](images/monkeys/quivrr.jpg)
+11. Golde and Sylva
+  * ![Golde](images/monkeys/golde.jpg)
+  * ![Sylva](images/monkeys/sylva.jpg)
+12. Luna and Sol
+  * ![Luna](images/monkeys/luna.jpg)
+  * ![Sol](images/monkeys/sol.jpg)
+
+# Mi'ihen Highroad 1.4% (33%)
+
+* Do Marriage and Promo in listed areas before starting quest
+
+## New Road, North
+
+![Newroad](images/PR/c2mi6.jpg)
+Option 4
+
+## North End
+
+![North End](images/PR/c2mi5.jpg)
+Option 5
+
+## Old Road, North
+
+![Old North](images/PR/c2mi4.jpg)
+Option 2
+
+## Old Road, South
+
+![Old South](images/PR/c2mi1.jpg)
+Option 1
+
+![Old South](images/PR/c2mi2.jpg)
+Option 3
+
+![Old South](images/PR/c2mi3.jpg)
+Option 4
+
+## Agency
+
+![Agency](images/PR/c2mi7.jpg)
+Option 1
+
+![Agency](images/PR/c2mi8.jpg)
+Option 3
+
+![Agency](images/PR/c2mi9.jpg)
+Option 2
+
+* Save Game
+* Talk to Calli outside Travel agency to start mission
+* Phase 1
+  * Ignore Rikku all 3 times
+* Phase 2
+  * Fail 3 times
+  * See a cutscene where Rikku falls at end and follow Rikku
+* Phase 3
+  * Rikku should jump atop ruins and point the way
+  * If she doesn't fall of ruins reset
+  * Move towards Luca and automatic scene occurs
+  * If not speak to Al Bhed lady and have her use hover to help capture Chocobo
+* Save Game at Travel Agency
+* Make sure you reach Calli before timer runs out
+* Boss Fight
+  * Selene Garment Grid
+* DO NOT PRESS ANY BUTTONS AFTER BEATING BOSS
+  * Ensure you see Rikku along the bridge during mission complete screen
+* Return to Mi'ihen and pick up Clasko and Calli
+
+## Central
+
+![Central](images/PR/c2mi14.jpg)
+Option 2
+
+![Central](images/PR/c2mi13.jpg)
+Option 4
+
+## South End
+
+![South End](images/PR/c2mi12.jpg)
+Option 3
+
+![South End](images/PR/c2mi10.jpg)
+Option 1
+
+![South End](images/PR/c2mi11.jpg)
+Option 2
+
+* Check Save (33%)
+
+# Mushroom Rock 1% (34%)
+
+* Go to Den of Woe
+  * Crimson Sphere 7
+* Got to Youth League HQ
+  * Speak with Lucil and Elma
+* Return to Ship and watch Crimson Record 7
+* Check Save (34%)
+
+# Calm Lands 0.8% (34.8%)
+
+* Enter by airship for Clasko cutscene and follow him
+  * Monster Arena
+* Speak with Clasko to start Mission
+  * First Monster is to North and right of save sphere
+  * Walk through entire dungeon without touching any monster
+  * They're looking at the next monster you fight
+  * Except for the one you do fight
+    * Interact with this one
+  * After 5 battles talk to Clasko for one more fight
+  * Alchemist Dressphere
+  * Highroad Winds Garment Grid
+* Get Gysahl Greens from Clasko
+* Speak to Lian and Ayde at Travel agency
+
+# Thunder Plains 0.2% (35%)
+
+* Capture a chocobo here
+* Speak to Cid
+* Attempt to Calibrate Lightning Towers
+  * 5 minimum
+  * 1, 2, 3, 4, 6 easiest
+* Check Save (35%)
+
+# Bevelle
+
+* Enter and leave
+
+# Macalania Woods 1.4% (36.4%)
+
+* Walk past Shimmering Path and talk to Hypello
+* Go to where you meet Trommel and speak to Bayra
+* Mission Start!
+* Find Donga at Shimmering Path Intersection
+
+## Macalania South
+
+![Stadium2](images/PR/c2maca1.jpg)
+Option 3
+
+## Macalania Campsite
+
+![Stadium2](images/PR/c2maca2.jpg)
+Option 3
+
+* Find Pukutak at the South Spring where Yuna swam in FFX
+* Return to Bayra
+* Mission Complete
+* Speak to Hypello for reward before returning to ship
+  * Bitter Farewell Garment Grid
+
+# Djose 0.4% (36.8%)
 
 ## Djose Temple
 
@@ -187,347 +465,55 @@ Option 3
 * Continue South and find Yuna's Dressphere
 * Boss Fight
 
-# Mi'ihen Highroad 1.4% (32%)
-
-* Do Marriage and Promo in listed areas before starting quest
-
-## OldRoad, South
-
-![Old South](images/PR/c2mi1.jpg)
-Option 4
-
-![Old South](images/PR/c2mi2.jpg)
-Option 1
-
-![Old South](images/PR/c2mi3.jpg)
-Option 3
-
-## Oldroad, North
-
-![Old North](images/PR/c2mi4.jpg)
-Option 2
-
-## North End
-
-![North End](images/PR/c2mi5.jpg)
-Option 5
-
-## Newroad, North
-
-![Newroad](images/PR/c2mi6.jpg)
-Option 4
-
-## Agency
-
-![Agency](images/PR/c2mi7.jpg)
-Option 1
-
-![Agency](images/PR/c2mi8.jpg)
-Option 3
-
-![Agency](images/PR/c2mi9.jpg)
-Option 2
-
-* Save Game
-* Talk to Calli outside Travel agency to start mission
-* Phase 1
-  * Ignore Rikku all 3 times
-* Phase 2
-  * Do not actually catch the chocobo
-  * See a cutscene where Rikku falls at end and follow Rikku (if not reset)
-    * Rikku should jump atop ruins and point the way
-* Phase 3
-  * Move towards Luca and automatic scene occurs
-  * If not speak to Al Bhed lady and have her use hover to help capture Chocobo
-* Save Game at Travel Agency
-* Make sure you reach Calli before timer runs out
-* Boss Fight
-* DO NOT PRESS ANY BUTTONS AFTER BEATING BOSS
-  * Ensure you see Rikku along the bridge during mission complete screen
-* Return to Mi'ihen and pick up Clasko and Calli
-
-## South End
-
-![South End](images/PR/c2mi10.jpg)
-Option 1
-
-![South End](images/PR/c2mi11.jpg)
-Option 2
-
-![South End](images/PR/c2mi12.jpg)
-Option 3
-
-## Central
-
-![Central](images/PR/c2mi13.jpg)
-Option 4
-
-![Central](images/PR/c2mi14.jpg)
-Option 2
-
-* Save Game (32%)
-
-# Calm Lands 0.8 (32.8%)
-
-* Enter by airship for Clasko cutscene and follow him
-  * Monster Arena
-* Speak with Clasko to start Mission
-  * First Monster is to North and right of save sphere
-  * Walk through entire dungeon without touching any monster
-  * They're looking at the next monster you fight
-  * Except for the one you do fight
-    * Interact with this one
-  * After 5 battles talk to Clasko for one more fight
-  * Alchemist Dressphere
-* Speak to Lian and Ayde at Travel agency
-
-# Thunder Plains 0.2% (33%)
-
-* Capture a chocobo here
-* Speak to Cid
-* Check Save 33%
-* Attempt to Calibrate Lightning Towers
-  * 5 minimum
-  * 1, 2, 3, 4, 6 easiest
-
-# Moonflow 0.2% (33.2%)
-
-## South Wharf
-
-![South Wharf](images/PR/c2moon1.jpg)
-Option 5
-
-![South Wharf](images/PR/c2moon2.jpg)
-Option 5
-
-## North Bank Road
-
-![North Wharf](images/PR/c2moon3.jpg)
-Option 5
-
-## North Bank Road
-
-![North Bank Road](images/PR/c2moon4.jpg)
-Option 1
-
-* Speak to Tobli on Southern bank
-* Agree to sell tickets
-  * Best sells below
-    * You start on South Bank
-  * Optimal: 12500G profit
-* Automatic event with Tobli at end
-
-<table>
-  <tr>
-  <th colspan="3">Best Sellers
-  <tr>
-  <th>Area of Moonflow</th>
-  <th>Specific Location/Person</th>
-  <th>Ticket Price</th>
-  </tr>
-  <tr>
-  <td>South Bank Road</td>
-  <td>Woman at southern exit</td>
-  <td>1500G</td>
-  </tr>
-  <tr>
-  <td>South Bank</td>
-  <td>Woman with a bandana on</td>
-  <td>1500G</td>
-  </tr>
-  <tr>
-  <td>South Wharf</td>
-  <td>Woman near the Save Sphere</td>
-  <td>1500G</td>
-  </tr>
-  <tr>
-  <td>South Wharf(Dock)</td>
-  <td>Man on the stairs</td>
-  <td>1500G</td>
-  </tr>
-  <tr>
-  <td>South Wharf(Dock)</td>
-  <td>Man in the southwest corner</td>
-  <td>2000G</td>
-  </tr>
-  <tr>
-  <td>North Wharf(Dock)</td>
-  <td>Girl in northeastern corner</td>
-  <td>2000G</td>
-  </tr>
-  <tr>
-  <td>North Wharf(Dock)</td>
-  <td>Boy just to the right of a Hypello</td>
-  <td>2000G</td>
-  </tr>
-  <tr>
-  <td>North Wharf</td>
-  <td>Woman here</td>
-  <td>2000G</td>
-  </tr>
-  <tr>
-  <td>North Bank Road</td>
-  <td>First man on the roadside</td>
-  <td>1500G</td>
-  </tr>
-  <tr>
-  <td>North Bank Road</td>
-  <td>Man near the elderly lady</td>
-  <td>2000G</td>
-  </tr>
-</table>
-
-# Luca 0.8% (34%)
-
-* Speak to Shelinda
-  * Covetous Garment Grid
-
-## Outskirts
-
-![Outskirts](images/PR/c2luca1.jpg)
-Option 3
-
-![Outskirts](images/PR/c2luca2.jpg)
-Option 4
-
-## Bridge
-
-![Bridge](images/PR/c2luca3.jpg)
-Option 1
-
-![Bridge](images/PR/c2luca4.jpg)
-Option 4
-
-![Bridge](images/PR/c2luca5.jpg)
-Option 4
-
-![Bridge](images/PR/c2luca6.jpg)
-Option 5
-
-## Stadium Entrance
-
-![Stadium1](images/PR/c2luca7.jpg)
-Option 2
-
-![Stadium2](images/PR/c2luca8.jpg)
-Option 3
-
-* O'aka's Debt
-  * Buy 99 Phoenix Downs from O'aka
-  * Sell to Barkeep
-  * Repeat until debt is paid
-  * Can sell O'aka discounted items to get G back
-* Check Save (34%)
-
-# Mushroom Rock 1% (35%)
-
-* Go to Den of Woe
-  * Crimson Sphere 7
-* Got to Youth League HQ
-  * Speak with Lucil and Elma
-* Return to Ship and watch Crimson Record 7
-* Check Save (35%)
-
-# Macalania Woods 1.4% (36.4%)
-
-* Walk past Shimmering Path and talk to Hypello
-* Go to where you meet Trommel and speak to Bayra
-* Mission Start!
-* Find Donga at Shimmering Path Intersection
-
-## Macalania South
-
-![Stadium2](images/PR/c2maca1.jpg)
-Option 3
-
-## Macalania Campsite
-
-![Stadium2](images/PR/c2maca2.jpg)
-Option 3
-
-* Find Pukutak at the South Spring where Yuna swam in FFX
-* Return to Bayra
-* Mission Complete
-* Speak to Hypello for reward before returning to ship
-
-# Zanarkand Ruins 0.4% (36.8%)
-
-* Talk to Isaaru inside the dome
-* Help Isaaru pair up monkeys
-  * Isaaru is in area 1, subsequent areas are 2, 3... etc
-
-| First | Area | Second | Area |
-| ----- | :--: | ------ | :--: |
-| Birch | 6 | Sequoia | 4 |
-| Spring | 5 | Autumn | 2 |
-| Dusky | 1 | Dawn | 6 |
-| Rosemary | 5 | Thyme | 3 |
-| Terran | 3 | Skye | 6 |
-| Minni | 5 | Maxx | 3 |
-| Summer | 4 | Winter | 1 |
-| Peke | 3 | Valli | 4 |
-| Canis | 5 | Felina | 1 |
-| Arroh | 3 | Quivrr | 1 |
-| Golde | 4 | Sylva | 1 |
-| Luna | 1 | Sol | 5 |
-
-# Kilika 0.2% (37%)
-
-* View Cutscene and return
-* Check Save (37%)
-
-# Mt. Gagazet 1% (38%)
-
-* Speak to Kimahri Twice and choose second option
-* Give Responses
-  * "I can imagine how you must feel..."
-  * "You have to learn to deal with these things!"
-  * "Leave it to the Gullwings!"
-  * "I'm sure you're right."
-  * "I will never forget their sacrifice."
-  * "I wouldn't forgive them either."
-  * "A change for the better, I hope."
-    * this guy is actually on the mountain trail; you can warp close to him at the Fayth Scar if you prefer
-* Follow goons
-* Go past cave
-* Witness cutscene over hot spring
-* BOSS FIGHT
-* Save Check(38%)
-
-# Bikanel Desert 0.2% (38.2%)
+# Bikanel 0.2% (37%)
 
 * Talk to Nhadala
 * Go to Oasis
   * Machina Maw
 * Boss Fight
+  * Hour of Need Garment Grid
 
-# Airship Celsius 0.2% (38.4%)
+# Mt. Gagazet 1% (38%)
 
-* Cutscene
+* Speak to Kimahri Twice
+  * "You have to figure this out on your own"
+* Give Responses
+  * "Please, try to think about it some more"
+  * "And what of the Guado?"
+  * "What if the Guado retaliate?"
+  * "Then... there won't be anyone left to fight"
+  * "He does seem very tired."
+  * "Maybe the Guado really are to blame."
+* Head to the Fayth Scar
+* Mission Start
+* Follow goons but not into hot springs
+* Go route above Save Sphere
+* Witness cutscene over hot spring
+* BOSS FIGHT
+  * Stonehewn Garment Grid
+  * Bum Rush Garment Grid
+* Save Check(38%)
 
-# Guadosalam 3.4% (41.8%)
+# Guadosalam Chateau 3.8% (41.8%)
 
-* Enter Airship
-* After Leblanc cutscene talk to Ormi and Logos
-* Fail first Leblanc Assignment for Heady Perfume
-* Cutscene with Brother and Rikku
-* Boss Fight
 * Crimson Sphere 10
-* Find Heady Perfume
-* Boss Fight
-* Disarm Security System
-* Enter Leblanc's room
+* Healing Light Garment Grid
 
-# Airship Celsius 0.4% (42.2%)
+# Bevelle 3% (44.8%)
 
-* Cutscene
-
-# Bevelle 2.6% (44.8%)
-
-* Complete Mission
-* Treasures
-  * Downtrodden Garment Grid
-  * Ribbon
-  * Wring
+* First Tower sliding down chain is tower 1
+  * 2-6 going clockwise
+* 1, 3, 5 for security
+* Ribbon
+  * Activate Tower 2
+  * Activate Tower 1 Four times
+  * Activate Tower 6
+  * Activate Tower 1 Twice
+  * Activate Tower 4
+  * Activate Tower 3
+* Downtrodden Garment Grid
+* Machine Puzzle
   * Bloodlust
-  * Dark Knight Dress Sphere
+  * Wring
+* Dark Knight Dressphere
+  * 3 Pillar Puzzle

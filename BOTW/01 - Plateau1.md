@@ -34,8 +34,4 @@
 * Main Quest: Destroy Ganon
 * Main Quest: Seek out Impa
 * Korok 015: Temple of Time Spire
-* Warp to Keh Namut Shrine
-* Korok 016: Magnesis Puzzle NW of Mount Hylia Down rampart
 * Warp to Oman Au Shrine
-
-Next: [Dueling Peaks 1](02 - DP1.md)
