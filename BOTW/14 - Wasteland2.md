@@ -2,12 +2,12 @@
 
 ![Wasteland5](images/Wasteland6.PNG)
 
-* Korok 406: Rock Pattern E of Vah Naboris
-* Korok 407: Magnesis Puzzle to SW
+* Korok 407: Rock Pattern E of Vah Naboris
+* Korok 408: Magnesis Puzzle to SW
 * Stone Talus to SW (25/40)
-* Korok 408: Rock atop pillar to NW
-* Korok 409: Magnesis Puzzle to NW
-* Korok 410: Balloon between statue wrists to S
+* Korok 409: Rock atop pillar to NW
+* Korok 410: Magnesis Puzzle to NW
+* Korok 411: Balloon between statue wrists to S
 * Shrine Quest: The Seven Heroines
   * Korsh O'hu Shrine (64/120)
   * Clockwise starting from 9 o' clock
@@ -18,19 +18,18 @@
     5. Green Scroll
     6. Blue Flame
     7. Purple Lines (already done)
-* Korok 411: Rock atop Southernmost statue
-* Korok 412: Flower trail across bones to W
-* Korok 413: Magnesis Puzzle to SE
-* Korok 414: Magnesis Puzzle inside Skull to SE
-* Korok 415: Magnesis Puzzle to E
+* Korok 412: Rock atop Southernmost statue
+* Korok 413: Flower trail across bones to W
+* Korok 414: Magnesis Puzzle to SE
+* Korok 415: Magnesis Puzzle inside Skull to SE
+* Korok 416: Magnesis Puzzle to E
 
 ![Wasteland6](images/Wasteland7.PNG)
 
-* Korok 416: Rock pattern to E
 * Korok 417: Rock behind cracked boulders to NE
+* Korok 418: Rock pattern to SE
 * Main Quest: EX Champion Urbosa's Song to N
-* Korok 418: Rock to E
-* Korok 419: Rock beneath cracked boulders to SE
+* Korok 419: Rock to E
 * Korok 420: Rock atop Mount Granajh to SW
 * Shrine Quest: Secret of the Snowy Peaks to SW
   * 4-6pm
@@ -41,15 +40,15 @@
 * Korok 424: Rock to NE
 * Shrine Quest: The Desert Labyrinth to W
   * Dila Maag Shrine (66/120)
-* Korok 425: Rock atop pillar to NW
-* Korok 426: Magnesis Puzzle to N
+* Korok 425: Magnesis Puzzle to NW
+* Korok 426: Rock atop pillar to S
 * Korok 427: Race to SW
 * Korok 428: Race on arch to NW
 
 ![Wasteland7](images/Wasteland8.PNG)
 
 * Molduking to SE
-  * Royal Guard Equipment
+  * Royal Guard Equipment is possible
 * Keive Tala Shrine
 * Korok 429: Rock atop pillar to SW
 * Shrine Quest: The Perfect Drink to NW
@@ -88,6 +87,7 @@
 ![Wasteland11](images/Wasteland12.PNG)
 
 * Korok 441: Fairylights atop skeleton to NE
+  * Can now Max out Inventory
 * Korok 442: Fairylights atop skeleton to N
 * Kema Zoos Shrine (70/120)
   * Shrine Quest: The Silent Swordswomen
@@ -96,6 +96,8 @@
 * Korok 445: Cacti to SE
 
 ![Wasteland13](images/Wasteland13.PNG)
+
+--=UPDATE IMAGE
 
 * Shrine Quest: The Perfect Drink
   * Retrieve the Ice
@@ -106,6 +108,8 @@
   * Side Quest: The Search for Barta
     * Warp to Hawa Koth Shrine
     * Hearty Durian
+  * Side Quest: Medical Molduga
+    * Molduga Guts
 * Rent Seal from Northern Entrance for Takama Shiri Shrine
 * Warp to Kay Noh Shrine
 

@@ -1,0 +1,30 @@
+{
+  "name": "Sand Boots",
+  "level": 2,
+  "list": [
+    {
+      "material1": "Molduga Fin",
+      "quantity1": 5,
+      "material2": "Hightail Lizard",
+      "quantity2": 10
+    },
+    {
+      "material1": "Molduga Fin",
+      "quantity1": 10,
+      "material2": "Swift Carrot",
+      "quantity2": 10
+    },
+    {
+      "material1": "Molduga Guts",
+      "quantity1": 2,
+      "material2": "Rushroom",
+      "quantity2": 15
+    },
+    {
+      "material1": "Molduga Guts",
+      "quantity1": 4,
+      "material2": "Swift Violet",
+      "quantity2": 15
+    }
+  ]
+}

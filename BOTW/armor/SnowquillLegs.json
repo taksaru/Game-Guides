@@ -1,0 +1,30 @@
+{
+  "name": "Snowquill Legs",
+  "list": [
+    {
+      "material1": "Red Chuchu Jelly",
+      "quantity1": 3,
+      "material2": "",
+      "quantity2": 0
+    },
+    {
+      "material1": "Red Chuchu Jelly",
+      "quantity1": 5,
+      "material2": "Warm Safflina",
+      "quantity2": 3
+    },
+    {
+      "material1": "Fire Keese Wing",
+      "quantity1": 8,
+      "material2": "Sunshroom",
+      "quantity2": 5
+    },
+    {
+      "material1": "Red Lizalfos Tail",
+      "quantity1": 10,
+      "material2": "Ruby",
+      "quantity2": 5
+    }
+  ],
+  "level": 4
+}

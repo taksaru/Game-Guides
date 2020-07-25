@@ -1,0 +1,30 @@
+{
+  "name": "Flamebreaker Helm",
+  "level": 3,
+  "list": [
+    {
+      "material1": "Fireproof Lizard",
+      "quantity1": 1,
+      "material2": "Moblin Horn",
+      "quantity2": 2
+    },
+    {
+      "material1": "Fireproof Lizard",
+      "quantity1": 3,
+      "material2": "Moblin Fang",
+      "quantity2": 4
+    },
+    {
+      "material1": "Smotherwing Butterfly",
+      "quantity1": 3,
+      "material2": "Moblin Guts",
+      "quantity2": 3
+    },
+    {
+      "material1": "Smotherwing Butterfly",
+      "quantity1": 5,
+      "material2": "Hinox Guts",
+      "quantity2": 2
+    }
+  ]
+}

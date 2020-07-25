@@ -1,0 +1,30 @@
+{
+  "name": "Wild Chest",
+  "level": 0,
+  "list": [
+    {
+      "material1": "Acorn",
+      "quantity1": 10,
+      "material2": "Naydra's Scale",
+      "quantity2": 2
+    },
+    {
+      "material1": "Courser Bee Honey",
+      "quantity1": 5,
+      "material2": "Naydra Claw",
+      "quantity2": 2
+    },
+    {
+      "material1": "Energetic Rhino Beetle",
+      "quantity1": 5,
+      "material2": "Naydra Fang",
+      "quantity2": 2
+    },
+    {
+      "material1": "Star Fragment",
+      "quantity1": 1,
+      "material2": "Shard of Naydra's Horn",
+      "quantity2": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Amber Earrings",
+  "level": 4,
+  "list": [
+    {
+      "material1": "Amber",
+      "quantity1": 5,
+      "material2": "Flint",
+      "quantity2": 3
+    },
+    {
+      "material1": "Amber",
+      "quantity1": 10,
+      "material2": "Flint",
+      "quantity2": 3
+    },
+    {
+      "material1": "Amber",
+      "quantity1": 20,
+      "material2": "Flint",
+      "quantity2": 3
+    },
+    {
+      "material1": "Amber",
+      "quantity1": 30,
+      "material2": "Flint",
+      "quantity2": 3
+    }
+  ]
+}

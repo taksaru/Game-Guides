@@ -1,0 +1,30 @@
+{
+  "name": "Barbarian Chest",
+  "level": 3,
+  "list": [
+    {
+      "material1": "Lynel Horn",
+      "quantity1": 1,
+      "material2": "",
+      "quantity2": 0
+    },
+    {
+      "material1": "Lynel Horn",
+      "quantity1": 3,
+      "material2": "Lynel Hoof",
+      "quantity2": 2
+    },
+    {
+      "material1": "Lynel Hoof",
+      "quantity1": 4,
+      "material2": "Lynel Guts",
+      "quantity2": 1
+    },
+    {
+      "material1": "Lynel Guts",
+      "quantity1": 2,
+      "material2": "Shard of Farosh's Horn",
+      "quantity2": 1
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Zora Legs",
+  "list": [
+    {
+      "material1": "Lizalfos Horn",
+      "quantity1": 3,
+      "material2": "",
+      "quantity2": 0
+    },
+    {
+      "material1": "Lizalfos Talon",
+      "quantity1": 5,
+      "material2": "Hyrule Bass",
+      "quantity2": 5
+    },
+    {
+      "material1": "Lizalfos Tail",
+      "quantity1": 5,
+      "material2": "Hearty Bass",
+      "quantity2": 5
+    },
+    {
+      "material1": "Lizalfos Tail",
+      "quantity1": 10,
+      "material2": "Opal",
+      "quantity2": 15
+    }
+  ],
+  "level": 2
+}

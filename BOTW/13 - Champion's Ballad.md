@@ -4,15 +4,15 @@
 
 ![Plateau2](images/Plateau2.PNG)
 
-* Korok 399: Fairylights in Shrine of Resurrection
+* Korok 400: Fairylights in Shrine of Resurrection
 * Main Quest: EX Champions' Ballad
 * Yowaka Ita Shrine to NE in Forest of Spirits
 * Rohta Chigah Shrine to E just S of Plateau Tower
 * Rivo Korbah Shrine to SW near cabin
 * Warp to Keh Namut Shrine
 * Etsu Korima Shrine to SE
-* Korok 400: Magnesis Puzzle to W
-* Korok 401: Pinwheel Shooting to SE
+* Korok 401: Magnesis Puzzle to W
+* Korok 402: Pinwheel Shooting to SE
 * Warp to Shae Mo'sah Shrine
 
 ## Eldin
@@ -28,13 +28,13 @@
 * Follow rings to E
 * Sharo Lun Shrine
 * Shadow Hamlet Ruins to SE
-* Korok 402: Rock behind cracked boulder to SW
+* Korok 403: Rock behind cracked boulder to SW
 * Igneo Talus to W (23/40)
-* Korok 403: Rock to N
+* Korok 404: Rock to N
 * Rinu Honika Shrine to SW
-* Korok 404: Magnesis Puzzle to NW
+* Korok 405: Magnesis Puzzle to NW
 * Igneo Talus to NW (24/40)
-* Korok 405: Roll Boulder to W
+* Korok 406: Roll Boulder to W
 * Shrine Quest: A Brother's Roast
   * Kayra Mah Shrine (63/120)
-* Warp to Wasteland Tower
+* Warp to Divine Beast Vah Naboris

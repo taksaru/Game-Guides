@@ -1,0 +1,30 @@
+{
+  "name": "Opal Earrings",
+  "level": 4,
+  "list": [
+    {
+      "material1": "Opal",
+      "quantity1": 5,
+      "material2": "Flint",
+      "quantity2": 3
+    },
+    {
+      "material1": "Opal",
+      "quantity1": 8,
+      "material2": "Flint",
+      "quantity2": 3
+    },
+    {
+      "material1": "Opal",
+      "quantity1": 16,
+      "material2": "Flint",
+      "quantity2": 3
+    },
+    {
+      "material1": "Opal",
+      "quantity1": 20,
+      "material2": "Flint",
+      "quantity2": 3
+    }
+  ]
+}

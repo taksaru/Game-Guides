@@ -1,0 +1,30 @@
+{
+  "name": "Hylian Helm",
+  "list": [
+    {
+      "material1": "Bokoblin Horn",
+      "quantity1": 5,
+      "material2": "",
+      "quantity2": 0
+    },
+    {
+      "material1": "Bokoblin Horn",
+      "quantity1": 8,
+      "material2": "Bokoblin Fang",
+      "quantity2": 5
+    },
+    {
+      "material1": "Bokoblin Fang",
+      "quantity1": 10,
+      "material2": "Bokoblin Guts",
+      "quantity2": 5
+    },
+    {
+      "material1": "Bokoblin Guts",
+      "quantity1": 15,
+      "material2": "Amber",
+      "quantity2": 15
+    }
+  ],
+  "level": 4
+}

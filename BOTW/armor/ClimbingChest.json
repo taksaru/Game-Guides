@@ -1,0 +1,30 @@
+{
+  "name": "Climbing Chest",
+  "level": 3,
+  "list": [
+    {
+      "material1": "Keese Wing",
+      "quantity1": 3,
+      "material2": "Rushroom",
+      "quantity2": 3
+    },
+    {
+      "material1": "Electric Keese Wing",
+      "quantity1": 5,
+      "material2": "Hightail Lizard",
+      "quantity2": 5
+    },
+    {
+      "material1": "Ice Keese Wing",
+      "quantity1": 5,
+      "material2": "Hot-Footed Frog",
+      "quantity2": 10
+    },
+    {
+      "material1": "Fire Keese Wing",
+      "quantity1": 5,
+      "material2": "Swift Violet",
+      "quantity2": 15
+    }
+  ]
+}

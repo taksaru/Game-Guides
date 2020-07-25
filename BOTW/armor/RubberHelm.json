@@ -1,0 +1,30 @@
+{
+  "name": "Rubber Helm",
+  "level": 0,
+  "list": [
+    {
+      "material1": "Yellow Chuchu Jelly",
+      "quantity1": 3,
+      "material2": "",
+      "quantity2": 0
+    },
+    {
+      "material1": "Yellow Chuchu Jelly",
+      "quantity1": 5,
+      "material2": "Voltfruit",
+      "quantity2": 5
+    },
+    {
+      "material1": "Zapshroom",
+      "quantity1": 5,
+      "material2": "Yellow Lizalfos Tail",
+      "quantity2": 5
+    },
+    {
+      "material1": "Yellow Lizalfos Tail",
+      "quantity1": 10,
+      "material2": "Topaz",
+      "quantity2": 10
+    }
+  ]
+}

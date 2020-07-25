@@ -1,0 +1,30 @@
+{
+  "name": "Sheiks Mask",
+  "list": [
+    {
+      "material1": "Silent Princess",
+      "quantity1": 1,
+      "material2": "Star Fragment",
+      "quantity2": 1
+    },
+    {
+      "material1": "Silent Princess",
+      "quantity1": 2,
+      "material2": "Star Fragment",
+      "quantity2": 2
+    },
+    {
+      "material1": "Silent Princess",
+      "quantity1": 3,
+      "material2": "Star Fragment",
+      "quantity2": 3
+    },
+    {
+      "material1": "Silent Princess",
+      "quantity1": 4,
+      "material2": "Star Fragment",
+      "quantity2": 4
+    }
+  ],
+  "level": 2
+}

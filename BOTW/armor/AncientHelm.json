@@ -1,0 +1,30 @@
+{
+  "name": "Ancient Helm",
+  "level": 2,
+  "list": [
+    {
+      "material1": "Ancient Screw",
+      "quantity1": 5,
+      "material2": "Ancient Spring",
+      "quantity2": 5
+    },
+    {
+      "material1": "Ancient Spring",
+      "quantity1": 15,
+      "material2": "Ancient Gear",
+      "quantity2": 10
+    },
+    {
+      "material1": "Ancient Shaft",
+      "quantity1": 15,
+      "material2": "Ancient Core",
+      "quantity2": 5
+    },
+    {
+      "material1": "Star Fragment",
+      "quantity1": 1,
+      "material2": "Giant Ancient Core",
+      "quantity2": 2
+    }
+  ]
+}

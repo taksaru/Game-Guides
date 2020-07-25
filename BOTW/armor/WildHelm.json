@@ -1,0 +1,30 @@
+{
+  "name": "Wild Helm",
+  "level": 0,
+  "list": [
+    {
+      "material1": "Acorn",
+      "quantity1": 10,
+      "material2": "Farosh Scale",
+      "quantity2": 2
+    },
+    {
+      "material1": "Courser Bee Honey",
+      "quantity1": 5,
+      "material2": "Farosh Claw",
+      "quantity2": 2
+    },
+    {
+      "material1": "Energetic Rhino Beetle",
+      "quantity1": 5,
+      "material2": "Farosh Fang",
+      "quantity2": 2
+    },
+    {
+      "material1": "Star Fragment",
+      "quantity1": 1,
+      "material2": "Shard of Farosh's Horn",
+      "quantity2": 2
+    }
+  ]
+}

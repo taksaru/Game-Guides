@@ -2,47 +2,47 @@
 
 ![Wasteland1](images/Wasteland1.PNG)
 
-* Korok 334: Rock Circle to NW
+* Korok 335: Rock Circle to NW
 * Dah Keso Shrine to NW (52/120)
 * Hinox to S (16/40)
-* Korok 335: Lilies to SW
-* Korok 336: Magnesis ball to SW
-* Korok 337: Fairylights atop tree to SE
-* Korok 338: Magnesis Puzzle to S
-* Korok 339: Pinwheel shooting to SE
-* Korok 340: Magnesis Puzzle to W
+* Korok 336: Lilies to SW
+* Korok 337: Magnesis ball to SW
+* Korok 338: Fairylights atop tree to SE
+* Korok 339: Magnesis Puzzle to S
+* Korok 340: Pinwheel shooting to SE
+* Korok 341: Magnesis Puzzle to W
 * Jee Noh Shrine to N (53/120)
-* Korok 341: Rock on scaffolding to W
-* Korok 342: Race to NW
-* Korok 343: Rock atop arch to NE
+* Korok 342: Rock on scaffolding to W
+* Korok 343: Race to NW
+* Korok 344: Rock atop arch to NE
 * Stone Talus to NE (16/40)
 * Shrine Quest: Test of Will to NW
   * Joloo Nah Shrine (54/120)
   * If stuck use Fire Elixirs from Goron City
-* Korok 344: Magnesis Puzzle to SW
+* Korok 345: Magnesis Puzzle to SW
 * Stone Talus to SW (17/40)
-* Korok 345: Rock atop tree to SE
-* Korok 346: Hanging acorn to SW
-* Korok 347: Roll boulder to S
+* Korok 346: Rock atop tree to SE
+* Korok 347: Hanging acorn to SW
+* Korok 348: Roll boulder to S
 * Wasteland Tower to S
-* Korok 348: Balloon beneath bridge to SE
-* Korok 349: Magnesis Puzzle to W
-* Korok 350: Rock on high ledge to W
-* Korok 351: Fairylights in rock bridge cleft to N, NW of Talus
-* Korok 352: Race to NE
-* Korok 353: Balloon within rock bridge to SW
+* Korok 349: Balloon beneath bridge to SE
+* Korok 350: Magnesis Puzzle to W
+* Korok 351: Rock on high ledge to W
+* Korok 352: Fairylights in rock bridge cleft to N, NW of Talus
+* Korok 353: Race to NE
+* Korok 354: Balloon within rock bridge to SW
 
 ![Wasteland2](images/Wasteland2.PNG)
 
-* Korok 354: Race to S
+* Korok 355: Race to S
 * Stone Talus to SW (18/40)
 * Gerudo Canyon Stable to E
   * Side Quest: Rushroom Rush!
     * 55 Rushrooms
   * Side Quest: Missing in Action
-* Korok 355: Rock atop pillar S of stable
+* Korok 356: Rock atop pillar S of stable
 * Kay Noh Shrine to S (55/120)
-* Korok 356: Rock atop cliff to SW
+* Korok 357: Rock atop cliff to SW
 * Recovered Memory 7 - Blades of the Yiga at Kara Kara Bazaar to SW (8/12)
 * Shrine Quest: The Eye of the Sandstorm
 * Side Quest: An Ice Guy
@@ -50,10 +50,10 @@
     * Monster part
     * Winterwing Butterfly/Cold Darner
 * Warp back to Kay Noh Shrine
-* Korok 357: Magnesis Puzzle to NW
+* Korok 358: Magnesis Puzzle to NW
 * Dako Tah Shrine in Sandstorm to SW (56/120)
   * Shrine Quest: The Eye of the Sandstorm
-* Korok 358: Magnesis Puzzle to SW
+* Korok 359: Magnesis Puzzle to SW
 * Gerudo Tower to NW
 * Shrine Quest: Sign of the Shadow
   * 3PM
@@ -62,8 +62,8 @@
 
 ![Wasteland3](images/Wasteland3.PNG)
 
-* Korok 359: Pinhweel shooting to W
-* Korok 360: Race to S
+* Korok 360: Pinhweel shooting to W
+* Korok 361: Race to S
 
 ![Wasteland4](images/Wasteland4.PNG)
 
@@ -84,18 +84,18 @@
 * Side Quest: The Secret Club's Secret
   * GSC♦
 * Side Quest: The Eighth Heroine
-* Korok 361: Fairylights atop palace
+* Korok 362: Fairylights atop palace
 * Main Quest: Divine Beast Vah Naboris
-* Korok 362: Rock pattern on E side of Karusa Valley Entrance
-* Korok 363: Flower path to NW
-* Korok 364: Banana offering to NE
-* Korok 365: Banana offering to S
-* Korok 366: Banana offering to E
+* Korok 363: Rock pattern on E side of Karusa Valley Entrance
+* Korok 364: Flower path to NW
+* Korok 365: Banana offering to NE
+* Korok 366: Banana offering to S
 * Korok 367: Banana offering to E
 * Korok 368: Banana offering to E
-* Korok 369: Rock on ledge in ring to NE
+* Korok 369: Banana offering to E
+* Korok 370: Rock on ledge in ring to NE
 * Sho Dantu Shrine to SW (59/120)
-* Korok 370: Rock pattern to W
+* Korok 371: Rock pattern to W
 * Return to valley and complete Yiga hideout
   * Duplex Bow at Entrance
 * Warp back to Sho Dantu Shrine

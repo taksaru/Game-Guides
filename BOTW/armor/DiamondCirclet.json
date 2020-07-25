@@ -1,0 +1,30 @@
+{
+  "name": "Diamond Circlet",
+  "level": 4,
+  "list": [
+    {
+      "material1": "Diamond",
+      "quantity1": 2,
+      "material2": "Flint",
+      "quantity2": 3
+    },
+    {
+      "material1": "Diamond",
+      "quantity1": 4,
+      "material2": "Flint",
+      "quantity2": 3
+    },
+    {
+      "material1": "Diamond",
+      "quantity1": 6,
+      "material2": "Star Fragment",
+      "quantity2": 1
+    },
+    {
+      "material1": "Diamond",
+      "quantity1": 10,
+      "material2": "Star Fragment",
+      "quantity2": 1
+    }
+  ]
+}

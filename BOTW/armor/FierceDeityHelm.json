@@ -1,0 +1,30 @@
+{
+  "name": "Fierce Deity Helm",
+  "list": [
+    {
+      "material1": "Hinox Toenail",
+      "quantity1": 5,
+      "material2": "Dinraal Scale",
+      "quantity2": 1
+    },
+    {
+      "material1": "Hinox Tooth",
+      "quantity1": 5,
+      "material2": "Dinraal Claw",
+      "quantity2": 1
+    },
+    {
+      "material1": "Hinox Guts",
+      "quantity1": 2,
+      "material2": "Dinraal Fang",
+      "quantity2": 1
+    },
+    {
+      "material1": "Lynel Guts",
+      "quantity1": 2,
+      "material2": "Shard of Dinraal's Horn",
+      "quantity2": 1
+    }
+  ],
+  "level": 4
+}

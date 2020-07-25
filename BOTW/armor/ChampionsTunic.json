@@ -1,0 +1,30 @@
+{
+  "name": "Champions Tunic",
+  "level": 1,
+  "list": [
+    {
+      "material1": "Silent Princess",
+      "quantity1": 3,
+      "material2": "",
+      "quantity2": 0
+    },
+    {
+      "material1": "Silent Princess",
+      "quantity1": 3,
+      "material2": "Shard of Farosh's Horn",
+      "quantity2": 2
+    },
+    {
+      "material1": "Silent Princess",
+      "quantity1": 3,
+      "material2": "Shard of Naydra's Horn",
+      "quantity2": 2
+    },
+    {
+      "material1": "Silent Princess",
+      "quantity1": 10,
+      "material2": "Shard of Dinraal's Horn",
+      "quantity2": 2
+    }
+  ]
+}

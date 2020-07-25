@@ -1,0 +1,30 @@
+{
+  "name": "Desert Voe Helm",
+  "level": 4,
+  "list": [
+    {
+      "material1": "White Chuchu Jelly",
+      "quantity1": 3,
+      "material2": "",
+      "quantity2": 0
+    },
+    {
+      "material1": "White Chuchu Jelly",
+      "quantity1": 5,
+      "material2": "Ice Keese Wing",
+      "quantity2": 3
+    },
+    {
+      "material1": "Ice Keese Wing",
+      "quantity1": 8,
+      "material2": "Icy Lizalfos Tail",
+      "quantity2": 3
+    },
+    {
+      "material1": "Icy Lizalfos Tail",
+      "quantity1": 8,
+      "material2": "Sapphire",
+      "quantity2": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Fierce Deity Legs",
+  "list": [
+    {
+      "material1": "Hinox Toenail",
+      "quantity1": 5,
+      "material2": "Farosh Scale",
+      "quantity2": 1
+    },
+    {
+      "material1": "Hinox Tooth",
+      "quantity1": 5,
+      "material2": "Farosh Claw",
+      "quantity2": 1
+    },
+    {
+      "material1": "Hinox Guts",
+      "quantity1": 2,
+      "material2": "Farosh Fang",
+      "quantity2": 1
+    },
+    {
+      "material1": "Lynel Guts",
+      "quantity1": 2,
+      "material2": "Shard of Farosh's Horn",
+      "quantity2": 1
+    }
+  ],
+  "level": 1
+}

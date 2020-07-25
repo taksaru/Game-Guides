@@ -1,0 +1,30 @@
+{
+  "name": "Radiant Chest",
+  "level": 3,
+  "list": [
+    {
+      "material1": "Luminous Stone",
+      "quantity1": 5,
+      "material2": "Bokoblin Guts",
+      "quantity2": 3
+    },
+    {
+      "material1": "Luminous Stone",
+      "quantity1": 8,
+      "material2": "Moblin Guts",
+      "quantity2": 3
+    },
+    {
+      "material1": "Luminous Stone",
+      "quantity1": 10,
+      "material2": "Molduga Guts",
+      "quantity2": 2
+    },
+    {
+      "material1": "Luminous Stone",
+      "quantity1": 20,
+      "material2": "Lynel Guts",
+      "quantity2": 1
+    }
+  ]
+}

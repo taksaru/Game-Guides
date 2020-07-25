@@ -1,0 +1,30 @@
+{
+  "name": "Sky Helm",
+  "list": [
+    {
+      "material1": "Sapphire",
+      "quantity1": 1,
+      "material2": "Star Fragment",
+      "quantity2": 1
+    },
+    {
+      "material1": "Sapphire",
+      "quantity1": 3,
+      "material2": "Star Fragment",
+      "quantity2": 1
+    },
+    {
+      "material1": "Sapphire",
+      "quantity1": 5,
+      "material2": "Star Fragment",
+      "quantity2": 1
+    },
+    {
+      "material1": "Sapphire",
+      "quantity1": 10,
+      "material2": "Star Fragment",
+      "quantity2": 1
+    }
+  ],
+  "level": 0
+}

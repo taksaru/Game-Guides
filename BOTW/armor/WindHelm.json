@@ -1,0 +1,30 @@
+{
+  "name": "Wind Helm",
+  "list": [
+    {
+      "material1": "Opal",
+      "quantity1": 3,
+      "material2": "Star Fragment",
+      "quantity2": 1
+    },
+    {
+      "material1": "Opal",
+      "quantity1": 5,
+      "material2": "Star Fragment",
+      "quantity2": 1
+    },
+    {
+      "material1": "Opal",
+      "quantity1": 10,
+      "material2": "Star Fragment",
+      "quantity2": 1
+    },
+    {
+      "material1": "Opal",
+      "quantity1": 20,
+      "material2": "Star Fragment",
+      "quantity2": 1
+    }
+  ],
+  "level": 0
+}
