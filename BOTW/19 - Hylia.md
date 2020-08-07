@@ -50,8 +50,6 @@ Traveller's Medallion can be useful between bridge levels
 * Pumaag Nitae Shrine (102/120)
 
 ![Hylia4](images/Hylia4.PNG)
--- UPDATE
-
 
 * Highland Stable to S
   * Mini Game

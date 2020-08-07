@@ -66,7 +66,7 @@
 * Korok 887: Rock on balcony
 * Climb up to bridge
 
-![DP9](images/DP9.PNG)
+![DP10](images/DP10.PNG)
 
 * Recovered Memory 12 - Father and Daugher (17/18)
   * Drop Travel Medallion

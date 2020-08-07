@@ -17,7 +17,7 @@
 
 ## Eldin
 
-![Eldin9](images/Eldin9.PNG)
+![Eldin8](images/Eldin8.PNG)
 
 * Main Quest: EX Champion Daruk's Song to SW
 * Warp to Shora Hah Shrine

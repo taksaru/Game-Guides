@@ -33,10 +33,8 @@
 * Korok 354: Balloon within rock bridge to SW
 
 ![Wasteland2](images/Wasteland2.PNG)
- -- UPDATE
 
 * Korok 355: Race to S
-* Stone Talus to SW (18/40)
 * Gerudo Canyon Stable to E
   * Side Quest: Rushroom Rush!
     * 55 Rushrooms
@@ -52,6 +50,7 @@
     * Monster part
     * Winterwing Butterfly/Cold Darner
 * Warp back to Kay Noh Shrine
+* Stone Talus to NW (18/40)
 * Korok 358: Magnesis Puzzle to NW
 * Dako Tah Shrine in Sandstorm to SW (56/120)
   * Shrine Quest: The Eye of the Sandstorm

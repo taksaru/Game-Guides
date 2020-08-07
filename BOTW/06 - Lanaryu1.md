@@ -1,7 +1,6 @@
 # Lanaryu 1
 
 ![Lanaryu1](images/Lanaryu1.PNG)
--- UPDATE
 
 * Korok 111: Rock on small island on Nabi Lake to N
 * Horwell Bridge to NW
@@ -107,7 +106,7 @@
   * History of the Zora, Addendum 2
 * Warp back to Soh Kofi Shrine
 
-![Lanaryu9](images/Lanaryu9.PNG) -- UPDATE
+![Lanaryu8](images/Lanaryu8.PNG)
 
 * Korok 138: Race to W
 * Korok 139: Lilies to W on Zelo Pond
@@ -115,7 +114,7 @@
 * Moor Garrison Ruins to S
 * Korok 140: Rock pattern in ruins to SW
 
-![Lanaryu10](images/Lanaryu10.PNG)
+![Lanaryu9](images/Lanaryu9.PNG)
 
 * Korok 141: Rock pattern to W
 * Korok 142: Rock surrounded by brambles in woods to SW
@@ -125,7 +124,7 @@
 * Korok 143: Rock pattern to NE
 * Korok 144: Balloon in tree to N
 
-![Lanaryu11](images/Lanaryu11.PNG)
+![Lanaryu10](images/Lanaryu10.PNG)
 
 * Fire Rod: Wizzrobe in hollow log to NW
 * Korok 145: Rock circle below Thims Bridge to NE

@@ -53,10 +53,9 @@
 * Korok 812: Acorn in log to NE
 * Korok 813: Rock to NE
 * Korok 814: Fairylights to E
-- REARRANGE
+* Korok 815: Rock on top floor of Coliseum
 * Side Quest: EX Treasure Phantasma
   * Phantom Helmet inside Coliseum
-* Korok 815: Rock on top floor of Coliseum
 * Korok 816: Race from tree to NW
 * Korok 817: Hanging acorn to NE under bridge
 * Korok 818: Rock on cliff ledge to NW

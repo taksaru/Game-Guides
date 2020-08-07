@@ -24,7 +24,7 @@
 * Shoda Sah Shrine to S behind waterfall (107/120)
 * Korok 742: Race to S
 
-![Faron3](images/Faron3.PNG) -- UPDATE
+![Faron3](images/Faron3.PNG)
 
 * Side Quest: EX Treasure: Dark Armor
   * Phantom Ganon Skull at waterfall to SW
@@ -49,25 +49,16 @@
 * Side Quest: EX Treasure: Dark Armor to NE
   * Phantom Ganon Greaves
 * Korok 755: Remove Luminous ore to E
-
-* Kass Song
-* Shrine
-* Koroks in reverse
-* Stone Talus
-* Stalnox
-* After Shrine Korok
-* Other Korok
-
-* Stone Talus to W (35/40)
-* Korok 756: Flower trail to NE
-* Korok 757: Rock to N
-* Korok 758: Durian trees to NE
-* Korok 759: Magnesis Puzzle to SE
-* Shrine Quest: A Song of Storms to SE
+* Shrine Quest: A Song of Storms to NE
   * Qukah Nata Shrine (109/120)
-* Korok 760: Durian Trees to E
-* Stalnox to SW (31/40)
-* Korok 761: Rock pattern to SE
+* Korok 756: Magnesis Puzzle to N
+* Korok 757: Durian Trees to NW
+* Korok 758: Rock to SW
+* Korok 759: Flower Trail to S
+* Stone Talus to SW (35/40)
+* Stalnox to E
+* Korok 760: Durian Trees to NE
+* Korok 761: Rock pattern to S
 
 ![Faron4](images/Faron4.PNG)
 
@@ -96,7 +87,7 @@
 * Korok 769: Flower trail to SE
 * Korok 770: Seaweed to SE
 
-![Faron5](images/Faron5.PNG) -- UPDATE
+![Faron5](images/Faron5.PNG)
 
 * Korok 771: Rock by palm tree at Soka Point
 * Take picture of monument
@@ -107,7 +98,7 @@
   * Kah Yah Shrine (111/120)
 * Stone Talus to SW (36/40)
 * Korok 773: Lilies to N
-* Korok 776: Fairylights to NE
+* Korok 776: Fairylights to NW
 * Muwo Jeem Shrine to E (112/120)
 * Korok 774: Rock on ledge to NW
 * Korok 775: Rock pattern to NW

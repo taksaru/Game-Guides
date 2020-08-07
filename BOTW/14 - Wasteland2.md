@@ -1,6 +1,6 @@
 # Wasteland 2
 
-![Wasteland5](images/Wasteland6.PNG)
+![Wasteland6](images/Wasteland6.PNG)
 
 * Korok 407: Rock Pattern E of Vah Naboris
 * Korok 408: Magnesis Puzzle to SW
@@ -24,7 +24,7 @@
 * Korok 415: Magnesis Puzzle inside Skull to SE
 * Korok 416: Magnesis Puzzle to E
 
-![Wasteland6](images/Wasteland7.PNG)
+![Wasteland7](images/Wasteland7.PNG)
 
 * Korok 417: Rock behind cracked boulders to NE
 * Korok 418: Rock pattern to SE
@@ -45,7 +45,7 @@
 * Korok 427: Race to SW
 * Korok 428: Race on arch to NW
 
-![Wasteland7](images/Wasteland8.PNG)
+![Wasteland8](images/Wasteland8.PNG)
 
 * Molduking to SE
   * Royal Guard Equipment is possible
@@ -55,7 +55,7 @@
 * Korok 430: Rock Circle to W
 * Korok 431: Cacti to W
 
-![Wasteland8](images/Wasteland9.PNG)
+![Wasteland9](images/Wasteland9.PNG)
 
 * Korok 432: Balloon atop tree to NW
 * Molduga (1/4)
@@ -68,7 +68,7 @@
 * Korok 436: Rock to SE
 * Korok 437: Cacti to NW
 
-![Wasteland9](images/Wasteland10.PNG)
+![Wasteland10](images/Wasteland10.PNG)
 
 * Hawa Koth Shrine to W (68/120)
 * Take Picture of Gerudo Great Skeleton
@@ -77,14 +77,14 @@
 * Molduga to NE (3/4)
 * Korok 439: Cacti to W
 
-![Wasteland10](images/Wasteland11.PNG)
+![Wasteland11](images/Wasteland11.PNG)
 
 * Molduga to NE (4/4)
 * Tho Kayu Shrine (69/120)
   * Light area's 4 torches
 * Korok 440: Cacti to NW
 
-![Wasteland11](images/Wasteland12.PNG)
+![Wasteland12](images/Wasteland12.PNG)
 
 * Korok 441: Fairylights atop skeleton to NE
   * Can now Max out Inventory
@@ -94,10 +94,9 @@
 * Korok 443: Fairylights near pinwheel atop skeleton to SE
 * Korok 444: Race to SE
 * Korok 445: Cacti to SE
+* Gerudo Town to SE
 
 ![Wasteland13](images/Wasteland13.PNG)
-
---=UPDATE IMAGE
 
 * Shrine Quest: The Perfect Drink
   * Retrieve the Ice
@@ -113,7 +112,7 @@
 * Rent Seal from Northern Entrance for Takama Shiri Shrine
 * Warp to Kay Noh Shrine
 
-![Wasteland18](images/Wasteland18.PNG)
+![Wasteland14](images/Wasteland14.PNG)
 
 * Side Quest: Missing in Action to N on Koukot Plateau
   * Return to Kay Noh Shrine

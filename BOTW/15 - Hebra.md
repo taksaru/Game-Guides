@@ -125,10 +125,10 @@
 * Korok 505: Rock beneath leaves in hot spring to NW
 * Korok 506: Rock pattern to NW
 
-![Hebra10](images/Hebra10.PNG) -- UPDATE
+![Hebra10](images/Hebra10.PNG)
 
-* Head south to To Quomo entrance, hint: small water source
-* Open entrance
+* Head south and open Entrance to Shrine
+  * Hint: small water source
 * To Quomo Shrine (82/120)
   * Take Picture of Skeleton
 * Korok 507: Flower trail from back to front of skeleton

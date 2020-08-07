@@ -1,6 +1,6 @@
 ## Lanaryu 2
 
-![Lanaryu12](images/Lanaryu12.PNG)
+![Lanaryu11](images/Lanaryu11.PNG)
 
 * Complete Side Quest: Stone Monuments
 * Complete Side Quest: The Giant of Ralis Pond
@@ -18,7 +18,7 @@
 * Return to Shrine of Resurrection and Complete Main Quest: EX Ballad of the Champions
 * Warp back to Mah Eliya Shrine
 
-![Lanaryu13](images/Lanaryu13.PNG)
+![Lanaryu12](images/Lanaryu12.PNG)
 
 * Korok 589: Rock beneath cracked boulder to NE
 * Korok 590: Magnesis Boulder to SE
@@ -29,7 +29,7 @@
 * Korok 594: Rock beneath cracked boulder to SE
 * Korok 595: Rock beneath cracked boulders to E
 
-![Lanaryu14](images/Lanaryu14.PNG)
+![Lanaryu13](images/Lanaryu13.PNG)
 
 * Hinox to SE (22/40)
 * Korok 596: Balloon beneath stone arch to S
@@ -65,7 +65,7 @@
 * Korok 619: Roll boulder to SE
 * Korok 620: Roll boulder to E
 
-![Lanaryu15](images/Lanaryu15.PNG)
+![Lanaryu14](images/Lanaryu14.PNG)
 
 * Korok 621: Race to E past East Gate
 * Korok 622: Fairylights to SE
@@ -80,7 +80,7 @@
 * Naydra farm to NW at Lanaryu East Gate at morning
 * Return to Travel Medallion
 
-![Lanaryu16](images/Lanaryu16.PNG)
+![Lanaryu15](images/Lanaryu15.PNG)
 
 * Korok 628: Race to SE
 * Tahno O'ah Shrine to W (98/120)

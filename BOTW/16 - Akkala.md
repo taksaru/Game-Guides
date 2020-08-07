@@ -1,6 +1,6 @@
 # Akkala
 
-![Akkala1](images/Akkala1.PNG) -- UPDATE
+![Akkala1](images/Akkala1.PNG)
 
 * Korok 524: Rock under slab below Akkala Span
 * Korok 525: Rock pattern to NE
@@ -164,8 +164,6 @@
 * Warp back to Dah Hesho Shrine
 
 ![Akkala9](images/Akkala9.PNG)
-
--- UPDATE
 
 * East Sokkala Bridge
 * Korok 584: Rock circle to SW
