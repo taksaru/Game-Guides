@@ -76,7 +76,7 @@
 
 * Head E across Deepback Bay
 * Korok 072: Rock Pattern on Central Shore
-* Luminous Stone Talus: Bay Centre (7/40)
+* Stone Talus: Bay Centre (7/40)
 * Korok 073: Lilies N of Talus
 * Korok 074: Flower trail to SE up Mapla Point
 * Korok 075: Pinwheel Shooting to NW

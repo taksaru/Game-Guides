@@ -116,7 +116,7 @@ for i in range(1,121):
 
 print('Shrines: %s' % c)
 
-imgs = ['Akkala', 'Castle', 'DP', 'Eldin', 'Faron', 'Gerudo', 'Hateno', 'Hebra', 'Hylia', 'Hyrule', 'Lanaryu', 'Plateau', 'Tabantha', 'Wasteland', 'Woodland']
+imgs = ['Akkala', 'Castle', 'DP', 'Eldin', 'Faron', 'Gerudo', 'Hateno', 'Hebra', 'Hylia', 'Hyrule', 'Lanaryu', 'Plateau', 'Ridgeland', 'Tabantha', 'Wasteland', 'Woodland']
 
 for i in imgs:
   print('%s: %s'% (i, s.count('images/%s' % i)))

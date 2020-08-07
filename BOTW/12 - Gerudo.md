@@ -45,10 +45,8 @@
 * Side Quest: The Forgotten Sword
 * Warp to Daqo Chisay Shrine
 
-![Gerudo1](images/Gerudo2.PNG)
+![Gerudo2](images/Gerudo2.PNG)
 
-* Side Quest: Medicinal Molduga
-  * Molduga Guts
 * Main Quest: Divine Beast Vah Naboris
   * Recovered Memory 6 - Urbosa's Hand (14/18)
 * Korok 399: Flower trail to E of Gerudo Town and N of Lookout Tower

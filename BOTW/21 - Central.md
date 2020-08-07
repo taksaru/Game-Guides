@@ -69,7 +69,6 @@
 * Korok 823: Rock on tree to E
 
 ![Hyrule6](images/Hyrule6.PNG)
--- UPDATE
 
 * Korok 824: Pinwheel shooting to SE
 * Riverside Stable to N

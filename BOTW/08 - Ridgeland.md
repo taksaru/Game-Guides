@@ -67,7 +67,7 @@
 * Korok 222: Pinwheel shooting to NE
 * Korok 223: Acorn in tree to SE
 * Korok 224: Acorn in tree to E
-* Shrine Q5est: The Two Rings to N across bridge
+* Shrine Quest: The Two Rings to N across bridge
   * Sheem Dagoze Shrine (34/120)
 * Korok 225: Apple Trees to N
 * Korok 226: Flower patches to E

@@ -32,14 +32,14 @@
   * Side Quest: Curry for What Ails You
 * Korok 278: Rock atop tree to N
 * Rito Village
-* Shrine Quest: The Bird in the Mountains
-* Akh Va'quot Shrine (40/120)
-* Side Quest: The Apple of My Eye
-  * Baked Apple
-* Side Quest: The Spark of Romance
-  * Flint
-* Main Quest: Divine Beast Vah Medoh
-  * Recovered Memory 2 - Revali's Flap
+  * Shrine Quest: The Bird in the Mountains
+  * Akh Va'quot Shrine (40/120)
+  * Side Quest: The Apple of My Eye
+    * Baked Apple
+  * Side Quest: The Spark of Romance
+    * Flint
+  * Main Quest: Divine Beast Vah Medoh
+    * Recovered Memory 2 - Revali's Flap
 
 ![Tabantha3](images/Tabantha3.PNG)
 
@@ -91,5 +91,5 @@
 * Hinox on S Shore (14/40)
 * Complete: The Ancient Rito Song to E
   * 12.30PM
-  * Bareed Naag Shrine (43/120)
+  * Bareeda Naag Shrine (43/120)
 * Warp to Soh Kofi Shrine

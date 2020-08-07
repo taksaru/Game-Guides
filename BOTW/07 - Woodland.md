@@ -26,11 +26,11 @@
 * Side Quest: A Freezing Rod
   * Frost/Blizzard Rod
 * Side Quest: Riddles of Hyrule
-  * Apple
-  * Fortified Pumpkin
-  * Sunshroom
-  * Voltfin Trout
-  * Lynel Hoof
+  1. Apple
+  2. Fortified Pumpkin
+  3. Sunshroom
+  4. Voltfin Trout
+  5. Lynel Hoof
 * Side Quest: The Korok Trials
   * Shrine Quest: The Test of Wood
     * Maag Halan Shrine (25/120)
@@ -107,7 +107,7 @@
 * Korok 183: Pinwheel Shooting to NW
 * Korok 184: Acorn in Log to W
 * Entrance to Thyphlo Ruins to NE
-  * Fire Rods in the ruins
+  * Fire Rod Chests in the ruins
 * Shrine Quest: Shrouded Shrine to N in Forest
   * Ketow Wawai Shrine (31/120)
   * Hinox (10/40)

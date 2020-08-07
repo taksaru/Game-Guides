@@ -31,7 +31,7 @@
 * Korok 013: Under South side of bridge to NE
 * Korok 014: Magnesis Puzzle to NE West of Hopper Pond
 * Temple of Time
-* Main Quest: Destroy Ganon
-* Main Quest: Seek out Impa
+  * Main Quest: Destroy Ganon
+  * Main Quest: Seek out Impa
 * Korok 015: Temple of Time Spire
 * Warp to Oman Au Shrine

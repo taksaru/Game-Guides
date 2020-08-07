@@ -94,7 +94,6 @@
 * Korok 443: Fairylights near pinwheel atop skeleton to SE
 * Korok 444: Race to SE
 * Korok 445: Cacti to SE
-* Gerudo Town to SE
 
 ![Wasteland13](images/Wasteland13.PNG)
 
@@ -107,8 +106,6 @@
   * Side Quest: The Search for Barta
     * Warp to Hawa Koth Shrine
     * Hearty Durian
-  * Side Quest: Medical Molduga
-    * Molduga Guts
 * Rent Seal from Northern Entrance for Takama Shiri Shrine
 * Warp to Kay Noh Shrine
 
