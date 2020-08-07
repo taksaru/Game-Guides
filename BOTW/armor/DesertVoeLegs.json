@@ -1,6 +1,6 @@
 {
   "name": "Desert Voe Legs",
-  "level": 3,
+  "level": 4,
   "list": [
     {
       "material1": "White Chuchu Jelly",
@@ -22,7 +22,7 @@
     },
     {
       "material1": "Icy Lizalfos Tail",
-      "quantity1": 8,
+      "quantity1": 10,
       "material2": "Sapphire",
       "quantity2": 5
     }

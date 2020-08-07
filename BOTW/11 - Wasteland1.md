@@ -33,6 +33,7 @@
 * Korok 354: Balloon within rock bridge to SW
 
 ![Wasteland2](images/Wasteland2.PNG)
+ -- UPDATE
 
 * Korok 355: Race to S
 * Stone Talus to SW (18/40)
@@ -43,6 +44,7 @@
 * Korok 356: Rock atop pillar S of stable
 * Kay Noh Shrine to S (55/120)
 * Korok 357: Rock atop cliff to SW
+* Gerudo Desert Gatewat to E
 * Recovered Memory 7 - Blades of the Yiga at Kara Kara Bazaar to SW (8/12)
 * Shrine Quest: The Eye of the Sandstorm
 * Side Quest: An Ice Guy

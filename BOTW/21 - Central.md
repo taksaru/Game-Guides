@@ -53,6 +53,7 @@
 * Korok 812: Acorn in log to NE
 * Korok 813: Rock to NE
 * Korok 814: Fairylights to E
+- REARRANGE
 * Side Quest: EX Treasure Phantasma
   * Phantom Helmet inside Coliseum
 * Korok 815: Rock on top floor of Coliseum
@@ -69,6 +70,7 @@
 * Korok 823: Rock on tree to E
 
 ![Hyrule6](images/Hyrule6.PNG)
+-- UPDATE
 
 * Korok 824: Pinwheel shooting to SE
 * Riverside Stable to N
@@ -79,8 +81,7 @@
       * Cane Sugar
   * Side Quest: The Royal Guard's Gear
 * Whago Katta Shrine to N (116/120)
-* Horwell Bridge to NE
-* Korok 825: Acorn in tree atop hill to W
+* Korok 825: Acorn in tree atop hill to NW
 * Korok 826: Fairylights to NW
 * Korok 827: Apple offering to E
 * Korok 828: Flower order to NW

@@ -1,9 +1,11 @@
 # Lanaryu 1
 
 ![Lanaryu1](images/Lanaryu1.PNG)
+-- UPDATE
 
 * Korok 111: Rock on small island on Nabi Lake to N
-* Korok 112: Rock beneath Eagus Bridge to N
+* Horwell Bridge to NW
+* Korok 112: Rock beneath Eagus Bridge to NE
 
 ![Lanaryu2](images/Lanaryu2.PNG)
 
@@ -105,11 +107,12 @@
   * History of the Zora, Addendum 2
 * Warp back to Soh Kofi Shrine
 
-![Lanaryu9](images/Lanaryu9.PNG)
+![Lanaryu9](images/Lanaryu9.PNG) -- UPDATE
 
 * Korok 138: Race to W
 * Korok 139: Lilies to W on Zelo Pond
 * Sheh Rata Shrine to SW (21/120)
+* Moor Garrison Ruins to S
 * Korok 140: Rock pattern in ruins to SW
 
 ![Lanaryu10](images/Lanaryu10.PNG)

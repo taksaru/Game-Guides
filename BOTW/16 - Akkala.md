@@ -1,10 +1,11 @@
 # Akkala
 
-![Akkala1](images/Akkala1.PNG)
+![Akkala1](images/Akkala1.PNG) -- UPDATE
 
 * Korok 524: Rock under slab below Akkala Span
 * Korok 525: Rock pattern to NE
-* Hinox to E (19/40)
+* Akkala Bridge Ruins to NE
+* Hinox to SE (19/40)
 * Korok 526: Rock beneath Metal Door on cliff to E
 * Korok 527: Rock beneath leaves on S edge of ruins to NW
 * Korok 528: Rock by cannons on S edge of ruins
@@ -164,6 +165,9 @@
 
 ![Akkala9](images/Akkala9.PNG)
 
+-- UPDATE
+
+* East Sokkala Bridge
 * Korok 584: Rock circle to SW
 * Korok 585: Rock beneath bridge to SW
 * Warp to Ne'ez Yohma Shrine

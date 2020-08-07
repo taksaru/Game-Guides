@@ -4,6 +4,7 @@
 
 * Korok 875: Rock atop bridge gate
 * Korok 876: Shoot coat of arms dead ahead
+  * Need to be close
 * Use lower entrance to W
 * Take Mine cart
 * Korok 877: Egg offering
@@ -41,10 +42,10 @@
 * Korok 881: Acorn behind cracked wall after stairwell
 * Take left Turn
 * Side Quest: EX Royal Guard Rumors
-  * Royal Guard Uniform
+  * Royal Guard Uniform behind bombable wall on left
 * Follow Passage into Dining Hall
   * Royal Guard Spear in fireplace
-* Korok 882: Rock beneath cracked boulder down and towards main entrance
+* Korok 882: Rock beneath cracked boulder past waterfall, down and towards main entrance
 * Return through Dining hall Entrance and head left to Observation Room
 * Korok 883: Pinwheel shooting on balcony
 * Return to main path and take entrance on right
@@ -90,6 +91,7 @@
 * Korok 892: Fairylights atop Second Gatehouse Spire
 * Korok 893: Rock on Wall above to NE
 * Head N for entrance to East Passage
+  * Lowest Level
 * Take minecart to ice blocks
 * Korok 894: Fairylights inside largest ice
 * Stone Talus at end of tracks (40/40)
@@ -99,8 +101,8 @@
   * Royal Guard Shield
 * Take exit above study out of castle
 * Naydra's Scale under slab above exit
-* Korok 895: Rock beneath cracked boulder atop cliff outside passage
-* Dinraal's Scale behind cracked boulder to NE
+* Korok 895: Rock beneath cracked boulder atop cliff outside passage atop rib-like structure
+* Dinraal's Scale behind low level cracked boulder back past exit to NE
 * Korok 896: Lilies to SE up Waterfall
 * Follow path back around Castle to main path
 * Korok 897: Rock beneath cracked boulder just S of Main Castle Entrance

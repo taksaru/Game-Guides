@@ -50,6 +50,8 @@ Traveller's Medallion can be useful between bridge levels
 * Pumaag Nitae Shrine (102/120)
 
 ![Hylia4](images/Hylia4.PNG)
+-- UPDATE
+
 
 * Highland Stable to S
   * Mini Game
@@ -62,6 +64,7 @@ Traveller's Medallion can be useful between bridge levels
   * Ancient Saddle
 * Horse God Malanya
 * Korok 664: Rock pattern to W
+* Horse God Bridge
 * Korok 665: Rock pattern to SW
 * Korok 666: Roll boulder to N
 * Korok 667: Race to N
@@ -146,7 +149,7 @@ Traveller's Medallion can be useful between bridge levels
 * Korok 716: Magnesis Puzzle to S
 * Korok 717: Rock pattern to NE
 * Korok 718: Rock atop ledge to NE
-* Blue Hinox to W (28/40)
+* Hinox to W (28/40)
 * Korok 719: Race atop pillar to W
 * Korok 720: Balloon atop palm tree to NE
 * Side Quest: EX Treasure: Usurper King
